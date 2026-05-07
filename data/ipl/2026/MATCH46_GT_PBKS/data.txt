@@ -1,0 +1,145 @@
+============================================================
+  MATCH 152009 - INNINGS 1
+============================================================
+  Score: 163/9 in 20 overs  |  Run Rate: 8.15
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  2  W  W  •  4  •                +6 runs  (Total: 6)  [DROPPED, WICKET, WICKET,UDRS, FOUR]
+  Over  2:  4  4  2  •  L1  •               +11 runs  (Total: 17)  [FOUR, FOUR]
+  Over  3:  •  2  1  1  1  1                +6 runs  (Total: 23)
+  Over  4:  •  •  Wd2  •  1  •  1           +4 runs  (Total: 27)
+  Over  5:  •  4  •  •  •  4                +8 runs  (Total: 35)  [FOUR, over-break,FOUR]
+  Over  6:  •  W  •  •  •  •                +0 runs  (Total: 35)  [WICKET, over-break,MAIDEN_OVER]
+  Over  7:  1  •  W  1  1  1                +4 runs  (Total: 39)  [WICKET]
+  Over  8:  •  4  1  1  •  •                +6 runs  (Total: 45)  [FOUR]
+  Over  9:  •  1  1  W  •  •                +2 runs  (Total: 47)  [WICKET, UDRS]
+  Over 10:  1  •  1  1  •  1                +4 runs  (Total: 51)  [TEAM_FIFTY]
+  Over 11:  •  1  1  4  4  1                +11 runs  (Total: 62)  [FOUR, FOUR]
+  Over 12:  1  1  1  1  •  •                +4 runs  (Total: 66)
+  Over 13:  •  6  2  1  4  1  Wd            +15 runs  (Total: 81)  [SIX, FOUR, over-break,HIGHSCORING_OVER]
+  Over 14:  1  6  6  4  4  6                +27 runs  (Total: 108)  [SIX, SIX, FOUR,PARTNERSHIP, TEAM_HUNDRED,FOUR, over-break,SIX,HIGHSCORING_OVER]
+  Over 15:  1  1  6  •  1  1                +10 runs  (Total: 118)  [SIX, over-break,FIFTY]
+  Over 16:  6  •  •  1  1  W                +8 runs  (Total: 126)  [SIX, over-break,WICKET]
+  Over 17:  •  •  1  1  4  1  Wd            +8 runs  (Total: 134)  [FOUR, UDRS]
+  Over 18:  1  1  4  W  Wd  W  •            +7 runs  (Total: 141)  [FOUR, WICKET, WICKET]
+  Over 19:  2  Wd  1  •  1  2  1            +8 runs  (Total: 149)  [DROPPED]
+  Over 20:  •  2  6  4  W  Wd  1            +14 runs  (Total: 163)  [TEAM_HUNDRED, SIX, FOUR, WICKET, over-break,HIGHSCORING_OVER]
+
+BATTERS
+------------------------------------------------------------
+  Priyansh Arya                2 runs    2 balls  4s:0  6s:0  SR:100
+  Vijaykumar Vyshak            1 runs    3 balls  4s:0  6s:0  SR:33.33
+  Arshdeep Singh               1 runs    1 balls  4s:0  6s:0  SR:100
+  Prabhsimran Singh           15 runs   14 balls  4s:2  6s:0  SR:107.14
+  Cooper Connolly              0 runs    1 balls  4s:0  6s:0  SR:0
+  Shreyas Iyer                19 runs   21 balls  4s:3  6s:0  SR:90.48
+  Nehal Wadhera                0 runs    6 balls  4s:0  6s:0  SR:0
+  Suryansh Shedge             57 runs   29 balls  4s:3  6s:5  SR:196.55
+  Marcus Stoinis              40 runs   31 balls  4s:5  6s:1  SR:129.03
+  Marco Jansen                20 runs   11 balls  4s:1  6s:1  SR:181.82
+  Xavier Bartlett              0 runs    1 balls  4s:0  6s:0  SR:0
+
+BOWLERS
+------------------------------------------------------------
+  Mohammed Siraj             4 ov   28 runs  2 wkts  Econ:7
+  Kagiso Rabada              4 ov   22 runs  2 wkts  Econ:5.5
+  Jason Holder               4 ov   24 runs  4 wkts  Econ:6
+  Arshad Khan                3 ov   29 runs  0 wkts  Econ:9.7
+  Rashid Khan                4 ov   32 runs  1 wkts  Econ:8
+  Manav Suthar               1 ov   27 runs  0 wkts  Econ:27
+
+============================================================
+  MATCH 152009 - INNINGS 2
+============================================================
+  Score: 167/6 in 19.5 overs  |  Run Rate: 8.42
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  2  4  2  2  1  1                +12 runs  (Total: 12)  [FOUR]
+  Over  2:  •  4  W  2  •  •                +6 runs  (Total: 18)  [FOUR, WICKET]
+  Over  3:  •  •  1  •  6  •                +7 runs  (Total: 25)  [UDRS, SIX]
+  Over  4:  •  1  1  4  •  2                +8 runs  (Total: 33)  [FOUR]
+  Over  5:  •  6  •  4  Wd5  1  •           +16 runs  (Total: 49)  [SIX, FOUR, over-break,HIGHSCORING_OVER]
+  Over  6:  •  1  •  Wd  •  6  1            +9 runs  (Total: 58)  [TEAM_FIFTY, SIX]
+  Over  7:  1  1  1  1  1  L1               +6 runs  (Total: 64)  [over-break,UDRS]
+  Over  8:  •  1  1  1  1  1                +5 runs  (Total: 69)  [PARTNERSHIP]
+  Over  9:  W  1  1  •  1  1                +4 runs  (Total: 73)  [WICKET]
+  Over 10:  •  1  2  •  1  1                +5 runs  (Total: 78)
+  Over 11:  1  2  6  1  •  4                +14 runs  (Total: 92)  [SIX, over-break,FOUR,HIGHSCORING_OVER]
+  Over 12:  1  1  W  •  4  1                +7 runs  (Total: 99)  [WICKET, FOUR]
+  Over 13:  1  1  •  •  •  2                +4 runs  (Total: 103)  [TEAM_HUNDRED]
+  Over 14:  2  4  1  1  4  1                +13 runs  (Total: 116)  [FOUR, FIFTY,FOUR]
+  Over 15:  1  4  1  2  W  •                +8 runs  (Total: 124)  [FOUR, WICKET]
+  Over 16:  1  1  1  •  L1  •               +4 runs  (Total: 128)
+  Over 17:  1  4  4  2  1  W                +12 runs  (Total: 140)  [FOUR, FOUR, over-break,WICKET]
+  Over 18:  4  1  2  •  •  •                +7 runs  (Total: 147)  [FOUR]
+  Over 19:  1  2  1  1  W  1                +6 runs  (Total: 153)  [TEAM_HUNDRED, WICKET]
+  Over 20:  4  Wd  2  •  1  6               +14 runs  (Total: 167)  [FOUR, SIX]
+
+BATTERS
+------------------------------------------------------------
+  Sai Sudharsan               57 runs   41 balls  4s:5  6s:1  SR:139.02
+  Shubman Gill                 5 runs    4 balls  4s:1  6s:0  SR:125
+  Jos Buttler                 26 runs   22 balls  4s:1  6s:2  SR:118.18
+  Nishant Sindhu              15 runs   11 balls  4s:0  6s:1  SR:136.36
+  Washington Sundar           40 runs   23 balls  4s:5  6s:1  SR:173.91
+  Rahul Tewatia                2 runs    6 balls  4s:0  6s:0  SR:33.33
+  Jason Holder                 5 runs    7 balls  4s:0  6s:0  SR:71.43
+  Arshad Khan                  8 runs    5 balls  4s:1  6s:0  SR:160
+
+BOWLERS
+------------------------------------------------------------
+  Xavier Bartlett            4 ov   38 runs  0 wkts  Econ:9.5
+  Arshdeep Singh             4 ov   24 runs  2 wkts  Econ:6
+  Marco Jansen               4 ov   33 runs  1 wkts  Econ:8.2
+  Vijaykumar Vyshak          4 ov   31 runs  2 wkts  Econ:7.8
+  Marcus Stoinis             2.5 ov   26 runs  1 wkts  Econ:9.2
+  Yuzvendra Chahal           1 ov   13 runs  0 wkts  Econ:13
+
+
+WIN PROBABILITY — Over by Over
+------------------------------------------------------------
+  Over      Details
+  ----------------------------------------
+  20        GT: 73% • PBKS: 27%
+  19        GT: 74% • PBKS: 26%
+  18        GT: 74% • PBKS: 26%
+  17        GT: 69% • PBKS: 31%
+  16        GT: 70% • PBKS: 30%
+  15        GT: 66% • PBKS: 34%
+  14        GT: 68% • PBKS: 32%
+  13        GT: 80% • PBKS: 20%
+  12        GT: 84% • PBKS: 16%
+  11        GT: 84% • PBKS: 16%
+  10        GT: 86% • PBKS: 14%
+  9         GT: 87% • PBKS: 13%
+  8         GT: 79% • PBKS: 21%
+  7         GT: 80% • PBKS: 20%
+  6         GT: 72% • PBKS: 28%
+  5         GT: 60% • PBKS: 40%
+  4         GT: 61% • PBKS: 39%
+  3         GT: 60% • PBKS: 40%
+  2         GT: 61% • PBKS: 39%
+  1         GT: 66% • PBKS: 34%
+  19        GT: 64% • PBKS: 27% • Draw 9%
+  18        GT: 80% • PBKS: 20%
+  17        GT: 81% • PBKS: 19%
+  16        GT: 77% • PBKS: 23%
+  15        GT: 80% • PBKS: 20%
+  14        GT: 82% • PBKS: 18%
+  13        GT: 74% • PBKS: 26%
+  12        GT: 77% • PBKS: 23%
+  11        GT: 81% • PBKS: 19%
+  10        GT: 74% • PBKS: 26%
+  9         GT: 75% • PBKS: 25%
+  8         GT: 81% • PBKS: 19%
+  7         GT: 82% • PBKS: 18%
+  6         GT: 82% • PBKS: 18%
+  5         GT: 80% • PBKS: 20%
+  4         GT: 73% • PBKS: 27%
+  3         GT: 71% • PBKS: 29%
+  2         GT: 70% • PBKS: 30%
+  1         GT: 76% • PBKS: 24%

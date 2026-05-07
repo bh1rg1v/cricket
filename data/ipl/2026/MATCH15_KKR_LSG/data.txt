@@ -1,0 +1,140 @@
+============================================================
+  MATCH 149757 - INNINGS 1
+============================================================
+  Score: 181/4 in 20 overs  |  Run Rate: 9.05
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  1  •  •  •  1  4                +6 runs  (Total: 6)  [over-break,FOUR]
+  Over  2:  4  Wd  4  •  W  1  •            +10 runs  (Total: 16)  [FOUR, FOUR, WICKET]
+  Over  3:  •  •  •  4  •  1                +5 runs  (Total: 21)  [FOUR]
+  Over  4:  •  •  Wd2  6  1  •  •           +9 runs  (Total: 30)  [SIX]
+  Over  5:  •  •  •  4  4  2                +10 runs  (Total: 40)  [FOUR, FOUR]
+  Over  6:  •  L1  1  4  6  4               +16 runs  (Total: 56)  [FOUR, TEAM_FIFTY,SIX, over-break,FOUR,HIGHSCORING_OVER]
+  Over  7:  1  2  4  1  1  •                +9 runs  (Total: 65)  [FOUR, PARTNERSHIP]
+  Over  8:  1  L1  4  1  1  1               +9 runs  (Total: 74)  [FOUR]
+  Over  9:  6  1  2  6  •  •                +15 runs  (Total: 89)  [SIX, SIX, over-break,HIGHSCORING_OVER]
+  Over 10:  1  •  Wd  1  1  4  1            +9 runs  (Total: 98)  [FOUR]
+  Over 11:  1  W  •  1  1  1                +4 runs  (Total: 102)  [WICKET, TEAM_HUNDRED]
+  Over 12:  1  1  1  W  1  •                +4 runs  (Total: 106)  [WICKET]
+  Over 13:  1  1  1  1  •  1                +5 runs  (Total: 111)
+  Over 14:  •  W  •  •  •  1                +1 runs  (Total: 112)  [WICKET]
+  Over 15:  1  •  •  •  1  1                +3 runs  (Total: 115)
+  Over 16:  6  •  4  •  1  1                +12 runs  (Total: 127)  [SIX, FOUR]
+  Over 17:  1  1  4  1  4  6                +17 runs  (Total: 144)  [FOUR, FOUR, over-break,SIX,HIGHSCORING_OVER]
+  Over 18:  1  2  4  1  Wd  •  4            +13 runs  (Total: 157)  [TEAM_HUNDRED,FOUR, UDRS, over-break,FOUR]
+  Over 19:  L1  6  1  Wd  1  1  1           +12 runs  (Total: 169)  [SIX,PARTNERSHIP, UDRS]
+  Over 20:  4  1  Wd  4  1  •  B1           +12 runs  (Total: 181)  [FOUR, UDRS, FOUR]
+
+BATTERS
+------------------------------------------------------------
+  Ajinkya Rahane              41 runs   24 balls  4s:4  6s:2  SR:170.83
+  Finn Allen                   9 runs    8 balls  4s:2  6s:0  SR:112.5
+  Angkrish Raghuvanshi        45 runs   33 balls  4s:5  6s:2  SR:136.36
+  Cameron Green               32 runs   24 balls  4s:3  6s:1  SR:133.33
+  Rinku Singh                  4 runs    7 balls  4s:0  6s:0  SR:57.14
+  Rovman Powell               39 runs   24 balls  4s:4  6s:2  SR:162.5
+
+BOWLERS
+------------------------------------------------------------
+  Mohammed Shami             4 ov   27 runs  0 wkts  Econ:6.8
+  Prince Yadav               4 ov   47 runs  1 wkts  Econ:11.8
+  Manimaran Siddharth        4 ov   34 runs  1 wkts  Econ:8.5
+  Digvesh Singh Rathi        4 ov   25 runs  1 wkts  Econ:6.2
+  Avesh Khan                 4 ov   44 runs  1 wkts  Econ:11
+
+============================================================
+  MATCH 149757 - INNINGS 2
+============================================================
+  Score: 182/7 in 20 overs  |  Run Rate: 9.1
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  4  •  1  •  •  1                +6 runs  (Total: 6)  [FOUR]
+  Over  2:  1  •  Wd  1  1  L1  1  Wd       +7 runs  (Total: 13)
+  Over  3:  4  6  4  L1  1  2               +18 runs  (Total: 31)  [FOUR, SIX, FOUR, over-break,HIGHSCORING_OVER]
+  Over  4:  1  1  1  •  1  6                +10 runs  (Total: 41)  [over-break,SIX]
+  Over  5:  W  1  W  •  6  1                +8 runs  (Total: 49)  [WICKET, WICKET, SIX]
+  Over  6:  •  1  1  4  •  1                +7 runs  (Total: 56)  [TEAM_FIFTY, FOUR]
+  Over  7:  4  1  1  1  4  1                +12 runs  (Total: 68)  [FOUR, FOUR]
+  Over  8:  1  •  1  1  1  •                +4 runs  (Total: 72)
+  Over  9:  1  W  1  Wd  1  6  1  N         +12 runs  (Total: 84)  [WICKET, SIX]
+  Over 10:  •  •  •  1  •  •                +1 runs  (Total: 85)
+  Over 11:  •  •  2  Wd  •  •  2            +5 runs  (Total: 90)
+  Over 12:  •  4  1  W  •  1                +6 runs  (Total: 96)  [FOUR, WICKET]
+  Over 13:  1  •  4  1  Wd  W  Wd  •        +8 runs  (Total: 104)  [TEAM_HUNDRED,FOUR, WICKET]
+  Over 14:  4  4  •  2  4  1                +15 runs  (Total: 119)  [FOUR, FOUR, FOUR, over-break,HIGHSCORING_OVER]
+  Over 15:  •  •  6  W  1  1                +8 runs  (Total: 127)  [FIFTY,SIX, WICKET]
+  Over 16:  •  •  •  1  •  W                +1 runs  (Total: 128)  [over-break,WICKET]
+  Over 17:  •  •  4  6  1  •                +11 runs  (Total: 139)  [FOUR, SIX]
+  Over 18:  6  •  •  6  1  •                +13 runs  (Total: 152)  [SIX, TEAM_HUNDRED,SIX]
+  Over 19:  •  •  6  •  4  6                +16 runs  (Total: 168)  [SIX, FOUR, over-break,SIX,HIGHSCORING_OVER]
+  Over 20:  1  6  •  •  6  B1               +14 runs  (Total: 182)  [SIX, FIFTY,PARTNERSHIP,SIX, over-break,HIGHSCORING_OVER]
+
+BATTERS
+------------------------------------------------------------
+  Mitchell Marsh              15 runs   11 balls  4s:1  6s:1  SR:136.36
+  Aiden Markram               22 runs   15 balls  4s:2  6s:1  SR:146.67
+  Rishabh Pant                10 runs    9 balls  4s:1  6s:0  SR:111.11
+  Ayush Badoni                54 runs   34 balls  4s:7  6s:2  SR:158.82
+  Nicholas Pooran             13 runs   15 balls  4s:0  6s:1  SR:86.67
+  Abdul Samad                  2 runs    4 balls  4s:0  6s:0  SR:50
+  Mukul Choudhary             54 runs   27 balls  4s:2  6s:7  SR:200
+  Mohammed Shami               1 runs    3 balls  4s:0  6s:0  SR:33.33
+  Avesh Khan                   1 runs    3 balls  4s:0  6s:0  SR:33.33
+
+BOWLERS
+------------------------------------------------------------
+  Vaibhav Arora              4 ov   38 runs  2 wkts  Econ:9.5
+  Anukul Roy                 4 ov   32 runs  2 wkts  Econ:8
+  Navdeep Saini              3 ov   37 runs  0 wkts  Econ:12.3
+  Sunil Narine               4 ov   13 runs  1 wkts  Econ:3.2
+  Kartik Tyagi               3 ov   31 runs  1 wkts  Econ:10.3
+  Cameron Green              2 ov   28 runs  1 wkts  Econ:14
+
+
+WIN PROBABILITY — Over by Over
+------------------------------------------------------------
+  Over      Details
+  ----------------------------------------
+  20        KKR: 44% • LSG: 56%
+  19        KKR: 46% • LSG: 54%
+  18        KKR: 47% • LSG: 53%
+  17        KKR: 46% • LSG: 54%
+  16        KKR: 41% • LSG: 59%
+  15        KKR: 39% • LSG: 61%
+  14        KKR: 43% • LSG: 57%
+  13        KKR: 53% • LSG: 47%
+  12        KKR: 55% • LSG: 45%
+  11        KKR: 63% • LSG: 37%
+  10        KKR: 70% • LSG: 30%
+  9         KKR: 69% • LSG: 31%
+  8         KKR: 64% • LSG: 36%
+  7         KKR: 63% • LSG: 37%
+  6         KKR: 62% • LSG: 38%
+  5         KKR: 55% • LSG: 45%
+  4         KKR: 52% • LSG: 48%
+  3         KKR: 50% • LSG: 50%
+  2         KKR: 50% • LSG: 50%
+  1         KKR: 56% • LSG: 44%
+  20        KKR: 0% • LSG: 100%
+  19        KKR: 72% • LSG: 23% • Draw 5%
+  18        KKR: 93% • LSG: 7%
+  17        KKR: 97% • LSG: 3%
+  16        KKR: 98% • LSG: 2%
+  15        KKR: 85% • LSG: 15%
+  14        KKR: 73% • LSG: 27%
+  13        KKR: 85% • LSG: 15%
+  12        KKR: 76% • LSG: 24%
+  10        KKR: 60% • LSG: 40%
+  9         KKR: 53% • LSG: 47%
+  8         KKR: 50% • LSG: 50%
+  7         KKR: 48% • LSG: 52%
+  6         KKR: 55% • LSG: 45%
+  5         KKR: 56% • LSG: 44%
+  4         KKR: 40% • LSG: 60%
+  3         KKR: 43% • LSG: 57%
+  2         KKR: 51% • LSG: 49%
+  1         KKR: 48% • LSG: 52%

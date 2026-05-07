@@ -1,0 +1,134 @@
+============================================================
+  MATCH 151965 - INNINGS 1
+============================================================
+  Score: 155/10 in 19.2 overs  |  Run Rate: 8.02
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  1  •  1  •  4                +6 runs  (Total: 6)  [over-break,FOUR]
+  Over  2:  4  4  4  4  4  1                +21 runs  (Total: 27)  [FOUR, FOUR, FOUR, FOUR, FOUR, over-break,HIGHSCORING_OVER]
+  Over  3:  •  6  L1  W  •  •               +7 runs  (Total: 34)  [SIX, WICKET]
+  Over  4:  •  Wd  W  •  4  •  •            +5 runs  (Total: 39)  [WICKET, FOUR]
+  Over  5:  •  6  4  •  •  4                +14 runs  (Total: 53)  [SIX, FOUR, over-break,TEAM_FIFTY,FOUR,HIGHSCORING_OVER]
+  Over  6:  •  4  •  •  1  1                +6 runs  (Total: 59)  [FOUR]
+  Over  7:  4  4  1  1  1  1                +12 runs  (Total: 71)  [FOUR, FOUR]
+  Over  8:  6  2  •  W  •  1                +9 runs  (Total: 80)  [SIX, WICKET]
+  Over  9:  W  1  •  1  6  1                +9 runs  (Total: 89)  [WICKET, SIX]
+  Over 10:  •  1  1  W  •  •                +2 runs  (Total: 91)  [WICKET]
+  Over 11:  1  4  W  •  •  1                +6 runs  (Total: 97)  [FOUR, WICKET]
+  Over 12:  1  •  1  •  1  •                +3 runs  (Total: 100)  [TEAM_HUNDRED]
+  Over 13:  L1  4  6  1  •  1               +13 runs  (Total: 113)  [FOUR, SIX]
+  Over 14:  •  6  •  6  1  W                +13 runs  (Total: 126)  [SIX, SIX, over-break,WICKET]
+  Over 15:  W  3  1  •  1  1                +6 runs  (Total: 132)  [WICKET]
+  Over 16:  •  •  1  •  •  •                +1 runs  (Total: 133)
+  Over 17:  •  L1  1  •  1  •               +3 runs  (Total: 136)
+  Over 18:  •  Wd  1  •  4  •  1            +7 runs  (Total: 143)  [FOUR]
+  Over 19:  •  4  1  2  4  1                +12 runs  (Total: 155)  [FOUR, TEAM_HUNDRED, FOUR]
+  Over 20:  W  W                            +0 runs  (Total: 155)  [WICKET, WICKET]
+
+BATTERS
+------------------------------------------------------------
+  Jacob Bethell                5 runs    5 balls  4s:1  6s:0  SR:100
+  Bhuvneshwar Kumar           15 runs   15 balls  4s:2  6s:0  SR:100
+  Josh Hazlewood               0 runs    1 balls  4s:0  6s:0  SR:0
+  Virat Kohli                 28 runs   13 balls  4s:5  6s:1  SR:215.38
+  Devdutt Padikkal            40 runs   24 balls  4s:5  6s:2  SR:166.67
+  Rajat Patidar               19 runs   15 balls  4s:2  6s:1  SR:126.67
+  Jitesh Sharma                1 runs    3 balls  4s:0  6s:0  SR:33.33
+  Tim David                    9 runs    6 balls  4s:0  6s:1  SR:150
+  Krunal Pandya                4 runs    4 balls  4s:1  6s:0  SR:100
+  Romario Shepherd            17 runs   15 balls  4s:0  6s:2  SR:113.33
+  Venkatesh Iyer              12 runs   15 balls  4s:1  6s:0  SR:80
+
+BOWLERS
+------------------------------------------------------------
+  Mohammed Siraj             4 ov   38 runs  1 wkts  Econ:9.5
+  Kagiso Rabada              4 ov   44 runs  1 wkts  Econ:11
+  Jason Holder               4 ov   29 runs  2 wkts  Econ:7.2
+  Arshad Khan                3.2 ov   22 runs  3 wkts  Econ:6.6
+  Rashid Khan                4 ov   19 runs  2 wkts  Econ:4.8
+
+============================================================
+  MATCH 151965 - INNINGS 2
+============================================================
+  Score: 158/6 in 15.5 overs  |  Run Rate: 9.98
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  1  4  6  •  1  •                +12 runs  (Total: 12)  [FOUR, SIX]
+  Over  2:  4  4  •  6  4  6                +24 runs  (Total: 36)  [FOUR, FOUR, SIX, FOUR, over-break,SIX,HIGHSCORING_OVER]
+  Over  3:  4  1  •  •  1  W                +6 runs  (Total: 42)  [FOUR, UDRS, over-break,WICKET]
+  Over  4:  •  5  1  1  •  6                +13 runs  (Total: 55)  [DROPPED, over-break,TEAM_FIFTY,SIX]
+  Over  5:  1  •  •  •  1  W                +2 runs  (Total: 57)  [over-break,WICKET]
+  Over  6:  1  1  •  •  4  6                +12 runs  (Total: 69)  [FOUR, over-break,SIX]
+  Over  7:  1  6  Wd  6  1  1  1            +17 runs  (Total: 86)  [SIX, SIX, over-break,HIGHSCORING_OVER]
+  Over  8:  4  2  W  1  •  1                +8 runs  (Total: 94)  [FOUR, WICKET]
+  Over  9:  •  1  1  •  •  6                +8 runs  (Total: 102)  [over-break,TEAM_HUNDRED,SIX]
+  Over 10:  •  •  1  1  4  1                +7 runs  (Total: 109)  [FOUR]
+  Over 11:  W  1  Wd  W  6  1  4            +13 runs  (Total: 122)  [WICKET, WICKET,UDRS, SIX, over-break,FOUR]
+  Over 12:  1  •  •  4  4  1                +10 runs  (Total: 132)  [FOUR, FOUR]
+  Over 13:  1  •  1  1  •  2                +5 runs  (Total: 137)
+  Over 14:  1  •  1  1  Wd  W  •            +10 runs  (Total: 147)  [WICKET,SIX]
+  Over 15:  •  Wd  1  1  1  •  •            +4 runs  (Total: 151)  [UDRS, TEAM_HUNDRED]
+  Over 16:  4  2  1  2  4                   +13 runs  (Total: 164)  [FOUR, FOUR]
+
+BATTERS
+------------------------------------------------------------
+  Sai Sudharsan                6 runs    5 balls  4s:1  6s:0  SR:120
+  Shubman Gill                43 runs   18 balls  4s:4  6s:3  SR:238.89
+  Jos Buttler                 39 runs   19 balls  4s:2  6s:4  SR:205.26
+  Washington Sundar           12 runs   12 balls  4s:0  6s:1  SR:100
+  Shahrukh Khan                8 runs    8 balls  4s:1  6s:0  SR:100
+  Rahul Tewatia               27 runs   17 balls  4s:4  6s:0  SR:158.82
+  Jason Holder                12 runs   10 balls  4s:0  6s:1  SR:120
+  Rashid Khan                  7 runs    6 balls  4s:1  6s:0  SR:116.67
+
+BOWLERS
+------------------------------------------------------------
+  Bhuvneshwar Kumar          4 ov   28 runs  3 wkts  Econ:7
+  Josh Hazlewood             4 ov   56 runs  0 wkts  Econ:14
+  Suyash Sharma              3.5 ov   44 runs  1 wkts  Econ:11.5
+  Romario Shepherd           4 ov   30 runs  2 wkts  Econ:7.5
+
+
+WIN PROBABILITY — Over by Over
+------------------------------------------------------------
+  Over      Details
+  ----------------------------------------
+  20        GT: 78% • RCB: 22%
+  19        GT: 72% • RCB: 28%
+  18        GT: 75% • RCB: 25%
+  17        GT: 76% • RCB: 24%
+  16        GT: 77% • RCB: 23%
+  15        GT: 77% • RCB: 23%
+  14        GT: 72% • RCB: 28%
+  13        GT: 70% • RCB: 30%
+  12        GT: 75% • RCB: 25%
+  11        GT: 75% • RCB: 25%
+  10        GT: 68% • RCB: 32%
+  9         GT: 56% • RCB: 44%
+  8         GT: 50% • RCB: 50%
+  7         GT: 45% • RCB: 55%
+  6         GT: 49% • RCB: 51%
+  5         GT: 49% • RCB: 51%
+  4         GT: 55% • RCB: 45%
+  3         GT: 45% • RCB: 55%
+  2         GT: 39% • RCB: 61%
+  1         GT: 50% • RCB: 50%
+  15        GT: 97% • RCB: 3%
+  14        GT: 97% • RCB: 3%
+  13        GT: 97% • RCB: 3%
+  12        GT: 96% • RCB: 4%
+  11        GT: 94% • RCB: 6%
+  10        GT: 94% • RCB: 6%
+  9         GT: 93% • RCB: 7%
+  8         GT: 91% • RCB: 9%
+  7         GT: 92% • RCB: 8%
+  6         GT: 88% • RCB: 12%
+  5         GT: 84% • RCB: 16%
+  4         GT: 88% • RCB: 12%
+  3         GT: 85% • RCB: 15%
+  2         GT: 87% • RCB: 13%
+  1         GT: 81% • RCB: 19%

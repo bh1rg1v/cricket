@@ -1,0 +1,35 @@
+============================================================
+  MATCH 149732 - INNINGS 1
+============================================================
+  Score: 25/2 in 3.4 overs  |  Run Rate: 6.82
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  1  1  4  1  4  1                +12 runs  (Total: 12)  [FOUR, FOUR]
+  Over  2:  •  •  •  W  4  W                +4 runs  (Total: 16)  [WICKET, FOUR, over-break,WICKET]
+  Over  3:  1  •  1  1  •  1                +4 runs  (Total: 20)
+  Over  4:  •  •  5  •                      +5 runs  (Total: 25)
+
+BATTERS
+------------------------------------------------------------
+  Ajinkya Rahane               8 runs    6 balls  4s:1  6s:0  SR:133.33
+  Finn Allen                   6 runs    7 balls  4s:1  6s:0  SR:85.71
+  Cameron Green                4 runs    2 balls  4s:1  6s:0  SR:200
+  Angkrish Raghuvanshi         7 runs    7 balls  4s:0  6s:0  SR:100
+
+BOWLERS
+------------------------------------------------------------
+  Arshdeep Singh             2 ov   16 runs  0 wkts  Econ:8
+  Xavier Bartlett            1.4 ov    9 runs  2 wkts  Econ:5.4
+
+  [Innings 2 error: Expecting value: line 1 column 1 (char 0)]
+
+
+WIN PROBABILITY — Over by Over
+------------------------------------------------------------
+  Over      Details
+  ----------------------------------------
+  3         KKR: 30% • PBKS: 70%
+  2         KKR: 30% • PBKS: 70%
+  1         KKR: 47% • PBKS: 53%

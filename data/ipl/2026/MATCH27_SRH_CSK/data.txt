@@ -1,0 +1,146 @@
+============================================================
+  MATCH 151818 - INNINGS 1
+============================================================
+  Score: 194/9 in 20 overs  |  Run Rate: 9.7
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  1  •  1  1  •  Wd            +4 runs  (Total: 4)
+  Over  2:  6  2  1  •  •  L1               +10 runs  (Total: 14)  [SIX]
+  Over  3:  1  6  1  •  •  1                +9 runs  (Total: 23)  [SIX]
+  Over  4:  6  •  •  1  4  4                +15 runs  (Total: 38)  [SIX, FOUR, over-break,FOUR,HIGHSCORING_OVER]
+  Over  5:  1  4  4  4  6  6                +25 runs  (Total: 63)  [FOUR, FOUR, TEAM_FIFTY,PARTNERSHIP,FOUR, SIX, over-break,FIFTY,SIX,HIGHSCORING_OVER]
+  Over  6:  4  •  4  4  W  W                +12 runs  (Total: 75)  [FOUR, FOUR, FOUR, WICKET, over-break,WICKET]
+  Over  7:  B4  1  Wd  •  1  1  L1          +9 runs  (Total: 84)  [FOUR, DROPPED]
+  Over  8:  1  4  2  1  L1  W               +9 runs  (Total: 93)  [FOUR, over-break,WICKET,UDRS]
+  Over  9:  •  6  •  •  1  •                +7 runs  (Total: 100)  [SIX, TEAM_HUNDRED]
+  Over 10:  1  1  4  4  1  1                +12 runs  (Total: 112)  [FOUR, FOUR]
+  Over 11:  W  1  •  2  2  1                +6 runs  (Total: 118)  [WICKET]
+  Over 12:  1  1  •  4  1  6                +13 runs  (Total: 131)  [FOUR, over-break,SIX]
+  Over 13:  1  2  •  1  4  •                +8 runs  (Total: 139)  [FOUR]
+  Over 14:  1  4  2  1  W  1                +9 runs  (Total: 148)  [FOUR, WICKET]
+  Over 15:  1  •  1  •  4  •                +6 runs  (Total: 154)  [TEAM_HUNDRED, FOUR, over-break,UDRS]
+  Over 16:  6  1  1  1  •  •                +9 runs  (Total: 163)  [SIX, FIFTY]
+  Over 17:  1  1  4  2  Wd  1  4            +14 runs  (Total: 177)  [FOUR, over-break,FOUR,HIGHSCORING_OVER]
+  Over 18:  •  W  L1  1  •  •               +2 runs  (Total: 179)  [WICKET]
+  Over 19:  W  •  •  •  Wd  6  1            +8 runs  (Total: 187)  [WICKET, SIX]
+  Over 20:  1  1  4  W  B1  W               +7 runs  (Total: 194)  [FOUR, WICKET, UDRS, over-break,WICKET]
+
+BATTERS
+------------------------------------------------------------
+  Abhishek Sharma             59 runs   22 balls  4s:6  6s:4  SR:268.18
+  Praful Hinge                 0 runs    1 balls  4s:0  6s:0  SR:0
+  Travis Head                 23 runs   20 balls  4s:3  6s:1  SR:115
+  Ishan Kishan                 0 runs    1 balls  4s:0  6s:0  SR:0
+  Heinrich Klaasen            59 runs   39 balls  4s:6  6s:2  SR:151.28
+  Aniket Verma                 2 runs    4 balls  4s:0  6s:0  SR:50
+  Nitish Kumar Reddy          12 runs    8 balls  4s:0  6s:1  SR:150
+  Salil Arora                 13 runs   12 balls  4s:2  6s:0  SR:108.33
+  Liam Livingstone             1 runs    5 balls  4s:0  6s:0  SR:20
+  Shivang Kumar               12 runs    8 balls  4s:1  6s:1  SR:150
+
+BOWLERS
+------------------------------------------------------------
+  Matthew Short              3 ov   38 runs  0 wkts  Econ:12.7
+  Mukesh Choudhary           2 ov   21 runs  2 wkts  Econ:10.5
+  Anshul Kamboj              3 ov   22 runs  3 wkts  Econ:7.3
+  Noor Ahmad                 4 ov   33 runs  0 wkts  Econ:8.2
+  Jamie Overton              4 ov   37 runs  3 wkts  Econ:9.2
+  Gurjapneet Singh           4 ov   34 runs  1 wkts  Econ:8.5
+
+============================================================
+  MATCH 151818 - INNINGS 2
+============================================================
+  Score: 184/8 in 20 overs  |  Run Rate: 9.2
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  6  1  •  •  4  4                +15 runs  (Total: 15)  [SIX, FOUR, over-break,FOUR,HIGHSCORING_OVER]
+  Over  2:  W  •  •  •  3  4  Wd            +8 runs  (Total: 23)  [WICKET, DROPPED, over-break,FOUR]
+  Over  3:  6  •  4  4  Wd  Wd  4  4        +24 runs  (Total: 47)  [SIX, FOUR, FOUR, FOUR, over-break,FOUR,HIGHSCORING_OVER]
+  Over  4:  •  Wd5  •  1  1  1  4  Wd       +13 runs  (Total: 60)  [TEAM_FIFTY, UDRS, over-break,FOUR]
+  Over  5:  2  Wd  2  1  W  •  •            +6 runs  (Total: 66)  [PARTNERSHIP, WICKET]
+  Over  6:  W  2  1  Wd  4  1  1            +10 runs  (Total: 76)  [WICKET, FOUR]
+  Over  7:  •  4  1  1  •  1                +7 runs  (Total: 83)  [FOUR]
+  Over  8:  4  1  2  4  1  1                +13 runs  (Total: 96)  [FOUR, FOUR]
+  Over  9:  1  •  •  1  2  4                +8 runs  (Total: 104)  [TEAM_HUNDRED, over-break,FOUR]
+  Over 10:  1  1  2  1  1  1                +7 runs  (Total: 111)
+  Over 11:  1  •  •  W  •  •                +1 runs  (Total: 112)  [WICKET]
+  Over 12:  •  1  •  W  1  1                +3 runs  (Total: 115)  [WICKET]
+  Over 13:  1  1  •  1  1  1                +5 runs  (Total: 120)
+  Over 14:  1  N2  •  •  6  1  4            +15 runs  (Total: 135)  [SIX, over-break,FOUR,HIGHSCORING_OVER]
+  Over 15:  1  1  Wd  1  1  1  •            +6 runs  (Total: 141)
+  Over 16:  4  2  1  W  1  •                +8 runs  (Total: 149)  [FOUR, WICKET]
+  Over 17:  1  1  Wd  •  Wd  1  W  1        +6 runs  (Total: 155)  [TEAM_HUNDRED, UDRS, WICKET]
+  Over 18:  1  2  •  4  2  1                +10 runs  (Total: 165)  [FOUR]
+  Over 19:  •  1  1  1  6  2  Wd            +12 runs  (Total: 177)  [SIX]
+  Over 20:  2  L1  1  N  W  1  1            +7 runs  (Total: 184)  [UDRS, WICKET]
+
+BATTERS
+------------------------------------------------------------
+  Sanju Samson                 7 runs    3 balls  4s:0  6s:1  SR:233.33
+  Noor Ahmad                   1 runs    1 balls  4s:0  6s:0  SR:100
+  Ruturaj Gaikwad             19 runs   13 balls  4s:3  6s:0  SR:146.15
+  Ayush Mhatre                30 runs   13 balls  4s:5  6s:1  SR:230.77
+  Matthew Short               34 runs   30 balls  4s:3  6s:0  SR:113.33
+  Sarfaraz Khan               25 runs   19 balls  4s:3  6s:0  SR:131.58
+  Dewald Brevis                0 runs    4 balls  4s:0  6s:0  SR:0
+  Shivam Dube                 21 runs   16 balls  4s:1  6s:1  SR:131.25
+  Jamie Overton               16 runs   15 balls  4s:1  6s:0  SR:106.67
+  Anshul Kamboj               13 runs    8 balls  4s:0  6s:1  SR:162.5
+
+BOWLERS
+------------------------------------------------------------
+  Praful Hinge               4 ov   60 runs  1 wkts  Econ:15
+  Nitish Kumar Reddy         4 ov   31 runs  2 wkts  Econ:7.8
+  Sakib Hussain              4 ov   32 runs  1 wkts  Econ:8
+  Eshan Malinga              4 ov   29 runs  3 wkts  Econ:7.2
+  Shivang Kumar              3 ov   18 runs  1 wkts  Econ:6
+  Abhishek Sharma            1 ov   13 runs  0 wkts  Econ:13
+
+
+WIN PROBABILITY — Over by Over
+------------------------------------------------------------
+  Over      Details
+  ----------------------------------------
+  20        SRH: 51% • CSK: 49%
+  19        SRH: 55% • CSK: 45%
+  18        SRH: 58% • CSK: 42%
+  17        SRH: 65% • CSK: 35%
+  16        SRH: 61% • CSK: 39%
+  15        SRH: 60% • CSK: 40%
+  14        SRH: 61% • CSK: 39%
+  13        SRH: 64% • CSK: 36%
+  12        SRH: 63% • CSK: 37%
+  11        SRH: 58% • CSK: 42%
+  10        SRH: 65% • CSK: 35%
+  9         SRH: 61% • CSK: 39%
+  8         SRH: 60% • CSK: 40%
+  7         SRH: 65% • CSK: 35%
+  6         SRH: 62% • CSK: 38%
+  5         SRH: 70% • CSK: 30%
+  4         SRH: 57% • CSK: 43%
+  3         SRH: 51% • CSK: 49%
+  2         SRH: 49% • CSK: 51%
+  1         SRH: 45% • CSK: 55%
+  20        SRH: 100%
+  19        SRH: 91% • CSK: 7% • Draw 2%
+  18        SRH: 91% • CSK: 9%
+  17        SRH: 92% • CSK: 8%
+  16        SRH: 74% • CSK: 26%
+  14        SRH: 58% • CSK: 42%
+  13        SRH: 69% • CSK: 31%
+  12        SRH: 72% • CSK: 28%
+  11        SRH: 50% • CSK: 50%
+  10        SRH: 31% • CSK: 69%
+  9         SRH: 33% • CSK: 67%
+  8         SRH: 36% • CSK: 64%
+  7         SRH: 45% • CSK: 55%
+  6         SRH: 47% • CSK: 53%
+  5         SRH: 39% • CSK: 61%
+  4         SRH: 30% • CSK: 70%
+  3         SRH: 33% • CSK: 67%
+  2         SRH: 51% • CSK: 49%
+  1         SRH: 44% • CSK: 56%

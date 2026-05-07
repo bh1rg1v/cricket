@@ -1,0 +1,142 @@
+============================================================
+  MATCH 151840 - INNINGS 1
+============================================================
+  Score: 254/7 in 20 overs  |  Run Rate: 12.7
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  Wd  1  Wd  W  •  •  4        +7 runs  (Total: 7)  [WICKET, over-break,FOUR]
+  Over  2:  6  1  •  •  •  1                +8 runs  (Total: 15)  [SIX, over-break,DROPPED]
+  Over  3:  4  •  1  4  1  L1               +11 runs  (Total: 26)  [FOUR, FOUR]
+  Over  4:  •  4  •  1  2  6                +13 runs  (Total: 39)  [FOUR, over-break,SIX]
+  Over  5:  •  •  •  •  •  4                +4 runs  (Total: 43)  [over-break,FOUR]
+  Over  6:  1  L1  4  6  2  6               +20 runs  (Total: 63)  [FOUR, TEAM_FIFTY,PARTNERSHIP,SIX, over-break,SIX,HIGHSCORING_OVER]
+  Over  7:  4  6  1  1  1  1                +14 runs  (Total: 77)  [FOUR, SIX, over-break,HIGHSCORING_OVER]
+  Over  8:  1  •  6  1  4  2                +14 runs  (Total: 91)  [SIX, FOUR, over-break,HIGHSCORING_OVER]
+  Over  9:  1  2  4  1  1  1                +10 runs  (Total: 101)  [FIFTY, FOUR, TEAM_HUNDRED]
+  Over 10:  •  •  6  1  1  1                +9 runs  (Total: 110)  [SIX,PARTNERSHIP, DROPPED]
+  Over 11:  1  6  1  1  6  4                +19 runs  (Total: 129)  [SIX, FIFTY,SIX, over-break,FOUR,HIGHSCORING_OVER]
+  Over 12:  6  6  1  4  1  •                +18 runs  (Total: 147)  [SIX, SIX, FOUR, over-break,HIGHSCORING_OVER]
+  Over 13:  6  6  6  1  Wd  6  6            +32 runs  (Total: 179)  [TEAM_HUNDRED,PARTNERSHIP,SIX, SIX, SIX, SIX, over-break,SIX,HIGHSCORING_OVER]
+  Over 14:  •  4  1  1  W  1                +7 runs  (Total: 186)  [FOUR, WICKET]
+  Over 15:  1  W  2  1  2  1                +7 runs  (Total: 193)  [WICKET]
+  Over 16:  •  W  1  1  •  1                +3 runs  (Total: 196)  [WICKET]
+  Over 17:  1  1  4  6  W  6                +18 runs  (Total: 214)  [TEAM_HUNDRED,FOUR, SIX, WICKET, over-break,SIX,HIGHSCORING_OVER]
+  Over 18:  4  6  •  4  L1  •               +15 runs  (Total: 229)  [FOUR, SIX, FOUR, over-break,HIGHSCORING_OVER]
+  Over 19:  •  Wd  Wd  •  6  1  6  Wd  4    +20 runs  (Total: 249)  [UDRS, SIX, SIX, over-break,FOUR,HIGHSCORING_OVER]
+  Over 20:  1  1  1  W  1  W1               +5 runs  (Total: 254)  [TEAM_HUNDRED, WICKET, RUNOUT_MISS, over-break,WICKET]
+
+BATTERS
+------------------------------------------------------------
+  Priyansh Arya               93 runs   37 balls  4s:4  6s:9  SR:251.35
+  Prabhsimran Singh            0 runs    1 balls  4s:0  6s:0  SR:0
+  Cooper Connolly             87 runs   46 balls  4s:8  6s:7  SR:189.13
+  Shreyas Iyer                 5 runs    6 balls  4s:0  6s:0  SR:83.33
+  Marcus Stoinis              29 runs   16 balls  4s:2  6s:2  SR:181.25
+  Nehal Wadhera               13 runs    7 balls  4s:1  6s:1  SR:185.71
+  Shashank Singh              17 runs    6 balls  4s:1  6s:2  SR:283.33
+  Marco Jansen                 1 runs    1 balls  4s:0  6s:0  SR:100
+
+BOWLERS
+------------------------------------------------------------
+  Mohammed Shami             4 ov   56 runs  1 wkts  Econ:14
+  Mohsin Khan                4 ov   43 runs  1 wkts  Econ:10.8
+  Prince Yadav               4 ov   25 runs  2 wkts  Econ:6.2
+  Ayush Badoni               1 ov   14 runs  0 wkts  Econ:14
+  Avesh Khan                 3 ov   46 runs  0 wkts  Econ:15.3
+  Manimaran Siddharth        3 ov   35 runs  2 wkts  Econ:11.7
+  Aiden Markram              1 ov   32 runs  0 wkts  Econ:32
+
+============================================================
+  MATCH 151840 - INNINGS 2
+============================================================
+  Score: 200/5 in 20 overs  |  Run Rate: 10
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  1  •  •  •  1  •                +2 runs  (Total: 2)
+  Over  2:  1  Wd  •  6  2  •  •            +10 runs  (Total: 12)  [SIX]
+  Over  3:  4  •  3  2  4  4                +17 runs  (Total: 29)  [FOUR, FOUR, over-break,FOUR,HIGHSCORING_OVER]
+  Over  4:  •  6  4  1  •  4                +15 runs  (Total: 44)  [SIX, FOUR, over-break,FOUR,HIGHSCORING_OVER]
+  Over  5:  1  •  L1  4  4  1               +11 runs  (Total: 55)  [TEAM_FIFTY,PARTNERSHIP,FOUR, FOUR]
+  Over  6:  4  1  1  •  •  W                +6 runs  (Total: 61)  [FOUR, over-break,WICKET]
+  Over  7:  1  1  1  6  6  •                +15 runs  (Total: 76)  [SIX, SIX, over-break,HIGHSCORING_OVER]
+  Over  8:  1  2  2  1  6  1                +13 runs  (Total: 89)  [SIX]
+  Over  9:  1  Wd  1  1  1  Wd  1  1        +8 runs  (Total: 97)
+  Over 10:  •  1  1  1  1  1                +5 runs  (Total: 102)  [TEAM_HUNDRED]
+  Over 11:  4  Wd  1  •  1  •  •            +7 runs  (Total: 109)  [FOUR]
+  Over 12:  W  L1  6  6  1  •               +14 runs  (Total: 123)  [WICKET, SIX,DROPPED, SIX, over-break,UDRS,HIGHSCORING_OVER]
+  Over 13:  1  2  1  Wd  W  1  4            +10 runs  (Total: 133)  [WICKET,UDRS, over-break,FOUR]
+  Over 14:  1  •  1  1  1  1                +5 runs  (Total: 138)  [DROPPED]
+  Over 15:  1  W  •  1  1  1                +4 runs  (Total: 142)  [WICKET]
+  Over 16:  1  1  1  6  6  1                +16 runs  (Total: 158)  [TEAM_HUNDRED,SIX, SIX, over-break,HIGHSCORING_OVER]
+  Over 17:  1  •  6  1  •  •  N             +9 runs  (Total: 167)  [SIX]
+  Over 18:  •  4  •  1  6  1                +12 runs  (Total: 179)  [FOUR, UDRS, SIX]
+  Over 19:  4  4  1  Wd  2  •  1            +13 runs  (Total: 192)  [FOUR, FOUR, PARTNERSHIP, DROPPED]
+  Over 20:  1  1  1  4  W  1                +8 runs  (Total: 200)  [DROPPED, FOUR, WICKET, over-break,TEAM_HUNDRED]
+
+BATTERS
+------------------------------------------------------------
+  Mitchell Marsh              40 runs   28 balls  4s:3  6s:2  SR:142.86
+  Ayush Badoni                35 runs   21 balls  4s:5  6s:1  SR:166.67
+  Rishabh Pant                43 runs   23 balls  4s:1  6s:4  SR:186.96
+  Nicholas Pooran              9 runs    9 balls  4s:1  6s:0  SR:100
+  Aiden Markram               42 runs   22 balls  4s:3  6s:3  SR:190.91
+  Mukul Choudhary             21 runs   17 balls  4s:1  6s:1  SR:123.53
+  Himmat Singh                 1 runs    1 balls  4s:0  6s:0  SR:100
+
+BOWLERS
+------------------------------------------------------------
+  Arshdeep Singh             4 ov   41 runs  1 wkts  Econ:10.2
+  Xavier Bartlett            4 ov   54 runs  0 wkts  Econ:13.5
+  Marco Jansen               4 ov   37 runs  2 wkts  Econ:9.2
+  Vijaykumar Vyshak          4 ov   30 runs  1 wkts  Econ:7.5
+  Yuzvendra Chahal           4 ov   36 runs  1 wkts  Econ:9
+
+
+WIN PROBABILITY — Over by Over
+------------------------------------------------------------
+  Over      Details
+  ----------------------------------------
+  20        PBKS: 89% • LSG: 11%
+  19        PBKS: 91% • LSG: 9%
+  18        PBKS: 89% • LSG: 11%
+  17        PBKS: 87% • LSG: 13%
+  16        PBKS: 84% • LSG: 16%
+  15        PBKS: 87% • LSG: 13%
+  14        PBKS: 89% • LSG: 11%
+  13        PBKS: 90% • LSG: 10%
+  12        PBKS: 82% • LSG: 18%
+  11        PBKS: 77% • LSG: 23%
+  10        PBKS: 71% • LSG: 29%
+  9         PBKS: 70% • LSG: 30%
+  8         PBKS: 68% • LSG: 32%
+  7         PBKS: 64% • LSG: 36%
+  6         PBKS: 58% • LSG: 42%
+  5         PBKS: 47% • LSG: 53%
+  4         PBKS: 49% • LSG: 51%
+  3         PBKS: 43% • LSG: 57%
+  2         PBKS: 39% • LSG: 61%
+  1         PBKS: 36% • LSG: 64%
+  20        PBKS: 100%
+  19        PBKS: 99% • LSG: 1%
+  18        PBKS: 99% • LSG: 1%
+  17        PBKS: 99% • LSG: 1%
+  16        PBKS: 99% • LSG: 1%
+  15        PBKS: 99% • LSG: 1%
+  14        PBKS: 98% • LSG: 2%
+  13        PBKS: 96% • LSG: 4%
+  12        PBKS: 93% • LSG: 7%
+  11        PBKS: 92% • LSG: 8%
+  10        PBKS: 89% • LSG: 11%
+  9         PBKS: 86% • LSG: 14%
+  8         PBKS: 84% • LSG: 16%
+  7         PBKS: 86% • LSG: 14%
+  6         PBKS: 88% • LSG: 12%
+  5         PBKS: 83% • LSG: 17%
+  4         PBKS: 83% • LSG: 17%
+  3         PBKS: 86% • LSG: 14%
+  2         PBKS: 90% • LSG: 10%
+  1         PBKS: 90% • LSG: 10%
