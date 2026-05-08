@@ -1,0 +1,67 @@
+SCORECARD
+============================================================
+
+============================================================
+  Delhi Daredevils  184/5 (20 ov)  RR: 9.2
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Virender Sehwag             35   22   5   2  159.09  b Mithun
+  Paul Collingwood            75   46   3   7  163.04  not out
+  Dinesh Karthik               6    4   1   0     150  c White b Appanna
+  Gautam Gambhir               1    1   0   0     100  run out (Appanna)
+  David Warner                33   22   3   2     150  c Kohli b Kumble
+  Kedar Jadhav                 7    9   0   0   77.78  run out (Uthappa)
+  Extras: 8 (b 1, lb 4, w 2, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Anil Kumble                   4   0   33   1   8.25
+  Vinay Kumar                   4   0   35   0   8.75
+  Abhimanyu Mithun              3   0   39   1     13
+  Jacques Kallis                3   0   26   0   8.67
+  Kevin Pietersen               1   0    3   0      3
+  KP Appanna                    4   0   24   1      6
+  Cameron White                 1   0   19   0     19
+
+  Fall of Wickets: 41-1 (Sehwag, 4.2 ov), 52-2 (Gambhir, 5.4 ov), 83-3 (David Warner, 9.4 ov), 90-4 (Karthik, 10.3 ov), 124-5 (Kedar Jadhav, 14.3 ov)
+
+============================================================
+  Royal Challengers Bangalore  147/9 (20 ov)  RR: 7.35
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Rahul Dravid                14    9   2   0  155.56  c Warner b Mishra
+  Anil Kumble                  1    1   0   0     100  not out
+  Jacques Kallis              54   42   5   1  128.57  c Collingwood b Sangwan
+  Cameron White                4   11   0   0   36.36  c Warner b Mishra
+  Kevin Pietersen             16   19   0   1   84.21  b Sangwan
+  Ross Taylor                 22   10   0   3     220  lbw b Bhatia
+  Robin Uthappa               12    9   0   1  133.33  c Warner b Sangwan
+  Virat Kohli                 13   11   1   0  118.18  b Maharoof
+  Vinay Kumar                  3    3   0   0     100  b Vettori
+  KP Appanna                   1    2   0   0      50  not out
+  Abhimanyu Mithun             5    4   1   0     125  b Mishra
+  Extras: 2 (b 0, lb 1, w 0, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Farveez Maharoof              4   0   28   1      7
+  Amit Mishra                   4   0   32   3      8
+  Daniel Vettori                4   0   40   1     10
+  Rajat Bhatia                  4   0   24   1      6
+  Pradeep Sangwan               4   0   22   3    5.5
+
+  Fall of Wickets: 25-1 (Cameron White, 3.3 ov), 52-2 (Pietersen, 9.2 ov), 76-3 (Uthappa, 11.5 ov), 106-4 (Ross Taylor, 14.2 ov), 118-5 (Kallis, 15.5 ov), 134-6 (Virat Kohli, 17.4 ov), 137-7 (Vinay Kumar, 18.1 ov), 145-8 (Dravid, 19.2 ov), 145-9 (Mithun, 19.3 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

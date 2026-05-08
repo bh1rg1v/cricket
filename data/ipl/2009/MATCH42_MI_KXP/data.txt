@@ -1,0 +1,66 @@
+SCORECARD
+============================================================
+
+============================================================
+  Kings XI Punjab  119/9 (20 ov)  RR: 5.95
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Brett Lee                    8   12   1   0   66.67  c Raje b Malinga
+  Yuvraj Singh                12   18   2   0   66.67  c Bravo b Duminy
+  Irfan Pathan                 0    3   0   0       0  run out (Bravo)
+  Kumar Sangakkara             8   19   0   0   42.11  b Harbhajan Singh
+  Simon Katich                 0    2   0   0       0  c Harbhajan Singh b Kulkarni
+  S Sreesanth                  1   10   0   0      10  not out
+  Luke Pomersbach              5    7   0   0   71.43  b Rahane
+  Karan Goel                  20   21   2   0   95.24  not out
+  Wilkin Mota                  4    7   0   0   57.14  c Harbhajan Singh b Duminy
+  Sunny Sohal                 43   23   5   3  186.96  run out (Tendulkar)
+  Extras: 18 (b 3, lb 1, w 12, nb 2)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Lasith Malinga                4   0   32   1      8
+  Dhawal Kulkarni               3   0   24   1      8
+  Dwayne Bravo                  2   0   17   0    8.5
+  Rohan Raje                    1   0   10   0     10
+  Harbhajan Singh               4   0    9   1   2.25
+  Jean-Paul Duminy              4   0   15   2   3.75
+  Ajinkya Rahane                1   0    5   1      5
+  Sanath Jayasuriya             1   0    3   0      3
+
+  Fall of Wickets: 5-1 (Simon Katich, 1.2 ov), 22-2 (Irfan Pathan, 3.2 ov), 50-3 (Sohal, 5.3 ov), 67-4 (Sangakkara, 9.1 ov), 79-5 (W Mota, 11.1 ov), 79-6 (Yuvraj, 11.4 ov), 89-7 (Luke Pomersbach, 14.3 ov), 106-8 (Brett Lee, 17.3 ov), 112-9 (Chawla, 17.4 ov)
+
+============================================================
+  Mumbai Indians  122/2 (16.2 ov)  RR: 7.46
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Sachin Tendulkar            41   29   4   1  141.38  not out
+  Sanath Jayasuriya            4    7   1   0   57.14  c Mota b Lee
+  Dwayne Bravo                70   59   7   3  118.64  not out
+  Ajinkya Rahane               1    5   0   0      20  lbw b Chawla
+  Extras: 6 (b 0, lb 0, w 4, nb 2)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Brett Lee                     4   0   25   1   6.25
+  Irfan Pathan                3.2   1   14   0   4.38
+  S Sreesanth                   1   0   21   0     21
+  Piyush Chawla                 4   0   32   1      8
+  Yuvraj Singh                  2   0   14   0      7
+  Karan Goel                    2   0   16   0      8
+
+  Fall of Wickets: 5-1 (S Jayasuriya, 2.1 ov), 40-2 (Ajinkya Rahane, 5.5 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

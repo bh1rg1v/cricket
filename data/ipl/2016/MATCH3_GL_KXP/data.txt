@@ -1,0 +1,64 @@
+SCORECARD
+============================================================
+
+============================================================
+  Kings XI Punjab  161/6 (20 ov)  RR: 8.05
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Wriddhiman Saha             20   25   0   0      80  c R Jadeja b DJ Bravo
+  Murali Vijay                42   34   5   1  123.53  b R Jadeja
+  David Miller                15   10   1   1     150  b DJ Bravo
+  Glenn Maxwell                2    4   0   0      50  b DJ Bravo
+  Manan Vohra                 38   23   4   2  165.22  c D Karthik b R Jadeja
+  Axar Patel                   4    2   0   0     200  not out
+  Marcus Stoinis              33   22   4   0     150  c Finch b DJ Bravo
+  Extras: 7 (b 1, lb 2, w 4, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Praveen Kumar                 4   0   25   0   6.25
+  Pradeep Sangwan               2   0   21   0   10.5
+  James Faulkner                4   0   39   0   9.75
+  Sarabjit Ladda                2   0   21   0   10.5
+  Ravindra Jadeja               4   0   30   2    7.5
+  Dwayne Bravo                  4   0   22   4    5.5
+
+  Fall of Wickets: 78-1 (Vohra, 8.2 ov), 91-2 (Vijay, 10.4 ov), 101-3 (Glenn Maxwell, 11.4 ov), 102-4 (David Miller, 11.6 ov), 157-5 (W Saha, 19.3 ov), 157-6 (Marcus Stoinis, 19.4 ov)
+
+============================================================
+  Gujarat Lions  162/5 (17.4 ov)  RR: 9.31
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Dinesh Karthik              41   26   7   0  157.69  not out
+  Brendon McCullum             0    2   0   0       0  st W Saha b Sandeep Sharma
+  Dwayne Bravo                 2    2   0   0     100  not out
+  Suresh Raina                20    9   1   2  222.22  c Johnson b M Stoinis
+  Ravindra Jadeja              8   12   0   0   66.67  run out (Johnson)
+  Aaron Finch                 74   47  12   0  157.45  st W Saha b Pardeep Sahu
+  Ishan Kishan                11    8   2   0   137.5  c Mohit Sharma b Johnson
+  Extras: 6 (b 0, lb 3, w 3, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Sandeep Sharma                3   0   21   1      7
+  Mitchell Johnson              4   0   35   1   8.75
+  Mohit Sharma                2.4   0   24   0     10
+  Marcus Stoinis                2   0   27   1   13.5
+  Axar Patel                    2   0   17   0    8.5
+  Pardeep Sahu                  4   0   35   1   8.75
+
+  Fall of Wickets: 1-1 (Brendon McCullum, 0.6 ov), 52-2 (Raina, 5.3 ov), 117-3 (Aaron Finch, 11.5 ov), 133-4 (Ravindra Jadeja, 14.3 ov), 151-5 (Ishan Kishan, 16.5 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

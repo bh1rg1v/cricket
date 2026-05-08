@@ -1,0 +1,64 @@
+SCORECARD
+============================================================
+
+============================================================
+  Mumbai Indians  187/5 (20 ov)  RR: 9.35
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Parthiv Patel               23   14   5   0  164.29  c & b D Kulkarni
+  Rohit Sharma                27   21   2   1  128.57  c Ankit Sharma b D Kulkarni
+  Lendl Simmons               38   31   4   1  122.58  lbw b Ankit Sharma
+  Kieron Pollard              24   14   2   1  171.43  c Samson b Theron
+  Ambati Rayudu               53   27   4   3   196.3  not out
+  Unmukt Chand                13   14   1   0   92.86  c Binny b Southee
+  Extras: 9 (b 0, lb 3, w 5, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Tim Southee                   4   0   36   1      9
+  Dhawal Kulkarni               3   0   26   2   8.67
+  Rusty Theron                  4   0   40   1     10
+  Shane Watson                  3   0   36   0     12
+  Stuart Binny                  2   0   17   0    8.5
+  Ankit Sharma                  4   0   29   1   7.25
+
+  Fall of Wickets: 43-1 (Parthiv Patel, 4.5 ov), 73-2 (L Simmons, 9.1 ov), 84-3 (Chand, 10.4 ov), 120-4 (Rohit Sharma, 14.5 ov), 181-5 (Pollard, 19.4 ov)
+
+============================================================
+  Rajasthan Royals  179/7 (20 ov)  RR: 8.95
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Shane Watson                28   23   2   2  121.74  b Jagadeesha Suchith
+  Tim Southee                  6    5   0   0     120  run out (K Pollard/Vinay)
+  Ajinkya Rahane              16   12   2   0  133.33  c Rayudu b Vinay
+  Stuart Binny                 9    6   1   0     150  not out
+  Steven Smith                23   20   2   0     115  c Harbhajan b McClenaghan
+  Rusty Theron                 1    1   0   0     100  not out
+  Karun Nair                   7    6   1   0  116.67  c Parthiv Patel b McClenaghan
+  Sanju Samson                76   46   7   3  165.22  c Jagadeesha Suchith b McClenaghan
+  Deepak Hooda                 1    2   0   0      50  c Chand b Malinga
+  Extras: 12 (b 0, lb 2, w 9, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Mitchell McClenaghan          4   0   31   3   7.75
+  Lasith Malinga                4   0   34   1    8.5
+  Vinay Kumar                   4   0   39   1   9.75
+  Jagadeesha Suchith            4   0   39   1   9.75
+  Harbhajan Singh               4   0   34   0    8.5
+
+  Fall of Wickets: 30-1 (Ajinkya Rahane, 3.1 ov), 71-2 (Shane Watson, 8.1 ov), 127-3 (Steven Smith, 14.6 ov), 161-4 (Sanju Samson, 17.4 ov), 161-5 (Karun Nair, 17.5 ov), 162-6 (Deepak Hooda, 18.1 ov), 177-7 (Southee, 19.4 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

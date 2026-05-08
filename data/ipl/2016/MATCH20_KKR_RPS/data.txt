@@ -1,0 +1,67 @@
+SCORECARD
+============================================================
+
+============================================================
+  Rising Pune Supergiants  160/5 (20 ov)  RR: 8
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  MS Dhoni                    23   12   2   1  191.67  not out
+  Albie Morkel                16    9   0   2  177.78  b Umesh
+  Ajinkya Rahane              67   52   4   3  128.85  c & b Narine
+  Rajat Bhatia                 1    1   0   0     100  not out
+  Steven Smith                31   28   2   0  110.71  run out (Sathish)
+  Thisara Perera              12    9   0   1  133.33  b Sathish
+  Faf du Plessis               4    9   0   0   44.44  b Shakib
+  Extras: 6 (b 4, lb 2, w 0, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Morne Morkel                  3   0   30   0     10
+  Andre Russell                 2   0   16   0      8
+  Shakib Al Hasan               3   0   14   1   4.67
+  Sunil Narine                  4   0   32   1      8
+  Piyush Chawla                 3   0   26   0   8.67
+  Rajagopal Sathish             3   0   20   1   6.67
+  Umesh Yadav                   2   0   16   1      8
+
+  Fall of Wickets: 24-1 (du Plessis, 3.6 ov), 80-2 (Steven Smith, 12.2 ov), 99-3 (Thisara Perera, 14.5 ov), 119-4 (Ajinkya Rahane, 17.1 ov), 133-5 (Albie Morkel, 18.1 ov)
+
+============================================================
+  Kolkata Knight Riders  162/8 (19.3 ov)  RR: 8.39
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Gautam Gambhir              11    5   2   0     220  run out (S Tiwary/Dhoni)
+  Piyush Chawla                8    5   1   0     160  c S Smith b T Perera
+  Robin Uthappa                0    1   0   0       0  lbw b A Morkel
+  Shakib Al Hasan              3    9   0   0   33.33  b R Bhatia
+  Yusuf Pathan                36   27   2   2  133.33  lbw b R Bhatia
+  Umesh Yadav                  7    2   0   1     350  not out
+  Rajagopal Sathish           10    8   0   1     125  b A Morkel
+  Andre Russell               17   11   0   2  154.55  c du Plessis b T Perera
+  Suryakumar Yadav            60   49   6   2  122.45  lbw b M Ashwin
+  Extras: 10 (b 0, lb 0, w 10, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Albie Morkel                  3   0   36   2     12
+  Thisara Perera              3.3   0   28   2   8.48
+  Ravichandran Ashwin           2   0   21   0   10.5
+  Rajat Bhatia                  4   0   19   2   4.75
+  Ankit Sharma                  3   0   26   0   8.67
+  Murugan Ashwin                4   0   32   1      8
+
+  Fall of Wickets: 0-1 (Uthappa, 0.1 ov), 31-2 (Gambhir, 2.5 ov), 60-3 (Shakib, 6.3 ov), 111-4 (Yusuf Pathan, 14.2 ov), 119-5 (Suryakumar Yadav, 15.5 ov), 139-6 (Russell, 17.5 ov), 151-7 (Sathish, 18.4 ov), 156-8 (Chawla, 19.2 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

@@ -1,0 +1,64 @@
+SCORECARD
+============================================================
+
+============================================================
+  Pune Warriors  125/6 (20 ov)  RR: 6.25
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Sourav Ganguly              14   18   1   0   77.78  c A Chavan b Shaun Tait
+  Michael Clarke              16   18   1   0   88.89  lbw b S Binny
+  Robin Uthappa               13   19   0   0   68.42  c D Yagnik b Shaun Tait
+  Mithun Manhas               11    9   1   0  122.22  b Shaun Tait
+  Angelo Mathews              11   12   0   0   91.67  run out (Owais Shah)
+  Wayne Parnell                2    2   0   0     100  not out
+  Steven Smith                18   22   1   0   81.82  not out
+  Anustup Majumdar            30   20   1   2     150  b J Botha
+  Extras: 10 (b 0, lb 7, w 3, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Ankeet Chavan                 2   0   20   0     10
+  Shaun Tait                    4   0   13   3   3.25
+  Shane Watson                  4   0   28   0      7
+  Johan Botha                   4   0   25   1   6.25
+  Stuart Binny                  3   0   12   1      4
+  Siddharth Trivedi             3   0   20   0   6.67
+
+  Fall of Wickets: 30-1 (S Ganguly, 5.4 ov), 35-2 (Clarke, 6.1 ov), 77-3 (Anustup Majumdar, 11.3 ov), 83-4 (Uthappa, 12.6 ov), 107-5 (Mathews, 17.1 ov), 122-6 (Manhas, 19.2 ov)
+
+============================================================
+  Rajasthan Royals  126/3 (16.2 ov)  RR: 7.78
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Rahul Dravid                14   16   2   0    87.5  c M Clarke b W Parnell
+  Shane Watson                90   51  10   4  176.47  not out
+  Owais Shah                   4    7   0   0   57.14  not out
+  Ajinkya Rahane               0    3   0   0       0  c S Smith b B Kumar
+  Ashok Menaria               18   21   1   0   85.71  c M Manhas b M Clarke
+  Extras: 0 (b 0, lb 0, w 0, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Wayne Parnell                 2   0   12   1      6
+  Bhuvneshwar Kumar             3   0   17   1   5.67
+  Murali Kartik                 3   0   32   0  10.67
+  Ashish Nehra                  3   0   33   0     11
+  Angelo Mathews                3   0   15   0      5
+  Michael Clarke                2   0   12   1      6
+  Steven Smith                0.2   0    5   0     25
+
+  Fall of Wickets: 4-1 (Ajinkya Rahane, 1.3 ov), 49-2 (Dravid, 5.6 ov), 105-3 (Menaria, 13.4 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

@@ -1,0 +1,160 @@
+SCORECARD
+============================================================
+
+============================================================
+  Sunrisers Hyderabad  121/8 (20 ov)  RR: 6.05
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Anmolpreet Singh            31   26   3   1  119.23  lbw b Krunal Pandya
+  Mayank Agarwal               8    7   1   0  114.29  c Stoinis b Krunal Pandya
+  Tripathi                    35   41   4   0   85.37  c Amit Mishra b Yash Thakur
+  Markram                      0    1   0   0       0  b Krunal Pandya
+  Harry Brook                  3    4   0   0      75  st Pooran b Ravi Bishnoi
+  Washington Sundar           16   28   0   0   57.14  c Deepak Hooda b Amit Mishra
+  Abdul Samad                 21   10   1   2     210  not out
+  Adil Rashid                  4    3   1   0  133.33  c Deepak Hooda b Amit Mishra
+  Extras: 3 (b 1, lb 0, w 2, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  K Mayers                      1   0    5   0      5
+  Jaydev Unadkat                3   0   26   0    8.7
+  Krunal Pandya                 4   0   18   3    4.5
+  Yash Thakur                   3   0   24   1      8
+  Ravi Bishnoi                  4   0   16   1      4
+  Deepak Hooda                  1   0    8   0      8
+  Amit Mishra                   4   0   23   2    5.8
+
+  Fall of Wickets: 21-1 (Mayank Agarwal, 2.5 ov), 50-2 (Anmolpreet Singh, 7.5 ov), 50-3 (Markram, 7.6 ov), 55-4 (Harry Brook, 8.6 ov), 94-5 (Tripathi, 17.2 ov), 104-6 (Washington Sundar, 18.3 ov), 108-7 (Adil Rashid, 18.6 ov), 109-8 (Umran Malik, 19.1 ov)
+
+============================================================
+  Lucknow Super Giants  127/5 (16 ov)  RR: 7.94
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Kyle Mayers                 13   14   2   0   92.86  c Mayank Agarwal b Fazalhaq Farooqi
+  KL Rahul                    35   31   4   0   112.9  lbw b Adil Rashid
+  Deepak Hooda                 7    8   0   1    87.5  c and b Bhuvneshwar
+  Krunal Pandya               34   23   4   1  147.83  c Anmolpreet Singh b Umran Malik
+  Marcus Stoinis              10   13   2   0   76.92  not out
+  Romario Shepherd             0    1   0   0       0  lbw b Adil Rashid
+  Nicholas Pooran             11    6   1   1  183.33  not out
+  Extras: 17 (b 2, lb 0, w 15, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Bhuvneshwar Kumar             2   0   19   1    9.5
+  Washington Sundar             1   0   11   0     11
+  Fazalhaq Farooqi              3   0   13   1    4.3
+  Aiden Markram                 2   0   14   0      7
+  Adil Rashid                   3   0   23   2    7.7
+  T Natarajan                   3   0   23   0    7.7
+  Umran Malik                   2   0   22   1     11
+
+  Fall of Wickets: 35-1 (Kyle Mayers, 4.3 ov), 45-2 (Deepak Hooda, 5.6 ov), 100-3 (Krunal Pandya, 12.2 ov), 114-4 (KL Rahul, 14.1 ov), 114-5 (Romario Shepherd, 14.2 ov)
+
+============================================================
+  MATCH 66215 - INNINGS 1
+============================================================
+  Score: 121/8 in 20 overs  |  Run Rate: 6.05
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  1  1  1  1  •  1                +5 runs  (Total: 5)
+  Over  2:  •  2  •  1  1  6                +10 runs  (Total: 15)  [over-break,SIX]
+  Over  3:  •  4  1  1  W  •                +6 runs  (Total: 21)  [FOUR, WICKET]
+  Over  4:  •  1  •  •  1  •  Wd            +3 runs  (Total: 24)
+  Over  5:  •  1  •  •  4  4                +9 runs  (Total: 33)  [FOUR, over-break,FOUR]
+  Over  6:  4  1  •  •  4  1                +10 runs  (Total: 43)  [FOUR, UDRS, FOUR]
+  Over  7:  1  •  1  1  1  1                +5 runs  (Total: 48)
+  Over  8:  1  •  •  1  W  W                +2 runs  (Total: 50)  [TEAM_FIFTY, WICKET,UDRS, over-break,WICKET]
+  Over  9:  1  1  1  2  •  W                +5 runs  (Total: 55)  [over-break,WICKET]
+  Over 10:  1  1  1  1  •  4                +8 runs  (Total: 63)  [over-break,FOUR]
+  Over 11:  •  1  •  1  •  •                +2 runs  (Total: 65)
+  Over 12:  1  •  1  •  1  1                +4 runs  (Total: 69)
+  Over 13:  1  •  1  •  •  1                +3 runs  (Total: 72)
+  Over 14:  1  Wd  1  •  •  1  •            +4 runs  (Total: 76)  [UDRS]
+  Over 15:  1  •  •  1  1  4                +7 runs  (Total: 83)  [over-break,FOUR]
+  Over 16:  •  •  •  1  •  •                +1 runs  (Total: 84)
+  Over 17:  1  •  1  1  4  B1               +8 runs  (Total: 92)  [FOUR]
+  Over 18:  2  W  4  1  1  2                +10 runs  (Total: 102)  [WICKET, FOUR, TEAM_HUNDRED]
+  Over 19:  1  1  W  4  •  W                +6 runs  (Total: 108)  [WICKET, FOUR, over-break,WICKET]
+  Over 20:  W1  6  •  •  6  •               +13 runs  (Total: 121)  [WICKET, SIX, SIX]
+
+BATTERS
+------------------------------------------------------------
+  Anmolpreet Singh            31 runs   26 balls  4s:0  6s:0  SR:119.23
+  Bhuvneshwar                  0 runs    0 balls  4s:0  6s:0  SR:0
+  Mayank Agarwal               8 runs    7 balls  4s:0  6s:0  SR:114.29
+  Tripathi                    35 runs   41 balls  4s:0  6s:0  SR:85.37
+  Markram                      0 runs    1 balls  4s:0  6s:0  SR:0
+  Harry Brook                  3 runs    4 balls  4s:0  6s:0  SR:75
+  Washington Sundar           16 runs   28 balls  4s:0  6s:0  SR:57.14
+  Abdul Samad                 21 runs   10 balls  4s:0  6s:0  SR:210
+  Adil Rashid                  4 runs    3 balls  4s:0  6s:0  SR:133.33
+  Umran Malik                  0 runs    0 balls  4s:0  6s:0  SR:0
+
+BOWLERS
+------------------------------------------------------------
+  K Mayers                   1 ov    5 runs  0 wkts  Econ:5
+  Jaydev Unadkat             3 ov   26 runs  0 wkts  Econ:8.7
+  Krunal Pandya              4 ov   18 runs  3 wkts  Econ:4.5
+  Yash Thakur                3 ov   24 runs  1 wkts  Econ:8
+  Ravi Bishnoi               4 ov   16 runs  1 wkts  Econ:4
+  Deepak Hooda               1 ov    8 runs  0 wkts  Econ:8
+  Amit Mishra                4 ov   23 runs  2 wkts  Econ:5.8
+
+============================================================
+  MATCH 66215 - INNINGS 2
+============================================================
+  Score: 127/5 in 16 overs  |  Run Rate: 7.94
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  1  4  1  Wd5  •  2           +13 runs  (Total: 13)  [FOUR]
+  Over  2:  4  1  1  1  4  •                +11 runs  (Total: 24)  [FOUR, FOUR]
+  Over  3:  •  •  •  1  4  •                +5 runs  (Total: 29)  [FOUR]
+  Over  4:  •  •  4  1  •  1                +6 runs  (Total: 35)  [FOUR]
+  Over  5:  •  •  W  1  Wd  1  B1           +4 runs  (Total: 39)  [WICKET]
+  Over  6:  6  •  •  •  •  W                +6 runs  (Total: 45)  [SIX, over-break,WICKET]
+  Over  7:  2  4  1  1  •  2                +10 runs  (Total: 55)  [TEAM_FIFTY,FOUR]
+  Over  8:  •  4  1  1  2  •                +8 runs  (Total: 63)  [FOUR]
+  Over  9:  1  1  1  •  •  6                +9 runs  (Total: 72)  [over-break,SIX]
+  Over 10:  B1  •  4  •  Wd  2  2           +10 runs  (Total: 82)  [FOUR]
+  Over 11:  •  1  •  •  4  Wd3  1           +9 runs  (Total: 91)  [FOUR]
+  Over 12:  1  2  1  1  •  •                +5 runs  (Total: 96)  [PARTNERSHIP]
+  Over 13:  4  W  4  Wd5  •  •  •           +13 runs  (Total: 109)  [TEAM_HUNDRED,FOUR, WICKET, FOUR]
+  Over 14:  1  •  •  4  •  •                +5 runs  (Total: 114)  [FOUR]
+  Over 15:  W  W  4  •  •  •                +4 runs  (Total: 118)  [WICKET,UDRS, WICKET,UDRS, FOUR]
+  Over 16:  1  1  •  •  1  6                +9 runs  (Total: 127)  [over-break,SIX]
+
+BATTERS
+------------------------------------------------------------
+  Kyle Mayers                 13 runs   14 balls  4s:2  6s:0  SR:92.86
+  KL Rahul                    35 runs   31 balls  4s:4  6s:0  SR:112.9
+  Deepak Hooda                 7 runs    8 balls  4s:0  6s:1  SR:87.5
+  Krunal Pandya               34 runs   23 balls  4s:4  6s:1  SR:147.83
+  Marcus Stoinis              10 runs   13 balls  4s:2  6s:0  SR:76.92
+  Romario Shepherd             0 runs    1 balls  4s:0  6s:0  SR:0
+  Nicholas Pooran             11 runs    6 balls  4s:1  6s:1  SR:183.33
+
+BOWLERS
+------------------------------------------------------------
+  Bhuvneshwar Kumar          2 ov   19 runs  1 wkts  Econ:9.5
+  Washington Sundar          1 ov   11 runs  0 wkts  Econ:11
+  Fazalhaq Farooqi           3 ov   13 runs  1 wkts  Econ:4.3
+  Aiden Markram              2 ov   14 runs  0 wkts  Econ:7
+  Adil Rashid                3 ov   23 runs  2 wkts  Econ:7.7
+  T Natarajan                3 ov   23 runs  0 wkts  Econ:7.7
+  Umran Malik                2 ov   22 runs  1 wkts  Econ:11
+
+  [Win probability not available for this match]

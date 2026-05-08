@@ -1,0 +1,166 @@
+SCORECARD
+============================================================
+
+============================================================
+  Sunrisers Hyderabad  207/4 (20 ov)  RR: 10.35
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Warner                      14    8   2   1     175  c Mandeep b Aniket Choudhary
+  Dhawan                      40   31   5   0  129.03  c Sachin Baby b Binny
+  Henriques                   52   37   3   2  140.54  c Sachin Baby b Chahal
+  Yuvraj                      62   27   7   3  229.63  b Tymal Mills
+  Deepak Hooda                16   12   0   1  133.33  not out
+  Cutting                     16    6   0   2  266.67  not out
+  Extras: 7 (b 0, lb 1, w 5, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Tymal Mills                   4   0   31   1    7.8
+  Aniket Choudhary              4   0   55   1   13.8
+  Chahal                        4   0   22   1    5.5
+  Aravind                       3   0   36   0     12
+  Watson                        3   0   41   0   13.7
+  Head                          1   0   11   0     11
+  Binny                         1   0   10   1     10
+
+  Fall of Wickets: 19-1 (Warner, 1.4 ov), 93-2 (Dhawan, 10.3 ov), 151-3 (Henriques, 15.2 ov), 190-4 (Yuvraj, 18.4 ov)
+
+============================================================
+  Royal Challengers Bangalore  172/10 (19.4 ov)  RR: 8.75
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Chris Gayle                 32   21   2   3  152.38  c Warner b Deepak Hooda
+  Mandeep Singh               24   16   5   0     150  b Rashid Khan
+  Travis Head                 30   22   3   0  136.36  c Yuvraj b Rashid Khan
+  Kedar Jadhav                31   16   4   1  193.75  run out (Cutting)
+  Shane Watson                22   17   1   1  129.41  c Henriques b Nehra
+  Sachin Baby                  1    3   0   0   33.33  c Henriques b Bipul Sharma
+  Stuart Binny                11   10   0   1     110  c Yuvraj b Bhuvneshwar
+  Sreenath Aravind             0    2   0   0       0  b Nehra
+  Tymal Mills                  6    3   0   1     200  c Warner b Bhuvneshwar
+  Yuzvendra Chahal             3    7   0   0   42.86  run out ((sub)Chris Jordan)
+  Aniket Choudhary             6    2   0   1     300  not out
+  Extras: 6 (b 0, lb 1, w 4, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Ashish Nehra                  4   0   42   2   10.5
+  Bhuvneshwar Kumar             4   0   27   2    6.8
+  Ben Cutting                 3.4   0   35   0    9.5
+  Rashid Khan                   4   0   36   2      9
+  Deepak Hooda                  1   0    7   1      7
+  Moises Henriques              2   0   20   0     10
+  Bipul Sharma                  1   0    4   1      4
+
+  Fall of Wickets: 52-1 (Mandeep Singh, 5.4 ov), 60-2 (Chris Gayle, 6.3 ov), 116-3 (Kedar Jadhav, 11.4 ov), 126-4 (Travis Head, 12.5 ov), 128-5 (Sachin Baby, 13.4 ov), 154-6 (Stuart Binny, 16.5 ov), 156-7 (Shane Watson, 17.3 ov), 156-8 (Sreenath Aravind, 17.4 ov), 164-9 (Tymal Mills, 18.5 ov), 172-10 (Yuzvendra Chahal, 19.4 ov)
+
+============================================================
+  MATCH 18121 - INNINGS 1
+============================================================
+  Score: 207/4 in 20 overs  |  Run Rate: 10.35
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  •  4  •  •  Wd2  L1          +7 runs  (Total: 7)  [FOUR]
+  Over  2:  1  4  6  N  W  •  4             +16 runs  (Total: 23)  [FOUR, SIX, WICKET, over-break,FOUR,HIGHSCORING_OVER]
+  Over  3:  1  •  •  3  1  1                +6 runs  (Total: 29)
+  Over  4:  •  1  •  1  1  1                +4 runs  (Total: 33)  [RUNOUT_MISS]
+  Over  5:  1  1  1  2  4  •                +9 runs  (Total: 42)  [FOUR]
+  Over  6:  4  4  •  4  4  1                +17 runs  (Total: 59)  [FOUR, FOUR, FOUR, FOUR, over-break,HIGHSCORING_OVER]
+  Over  7:  1  •  1  1  1  1                +5 runs  (Total: 64)
+  Over  8:  1  1  1  6  1  1                +11 runs  (Total: 75)  [SIX,PARTNERSHIP]
+  Over  9:  2  1  1  1  2  2                +9 runs  (Total: 84)
+  Over 10:  •  1  1  1  1  •                +4 runs  (Total: 88)
+  Over 11:  1  4  W  1  2  2                +10 runs  (Total: 98)  [FOUR, WICKET]
+  Over 12:  1  •  1  1  4  1                +8 runs  (Total: 106)  [FOUR]
+  Over 13:  4  6  4  •  2  Wd  1            +18 runs  (Total: 124)  [FOUR, SIX, FOUR, over-break,DROPPED,HIGHSCORING_OVER]
+  Over 14:  4  1  1  1  •  1                +8 runs  (Total: 132)  [FOUR]
+  Over 15:  4  1  6  1  6  1                +19 runs  (Total: 151)  [FOUR, SIX,PARTNERSHIP, FIFTY,SIX, over-break,HIGHSCORING_OVER]
+  Over 16:  •  W  1  1  1  1                +4 runs  (Total: 155)  [WICKET, DROPPED]
+  Over 17:  1  •  4  1  •  1                +7 runs  (Total: 162)  [FOUR]
+  Over 18:  6  1  4  Wd  Wd  1  2  1        +17 runs  (Total: 179)  [SIX,DROPPED, FIFTY,FOUR, over-break,HIGHSCORING_OVER]
+  Over 19:  1  4  6  W  1  •                +12 runs  (Total: 191)  [FOUR, SIX, WICKET]
+  Over 20:  1  1  6  2  •  6                +16 runs  (Total: 207)  [SIX, over-break,SIX,HIGHSCORING_OVER]
+
+BATTERS
+------------------------------------------------------------
+  Warner                      14 runs    8 balls  4s:0  6s:0  SR:175
+  Dhawan                      40 runs   31 balls  4s:0  6s:0  SR:129.03
+  Henriques                   52 runs   37 balls  4s:0  6s:0  SR:140.54
+  Yuvraj                      62 runs   27 balls  4s:0  6s:0  SR:229.63
+  Deepak Hooda                16 runs   12 balls  4s:0  6s:0  SR:133.33
+  Cutting                     16 runs    6 balls  4s:0  6s:0  SR:266.67
+
+BOWLERS
+------------------------------------------------------------
+  Tymal Mills                4 ov   31 runs  1 wkts  Econ:7.8
+  Aniket Choudhary           4 ov   55 runs  1 wkts  Econ:13.8
+  Chahal                     4 ov   22 runs  1 wkts  Econ:5.5
+  Aravind                    3 ov   36 runs  0 wkts  Econ:12
+  Watson                     3 ov   41 runs  0 wkts  Econ:13.7
+  Head                       1 ov   11 runs  0 wkts  Econ:11
+  Binny                      1 ov   10 runs  1 wkts  Econ:10
+
+============================================================
+  MATCH 18121 - INNINGS 2
+============================================================
+  Score: 172/10 in 19.4 overs  |  Run Rate: 8.75
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  1  •  •  2  4  4                +11 runs  (Total: 11)  [FOUR, over-break,FOUR]
+  Over  2:  •  •  1  •  •  •                +1 runs  (Total: 12)
+  Over  3:  •  4  1  4  1  6                +16 runs  (Total: 28)  [FOUR, FOUR, over-break,SIX,HIGHSCORING_OVER]
+  Over  4:  1  6  2  •  Wd  1  4            +15 runs  (Total: 43)  [SIX, over-break,FOUR,HIGHSCORING_OVER]
+  Over  5:  •  •  •  •  Wd  •  4            +5 runs  (Total: 48)  [over-break,FOUR]
+  Over  6:  •  4  •  W  2  •                +6 runs  (Total: 54)  [FOUR,PARTNERSHIP, WICKET]
+  Over  7:  •  6  W  •  1  •                +7 runs  (Total: 61)  [SIX, WICKET]
+  Over  8:  4  2  1  1  1  4                +13 runs  (Total: 74)  [FOUR, over-break,FOUR]
+  Over  9:  1  •  Wd  1  1  6  1            +11 runs  (Total: 85)  [SIX]
+  Over 10:  4  N1  1  1  •  1  4            +13 runs  (Total: 98)  [FOUR, over-break,FOUR]
+  Over 11:  1  1  Wd  1  4  4  1            +13 runs  (Total: 111)  [FOUR, FOUR,PARTNERSHIP]
+  Over 12:  1  2  1  W1  1  1               +7 runs  (Total: 118)  [WICKET]
+  Over 13:  1  2  1  4  W  •                +8 runs  (Total: 126)  [FOUR, WICKET]
+  Over 14:  •  1  1  W  1  1                +4 runs  (Total: 130)  [WICKET]
+  Over 15:  1  1  •  •  1  6                +9 runs  (Total: 139)  [over-break,SIX]
+  Over 16:  •  6  1  •  4  1                +12 runs  (Total: 151)  [SIX, FOUR]
+  Over 17:  1  1  •  1  W  •                +3 runs  (Total: 154)  [DROPPED, WICKET]
+  Over 18:  2  •  W  W  •  •                +2 runs  (Total: 156)  [WICKET, WICKET]
+  Over 19:  L1  •  1  6  W  1               +9 runs  (Total: 165)  [SIX, WICKET]
+  Over 20:  •  1  6  W                      +7 runs  (Total: 172)  [SIX, WICKET]
+
+BATTERS
+------------------------------------------------------------
+  Chris Gayle                 32 runs   21 balls  4s:2  6s:3  SR:152.38
+  Yuzvendra Chahal             3 runs    7 balls  4s:0  6s:0  SR:42.86
+  Aniket Choudhary             6 runs    2 balls  4s:0  6s:1  SR:300
+  Mandeep Singh               24 runs   16 balls  4s:5  6s:0  SR:150
+  Travis Head                 30 runs   22 balls  4s:3  6s:0  SR:136.36
+  Kedar Jadhav                31 runs   16 balls  4s:4  6s:1  SR:193.75
+  Shane Watson                22 runs   17 balls  4s:1  6s:1  SR:129.41
+  Sachin Baby                  1 runs    3 balls  4s:0  6s:0  SR:33.33
+  Stuart Binny                11 runs   10 balls  4s:0  6s:1  SR:110
+  Sreenath Aravind             0 runs    2 balls  4s:0  6s:0  SR:0
+  Tymal Mills                  6 runs    3 balls  4s:0  6s:1  SR:200
+
+BOWLERS
+------------------------------------------------------------
+  Ashish Nehra               4 ov   42 runs  2 wkts  Econ:10.5
+  Bhuvneshwar Kumar          4 ov   27 runs  2 wkts  Econ:6.8
+  Ben Cutting                3.4 ov   35 runs  0 wkts  Econ:9.5
+  Rashid Khan                4 ov   36 runs  2 wkts  Econ:9
+  Deepak Hooda               1 ov    7 runs  1 wkts  Econ:7
+  Moises Henriques           2 ov   20 runs  0 wkts  Econ:10
+  Bipul Sharma               1 ov    4 runs  1 wkts  Econ:4
+
+  [Win probability not available for this match]

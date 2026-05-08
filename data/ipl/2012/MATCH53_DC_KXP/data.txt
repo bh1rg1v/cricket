@@ -1,0 +1,68 @@
+SCORECARD
+============================================================
+
+============================================================
+  Kings XI Punjab  170/5 (20 ov)  RR: 8.5
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Azhar Mahmood               14    9   2   0  155.56  run out (A Reddy/J Theron)
+  David Hussey                16   16   1   1     100  c D Harris b Pratap Singh
+  Shaun Marsh                 22   20   3   0     110  b S Dhawan
+  Nitin Saini                  2    4   0   0      50  lbw b A Reddy
+  Siddharth Chitnis            6    5   0   0     120  not out
+  Mandeep Singh               75   48   8   3  156.25  b A Reddy
+  David Miller                28   18   3   1  155.56  not out
+  Extras: 7 (b 1, lb 1, w 5, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Abhishek Jhunjhunwala         2   0   12   0      6
+  Veer Pratap Singh             4   0   45   1  11.25
+  Rusty Theron                  4   0   29   0   7.25
+  Shikhar Dhawan                2   0    8   1      4
+  Ashish Reddy                  4   0   39   2   9.75
+  Amit Mishra                   2   0   20   0     10
+  Daniel Harris                 2   0   15   0    7.5
+
+  Fall of Wickets: 55-1 (Shaun Marsh, 6.5 ov), 58-2 (N Saini, 7.4 ov), 97-3 (David Hussey, 11.6 ov), 130-4 (Mandeep, 15.3 ov), 138-5 (A Mahmood, 17 ov)
+
+============================================================
+  Deccan Chargers  145/8 (20 ov)  RR: 7.25
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Parthiv Patel               17   13   1   1  130.77  b Awana
+  Kumar Sangakkara             4    6   0   0   66.67  c N Saini b P Kumar
+  Cameron White                8   14   1   0   57.14  c S Marsh b D Hussey
+  Shikhar Dhawan               8    6   1   0  133.33  c A Mahmood b P Kumar
+  Amit Mishra                  8    5   1   0     160  not out
+  Abhishek Jhunjhunwala       19   20   0   1      95  run out (S Marsh)
+  Ashish Reddy                 8    8   1   0     100  c S Marsh b Awana
+  Rusty Theron                 7    6   1   0  116.67  not out
+  Daniel Harris               30   29   2   1  103.45  c Awana b D Hussey
+  Akshath Reddy               24   13   2   1  184.62  st N Saini b P Chawla
+  Extras: 12 (b 4, lb 1, w 7, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Ramesh Powar                  3   0   32   0  10.67
+  Praveen Kumar                 4   0   15   2   3.75
+  Piyush Chawla                 4   0   33   1   8.25
+  Parvinder Awana               4   0   27   2   6.75
+  Azhar Mahmood                 4   0   31   0   7.75
+  David Hussey                  1   0    2   2      2
+
+  Fall of Wickets: 10-1 (Dhawan, 1.5 ov), 31-2 (Parthiv Patel, 4.6 ov), 70-3 (D Harris, 10.1 ov), 71-4 (Cameron White, 10.4 ov), 74-5 (Sangakkara, 11.2 ov), 117-6 (Akshath Reddy, 16.3 ov), 121-7 (A Jhunjhunwala, 17.2 ov), 130-8 (Ashish Reddy, 18.2 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

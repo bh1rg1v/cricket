@@ -1,0 +1,63 @@
+SCORECARD
+============================================================
+
+============================================================
+  Delhi Daredevils  153/9 (20 ov)  RR: 7.65
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Virender Sehwag             23    9   3   1  255.56  lbw b J Kallis
+  Irfan Pathan                36   22   4   1  163.64  st B McCullum b S Narine
+  Mahela Jayawardene          30   27   3   1  111.11  run out (G Gambhir)
+  Ross Taylor                 16   27   0   0   59.26  c R Bhatia b P Sangwan
+  Naman Ojha                   2    6   0   0   33.33  c Manoj Tiwary b S Narine
+  David Warner                21   19   2   1  110.53  c B McCullum b J Kallis
+  Yogesh Nagar                10    7   1   0  142.86  b B Lee
+  Varun Aaron                  1    1   0   0     100  run out (B McCullum/S Narine)
+  Shahbaz Nadeem               0    2   0   0       0  not out
+  Extras: 14 (b 1, lb 2, w 11, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Brett Lee                     4   1   39   1   9.75
+  Pradeep Sangwan               4   0   42   1   10.5
+  Jacques Kallis                4   0   20   2      5
+  Sunil Narine                  4   0   23   2   5.75
+  Rajat Bhatia                  4   0   26   0    6.5
+
+  Fall of Wickets: 40-1 (Sehwag, 3.3 ov), 49-2 (David Warner, 5.4 ov), 95-3 (Mahela, 12.4 ov), 100-4 (Ross Taylor, 14.2 ov), 125-5 (Nagar, 16.6 ov), 146-6 (Naman Ojha, 19.1 ov), 152-7 (Irfan Pathan, 19.3 ov), 152-8 (Morne Morkel, 19.4 ov), 153-9 (Aaron, 20 ov)
+
+============================================================
+  Kolkata Knight Riders  154/4 (18.4 ov)  RR: 8.37
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Brendon McCullum            56   44   7   0  127.27  c V Sehwag b U Yadav
+  Jacques Kallis              30   27   3   0  111.11  c N Ojha b U Yadav
+  Gautam Gambhir              36   21   4   1  171.43  b V Aaron
+  Manoj Tiwary                 8    6   0   0  133.33  c I Pathan b M Morkel
+  Yusuf Pathan                 7   11   0   0   63.64  not out
+  Debabrata Das                1    3   0   0   33.33  not out
+  Extras: 16 (b 4, lb 5, w 7, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Irfan Pathan                  3   0   28   0   9.33
+  Shahbaz Nadeem                4   0   32   0      8
+  Morne Morkel                  4   0   35   1   8.75
+  Umesh Yadav                   4   0   30   2    7.5
+  Varun Aaron                 3.4   0   20   1   5.88
+
+  Fall of Wickets: 68-1 (Gambhir, 6.6 ov), 128-2 (Kallis, 15.1 ov), 128-3 (Brendon McCullum, 15.2 ov), 147-4 (Manoj Tiwary, 17.2 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

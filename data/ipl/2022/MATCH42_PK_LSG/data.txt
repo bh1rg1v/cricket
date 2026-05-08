@@ -1,0 +1,168 @@
+SCORECARD
+============================================================
+
+============================================================
+  Lucknow Super Giants  153/8 (20 ov)  RR: 7.65
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  de Kock                     46   37   4   2  124.32  c Jitesh Sharma b Sandeep Sharma
+  Rahul                        6   11   1   0   54.55  c Jitesh Sharma b Rabada
+  Deepak Hooda                34   28   1   2  121.43  run out (Bairstow)
+  Krunal Pandya                7    7   1   0     100  c Dhawan b Rabada
+  Stoinis                      1    4   0   0      25  c and b Rahul Chahar
+  Ayush Badoni                 4    4   0   0     100  c Livingstone b Rabada
+  Holder                      11    8   0   1   137.5  c Sandeep Sharma b Rahul Chahar
+  Chameera                    17   10   0   2     170  c Rahul Chahar b Rabada
+  Mohsin Khan                 13    6   1   1  216.67  not out
+  Avesh Khan                   2    5   0   0      40  not out
+  Extras: 12 (b 0, lb 8, w 4, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Arshdeep Singh                4   0   23   0    5.8
+  Sandeep Sharma                4   0   18   1    4.5
+  Rabada                        4   0   38   4    9.5
+  Rishi Dhawan                  2   0   13   0    6.5
+  Livingstone                   2   0   23   0   11.5
+  Rahul Chahar                  4   0   30   2    7.5
+
+  Fall of Wickets: 13-1 (Rahul, 2.5 ov), 98-2 (de Kock, 12.4 ov), 104-3 (Deepak Hooda, 13.3 ov), 105-4 (Krunal Pandya, 14.1 ov), 109-5 (Ayush Badoni, 14.5 ov), 111-6 (Stoinis, 15.3 ov), 126-7 (Holder, 17.4 ov), 144-8 (Chameera, 18.3 ov)
+
+============================================================
+  Punjab Kings  133/8 (20 ov)  RR: 6.65
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Mayank Agarwal              25   17   2   2  147.06  c Rahul b Chameera
+  Shikhar Dhawan               5   15   0   0   33.33  b Ravi Bishnoi
+  Jonny Bairstow              32   28   5   0  114.29  c Krunal Pandya b Chameera
+  Bhanuka Rajapaksa            9    7   1   0  128.57  c Rahul b Krunal Pandya
+  Liam Livingstone            18   16   0   2   112.5  c de Kock b Mohsin Khan
+  Jitesh Sharma                2    5   0   0      40  lbw b Krunal Pandya
+  Rishi Dhawan                21   22   3   1   95.45  not out
+  Kagiso Rabada                2    5   0   0      40  c Ayush Badoni b Mohsin Khan
+  Rahul Chahar                 4    4   1   0     100  c Ayush Badoni b Mohsin Khan
+  Arshdeep Singh               0    2   0   0       0  not out
+  Extras: 15 (b 4, lb 2, w 8, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Mohsin Khan                   4   1   24   3      6
+  Dushmantha Chameera           4   0   17   2    4.2
+  Jason Holder                  1   0    8   0      8
+  Avesh Khan                    3   0   26   0    8.7
+  Ravi Bishnoi                  4   0   41   1   10.2
+  Krunal Pandya                 4   1   11   2    2.8
+
+  Fall of Wickets: 35-1 (Mayank Agarwal, 4.4 ov), 46-2 (Shikhar Dhawan, 6.3 ov), 58-3 (Bhanuka Rajapaksa, 7.6 ov), 88-4 (Liam Livingstone, 12.1 ov), 92-5 (Jitesh Sharma, 13.2 ov), 103-6 (Jonny Bairstow, 15.2 ov), 112-7 (Kagiso Rabada, 17.2 ov), 117-8 (Rahul Chahar, 17.6 ov)
+
+============================================================
+  MATCH 46091 - INNINGS 1
+============================================================
+  Score: 153/8 in 20 overs  |  Run Rate: 7.65
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  1  •  •  •  •  L4               +5 runs  (Total: 5)  [over-break,FOUR]
+  Over  2:  1  •  1  •  •  0                +2 runs  (Total: 7)
+  Over  3:  1  1  4  •  W  •                +6 runs  (Total: 13)  [FOUR, WICKET]
+  Over  4:  •  •  1  1  1  •                +3 runs  (Total: 16)
+  Over  5:  •  Wd  6  6  1  1  1            +16 runs  (Total: 32)  [SIX, SIX, over-break,HIGHSCORING_OVER]
+  Over  6:  2  1  •  •  •  L4               +7 runs  (Total: 39)  [over-break,FOUR]
+  Over  7:  •  1  •  •  •  1  Wd            +3 runs  (Total: 42)
+  Over  8:  6  1  •  1  •  2                +10 runs  (Total: 52)  [SIX, TEAM_FIFTY]
+  Over  9:  4  1  1  •  1  1                +8 runs  (Total: 60)  [FOUR]
+  Over 10:  1  1  1  •  4  •                +7 runs  (Total: 67)  [PARTNERSHIP, FOUR]
+  Over 11:  6  2  Wd  2  1  1  2            +15 runs  (Total: 82)  [SIX, over-break,HIGHSCORING_OVER]
+  Over 12:  1  1  •  1  •  4                +7 runs  (Total: 89)  [DROPPED, over-break,FOUR]
+  Over 13:  4  •  Wd  4  W  •  1            +10 runs  (Total: 99)  [FOUR, FOUR, WICKET]
+  Over 14:  4  •  W1  1  •  •               +6 runs  (Total: 105)  [TEAM_HUNDRED,FOUR, WICKET]
+  Over 15:  W  2  2  •  W  •                +4 runs  (Total: 109)  [WICKET, WICKET]
+  Over 16:  1  1  W  •  •  •                +2 runs  (Total: 111)  [WICKET]
+  Over 17:  1  1  1  2  1  1                +7 runs  (Total: 118)
+  Over 18:  1  1  6  W  •  6                +14 runs  (Total: 132)  [SIX, WICKET, over-break,SIX,HIGHSCORING_OVER]
+  Over 19:  6  6  W  •  •  •                +12 runs  (Total: 144)  [SIX, SIX, WICKET]
+  Over 20:  1  1  1  1  1  4                +9 runs  (Total: 153)  [over-break,TEAM_HUNDRED,FOUR]
+
+BATTERS
+------------------------------------------------------------
+  de Kock                     46 runs   37 balls  4s:0  6s:0  SR:124.32
+  Avesh Khan                   2 runs    5 balls  4s:0  6s:0  SR:40
+  Rahul                        6 runs   11 balls  4s:0  6s:0  SR:54.55
+  Deepak Hooda                34 runs   28 balls  4s:0  6s:0  SR:121.43
+  Krunal Pandya                7 runs    7 balls  4s:0  6s:0  SR:100
+  Stoinis                      1 runs    4 balls  4s:0  6s:0  SR:25
+  Ayush Badoni                 4 runs    4 balls  4s:0  6s:0  SR:100
+  Holder                      11 runs    8 balls  4s:0  6s:0  SR:137.5
+  Chameera                    17 runs   10 balls  4s:0  6s:0  SR:170
+  Mohsin Khan                 13 runs    6 balls  4s:0  6s:0  SR:216.67
+
+BOWLERS
+------------------------------------------------------------
+  Arshdeep Singh             4 ov   23 runs  0 wkts  Econ:5.8
+  Sandeep Sharma             4 ov   18 runs  1 wkts  Econ:4.5
+  Rabada                     4 ov   38 runs  4 wkts  Econ:9.5
+  Rishi Dhawan               2 ov   13 runs  0 wkts  Econ:6.5
+  Livingstone                2 ov   23 runs  0 wkts  Econ:11.5
+  Rahul Chahar               4 ov   30 runs  2 wkts  Econ:7.5
+
+============================================================
+  MATCH 46091 - INNINGS 2
+============================================================
+  Score: 133/8 in 20 overs  |  Run Rate: 6.65
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  B4  •  •  •  •               +4 runs  (Total: 4)  [FOUR]
+  Over  2:  •  •  •  Wd  •  •  1            +2 runs  (Total: 6)
+  Over  3:  1  1  1  6  2  4                +15 runs  (Total: 21)  [SIX, over-break,FOUR,HIGHSCORING_OVER]
+  Over  4:  1  1  1  4  1  •                +8 runs  (Total: 29)  [FOUR]
+  Over  5:  6  •  •  W  •  1                +7 runs  (Total: 36)  [SIX, WICKET]
+  Over  6:  4  •  1  •  •  4                +10 runs  (Total: 46)  [FOUR, over-break,FOUR]
+  Over  7:  •  •  W  •  4  1                +5 runs  (Total: 51)  [WICKET, TEAM_FIFTY,FOUR]
+  Over  8:  1  Wd  1  1  1  2  W            +7 runs  (Total: 58)  [over-break,WICKET]
+  Over  9:  •  •  N1  Wd  1  1  Wd  •  1    +7 runs  (Total: 65)
+  Over 10:  •  •  •  1  L1  •               +2 runs  (Total: 67)
+  Over 11:  1  6  6  1  4  •                +18 runs  (Total: 85)  [SIX, SIX, FOUR, over-break,HIGHSCORING_OVER]
+  Over 12:  1  •  1  •  1  •                +3 runs  (Total: 88)
+  Over 13:  W  1  •  1  •  Wd  1            +4 runs  (Total: 92)  [WICKET]
+  Over 14:  •  W  •  •  •  •                +0 runs  (Total: 92)  [WICKET,UDRS, over-break,MAIDEN_OVER]
+  Over 15:  •  4  2  4  1  •                +11 runs  (Total: 103)  [UDRS, FOUR, TEAM_HUNDRED,FOUR]
+  Over 16:  •  W  1  •  •  1                +2 runs  (Total: 105)  [WICKET]
+  Over 17:  •  Wd  4  •  1  •  1            +7 runs  (Total: 112)  [FOUR]
+  Over 18:  •  W  •  4  •  Wd  W            +5 runs  (Total: 117)  [WICKET, FOUR, over-break,WICKET]
+  Over 19:  •  4  •  1  •  Wd  •            +6 runs  (Total: 123)  [FOUR]
+  Over 20:  6  4  •  •  •  •                +10 runs  (Total: 133)  [SIX, FOUR]
+
+BATTERS
+------------------------------------------------------------
+  Mayank Agarwal              25 runs   17 balls  4s:2  6s:2  SR:147.06
+  Arshdeep Singh               0 runs    2 balls  4s:0  6s:0  SR:0
+  Shikhar Dhawan               5 runs   15 balls  4s:0  6s:0  SR:33.33
+  Jonny Bairstow              32 runs   28 balls  4s:5  6s:0  SR:114.29
+  Bhanuka Rajapaksa            9 runs    7 balls  4s:1  6s:0  SR:128.57
+  Liam Livingstone            18 runs   16 balls  4s:0  6s:2  SR:112.5
+  Jitesh Sharma                2 runs    5 balls  4s:0  6s:0  SR:40
+  Rishi Dhawan                21 runs   22 balls  4s:3  6s:1  SR:95.45
+  Kagiso Rabada                2 runs    5 balls  4s:0  6s:0  SR:40
+  Rahul Chahar                 4 runs    4 balls  4s:1  6s:0  SR:100
+
+BOWLERS
+------------------------------------------------------------
+  Mohsin Khan                4 ov   24 runs  3 wkts  Econ:6
+  Dushmantha Chameera        4 ov   17 runs  2 wkts  Econ:4.2
+  Jason Holder               1 ov    8 runs  0 wkts  Econ:8
+  Avesh Khan                 3 ov   26 runs  0 wkts  Econ:8.7
+  Ravi Bishnoi               4 ov   41 runs  1 wkts  Econ:10.2
+  Krunal Pandya              4 ov   11 runs  2 wkts  Econ:2.8
+
+  [Win probability not available for this match]

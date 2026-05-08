@@ -1,0 +1,63 @@
+SCORECARD
+============================================================
+
+============================================================
+  Delhi Daredevils  164/5 (20 ov)  RR: 8.2
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Virender Sehwag             28   26   2   2  107.69  c R Uthappa b A Dinda
+  Irfan Pathan                 4    1   1   0     400  not out
+  Mahela Jayawardene          12   17   2   0   70.59  c Luke Wright b A Dinda
+  David Warner                51   25   4   4     204  not out
+  Kedar Jadhav                25   19   0   2  131.58  c M Manhas b A Dinda
+  Ben Rohrer                  13   13   1   0     100  c R Uthappa b A Nayar
+  Unmukt Chand                17   19   2   0   89.47  c R Uthappa b R Sharma
+  Extras: 14 (b 0, lb 2, w 12, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Bhuvneshwar Kumar             4   0   30   0    7.5
+  Kane Richardson               4   0   38   0    9.5
+  Ashok Dinda                   4   0   31   3   7.75
+  Rahul Sharma                  3   0   23   1   7.67
+  Luke Wright                   1   0   16   0     16
+  Yuvraj Singh                  2   0    9   0    4.5
+  Abhishek Nayar                2   0   15   1    7.5
+
+  Fall of Wickets: 20-1 (Mahela, 4.1 ov), 68-2 (Sehwag, 9.6 ov), 68-3 (Chand, 10.2 ov), 96-4 (Ben Rohrer, 13.5 ov), 159-5 (Kedar Jadhav, 19.4 ov)
+
+============================================================
+  Pune Warriors  149/4 (20 ov)  RR: 7.45
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Yuvraj Singh                31   24   4   0  129.17  c B Rohrer b U Yadav
+  Robin Uthappa               37   33   4   0  112.12  c U Chand b I Pathan
+  Mithun Manhas                2    4   0   0      50  not out
+  Luke Wright                 19   18   3   0  105.56  c D Warner b U Yadav
+  Aaron Finch                 37   33   5   0  112.12  c K Jadhav b I Pathan
+  Steven Smith                17    8   2   1   212.5  not out
+  Extras: 6 (b 0, lb 3, w 3, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Irfan Pathan                  4   1   29   2   7.25
+  Umesh Yadav                   4   0   24   2      6
+  Morne Morkel                  4   0   36   0      9
+  Ashish Nehra                  4   0   27   0   6.75
+  Shahbaz Nadeem                4   0   30   0    7.5
+
+  Fall of Wickets: 76-1 (Uthappa, 10.2 ov), 78-2 (Aaron Finch, 10.6 ov), 128-3 (Luke Wright, 17.3 ov), 130-4 (Yuvraj, 17.6 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

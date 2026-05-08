@@ -1,0 +1,156 @@
+SCORECARD
+============================================================
+
+============================================================
+  Delhi Capitals  147/6 (20 ov)  RR: 7.35
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Prithvi Shaw                24   16   5   0     150  c Watson b D Chahar
+  Dhawan                      51   47   7   0  108.51  c SN Thakur b DJ Bravo
+  Shreyas Iyer                18   20   0   1      90  lbw b Tahir
+  Pant                        25   13   2   1  192.31  c SN Thakur b DJ Bravo
+  Ingram                       2    2   0   0     100  c Raina b DJ Bravo
+  Keemo Paul                   0    4   0   0       0  b Ravindra Jadeja
+  Axar                         9    9   1   0     100  not out
+  Rahul Tewatia               11    9   1   0  122.22  not out
+  Extras: 7 (b 0, lb 2, w 5, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  D Chahar                      4   0   20   1      5
+  SN Thakur                     2   0   19   0    9.5
+  Harbhajan                     4   0   30   0    7.5
+  Ravindra Jadeja               4   0   23   1    5.8
+  Tahir                         2   0   20   1     10
+  DJ Bravo                      4   0   33   3    8.2
+
+  Fall of Wickets: 36-1 (Prithvi Shaw, 4.3 ov), 79-2 (Shreyas Iyer, 11.4 ov), 120-3 (Pant, 15.2 ov), 122-4 (Ingram, 15.4 ov), 123-5 (Keemo Paul, 16.3 ov), 127-6 (Dhawan, 17.1 ov)
+
+============================================================
+  Chennai Super Kings  150/4 (19.4 ov)  RR: 7.63
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Shane Watson                44   26   4   3  169.23  st Pant b A Mishra
+  Ambati Rayudu                5    5   1   0     100  c Shreyas Iyer b Ishant
+  Suresh Raina                30   16   4   1   187.5  c Pant b A Mishra
+  Kedar Jadhav                27   34   2   0   79.41  c Pant b Rabada
+  MS Dhoni                    32   35   2   1   91.43  not out
+  Dwayne Bravo                 4    3   1   0  133.33  not out
+  Extras: 8 (b 0, lb 5, w 2, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Ishant Sharma                 3   0   28   1    9.3
+  Axar Patel                    4   0   16   0      4
+  Kagiso Rabada               3.4   0   26   1    7.1
+  Amit Mishra                   4   0   35   2    8.8
+  Rahul Tewatia                 2   0   20   0     10
+  Keemo Paul                    3   0   20   0    6.7
+
+  Fall of Wickets: 21-1 (Ambati Rayudu, 2.4 ov), 73-2 (Shane Watson, 6.4 ov), 98-3 (Suresh Raina, 10.2 ov), 146-4 (Kedar Jadhav, 19.1 ov)
+
+============================================================
+  MATCH 22400 - INNINGS 1
+============================================================
+  Score: 147/6 in 20 overs  |  Run Rate: 7.35
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  •  4  Wd  •  2  1            +8 runs  (Total: 8)  [FOUR]
+  Over  2:  •  •  •  4  4  4                +12 runs  (Total: 20)  [FOUR, FOUR, over-break,FOUR]
+  Over  3:  4  •  •  •  •  •                +4 runs  (Total: 24)  [FOUR]
+  Over  4:  •  4  1  Wd  4  •  1            +11 runs  (Total: 35)  [FOUR, FOUR]
+  Over  5:  •  1  W  1  •  1                +3 runs  (Total: 38)  [WICKET]
+  Over  6:  •  •  4  1  •  •                +5 runs  (Total: 43)  [FOUR]
+  Over  7:  1  1  1  1  1  •                +5 runs  (Total: 48)
+  Over  8:  •  1  1  1  •  1                +4 runs  (Total: 52)  [over-break,DROPPED]
+  Over  9:  •  1  1  1  •  •                +3 runs  (Total: 55)
+  Over 10:  1  1  6  1  •  1                +10 runs  (Total: 65)  [SIX]
+  Over 11:  L1  •  2  1  1  •               +5 runs  (Total: 70)
+  Over 12:  4  4  1  W  1  •                +10 runs  (Total: 80)  [FOUR, FOUR, WICKET]
+  Over 13:  2  4  1  1  2  1                +11 runs  (Total: 91)  [FOUR]
+  Over 14:  4  2  Wd  1  4  4  1            +17 runs  (Total: 108)  [FOUR, FOUR, FOUR, over-break,HIGHSCORING_OVER]
+  Over 15:  •  1  1  1  •  Wd  6            +10 runs  (Total: 118)  [over-break,SIX]
+  Over 16:  1  W  Wd  2  W  •  •            +4 runs  (Total: 122)  [WICKET, WICKET]
+  Over 17:  1  •  W  1  2  1                +5 runs  (Total: 127)  [WICKET, FIFTY]
+  Over 18:  W  •  1  •  1  1                +3 runs  (Total: 130)  [WICKET]
+  Over 19:  •  1  1  L1  1  4               +8 runs  (Total: 138)  [over-break,FOUR]
+  Over 20:  2  4  1  1  •  1                +9 runs  (Total: 147)  [FOUR]
+
+BATTERS
+------------------------------------------------------------
+  Prithvi Shaw                24 runs   16 balls  4s:0  6s:0  SR:150
+  Dhawan                      51 runs   47 balls  4s:0  6s:0  SR:108.51
+  Shreyas Iyer                18 runs   20 balls  4s:0  6s:0  SR:90
+  Pant                        25 runs   13 balls  4s:0  6s:0  SR:192.31
+  Ingram                       2 runs    2 balls  4s:0  6s:0  SR:100
+  Keemo Paul                   0 runs    4 balls  4s:0  6s:0  SR:0
+  Axar                         9 runs    9 balls  4s:0  6s:0  SR:100
+  Rahul Tewatia               11 runs    9 balls  4s:0  6s:0  SR:122.22
+
+BOWLERS
+------------------------------------------------------------
+  D Chahar                   4 ov   20 runs  1 wkts  Econ:5
+  SN Thakur                  2 ov   19 runs  0 wkts  Econ:9.5
+  Harbhajan                  4 ov   30 runs  0 wkts  Econ:7.5
+  Ravindra Jadeja            4 ov   23 runs  1 wkts  Econ:5.8
+  Tahir                      2 ov   20 runs  1 wkts  Econ:10
+  DJ Bravo                   4 ov   33 runs  3 wkts  Econ:8.2
+
+============================================================
+  MATCH 22400 - INNINGS 2
+============================================================
+  Score: 150/4 in 19.4 overs  |  Run Rate: 7.63
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  1  4  •  1  1                +7 runs  (Total: 7)  [FOUR, DROPPED]
+  Over  2:  4  •  4  •  1  •                +9 runs  (Total: 16)  [FOUR, FOUR]
+  Over  3:  •  4  1  W  1  1                +7 runs  (Total: 23)  [FOUR, WICKET]
+  Over  4:  •  •  •  •  4  6                +10 runs  (Total: 33)  [FOUR, over-break,SIX]
+  Over  5:  L4  1  1  4  4  4               +18 runs  (Total: 51)  [FOUR, FOUR, FOUR, over-break,FOUR,HIGHSCORING_OVER]
+  Over  6:  1  4  •  1  •  1                +7 runs  (Total: 58)  [FOUR]
+  Over  7:  2  6  •  6  •  WWd  •           +15 runs  (Total: 73)  [SIX, SIX,PARTNERSHIP, WICKET, over-break,HIGHSCORING_OVER]
+  Over  8:  1  4  •  1  1  1                +8 runs  (Total: 81)  [FOUR]
+  Over  9:  •  1  1  1  1  •                +4 runs  (Total: 85)
+  Over 10:  6  1  •  4  •  1                +12 runs  (Total: 97)  [SIX, FOUR]
+  Over 11:  1  W  4  1  1  1                +8 runs  (Total: 105)  [WICKET, FOUR]
+  Over 12:  •  1  •  1  •  1                +3 runs  (Total: 108)
+  Over 13:  2  1  •  1  •  •                +4 runs  (Total: 112)
+  Over 14:  •  •  1  1  2  1  N             +6 runs  (Total: 118)  [DROPPED]
+  Over 15:  1  •  •  •  •  1                +2 runs  (Total: 120)
+  Over 16:  1  1  1  1  •  1                +5 runs  (Total: 125)
+  Over 17:  •  •  •  •  •  1                +1 runs  (Total: 126)
+  Over 18:  2  1  1  •  Wd  4  2            +11 runs  (Total: 137)  [FOUR]
+  Over 19:  •  1  1  1  6  •                +9 runs  (Total: 146)  [SIX]
+  Over 20:  W  •  •  4                      +4 runs  (Total: 150)  [WICKET, FOUR]
+
+BATTERS
+------------------------------------------------------------
+  Shane Watson                44 runs   26 balls  4s:4  6s:3  SR:169.23
+  Ambati Rayudu                5 runs    5 balls  4s:1  6s:0  SR:100
+  Suresh Raina                30 runs   16 balls  4s:4  6s:1  SR:187.5
+  Kedar Jadhav                27 runs   34 balls  4s:2  6s:0  SR:79.41
+  MS Dhoni                    32 runs   35 balls  4s:2  6s:1  SR:91.43
+  Dwayne Bravo                 4 runs    3 balls  4s:1  6s:0  SR:133.33
+
+BOWLERS
+------------------------------------------------------------
+  Ishant Sharma              3 ov   28 runs  1 wkts  Econ:9.3
+  Axar Patel                 4 ov   16 runs  0 wkts  Econ:4
+  Kagiso Rabada              3.4 ov   26 runs  1 wkts  Econ:7.1
+  Amit Mishra                4 ov   35 runs  2 wkts  Econ:8.8
+  Rahul Tewatia              2 ov   20 runs  0 wkts  Econ:10
+  Keemo Paul                 3 ov   20 runs  0 wkts  Econ:6.7
+
+  [Win probability not available for this match]

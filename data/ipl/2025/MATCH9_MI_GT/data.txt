@@ -1,0 +1,161 @@
+SCORECARD
+============================================================
+
+============================================================
+  Gujarat Titans  196/8 (20 ov)  RR: 9.8
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Sai Sudharsan               63   41   4   2  153.66  lbw b Boult
+  Shubman Gill                38   27   4   1  140.74  c Naman Dhir b Hardik Pandya
+  Jos Buttler                 39   24   5   1   162.5  c Rickelton b Mujeeb
+  Shahrukh Khan                9    7   0   1  128.57  c Tilak Varma b Hardik Pandya
+  Sherfane Rutherford         18   11   0   2  163.64  c Santner b D Chahar
+  Rashid Khan                  6    4   0   1     150  c Hardik Pandya b Satyanarayana Raju
+  Rabada                       7    5   0   1     140  not out
+  Sai Kishore                  1    1   0   0     100  run out (Rickelton)
+  Extras: 15 (b 1, lb 0, w 14, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Boult                         4   0   34   1    8.5
+  D Chahar                      4   0   39   1    9.8
+  Mujeeb                        2   0   28   1     14
+  Hardik Pandya                 4   0   29   2    7.2
+  Santner                       3   0   25   0    8.3
+  Satyanarayana Raju            3   0   40   1   13.3
+
+  Fall of Wickets: 78-1 (Shubman Gill, 8.3 ov), 129-2 (Jos Buttler, 13.5 ov), 146-3 (Shahrukh Khan, 15.3 ov), 179-4 (Sai Sudharsan, 17.6 ov), 179-5 (Rahul Tewatia, 18.1 ov), 179-6 (Sherfane Rutherford, 18.2 ov), 194-7 (Rashid Khan, 19.4 ov), 196-8 (Sai Kishore, 20 ov)
+
+============================================================
+  Mumbai Indians  160/6 (20 ov)  RR: 8
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Rohit Sharma                 8    4   2   0     200  b Siraj
+  Ryan Rickelton               6    9   1   0   66.67  b Siraj
+  Tilak Varma                 39   36   3   1  108.33  c Rahul Tewatia b Prasidh
+  Suryakumar Yadav            48   28   1   4  171.43  c Shubman Gill b Prasidh
+  Robin Minz                   3    6   0   0      50  c Ishant b Sai Kishore
+  Hardik Pandya               11   17   1   0   64.71  c Siraj b Rabada
+  Naman Dhir                  18   11   3   0  163.64  not out
+  Mitchell Santner            18    9   1   2     200  not out
+  Extras: 9 (b 0, lb 2, w 7, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Mohammed Siraj                4   0   34   2    8.5
+  Kagiso Rabada                 4   0   42   1   10.5
+  Ishant Sharma                 2   0   17   0    8.5
+  Rashid Khan                   2   0   10   0      5
+  Ravisrinivasan Sai Kishore     4   0   37   1    9.2
+  Prasidh Krishna               4   0   18   2    4.5
+
+  Fall of Wickets: 8-1 (Rohit Sharma, 0.4 ov), 35-2 (Ryan Rickelton, 4.3 ov), 97-3 (Tilak Varma, 11.3 ov), 108-4 (Robin Minz, 12.6 ov), 120-5 (Suryakumar Yadav, 15.6 ov), 124-6 (Hardik Pandya, 16.6 ov)
+
+============================================================
+  MATCH 115014 - INNINGS 1
+============================================================
+  Score: 196/8 in 20 overs  |  Run Rate: 9.8
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  •  1  •  2  4                +7 runs  (Total: 7)  [over-break,FOUR]
+  Over  2:  1  4  •  •  2  •                +7 runs  (Total: 14)  [FOUR]
+  Over  3:  •  4  2  4  1  1                +12 runs  (Total: 26)  [FOUR, FOUR]
+  Over  4:  1  •  1  •  1  1  Wd            +5 runs  (Total: 31)
+  Over  5:  4  6  •  1  4  •                +15 runs  (Total: 46)  [FOUR, SIX, FOUR, over-break,HIGHSCORING_OVER]
+  Over  6:  1  2  6  1  5  4  Wd            +20 runs  (Total: 66)  [TEAM_FIFTY,PARTNERSHIP,SIX, RUNOUT_MISS, over-break,FOUR,HIGHSCORING_OVER]
+  Over  7:  1  Wd  1  1  •  •  1            +5 runs  (Total: 71)
+  Over  8:  •  1  1  1  •  1                +4 runs  (Total: 75)
+  Over  9:  1  2  W  •  •  1                +4 runs  (Total: 79)  [WICKET]
+  Over 10:  •  1  1  6  4  1                +13 runs  (Total: 92)  [SIX,DROPPED, FOUR]
+  Over 11:  •  1  1  4  2  1                +9 runs  (Total: 101)  [UDRS, FOUR, TEAM_HUNDRED,RUNOUT_MISS]
+  Over 12:  •  •  4  1  2  1                +8 runs  (Total: 109)  [FOUR]
+  Over 13:  1  4  1  1  1  4                +12 runs  (Total: 121)  [FOUR, over-break,FOUR]
+  Over 14:  2  4  1  1  W  •  Wd5           +13 runs  (Total: 134)  [FOUR, PARTNERSHIP, WICKET]
+  Over 15:  1  1  1  1  1  1                +6 runs  (Total: 140)  [FIFTY]
+  Over 16:  6  •  W  1  1  1  Wd  Wd        +11 runs  (Total: 151)  [SIX, WICKET, TEAM_HUNDRED]
+  Over 17:  6  Wd  1  Wd  6  2  1  1        +19 runs  (Total: 170)  [SIX, UDRS, SIX, over-break,HIGHSCORING_OVER]
+  Over 18:  6  •  1  1  1  W                +9 runs  (Total: 179)  [SIX, over-break,WICKET]
+  Over 19:  W  W  •  6  1  •                +7 runs  (Total: 186)  [WICKET, WICKET, SIX]
+  Over 20:  B1  6  Wd  •  W  1  W  Wd       +10 runs  (Total: 196)  [RUNOUT_MISS, SIX, WICKET, RUNOUT_MISS, over-break,WICKET]
+
+BATTERS
+------------------------------------------------------------
+  Sai Sudharsan               63 runs   41 balls  4s:0  6s:0  SR:153.66
+  Shubman Gill                38 runs   27 balls  4s:0  6s:0  SR:140.74
+  Jos Buttler                 39 runs   24 balls  4s:0  6s:0  SR:162.5
+  Shahrukh Khan                9 runs    7 balls  4s:0  6s:0  SR:128.57
+  Sherfane Rutherford         18 runs   11 balls  4s:0  6s:0  SR:163.64
+  Rahul Tewatia                0 runs    0 balls  4s:0  6s:0  SR:0
+  Rashid Khan                  6 runs    4 balls  4s:0  6s:0  SR:150
+  Rabada                       7 runs    5 balls  4s:0  6s:0  SR:140
+  Sai Kishore                  1 runs    1 balls  4s:0  6s:0  SR:100
+
+BOWLERS
+------------------------------------------------------------
+  Boult                      4 ov   34 runs  1 wkts  Econ:8.5
+  D Chahar                   4 ov   39 runs  1 wkts  Econ:9.8
+  Mujeeb                     2 ov   28 runs  1 wkts  Econ:14
+  Hardik Pandya              4 ov   29 runs  2 wkts  Econ:7.2
+  Santner                    3 ov   25 runs  0 wkts  Econ:8.3
+  Satyanarayana Raju         3 ov   40 runs  1 wkts  Econ:13.3
+
+============================================================
+  MATCH 115014 - INNINGS 2
+============================================================
+  Score: 160/6 in 20 overs  |  Run Rate: 8
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  4  4  W  •  1                +9 runs  (Total: 9)  [FOUR, FOUR, WICKET]
+  Over  2:  •  •  4  4  6  1                +15 runs  (Total: 24)  [FOUR, FOUR, SIX, over-break,HIGHSCORING_OVER]
+  Over  3:  1  •  •  4  •  1                +6 runs  (Total: 30)  [FOUR]
+  Over  4:  •  1  Wd  •  •  •  •            +2 runs  (Total: 32)
+  Over  5:  L1  1  W  Wd  •  6  Wd  2       +12 runs  (Total: 44)  [WICKET, SIX]
+  Over  6:  •  1  •  1  1  Wd  •            +4 runs  (Total: 48)  [UDRS]
+  Over  7:  1  1  1  1  2  •                +6 runs  (Total: 54)  [TEAM_FIFTY]
+  Over  8:  1  4  1  Wd  6  1  1            +15 runs  (Total: 69)  [FOUR, SIX, over-break,HIGHSCORING_OVER]
+  Over  9:  3  1  1  1  1  4                +11 runs  (Total: 80)  [over-break,FOUR]
+  Over 10:  1  1  1  2  1  •                +6 runs  (Total: 86)  [PARTNERSHIP]
+  Over 11:  1  1  6  1  •  Wd  1            +11 runs  (Total: 97)  [SIX]
+  Over 12:  •  •  W  •  2  •                +2 runs  (Total: 99)  [WICKET, over-break,UDRS]
+  Over 13:  1  •  1  6  1  W                +9 runs  (Total: 108)  [TEAM_HUNDRED, SIX, over-break,WICKET]
+  Over 14:  •  1  •  2  •  1                +4 runs  (Total: 112)
+  Over 15:  •  •  4  0  1  1                +6 runs  (Total: 118)  [FOUR]
+  Over 16:  1  •  •  •  1  W                +2 runs  (Total: 120)  [over-break,WICKET]
+  Over 17:  1  1  1  1  •  W                +4 runs  (Total: 124)  [over-break,WICKET]
+  Over 18:  4  •  1  •  1  4                +10 runs  (Total: 134)  [FOUR, over-break,FOUR]
+  Over 19:  6  1  •  4  Wd  1  4            +17 runs  (Total: 151)  [SIX, FOUR, over-break,TEAM_HUNDRED,DROPPED,FOUR,HIGHSCORING_OVER]
+  Over 20:  1  L1  1  6  •  •               +9 runs  (Total: 160)  [SIX, UDRS, over-break,UDRS]
+
+BATTERS
+------------------------------------------------------------
+  Rohit Sharma                 8 runs    4 balls  4s:2  6s:0  SR:200
+  Ryan Rickelton               6 runs    9 balls  4s:1  6s:0  SR:66.67
+  Tilak Varma                 39 runs   36 balls  4s:3  6s:1  SR:108.33
+  Suryakumar Yadav            48 runs   28 balls  4s:1  6s:4  SR:171.43
+  Robin Minz                   3 runs    6 balls  4s:0  6s:0  SR:50
+  Hardik Pandya               11 runs   17 balls  4s:1  6s:0  SR:64.71
+  Naman Dhir                  18 runs   11 balls  4s:3  6s:0  SR:163.64
+  Mitchell Santner            18 runs    9 balls  4s:1  6s:2  SR:200
+
+BOWLERS
+------------------------------------------------------------
+  Mohammed Siraj             4 ov   34 runs  2 wkts  Econ:8.5
+  Kagiso Rabada              4 ov   42 runs  1 wkts  Econ:10.5
+  Ishant Sharma              2 ov   17 runs  0 wkts  Econ:8.5
+  Rashid Khan                2 ov   10 runs  0 wkts  Econ:5
+  Ravisrinivasan Sai Kishore  4 ov   37 runs  1 wkts  Econ:9.2
+  Prasidh Krishna            4 ov   18 runs  2 wkts  Econ:4.5
+
+  [Win probability not available for this match]

@@ -1,0 +1,163 @@
+SCORECARD
+============================================================
+
+============================================================
+  Royal Challengers Bangalore  205/8 (20 ov)  RR: 10.25
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  de Kock                     53   37   1   4  143.24  c and b DJ Bravo
+  Kohli                       18   15   3   0     120  c Ravindra Jadeja b SN Thakur
+  de Villiers                 68   30   2   8  226.67  c Billings b Tahir
+  CJ Anderson                  2    8   0   0      25  c Harbhajan b Tahir
+  Mandeep                     32   17   1   3  188.24  c Ravindra Jadeja b SN Thakur
+  de Grandhomme               11    7   1   0  157.14  run out (Dhoni)
+  Negi                         0    1   0   0       0  run out (Ravindra Jadeja/Dhoni)
+  Washington Sundar           13    4   1   1     325  not out
+  Umesh                        0    1   0   0       0  c Billings b DJ Bravo
+  Extras: 8 (b 4, lb 0, w 4, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  D Chahar                      2   0   20   0     10
+  SN Thakur                     4   1   46   2   11.5
+  Harbhajan                     2   0   24   0     12
+  Ravindra Jadeja               2   0   22   0     11
+  Watson                        2   0   21   0   10.5
+  Tahir                         4   0   35   2    8.8
+  DJ Bravo                      4   1   33   2    8.2
+
+  Fall of Wickets: 35-1 (Kohli, 4.2 ov), 138-2 (de Kock, 13.1 ov), 142-3 (de Villiers, 14.5 ov), 142-4 (CJ Anderson, 14.6 ov), 191-5 (Mandeep, 18.6 ov), 191-6 (de Grandhomme, 19.1 ov), 192-7 (Negi, 19.2 ov), 193-8 (Umesh, 19.3 ov)
+
+============================================================
+  Chennai Super Kings  207/5 (19.4 ov)  RR: 10.53
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Shane Watson                 7    4   0   1     175  c Siraj b Negi
+  Ambati Rayudu               82   53   3   8  154.72  run out (Umesh)
+  Suresh Raina                11    9   2   0  122.22  c Mandeep b Umesh
+  Sam Billings                 9    7   2   0  128.57  st de Kock b Chahal
+  Ravindra Jadeja              3    5   0   0      60  b Chahal
+  MS Dhoni                    70   34   1   7  205.88  not out
+  Dwayne Bravo                14    7   1   1     200  not out
+  Extras: 11 (b 0, lb 2, w 8, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Pawan Negi                    3   0   36   1     12
+  Umesh Yadav                   4   0   23   1    5.8
+  Washington Sundar             1   0   14   0     14
+  Mohammed Siraj                4   0   48   0     12
+  Yuzvendra Chahal              4   0   26   2    6.5
+  Corey Anderson              3.4   0   58   0   15.8
+
+  Fall of Wickets: 8-1 (Shane Watson, 0.6 ov), 50-2 (Suresh Raina, 5.1 ov), 59-3 (Sam Billings, 6.2 ov), 74-4 (Ravindra Jadeja, 8.6 ov), 175-5 (Ambati Rayudu, 17.5 ov)
+
+============================================================
+  MATCH 20084 - INNINGS 1
+============================================================
+  Score: 205/8 in 20 overs  |  Run Rate: 10.25
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  1  •  4  •  •                +5 runs  (Total: 5)  [FOUR]
+  Over  2:  •  1  4  2  •  1                +8 runs  (Total: 13)  [FOUR]
+  Over  3:  1  2  6  1  4  1                +15 runs  (Total: 28)  [SIX, FOUR, over-break,HIGHSCORING_OVER]
+  Over  4:  •  1  •  •  6  •                +7 runs  (Total: 35)  [SIX]
+  Over  5:  •  W  •  •  •  •                +0 runs  (Total: 35)  [WICKET, over-break,MAIDEN_OVER]
+  Over  6:  1  6  •  6  4  •                +17 runs  (Total: 52)  [SIX, SIX, FOUR, over-break,HIGHSCORING_OVER]
+  Over  7:  •  1  6  1  2  1                +11 runs  (Total: 63)  [SIX]
+  Over  8:  2  4  •  1  1  1                +9 runs  (Total: 72)  [FOUR]
+  Over  9:  •  1  1  •  1  2                +5 runs  (Total: 77)
+  Over 10:  •  6  •  2  1  1                +10 runs  (Total: 87)  [SIX, PARTNERSHIP]
+  Over 11:  4  •  6  6  1  2                +19 runs  (Total: 106)  [FOUR, SIX, SIX, over-break,HIGHSCORING_OVER]
+  Over 12:  1  Wd  2  1  1  •  6            +12 runs  (Total: 118)  [over-break,FIFTY,SIX]
+  Over 13:  6  6  6  1  1  •                +20 runs  (Total: 138)  [FIFTY,SIX, SIX, SIX,PARTNERSHIP, over-break,HIGHSCORING_OVER]
+  Over 14:  W  •  •  •  •  •                +0 runs  (Total: 138)  [WICKET, over-break,MAIDEN_OVER]
+  Over 15:  1  1  1  1  W  W                +4 runs  (Total: 142)  [WICKET, over-break,WICKET]
+  Over 16:  B4  •  6  4  1  •               +15 runs  (Total: 157)  [FOUR, SIX, FOUR, over-break,HIGHSCORING_OVER]
+  Over 17:  1  1  1  1  1  2                +7 runs  (Total: 164)
+  Over 18:  2  •  •  1  2  4                +9 runs  (Total: 173)  [RUNOUT_MISS, DROPPED, over-break,FOUR]
+  Over 19:  6  1  1  2  6  Wd  W  Wd        +18 runs  (Total: 191)  [SIX, SIX, over-break,WICKET,HIGHSCORING_OVER]
+  Over 20:  W  W1  W  Wd  6  2  4           +14 runs  (Total: 205)  [WICKET, WICKET, WICKET, RUNOUT_MISS, SIX, over-break,FOUR,HIGHSCORING_OVER]
+
+BATTERS
+------------------------------------------------------------
+  de Kock                     53 runs   37 balls  4s:0  6s:0  SR:143.24
+  Siraj                        0 runs    0 balls  4s:0  6s:0  SR:0
+  Kohli                       18 runs   15 balls  4s:0  6s:0  SR:120
+  de Villiers                 68 runs   30 balls  4s:0  6s:0  SR:226.67
+  CJ Anderson                  2 runs    8 balls  4s:0  6s:0  SR:25
+  Mandeep                     32 runs   17 balls  4s:0  6s:0  SR:188.24
+  de Grandhomme               11 runs    7 balls  4s:0  6s:0  SR:157.14
+  Negi                         0 runs    1 balls  4s:0  6s:0  SR:0
+  Washington Sundar           13 runs    4 balls  4s:0  6s:0  SR:325
+  Umesh                        0 runs    1 balls  4s:0  6s:0  SR:0
+
+BOWLERS
+------------------------------------------------------------
+  D Chahar                   2 ov   20 runs  0 wkts  Econ:10
+  SN Thakur                  4 ov   46 runs  2 wkts  Econ:11.5
+  Harbhajan                  2 ov   24 runs  0 wkts  Econ:12
+  Ravindra Jadeja            2 ov   22 runs  0 wkts  Econ:11
+  Watson                     2 ov   21 runs  0 wkts  Econ:10.5
+  Tahir                      4 ov   35 runs  2 wkts  Econ:8.8
+  DJ Bravo                   4 ov   33 runs  2 wkts  Econ:8.2
+
+============================================================
+  MATCH 20084 - INNINGS 2
+============================================================
+  Score: 207/5 in 19.4 overs  |  Run Rate: 10.53
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  1  •  1  •  6  W                +8 runs  (Total: 8)  [SIX, over-break,WICKET]
+  Over  2:  •  •  1  •  •  1                +2 runs  (Total: 10)
+  Over  3:  1  •  6  6  •  1                +14 runs  (Total: 24)  [SIX, SIX, over-break,HIGHSCORING_OVER]
+  Over  4:  6  •  •  1  4  •                +11 runs  (Total: 35)  [SIX, FOUR]
+  Over  5:  •  4  1  4  Wd  1  4            +15 runs  (Total: 50)  [FOUR, FOUR, over-break,FOUR,HIGHSCORING_OVER]
+  Over  6:  W  •  4  •  •  1                +5 runs  (Total: 55)  [WICKET, FOUR]
+  Over  7:  4  W  1  •  •  1                +6 runs  (Total: 61)  [FOUR, WICKET]
+  Over  8:  1  •  1  1  1  1                +5 runs  (Total: 66)
+  Over  9:  •  •  6  •  1  W  Wd            +8 runs  (Total: 74)  [SIX, over-break,WICKET]
+  Over 10:  1  •  6  1  1  •                +9 runs  (Total: 83)  [SIX]
+  Over 11:  1  2  2  •  1  •  N             +7 runs  (Total: 90)
+  Over 12:  1  1  1  L1  6  1               +11 runs  (Total: 101)  [SIX]
+  Over 13:  L1  1  1  •  1  1  Wd           +6 runs  (Total: 107)
+  Over 14:  6  6  •  1  6  •                +19 runs  (Total: 126)  [SIX, SIX, FIFTY,PARTNERSHIP,SIX, over-break,HIGHSCORING_OVER]
+  Over 15:  1  •  6  1  •  1                +9 runs  (Total: 135)  [SIX]
+  Over 16:  1  •  1  1  6  Wd  6            +16 runs  (Total: 151)  [DROPPED, SIX, over-break,SIX,HIGHSCORING_OVER]
+  Over 17:  1  1  2  1  1  4                +10 runs  (Total: 161)  [over-break,FOUR]
+  Over 18:  1  6  Wd  1  4  W1  1           +15 runs  (Total: 176)  [FIFTY,SIX, FOUR,PARTNERSHIP, WICKET,PARTNERSHIP, over-break,HIGHSCORING_OVER]
+  Over 19:  •  1  1  1  6  2  Wd  Wd  Wd    +14 runs  (Total: 190)  [SIX, over-break,HIGHSCORING_OVER]
+  Over 20:  4  6  1  6                      +17 runs  (Total: 207)  [FOUR, SIX, SIX]
+
+BATTERS
+------------------------------------------------------------
+  Shane Watson                 7 runs    4 balls  4s:0  6s:1  SR:175
+  Ambati Rayudu               82 runs   53 balls  4s:3  6s:8  SR:154.72
+  Suresh Raina                11 runs    9 balls  4s:2  6s:0  SR:122.22
+  Sam Billings                 9 runs    7 balls  4s:2  6s:0  SR:128.57
+  Ravindra Jadeja              3 runs    5 balls  4s:0  6s:0  SR:60
+  MS Dhoni                    70 runs   34 balls  4s:1  6s:7  SR:205.88
+  Dwayne Bravo                14 runs    7 balls  4s:1  6s:1  SR:200
+
+BOWLERS
+------------------------------------------------------------
+  Pawan Negi                 3 ov   36 runs  1 wkts  Econ:12
+  Umesh Yadav                4 ov   23 runs  1 wkts  Econ:5.8
+  Washington Sundar          1 ov   14 runs  0 wkts  Econ:14
+  Mohammed Siraj             4 ov   48 runs  0 wkts  Econ:12
+  Yuzvendra Chahal           4 ov   26 runs  2 wkts  Econ:6.5
+  Corey Anderson             3.4 ov   58 runs  0 wkts  Econ:15.8
+
+  [Win probability not available for this match]

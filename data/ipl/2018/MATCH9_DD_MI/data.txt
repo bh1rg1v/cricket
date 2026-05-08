@@ -1,0 +1,156 @@
+SCORECARD
+============================================================
+
+============================================================
+  Mumbai Indians  194/7 (20 ov)  RR: 9.7
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Suryakumar Yadav            53   32   7   1  165.62  lbw b Rahul Tewatia
+  Lewis                       48   28   4   4  171.43  c Roy b Rahul Tewatia
+  Ishan Kishan                44   23   5   2   191.3  b Christian
+  Rohit                       18   15   2   0     120  c Roy b Boult
+  Pollard                      0    1   0   0       0  b Christian
+  Krunal Pandya               11   10   1   0     110  c Rahul Tewatia b Shami
+  Hardik Pandya                2    3   0   0   66.67  c Shreyas Iyer b Boult
+  Dananjaya                    4    5   0   0      80  not out
+  Markande                     4    3   0   0  133.33  not out
+  Extras: 10 (b 0, lb 5, w 5, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Boult                         4   0   39   2    9.8
+  Nadeem                        2   0   22   0     11
+  Shami                         4   0   36   1      9
+  Christian                     3   0   35   2   11.7
+  Rahul Tewatia                 4   0   36   2      9
+  Maxwell                       3   0   21   0      7
+
+  Fall of Wickets: 102-1 (Lewis, 8.6 ov), 109-2 (Suryakumar Yadav, 10.2 ov), 166-3 (Ishan Kishan, 15.4 ov), 166-4 (Pollard, 15.5 ov), 179-5 (Rohit, 17.3 ov), 185-6 (Krunal Pandya, 18.3 ov), 187-7 (Hardik Pandya, 19.1 ov)
+
+============================================================
+  Delhi Daredevils  195/3 (20 ov)  RR: 9.75
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Jason Roy                   91   53   6   6   171.7  not out
+  Gautam Gambhir              15   16   2   0   93.75  c Rohit b Mustafizur
+  Rishabh Pant                47   25   6   2     188  c Pollard b Krunal Pandya
+  Glenn Maxwell               13    6   1   1  216.67  c Hardik Pandya b Krunal Pandya
+  Shreyas Iyer                27   20   3   1     135  not out
+  Extras: 2 (b 0, lb 1, w 1, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Hardik Pandya                 2   0   32   0     16
+  Akila Dananjaya               4   0   47   0   11.8
+  Jasprit  Bumrah               4   0   27   0    6.8
+  Mustafizur Rahman             4   0   25   1    6.2
+  Mayank Markande               3   0   42   0     14
+  Krunal Pandya                 3   0   21   2      7
+
+  Fall of Wickets: 50-1 (Gautam Gambhir, 5.1 ov), 119-2 (Rishabh Pant, 11.5 ov), 135-3 (Glenn Maxwell, 13.2 ov)
+
+============================================================
+  MATCH 20069 - INNINGS 1
+============================================================
+  Score: 194/7 in 20 overs  |  Run Rate: 9.7
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  2  •  4  1  4  L4               +15 runs  (Total: 15)  [FOUR, FOUR, over-break,FOUR,HIGHSCORING_OVER]
+  Over  2:  4  1  1  Wd  1  •  2            +10 runs  (Total: 25)  [FOUR, over-break,DROPPED]
+  Over  3:  4  •  4  1  6  •                +15 runs  (Total: 40)  [FOUR, FOUR, SIX, over-break,HIGHSCORING_OVER]
+  Over  4:  •  4  1  6  •  Wd  •            +12 runs  (Total: 52)  [FOUR, SIX,PARTNERSHIP]
+  Over  5:  6  4  •  •  •  4                +14 runs  (Total: 66)  [SIX, FOUR, over-break,FOUR,HIGHSCORING_OVER]
+  Over  6:  4  4  •  4  •  6                +18 runs  (Total: 84)  [FOUR, FOUR, FOUR, over-break,SIX,HIGHSCORING_OVER]
+  Over  7:  1  •  1  1  •  •                +3 runs  (Total: 87)
+  Over  8:  1  1  1  •  •  Wd  1            +5 runs  (Total: 92)
+  Over  9:  1  1  6  1  1  W                +10 runs  (Total: 102)  [SIX,PARTNERSHIP, over-break,WICKET]
+  Over 10:  •  1  1  2  1  •                +5 runs  (Total: 107)  [FIFTY]
+  Over 11:  2  W  1  1  •  •                +4 runs  (Total: 111)  [WICKET,UDRS]
+  Over 12:  1  4  1  •  4  1                +11 runs  (Total: 122)  [FOUR, FOUR]
+  Over 13:  1  •  Wd  1  4  6  6            +19 runs  (Total: 141)  [FOUR, SIX, over-break,SIX,HIGHSCORING_OVER]
+  Over 14:  1  •  1  1  1  4                +8 runs  (Total: 149)  [over-break,FOUR]
+  Over 15:  4  •  •  4  1  •                +9 runs  (Total: 158)  [FOUR, FOUR]
+  Over 16:  2  4  2  W  W  1                +9 runs  (Total: 167)  [PARTNERSHIP, FOUR, WICKET, WICKET]
+  Over 17:  •  4  1  1  1  2                +9 runs  (Total: 176)  [FOUR]
+  Over 18:  1  2  W  1  Wd  1  1            +7 runs  (Total: 183)  [WICKET]
+  Over 19:  1  1  W  •  2  •                +4 runs  (Total: 187)  [WICKET,UDRS]
+  Over 20:  W  1  2  L1  1  2               +7 runs  (Total: 194)  [WICKET]
+
+BATTERS
+------------------------------------------------------------
+  Suryakumar Yadav            53 runs   32 balls  4s:0  6s:0  SR:165.62
+  Lewis                       48 runs   28 balls  4s:0  6s:0  SR:171.43
+  Ishan Kishan                44 runs   23 balls  4s:0  6s:0  SR:191.3
+  Rohit                       18 runs   15 balls  4s:0  6s:0  SR:120
+  Pollard                      0 runs    1 balls  4s:0  6s:0  SR:0
+  Krunal Pandya               11 runs   10 balls  4s:0  6s:0  SR:110
+  Hardik Pandya                2 runs    3 balls  4s:0  6s:0  SR:66.67
+  Dananjaya                    4 runs    5 balls  4s:0  6s:0  SR:80
+  Markande                     4 runs    3 balls  4s:0  6s:0  SR:133.33
+
+BOWLERS
+------------------------------------------------------------
+  Boult                      4 ov   39 runs  2 wkts  Econ:9.8
+  Nadeem                     2 ov   22 runs  0 wkts  Econ:11
+  Shami                      4 ov   36 runs  1 wkts  Econ:9
+  Christian                  3 ov   35 runs  2 wkts  Econ:11.7
+  Rahul Tewatia              4 ov   36 runs  2 wkts  Econ:9
+  Maxwell                    3 ov   21 runs  0 wkts  Econ:7
+
+============================================================
+  MATCH 20069 - INNINGS 2
+============================================================
+  Score: 195/3 in 20 overs  |  Run Rate: 9.75
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  1  1  4  1  •  4                +11 runs  (Total: 11)  [FOUR, over-break,FOUR]
+  Over  2:  •  6  •  4  1  1                +12 runs  (Total: 23)  [SIX, FOUR]
+  Over  3:  •  •  2  •  •  •                +2 runs  (Total: 25)
+  Over  4:  •  1  •  1  1  1                +4 runs  (Total: 29)
+  Over  5:  4  1  6  6  4  •                +21 runs  (Total: 50)  [FOUR, SIX, SIX, FOUR,PARTNERSHIP, over-break,HIGHSCORING_OVER]
+  Over  6:  W  1  1  •  1  •                +3 runs  (Total: 53)  [WICKET]
+  Over  7:  1  •  •  4  4  1                +10 runs  (Total: 63)  [FOUR, FOUR]
+  Over  8:  1  1  1  2  •  •                +5 runs  (Total: 68)
+  Over  9:  4  1  6  1  4  1                +17 runs  (Total: 85)  [FOUR, SIX, FOUR, over-break,HIGHSCORING_OVER]
+  Over 10:  6  4  1  1  6  1                +19 runs  (Total: 104)  [SIX, FOUR, SIX,PARTNERSHIP, over-break,HIGHSCORING_OVER]
+  Over 11:  1  2  4  1  •  1                +9 runs  (Total: 113)  [FIFTY, FOUR]
+  Over 12:  4  1  1  •  W  •                +6 runs  (Total: 119)  [FOUR, WICKET]
+  Over 13:  1  2  1  1  4  6                +15 runs  (Total: 134)  [FOUR, over-break,SIX,HIGHSCORING_OVER]
+  Over 14:  1  W  1  •  1  •                +3 runs  (Total: 137)  [WICKET]
+  Over 15:  1  2  1  Wd  •  6  •            +11 runs  (Total: 148)  [DROPPED, SIX]
+  Over 16:  •  6  1  4  •  1                +12 runs  (Total: 160)  [SIX, FOUR]
+  Over 17:  1  4  1  4  1  •                +11 runs  (Total: 171)  [DROPPED, FOUR, FOUR, DROPPED]
+  Over 18:  1  L1  •  2  •  4               +8 runs  (Total: 179)  [over-break,FOUR]
+  Over 19:  1  1  2  1  •  •                +5 runs  (Total: 184)
+  Over 20:  4  6  •  •  •  1                +11 runs  (Total: 195)  [FOUR,PARTNERSHIP, SIX, UDRS]
+
+BATTERS
+------------------------------------------------------------
+  Jason Roy                   91 runs   53 balls  4s:6  6s:6  SR:171.7
+  Gautam Gambhir              15 runs   16 balls  4s:2  6s:0  SR:93.75
+  Rishabh Pant                47 runs   25 balls  4s:6  6s:2  SR:188
+  Glenn Maxwell               13 runs    6 balls  4s:1  6s:1  SR:216.67
+  Shreyas Iyer                27 runs   20 balls  4s:3  6s:1  SR:135
+
+BOWLERS
+------------------------------------------------------------
+  Hardik Pandya              2 ov   32 runs  0 wkts  Econ:16
+  Akila Dananjaya            4 ov   47 runs  0 wkts  Econ:11.8
+  Jasprit  Bumrah            4 ov   27 runs  0 wkts  Econ:6.8
+  Mustafizur Rahman          4 ov   25 runs  1 wkts  Econ:6.2
+  Mayank Markande            3 ov   42 runs  0 wkts  Econ:14
+  Krunal Pandya              3 ov   21 runs  2 wkts  Econ:7
+
+  [Win probability not available for this match]

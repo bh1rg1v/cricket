@@ -1,0 +1,157 @@
+SCORECARD
+============================================================
+
+============================================================
+  Lucknow Super Giants  166/7 (20 ov)  RR: 8.3
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Markram                      6    6   1   0     100  c Tripathi b Khaleel Ahmed
+  Mitchell Marsh              30   25   2   2     120  b Ravindra Jadeja
+  Pooran                       8    9   2   0   88.89  lbw b Anshul Kamboj
+  Pant                        63   49   4   4  128.57  c Dhoni b Matheesha Pathirana
+  Ayush Badoni                22   17   1   2  129.41  st Dhoni b Ravindra Jadeja
+  Abdul Samad                 20   11   0   2  181.82  run out (Dhoni)
+  Thakur                       6    4   1   0     150  c Shaik Rasheed b Matheesha Pathirana
+  Extras: 11 (b 1, lb 1, w 8, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Khaleel Ahmed                 4   0   38   1    9.5
+  Anshul Kamboj                 3   0   20   1    6.7
+  Jamie Overton                 2   0   24   0     12
+  Ravindra Jadeja               3   0   24   2      8
+  Noor Ahmad                    4   0   13   0    3.2
+  Matheesha Pathirana           4   0   45   2   11.2
+
+  Fall of Wickets: 6-1 (Markram, 0.6 ov), 23-2 (Pooran, 3.6 ov), 73-3 (Mitchell Marsh, 9.3 ov), 105-4 (Ayush Badoni, 13.4 ov), 158-5 (Abdul Samad, 19.1 ov), 158-6 (Pant, 19.2 ov), 166-7 (Thakur, 19.6 ov)
+
+============================================================
+  Chennai Super Kings  168/5 (19.3 ov)  RR: 8.62
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Shaik Rasheed               27   19   6   0  142.11  c Pooran b Avesh Khan
+  Rachin Ravindra             37   22   5   0  168.18  lbw b Markram
+  Rahul Tripathi               9   10   1   0      90  c and b Ravi Bishnoi
+  Ravindra Jadeja              7   11   0   0   63.64  c Markram b Ravi Bishnoi
+  Shivam Dube                 43   37   3   2  116.22  not out
+  Vijay Shankar                9    8   1   0   112.5  c Avesh Khan b Digvesh Rathi
+  MS Dhoni                    26   11   4   1  236.36  not out
+  Extras: 10 (b 0, lb 1, w 8, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Shardul Thakur                4   0   56   0     14
+  Akash Deep                    1   0   13   0     13
+  Digvesh Singh Rathi           4   0   23   1    5.8
+  Avesh Khan                  3.3   0   32   1    9.1
+  Ravi Bishnoi                  3   0   18   2      6
+  Aiden Markram                 4   0   25   1    6.2
+
+  Fall of Wickets: 52-1 (Shaik Rasheed, 4.5 ov), 74-2 (Rachin Ravindra, 7.6 ov), 76-3 (Rahul Tripathi, 8.5 ov), 96-4 (Ravindra Jadeja, 12.2 ov), 111-5 (Vijay Shankar, 14.6 ov)
+
+============================================================
+  MATCH 115149 - INNINGS 1
+============================================================
+  Score: 166/7 in 20 overs  |  Run Rate: 8.3
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  •  4  •  2  W                +6 runs  (Total: 6)  [FOUR, over-break,WICKET]
+  Over  2:  •  •  •  •  1  •                +1 runs  (Total: 7)
+  Over  3:  1  •  •  4  •  •                +5 runs  (Total: 12)  [FOUR]
+  Over  4:  6  •  1  4  •  W                +11 runs  (Total: 23)  [SIX, FOUR, over-break,WICKET,UDRS]
+  Over  5:  •  4  6  1  •  0                +11 runs  (Total: 34)  [FOUR, SIX]
+  Over  6:  1  4  1  1  1  •                +8 runs  (Total: 42)  [FOUR]
+  Over  7:  1  1  6  2  1  •                +11 runs  (Total: 53)  [TEAM_FIFTY,SIX]
+  Over  8:  1  4  1  4  •  •                +10 runs  (Total: 63)  [FOUR, FOUR]
+  Over  9:  •  Wd  •  1  1  1  1            +5 runs  (Total: 68)
+  Over 10:  4  1  W  •  4  1                +10 runs  (Total: 78)  [FOUR, PARTNERSHIP, WICKET, FOUR]
+  Over 11:  1  1  •  1  •  •                +3 runs  (Total: 81)
+  Over 12:  •  1  B1  •  6  6               +14 runs  (Total: 95)  [SIX, over-break,SIX,HIGHSCORING_OVER]
+  Over 13:  4  •  1  •  1  N  Wd  •         +8 runs  (Total: 103)  [FOUR, TEAM_HUNDRED]
+  Over 14:  •  1  1  W  1  1                +4 runs  (Total: 107)  [UDRS, WICKET]
+  Over 15:  •  •  1  1  •  •                +2 runs  (Total: 109)
+  Over 16:  1  •  1  •  6  1                +9 runs  (Total: 118)  [SIX]
+  Over 17:  1  •  •  •  •  2                +3 runs  (Total: 121)
+  Over 18:  6  Wd2  2  6  •  1  L1          +18 runs  (Total: 139)  [SIX, FIFTY,SIX, RUNOUT_MISS, over-break,HIGHSCORING_OVER]
+  Over 19:  2  1  6  •  1  6                +16 runs  (Total: 155)  [SIX, DROPPED, over-break,TEAM_HUNDRED,PARTNERSHIP,SIX,HIGHSCORING_OVER]
+  Over 20:  1  Wd  W  WWd  •  Wd  2  Wd  4  W  +11 runs  (Total: 166)  [WICKET, WICKET, FOUR, over-break,WICKET]
+
+BATTERS
+------------------------------------------------------------
+  Markram                      6 runs    6 balls  4s:0  6s:0  SR:100
+  Mitchell Marsh              30 runs   25 balls  4s:0  6s:0  SR:120
+  Pooran                       8 runs    9 balls  4s:0  6s:0  SR:88.89
+  Pant                        63 runs   49 balls  4s:0  6s:0  SR:128.57
+  Ayush Badoni                22 runs   17 balls  4s:0  6s:0  SR:129.41
+  Abdul Samad                 20 runs   11 balls  4s:0  6s:0  SR:181.82
+  David Miller                 0 runs    0 balls  4s:0  6s:0  SR:0
+  Thakur                       6 runs    4 balls  4s:0  6s:0  SR:150
+
+BOWLERS
+------------------------------------------------------------
+  Khaleel Ahmed              4 ov   38 runs  1 wkts  Econ:9.5
+  Anshul Kamboj              3 ov   20 runs  1 wkts  Econ:6.7
+  Jamie Overton              2 ov   24 runs  0 wkts  Econ:12
+  Ravindra Jadeja            3 ov   24 runs  2 wkts  Econ:8
+  Noor Ahmad                 4 ov   13 runs  0 wkts  Econ:3.2
+  Matheesha Pathirana        4 ov   45 runs  2 wkts  Econ:11.2
+
+============================================================
+  MATCH 115149 - INNINGS 2
+============================================================
+  Score: 168/5 in 19.3 overs  |  Run Rate: 8.62
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  1  4  4  1  •                +10 runs  (Total: 10)  [FOUR, FOUR]
+  Over  2:  1  •  4  •  4  4                +13 runs  (Total: 23)  [FOUR, FOUR, over-break,FOUR]
+  Over  3:  1  •  4  4  1  4                +14 runs  (Total: 37)  [FOUR, FOUR, over-break,FOUR,HIGHSCORING_OVER]
+  Over  4:  1  Wd  1  •  •  Wd  •  4        +8 runs  (Total: 45)  [over-break,FOUR]
+  Over  5:  4  2  1  •  W  •                +7 runs  (Total: 52)  [FOUR, TEAM_FIFTY,PARTNERSHIP, WICKET]
+  Over  6:  •  1  4  •  1  1                +7 runs  (Total: 59)  [FOUR]
+  Over  7:  4  1  1  •  •  2                +8 runs  (Total: 67)  [FOUR, DROPPED]
+  Over  8:  1  2  1  1  2  W                +7 runs  (Total: 74)  [over-break,WICKET,UDRS]
+  Over  9:  •  1  •  1  W  •                +2 runs  (Total: 76)  [WICKET]
+  Over 10:  •  1  1  1  1  1                +5 runs  (Total: 81)
+  Over 11:  1  1  1  •  2  1                +6 runs  (Total: 87)
+  Over 12:  •  6  •  1  1  •                +8 runs  (Total: 95)  [SIX]
+  Over 13:  •  W  Wd  4  1  1  L1  Wd       +9 runs  (Total: 104)  [WICKET, TEAM_HUNDRED,FOUR, over-break,UDRS]
+  Over 14:  1  1  1  1  1  •                +5 runs  (Total: 109)
+  Over 15:  1  •  •  •  1  W                +2 runs  (Total: 111)  [over-break,WICKET]
+  Over 16:  1  Wd  1  1  •  4  4            +12 runs  (Total: 123)  [FOUR, over-break,FOUR]
+  Over 17:  •  4  •  1  •  Wd  Wd  6        +13 runs  (Total: 136)  [FOUR, over-break,SIX]
+  Over 18:  1  4  1  •  •  1                +7 runs  (Total: 143)  [FOUR]
+  Over 19:  4  1  N6  1  •  Wd  1  4        +19 runs  (Total: 162)  [FOUR, TEAM_HUNDRED,SIX, DROPPED, over-break,FOUR,PARTNERSHIP,HIGHSCORING_OVER]
+  Over 20:  1  1  4                         +6 runs  (Total: 168)  [FOUR]
+
+BATTERS
+------------------------------------------------------------
+  Shaik Rasheed               27 runs   19 balls  4s:6  6s:0  SR:142.11
+  Rachin Ravindra             37 runs   22 balls  4s:5  6s:0  SR:168.18
+  Rahul Tripathi               9 runs   10 balls  4s:1  6s:0  SR:90
+  Ravindra Jadeja              7 runs   11 balls  4s:0  6s:0  SR:63.64
+  Shivam Dube                 43 runs   37 balls  4s:3  6s:2  SR:116.22
+  Vijay Shankar                9 runs    8 balls  4s:1  6s:0  SR:112.5
+  MS Dhoni                    26 runs   11 balls  4s:4  6s:1  SR:236.36
+
+BOWLERS
+------------------------------------------------------------
+  Shardul Thakur             4 ov   56 runs  0 wkts  Econ:14
+  Akash Deep                 1 ov   13 runs  0 wkts  Econ:13
+  Digvesh Singh Rathi        4 ov   23 runs  1 wkts  Econ:5.8
+  Avesh Khan                 3.3 ov   32 runs  1 wkts  Econ:9.1
+  Ravi Bishnoi               3 ov   18 runs  2 wkts  Econ:6
+  Aiden Markram              4 ov   25 runs  1 wkts  Econ:6.2
+
+  [Win probability not available for this match]

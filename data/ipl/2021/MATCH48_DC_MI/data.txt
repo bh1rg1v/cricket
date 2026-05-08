@@ -1,0 +1,162 @@
+SCORECARD
+============================================================
+
+============================================================
+  Mumbai Indians  129/8 (20 ov)  RR: 6.45
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Rohit                        7   10   1   0      70  c Rabada b Avesh Khan
+  de Kock                     19   18   1   1  105.56  c Nortje b Axar
+  Suryakumar Yadav            33   26   2   2  126.92  c Rabada b Axar
+  Saurabh Tiwary              15   18   1   0   83.33  c Pant b Axar
+  Pollard                      6    9   0   0   66.67  b Nortje
+  Hardik Pandya               17   18   2   0   94.44  b Avesh Khan
+  Krunal Pandya               13   15   1   1   86.67  not out
+  Coulter-Nile                 1    2   0   0      50  b Avesh Khan
+  Jayant Yadav                11    4   1   1     275  c Steven Smith b Ashwin
+  Bumrah                       1    1   0   0     100  not out
+  Extras: 6 (b 0, lb 0, w 5, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Nortje                        4   1   19   1    4.8
+  Avesh Khan                    4   0   15   3    3.8
+  Ashwin                        4   0   41   1   10.2
+  Rabada                        4   0   33   0    8.2
+  Axar                          4   0   21   3    5.2
+
+  Fall of Wickets: 8-1 (Rohit, 1.5 ov), 37-2 (de Kock, 6.2 ov), 68-3 (Suryakumar Yadav, 10.3 ov), 80-4 (Saurabh Tiwary, 12.5 ov), 87-5 (Pollard, 14.1 ov), 109-6 (Hardik Pandya, 18.1 ov), 111-7 (Coulter-Nile, 18.4 ov), 122-8 (Jayant Yadav, 19.2 ov)
+
+============================================================
+  Delhi Capitals  132/6 (19.1 ov)  RR: 6.89
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Prithvi Shaw                 6    7   1   0   85.71  lbw b Krunal Pandya
+  Shikhar Dhawan               8    7   0   1  114.29  run out (Pollard)
+  Steven Smith                 9    8   0   1   112.5  b Coulter-Nile
+  Rishabh Pant                26   22   3   1  118.18  c Hardik Pandya b Jayant Yadav
+  Shreyas Iyer                33   33   2   0     100  not out
+  Axar Patel                   9    9   1   0     100  lbw b Boult
+  Shimron Hetmyer             15    8   2   0   187.5  c Rohit b Bumrah
+  Ravichandran Ashwin         20   21   0   1   95.24  not out
+  Extras: 6 (b 0, lb 2, w 4, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Trent Boult                   4   0   24   1      6
+  Jayant Yadav                  4   0   31   1    7.8
+  Krunal Pandya               2.1   0   18   1    8.3
+  Jasprit  Bumrah               4   0   29   1    7.2
+  Nathan Coulter-Nile           4   0   19   1    4.8
+  Kieron Pollard                1   0    9   0      9
+
+  Fall of Wickets: 14-1 (Shikhar Dhawan, 2 ov), 15-2 (Prithvi Shaw, 2.4 ov), 30-3 (Steven Smith, 4.1 ov), 57-4 (Rishabh Pant, 8.2 ov), 77-5 (Axar Patel, 11.4 ov), 93-6 (Shimron Hetmyer, 13.1 ov)
+
+============================================================
+  MATCH 37621 - INNINGS 1
+============================================================
+  Score: 129/8 in 20 overs  |  Run Rate: 6.45
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  4  •  •  2  1  •                +7 runs  (Total: 7)  [FOUR]
+  Over  2:  •  •  •  •  Wd  W  4            +5 runs  (Total: 12)  [WICKET, over-break,FOUR]
+  Over  3:  1  1  •  6  1  •                +9 runs  (Total: 21)  [SIX]
+  Over  4:  •  •  •  1  •  1                +2 runs  (Total: 23)
+  Over  5:  6  •  2  •  1  •                +9 runs  (Total: 32)  [SIX]
+  Over  6:  •  1  1  •  •  1                +3 runs  (Total: 35)
+  Over  7:  2  W  1  •  1  1                +5 runs  (Total: 40)  [WICKET]
+  Over  8:  1  4  1  1  4  1                +12 runs  (Total: 52)  [FOUR, TEAM_FIFTY,FOUR]
+  Over  9:  •  1  1  1  1  1                +5 runs  (Total: 57)
+  Over 10:  1  •  1  •  6  1                +9 runs  (Total: 66)  [SIX]
+  Over 11:  1  1  W  •  4  1                +7 runs  (Total: 73)  [WICKET, FOUR]
+  Over 12:  •  •  •  1  •  1  Wd            +3 runs  (Total: 76)
+  Over 13:  1  1  Wd  •  1  W  •            +4 runs  (Total: 80)  [WICKET]
+  Over 14:  1  Wd  1  1  1  1  Wd  •        +7 runs  (Total: 87)
+  Over 15:  W  •  •  •  •  •                +0 runs  (Total: 87)  [WICKET, over-break,MAIDEN_OVER]
+  Over 16:  •  •  •  1  •  •                +1 runs  (Total: 88)
+  Over 17:  1  N1  2  1  4  1  1            +12 runs  (Total: 100)  [FOUR, over-break,TEAM_HUNDRED]
+  Over 18:  4  •  4  •  1  •                +9 runs  (Total: 109)  [FOUR, FOUR]
+  Over 19:  W  1  1  W  4  1                +7 runs  (Total: 116)  [WICKET, WICKET, FOUR]
+  Over 20:  6  W  1  •  •  6                +13 runs  (Total: 129)  [SIX, WICKET, over-break,SIX]
+
+BATTERS
+------------------------------------------------------------
+  Rohit                        7 runs   10 balls  4s:0  6s:0  SR:70
+  Bumrah                       1 runs    1 balls  4s:0  6s:0  SR:100
+  de Kock                     19 runs   18 balls  4s:0  6s:0  SR:105.56
+  Suryakumar Yadav            33 runs   26 balls  4s:0  6s:0  SR:126.92
+  Saurabh Tiwary              15 runs   18 balls  4s:0  6s:0  SR:83.33
+  Pollard                      6 runs    9 balls  4s:0  6s:0  SR:66.67
+  Hardik Pandya               17 runs   18 balls  4s:0  6s:0  SR:94.44
+  Krunal Pandya               13 runs   15 balls  4s:0  6s:0  SR:86.67
+  Coulter-Nile                 1 runs    2 balls  4s:0  6s:0  SR:50
+  Jayant Yadav                11 runs    4 balls  4s:0  6s:0  SR:275
+
+BOWLERS
+------------------------------------------------------------
+  Nortje                     4 ov   19 runs  1 wkts  Econ:4.8
+  Avesh Khan                 4 ov   15 runs  3 wkts  Econ:3.8
+  Ashwin                     4 ov   41 runs  1 wkts  Econ:10.2
+  Rabada                     4 ov   33 runs  0 wkts  Econ:8.2
+  Axar                       4 ov   21 runs  3 wkts  Econ:5.2
+
+============================================================
+  MATCH 37621 - INNINGS 2
+============================================================
+  Score: 132/6 in 19.1 overs  |  Run Rate: 6.89
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  1  •  1  •  4                +6 runs  (Total: 6)  [over-break,FOUR]
+  Over  2:  1  1  6  •  •  W                +8 runs  (Total: 14)  [SIX, over-break,WICKET]
+  Over  3:  •  1  •  W  •  6                +7 runs  (Total: 21)  [WICKET,UDRS, over-break,SIX]
+  Over  4:  •  1  1  6  •  1                +9 runs  (Total: 30)  [SIX]
+  Over  5:  W  1  •  4  •  •                +5 runs  (Total: 35)  [WICKET, FOUR]
+  Over  6:  1  •  2  4  •  4                +11 runs  (Total: 46)  [FOUR, over-break,FOUR]
+  Over  7:  2  1  •  2  •  •                +5 runs  (Total: 51)  [TEAM_FIFTY]
+  Over  8:  1  •  •  1  1  L1               +4 runs  (Total: 55)
+  Over  9:  2  W  1  •  Wd  •  1            +5 runs  (Total: 60)  [WICKET]
+  Over 10:  1  1  •  1  1  1                +5 runs  (Total: 65)
+  Over 11:  1  •  Wd  1  1  Wd  •  4        +9 runs  (Total: 74)  [over-break,FOUR]
+  Over 12:  1  1  1  W  2  1                +6 runs  (Total: 80)  [WICKET,UDRS]
+  Over 13:  4  1  1  2  4  1                +13 runs  (Total: 93)  [FOUR, FOUR]
+  Over 14:  W  •  •  •  •  1                +1 runs  (Total: 94)  [WICKET]
+  Over 15:  •  2  1  1  1  L1               +6 runs  (Total: 100)  [over-break,TEAM_HUNDRED]
+  Over 16:  •  •  Wd  1  1  1  1            +5 runs  (Total: 105)
+  Over 17:  1  •  4  1  •  •                +6 runs  (Total: 111)  [FOUR]
+  Over 18:  •  1  1  1  1  4                +8 runs  (Total: 119)  [over-break,FOUR]
+  Over 19:  •  2  1  2  1  1                +7 runs  (Total: 126)
+  Over 20:  6                               +6 runs  (Total: 132)  [SIX]
+
+BATTERS
+------------------------------------------------------------
+  Prithvi Shaw                 6 runs    7 balls  4s:1  6s:0  SR:85.71
+  Shikhar Dhawan               8 runs    7 balls  4s:0  6s:1  SR:114.29
+  Steven Smith                 9 runs    8 balls  4s:0  6s:1  SR:112.5
+  Rishabh Pant                26 runs   22 balls  4s:3  6s:1  SR:118.18
+  Shreyas Iyer                33 runs   33 balls  4s:2  6s:0  SR:100
+  Axar Patel                   9 runs    9 balls  4s:1  6s:0  SR:100
+  Shimron Hetmyer             15 runs    8 balls  4s:2  6s:0  SR:187.5
+  Ravichandran Ashwin         20 runs   21 balls  4s:0  6s:1  SR:95.24
+
+BOWLERS
+------------------------------------------------------------
+  Trent Boult                4 ov   24 runs  1 wkts  Econ:6
+  Jayant Yadav               4 ov   31 runs  1 wkts  Econ:7.8
+  Krunal Pandya              2.1 ov   18 runs  1 wkts  Econ:8.3
+  Jasprit  Bumrah            4 ov   29 runs  1 wkts  Econ:7.2
+  Nathan Coulter-Nile        4 ov   19 runs  1 wkts  Econ:4.8
+  Kieron Pollard             1 ov    9 runs  0 wkts  Econ:9
+
+  [Win probability not available for this match]

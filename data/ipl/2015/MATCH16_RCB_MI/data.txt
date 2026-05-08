@@ -1,0 +1,66 @@
+SCORECARD
+============================================================
+
+============================================================
+  Mumbai Indians  209/7 (20 ov)  RR: 10.45
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Parthiv Patel               12   13   2   0   92.31  b D Wiese
+  Harbhajan Singh              0    1   0   0       0  run out (Bisla/Abu Nechim)
+  Rohit Sharma                42   15   3   4     280  c & b D Wiese
+  Lendl Simmons               59   44   9   2  134.09  c Aaron b Chahal
+  Kieron Pollard               5    3   1   0  166.67  c Chahal b D Wiese
+  Ambati Rayudu                0    1   0   0       0  c Chahal b D Wiese
+  Unmukt Chand                58   37   8   2  156.76  c Kohli b Chahal
+  Hardik Pandya               16    6   0   2  266.67  not out
+  Extras: 17 (b 0, lb 4, w 13, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Iqbal Abdulla                 4   0   35   0   8.75
+  Varun Aaron                   4   0   50   0   12.5
+  Abu Nechim                    4   0   59   0  14.75
+  David Wiese                   4   0   33   4   8.25
+  Yuzvendra Chahal              4   0   28   2      7
+
+  Fall of Wickets: 47-1 (Parthiv Patel, 5.5 ov), 119-2 (L Simmons, 13.3 ov), 182-3 (Chand, 17.4 ov), 188-4 (Pollard, 18.2 ov), 188-5 (Rayudu, 18.3 ov), 192-6 (Rohit Sharma, 18.5 ov), 209-7 (Harbhajan, 20 ov)
+
+============================================================
+  Royal Challengers Bangalore  191/7 (20 ov)  RR: 9.55
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Dinesh Karthik              18   11   1   1  163.64  c Chand b Malinga
+  Chris Gayle                 10   24   0   0   41.67  b Harbhajan
+  AB de Villiers              41   11   5   3  372.73  c K Pollard b Bumrah
+  Virat Kohli                 18   18   1   1     100  c Rayudu b McClenaghan
+  Iqbal Abdulla               20   15   4   0  133.33  run out (Rohit/K Pollard)
+  Manvinder Bisla             20   16   3   1     125  b Harbhajan
+  Rilee Rossouw                0    1   0   0       0  b Harbhajan
+  Abu Nechim                   1    1   0   0     100  not out
+  David Wiese                 47   25   6   2     188  not out
+  Extras: 16 (b 0, lb 1, w 13, nb 2)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Mitchell McClenaghan          4   0   43   1  10.75
+  Lasith Malinga                4   1   35   1   8.75
+  Harbhajan Singh               4   0   27   3   6.75
+  Jasprit Bumrah                4   0   39   1   9.75
+  Hardik Pandya                 3   0   37   0  12.33
+  Kieron Pollard                1   0    9   0      9
+
+  Fall of Wickets: 26-1 (Bisla, 4.6 ov), 48-2 (Gayle, 8.1 ov), 62-3 (Virat Kohli, 10.3 ov), 97-4 (Karthik, 12.1 ov), 119-5 (Rilee Rossouw, 13.1 ov), 125-6 (de Villiers, 14.2 ov), 183-7 (I Abdulla, 19.1 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

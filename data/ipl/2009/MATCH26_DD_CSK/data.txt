@@ -1,0 +1,70 @@
+SCORECARD
+============================================================
+
+============================================================
+  Chennai Super Kings  163/10 (20 ov)  RR: 8.15
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Jacob Oram                   3    7   0   0   42.86  c de Villiers b Nannes
+  Lakshmipathy Balaji          2    3   0   0   66.67  c de Villiers b Nehra
+  Muthiah Muralidaran          3    4   0   0      75  run out (de Villiers/Karthik)
+  Matthew Hayden              30   19   4   1  157.89  c de Villiers b Sangwan
+  MS Dhoni                     6    7   0   0   85.71  c Gambhir b Nannes
+  Suresh Raina                32   21   2   2  152.38  c Dilshan b Bhatia
+  Albie Morkel                 6    4   1   0     150  c &amp; b Nehra
+  S Badrinath                 45   34   4   2  132.35  b Bhatia
+  Murali Vijay                14   13   2   0  107.69  c Bhatia b Nehra
+  Shadab Jakati               13    8   2   0   162.5  c Gambhir b Nannes
+  Extras: 9 (b 4, lb 0, w 5, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Dirk Nannes                   4   0   27   3   6.75
+  Ashish Nehra                  4   0   27   3   6.75
+  Pradeep Sangwan               3   0   41   1  13.67
+  Tillakaratne Dilshan          3   0   23   0   7.67
+  Amit Mishra                   3   0   24   0      8
+  Rajat Bhatia                  3   0   17   2   5.67
+
+  Fall of Wickets: 36-1 (Vijay, 4.4 ov), 46-2 (Matthew Hayden, 5.4 ov), 112-3 (Raina, 12.3 ov), 130-4 (Badrinath, 14.5 ov), 134-5 (Albie Morkel, 15.2 ov), 144-6 (Oram, 17.2 ov), 144-7 (MS Dhoni, 17.3 ov), 151-8 (Balaji, 18.4 ov), 162-9 (Jakati, 19.4 ov), 163-10 (Muthiah Muralidaran, 19.6 ov)
+
+============================================================
+  Delhi Daredevils  145/8 (20 ov)  RR: 7.25
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Tillakaratne Dilshan        13   13   0   1     100  b Jakati
+  Dinesh Karthik              52   31   7   1  167.74  c Muralitharan b Jakati
+  Gautam Gambhir              13   14   2   0   92.86  c Raina b Tyagi
+  AB de Villiers               0    1   0   0       0  b Tyagi
+  Mithun Manhas                0    4   0   0       0  b Muralitharan
+  Amit Mishra                 11    8   1   1   137.5  not out
+  Rajat Bhatia                 2    7   0   0   28.57  c Balaji b Morkel
+  Pradeep Sangwan              0    3   0   0       0  b Jakati
+  David Warner                51   40   5   1   127.5  st Dhoni b Jakati
+  Extras: 3 (b 0, lb 2, w 0, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Albie Morkel                  4   0   32   1      8
+  Sudeep Tyagi                  3   0   18   2      6
+  Shadab Jakati                 4   0   24   4      6
+  Muthiah Muralidaran           4   0   22   1    5.5
+  Suresh Raina                  1   0    7   0      7
+  Lakshmipathy Balaji           3   0   26   0   8.67
+  Jacob Oram                    1   0   14   0     14
+
+  Fall of Wickets: 20-1 (Gambhir, 3.1 ov), 20-2 (de Villiers, 3.2 ov), 53-3 (Dilshan, 6.5 ov), 127-4 (David Warner, 15.5 ov), 128-5 (Manhas, 16.4 ov), 132-6 (Karthik, 17.2 ov), 133-7 (Sangwan, 17.6 ov), 135-8 (R Bhatia, 18.6 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

@@ -1,0 +1,60 @@
+SCORECARD
+============================================================
+
+============================================================
+  Delhi Daredevils  178/5 (20 ov)  RR: 8.9
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Dinesh Karthik              51   36   4   3  141.67  c Mohit Sharma b Hilfenhaus
+  Jean-Paul Duminy            28   17   5   0  164.71  not out
+  Kevin Pietersen              0    1   0   0       0  b Mohit Sharma
+  Murali Vijay                35   30   2   1  116.67  c du Plessis b R Jadeja
+  Laxmi Shukla                 0    2   0   0       0  c I Pandey b Ashwin
+  Kedar Jadhav                29   18   2   2  161.11  not out
+  Quinton de Kock             24   16   3   2     150  run out (Raina/R Jadeja/Mohit Sharma)
+  Extras: 11 (b 0, lb 6, w 5, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Ben Hilfenhaus                4   0   34   1    8.5
+  Ishwar Pandey                 3   1   26   0   8.67
+  Mohit Sharma                  4   0   51   1  12.75
+  Ravindra Jadeja               4   0   23   1   5.75
+  Ravichandran Ashwin           4   0   29   1   7.25
+  Dwayne Smith                  1   0    9   0      9
+
+  Fall of Wickets: 36-1 (Quinton de Kock, 4.1 ov), 37-2 (Pietersen, 4.3 ov), 108-3 (Karthik, 12.6 ov), 119-4 (L Shukla, 13.6 ov), 120-5 (Vijay, 14.2 ov)
+
+============================================================
+  Chennai Super Kings  181/2 (19.4 ov)  RR: 9.33
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Brendon McCullum            32   35   5   0   91.43  c Vijay b L Shukla
+  Dwayne Smith                79   51   4   8   154.9  c Vijay b Parnell
+  MS Dhoni                    12    5   1   1     240  not out
+  Suresh Raina                47   27   6   1  174.07  not out
+  Extras: 11 (b 4, lb 5, w 2, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Mohammed Shami                4   0   42   0   10.5
+  Wayne Parnell                 4   0   25   1   6.25
+  Jaydev Unadkat              3.4   0   47   0  13.82
+  Shahbaz Nadeem                4   0   27   0   6.75
+  Laxmi Shukla                  4   0   31   1   7.75
+
+  Fall of Wickets: 82-1 (Brendon McCullum, 11.2 ov), 168-2 (Dwayne Smith, 18.4 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

@@ -1,0 +1,66 @@
+SCORECARD
+============================================================
+
+============================================================
+  Pune Warriors  159/5 (20 ov)  RR: 7.95
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Ross Taylor                  8   13   0   0   61.54  c R Jadeja b C Morris
+  Robin Uthappa               26   33   2   0   78.79  c R Jadeja b C Morris
+  Abhishek Nayar               0    1   0   0       0  not out
+  Aaron Finch                 67   45  10   2  148.89  st M Dhoni b R Jadeja
+  Manish Pandey                9    8   1   0   112.5  b DJ Bravo
+  Steven Smith                39   16   3   3  243.75  not out
+  Mitchell Marsh               2    4   0   0      50  c A Morkel b DJ Bravo
+  Extras: 8 (b 0, lb 6, w 2, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Dirk Nannes                   4   0   42   0   10.5
+  Ravindra Jadeja               4   0   27   1   6.75
+  Ravichandran Ashwin           4   0   24   0      6
+  Chris Morris                  4   0   25   2   6.25
+  Dwayne Bravo                  4   0   35   2   8.75
+
+  Fall of Wickets: 96-1 (Aaron Finch, 12.3 ov), 101-2 (Uthappa, 14.1 ov), 118-3 (Ross Taylor, 16.1 ov), 128-4 (Mitchell Marsh, 17.1 ov), 159-5 (Manish Pandey, 19.5 ov)
+
+============================================================
+  Chennai Super Kings  135/8 (20 ov)  RR: 6.75
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Dwayne Bravo                 1    4   0   0      25  c S Smith b R Sharma
+  MS Dhoni                    10   13   0   0   76.92  c S Smith b A Dinda
+  Suresh Raina                 8   10   1   0      80  c T Suman b B Kumar
+  Albie Morkel                13   11   0   1  118.18  c A Finch b A Dinda
+  S Badrinath                 34   26   4   0  130.77  c S Smith b M Marsh
+  Ravindra Jadeja             27   22   1   1  122.73  c A Dinda b M Marsh
+  Ravichandran Ashwin         11    5   2   0     220  not out
+  Murali Vijay                24   22   2   1  109.09  c Ross Taylor b A Nayar
+  Srikkanth Anirudha           0    2   0   0       0  lbw b B Kumar
+  Chris Morris                 5    5   0   0     100  not out
+  Extras: 2 (b 0, lb 0, w 2, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Bhuvneshwar Kumar             4   1   12   2      3
+  Ashok Dinda                   4   0   34   2    8.5
+  Mitchell Marsh                4   0   35   2   8.75
+  Abhishek Nayar                3   0   21   1      7
+  Aaron Finch                   1   0    9   0      9
+  Rahul Sharma                  4   0   24   1      6
+
+  Fall of Wickets: 0-1 (Anirudha, 0.2 ov), 23-2 (Raina, 4.2 ov), 40-3 (Vijay, 6.4 ov), 86-4 (Badrinath, 12.6 ov), 98-5 (Ravindra Jadeja, 14.4 ov), 104-6 (DJ Bravo, 15.5 ov), 115-7 (MS Dhoni, 17.3 ov), 124-8 (Albie Morkel, 19.1 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

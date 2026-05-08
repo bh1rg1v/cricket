@@ -1,0 +1,166 @@
+SCORECARD
+============================================================
+
+============================================================
+  Royal Challengers Bangalore  149/8 (20 ov)  RR: 7.45
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Kohli                       33   29   4   0  113.79  c Vijay Shankar b Holder
+  Devdutt Padikkal            11   13   2   0   84.62  c Nadeem b Bhuvneshwar
+  Shahbaz Ahmed               14   10   0   1     140  c Rashid Khan b Nadeem
+  Maxwell                     59   41   5   3   143.9  c W Saha b Holder
+  de Villiers                  1    5   0   0      20  c Warner b Rashid Khan
+  Washington Sundar            8   11   1   0   72.73  c Manish Pandey b Rashid Khan
+  Christian                    1    2   0   0      50  c W Saha b T Natarajan
+  Jamieson                    12    9   2   0  133.33  c Manish Pandey b Holder
+  Extras: 10 (b 0, lb 3, w 7, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Bhuvneshwar                   4   0   30   1    7.5
+  Holder                        4   0   30   3    7.5
+  Nadeem                        4   0   36   1      9
+  T Natarajan                   4   0   32   1      8
+  Rashid Khan                   4   0   18   2    4.5
+
+  Fall of Wickets: 19-1 (Devdutt Padikkal, 2.5 ov), 47-2 (Shahbaz Ahmed, 6.1 ov), 91-3 (Kohli, 12.1 ov), 95-4 (de Villiers, 13.4 ov), 105-5 (Washington Sundar, 15.5 ov), 109-6 (Christian, 16.4 ov), 136-7 (Jamieson, 19.1 ov), 149-8 (Maxwell, 19.6 ov)
+
+============================================================
+  Sunrisers Hyderabad  143/9 (20 ov)  RR: 7.15
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Wriddhiman Saha              1    9   0   0   11.11  c Maxwell b Siraj
+  David Warner                54   37   7   1  145.95  c Christian b Jamieson
+  Manish Pandey               38   39   2   2   97.44  c Harshal Patel b Shahbaz Ahmed
+  Jonny Bairstow              12   13   1   0   92.31  c de Villiers b Shahbaz Ahmed
+  Abdul Samad                  0    2   0   0       0  c and b Shahbaz Ahmed
+  Vijay Shankar                3    5   0   0      60  c Kohli b Harshal Patel
+  Jason Holder                 4    5   0   0      80  c Christian b Siraj
+  Rashid Khan                 17    9   1   1  188.89  run out (Siraj/de Villiers)
+  Bhuvneshwar Kumar            2    2   0   0     100  not out
+  Shahbaz Nadeem               0    1   0   0       0  c Shahbaz Ahmed b Harshal Patel
+  Extras: 12 (b 4, lb 2, w 4, nb 2)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Mohammed Siraj                4   1   25   2    6.2
+  Kyle Jamieson                 3   0   30   1     10
+  Washington Sundar             2   0   14   0      7
+  Yuzvendra Chahal              4   0   29   0    7.2
+  Harshal Patel                 4   0   25   2    6.2
+  Daniel Christian              1   0    7   0      7
+  Shahbaz Ahmed                 2   0    7   3    3.5
+
+  Fall of Wickets: 13-1 (Wriddhiman Saha, 2.2 ov), 96-2 (David Warner, 13.2 ov), 115-3 (Jonny Bairstow, 16.1 ov), 115-4 (Manish Pandey, 16.2 ov), 116-5 (Abdul Samad, 16.6 ov), 123-6 (Vijay Shankar, 17.6 ov), 130-7 (Jason Holder, 18.3 ov), 142-8 (Rashid Khan, 19.4 ov), 142-9 (Shahbaz Nadeem, 19.5 ov)
+
+============================================================
+  MATCH 35628 - INNINGS 1
+============================================================
+  Score: 149/8 in 20 overs  |  Run Rate: 7.45
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  4  1  •  •  1                +6 runs  (Total: 6)  [FOUR]
+  Over  2:  4  •  •  •  4  Wd  1            +10 runs  (Total: 16)  [FOUR, FOUR]
+  Over  3:  1  1  •  •  W  Wd  1            +4 runs  (Total: 20)  [WICKET]
+  Over  4:  1  •  1  •  3  1                +6 runs  (Total: 26)
+  Over  5:  •  1  6  1  1  1                +10 runs  (Total: 36)  [SIX]
+  Over  6:  4  4  1  1  4  •                +11 runs  (Total: 47)  [FOUR, FOUR]
+  Over  7:  W  1  •  •  •  •                +1 runs  (Total: 48)  [WICKET]
+  Over  8:  1  4  Wd  •  •  1  •            +7 runs  (Total: 55)  [FOUR, TEAM_FIFTY]
+  Over  9:  1  1  •  •  •  1                +3 runs  (Total: 58)
+  Over 10:  1  1  L1  1  1  •               +5 runs  (Total: 63)
+  Over 11:  6  4  6  1  4  1                +22 runs  (Total: 85)  [SIX, FOUR, SIX, FOUR, over-break,HIGHSCORING_OVER]
+  Over 12:  2  •  Wd  1  1  •  1            +6 runs  (Total: 91)
+  Over 13:  W  •  1  •  •  •                +1 runs  (Total: 92)  [WICKET]
+  Over 14:  1  1  1  W  •  1                +4 runs  (Total: 96)  [WICKET]
+  Over 15:  4  1  1  •  •  1                +7 runs  (Total: 103)  [TEAM_HUNDRED,FOUR, DROPPED]
+  Over 16:  •  •  1  1  W  1                +3 runs  (Total: 106)  [WICKET]
+  Over 17:  1  1  1  W  •  1                +4 runs  (Total: 110)  [WICKET,UDRS]
+  Over 18:  4  L1  4  1  4  •               +14 runs  (Total: 124)  [FOUR, FOUR, FOUR, over-break,HIGHSCORING_OVER]
+  Over 19:  1  2  1  4  •  4                +12 runs  (Total: 136)  [FOUR, over-break,FOUR]
+  Over 20:  W  •  2  6  Wd  2  Wd  W  Wd    +13 runs  (Total: 149)  [WICKET, FIFTY, SIX, over-break,WICKET]
+
+BATTERS
+------------------------------------------------------------
+  Kohli                       33 runs   29 balls  4s:0  6s:0  SR:113.79
+  Devdutt Padikkal            11 runs   13 balls  4s:0  6s:0  SR:84.62
+  Shahbaz Ahmed               14 runs   10 balls  4s:0  6s:0  SR:140
+  Maxwell                     59 runs   41 balls  4s:0  6s:0  SR:143.9
+  de Villiers                  1 runs    5 balls  4s:0  6s:0  SR:20
+  Washington Sundar            8 runs   11 balls  4s:0  6s:0  SR:72.73
+  Christian                    1 runs    2 balls  4s:0  6s:0  SR:50
+  Jamieson                    12 runs    9 balls  4s:0  6s:0  SR:133.33
+  Harshal Patel                0 runs    0 balls  4s:0  6s:0  SR:0
+
+BOWLERS
+------------------------------------------------------------
+  Bhuvneshwar                4 ov   30 runs  1 wkts  Econ:7.5
+  Holder                     4 ov   30 runs  3 wkts  Econ:7.5
+  Nadeem                     4 ov   36 runs  1 wkts  Econ:9
+  T Natarajan                4 ov   32 runs  1 wkts  Econ:8
+  Rashid Khan                4 ov   18 runs  2 wkts  Econ:4.5
+
+============================================================
+  MATCH 35628 - INNINGS 2
+============================================================
+  Score: 143/9 in 20 overs  |  Run Rate: 7.15
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  •  •  •  •  B4               +4 runs  (Total: 4)  [over-break,FOUR]
+  Over  2:  •  Wd  1  1  2  4  •            +9 runs  (Total: 13)  [FOUR]
+  Over  3:  •  W  •  •  •  Wd  1            +2 runs  (Total: 15)  [WICKET]
+  Over  4:  •  6  1  4  •  6                +17 runs  (Total: 32)  [SIX, FOUR, over-break,SIX,HIGHSCORING_OVER]
+  Over  5:  •  •  •  4  1  Wd  •            +6 runs  (Total: 38)  [FOUR]
+  Over  6:  •  1  2  4  4  1                +12 runs  (Total: 50)  [FOUR, FOUR, over-break,TEAM_FIFTY]
+  Over  7:  1  Wd  4  •  1  •  •            +7 runs  (Total: 57)  [FOUR]
+  Over  8:  1  1  •  6  •  •                +8 runs  (Total: 65)  [SIX,PARTNERSHIP]
+  Over  9:  1  1  1  2  •  •                +5 runs  (Total: 70)
+  Over 10:  4  1  1  •  •  1                +7 runs  (Total: 77)  [FOUR]
+  Over 11:  4  •  4  1  1  •                +10 runs  (Total: 87)  [FOUR, FOUR]
+  Over 12:  •  •  •  •  1  1                +2 runs  (Total: 89)
+  Over 13:  2  2  1  1  •  1                +7 runs  (Total: 96)  [FIFTY]
+  Over 14:  •  W  2  •  •  4                +6 runs  (Total: 102)  [WICKET, over-break,TEAM_HUNDRED,FOUR]
+  Over 15:  1  •  1  2  1  1                +6 runs  (Total: 108)
+  Over 16:  •  3  1  •  2  1                +7 runs  (Total: 115)
+  Over 17:  W  W  •  1  •  W                +1 runs  (Total: 116)  [WICKET, WICKET, over-break,WICKET]
+  Over 18:  1  1  1  2  N  1  W             +7 runs  (Total: 123)  [RUNOUT_MISS, over-break,WICKET]
+  Over 19:  6  1  W  2  2  •                +11 runs  (Total: 134)  [SIX, WICKET]
+  Over 20:  1  2  •  N4  W  W  1            +9 runs  (Total: 143)  [FOUR, WICKET, WICKET]
+
+BATTERS
+------------------------------------------------------------
+  Wriddhiman Saha              1 runs    9 balls  4s:0  6s:0  SR:11.11
+  Shahbaz Nadeem               0 runs    1 balls  4s:0  6s:0  SR:0
+  T Natarajan                  0 runs    0 balls  4s:0  6s:0  SR:0
+  David Warner                54 runs   37 balls  4s:7  6s:1  SR:145.95
+  Manish Pandey               38 runs   39 balls  4s:2  6s:2  SR:97.44
+  Jonny Bairstow              12 runs   13 balls  4s:1  6s:0  SR:92.31
+  Abdul Samad                  0 runs    2 balls  4s:0  6s:0  SR:0
+  Vijay Shankar                3 runs    5 balls  4s:0  6s:0  SR:60
+  Jason Holder                 4 runs    5 balls  4s:0  6s:0  SR:80
+  Rashid Khan                 17 runs    9 balls  4s:1  6s:1  SR:188.89
+  Bhuvneshwar Kumar            2 runs    2 balls  4s:0  6s:0  SR:100
+
+BOWLERS
+------------------------------------------------------------
+  Mohammed Siraj             4 ov   25 runs  2 wkts  Econ:6.2
+  Kyle Jamieson              3 ov   30 runs  1 wkts  Econ:10
+  Washington Sundar          2 ov   14 runs  0 wkts  Econ:7
+  Yuzvendra Chahal           4 ov   29 runs  0 wkts  Econ:7.2
+  Harshal Patel              4 ov   25 runs  2 wkts  Econ:6.2
+  Daniel Christian           1 ov    7 runs  0 wkts  Econ:7
+  Shahbaz Ahmed              2 ov    7 runs  3 wkts  Econ:3.5
+
+  [Win probability not available for this match]

@@ -1,0 +1,62 @@
+SCORECARD
+============================================================
+
+============================================================
+  Sunrisers Hyderabad  205/5 (20 ov)  RR: 10.25
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Irfan Pathan                 1    2   0   0      50  c D Miller b R Dhawan
+  Moises Henriques             0    1   0   0       0  c D Miller b Sandeep Sharma
+  Shikhar Dhawan              45   37   5   2  121.62  c Shivam Sharma b R Dhawan
+  Naman Ojha                  79   36   4   7  219.44  not out
+  Aaron Finch                 20   23   2   0   86.96  b Shivam Sharma
+  David Warner                44   23   3   3   191.3  run out (Vohra/Sandeep Sharma)
+  Karn Sharma                  1    1   0   0     100  not out
+  Extras: 15 (b 0, lb 1, w 11, nb 3)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Sandeep Sharma                4   0   65   1  16.25
+  Mitchell Johnson              4   0   26   0    6.5
+  Shivam Sharma                 4   0   31   1   7.75
+  Axar Patel                    4   0   40   0     10
+  Rishi Dhawan                  4   0   42   2   10.5
+
+  Fall of Wickets: 65-1 (Aaron Finch, 8.1 ov), 88-2 (Dhawan, 11.1 ov), 169-3 (David Warner, 18.1 ov), 183-4 (Moises Henriques, 18.4 ov), 196-5 (Irfan Pathan, 19.2 ov)
+
+============================================================
+  Kings XI Punjab  211/4 (18.4 ov)  RR: 11.47
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Virender Sehwag              4    2   1   0     200  c & b Bhuvneshwar
+  George Bailey               35   19   2   3  184.21  not out
+  Wriddhiman Saha             54   26   8   2  207.69  st N Ojha b Karn Sharma
+  David Miller                24   24   1   0     100  not out
+  Glenn Maxwell               43   22   2   5  195.45  c Steyn b A Mishra
+  Manan Vohra                 47   20   5   2     235  run out (Bhuvneshwar)
+  Extras: 4 (b 0, lb 3, w 0, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Bhuvneshwar Kumar           3.4   0   38   1  11.18
+  Dale Steyn                    4   0   51   0  12.75
+  Moises Henriques              2   0   36   0     18
+  Karn Sharma                   4   0   46   1   11.5
+  Amit Mishra                   4   0   32   1      8
+  Irfan Pathan                  1   0    5   0      5
+
+  Fall of Wickets: 4-1 (Sehwag, 0.2 ov), 95-2 (W Saha, 7.1 ov), 125-3 (Vohra, 9.1 ov), 159-4 (Glenn Maxwell, 13.1 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

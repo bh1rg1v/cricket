@@ -1,0 +1,69 @@
+SCORECARD
+============================================================
+
+============================================================
+  Sunrisers Hyderabad  126/6 (20 ov)  RR: 6.3
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Parthiv Patel               19   18   3   0  105.56  b A Dinda
+  Kumar Sangakkara            15   16   2   0   93.75  b R Sharma
+  Cameron White               10   18   0   0   55.56  c M Marsh b Marlon Samuels
+  Dwaraka Ravi Teja            4    4   0   0     100  not out
+  Thisara Perera              30   18   3   1  166.67  c M Pandey b A Dinda
+  Ashish Reddy                 7    4   1   0     175  not out
+  Akshath Reddy               27   30   2   0      90  b Y Singh
+  Hanuma Vihari               11   12   1   0   91.67  c A Dinda b B Kumar
+  Extras: 3 (b 0, lb 1, w 2, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Marlon Samuels                4   0   34   1    8.5
+  Bhuvneshwar Kumar             4   0   17   1   4.25
+  Ashok Dinda                   4   0   29   2   7.25
+  Angelo Mathews                2   0   16   0      8
+  Rahul Sharma                  4   0   21   1   5.25
+  Yuvraj Singh                  2   0    8   1      4
+
+  Fall of Wickets: 34-1 (Parthiv Patel, 5.2 ov), 60-2 (Sangakkara, 9.5 ov), 72-3 (Akshath Reddy, 12.6 ov), 83-4 (Cameron White, 14.2 ov), 109-5 (Thisara Perera, 17.5 ov), 116-6 (Hanuma Vihari, 18.5 ov)
+
+============================================================
+  Pune Warriors  104/10 (18.5 ov)  RR: 5.62
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Yuvraj Singh                 2    5   0   0      40  st P Patel b A Mishra
+  Marlon Samuels               5    9   1   0   55.56  c Cameron White b T Perera
+  Ross Taylor                 19   19   0   0     100  b Ashish Reddy
+  Robin Uthappa               24   22   2   1  109.09  c P Patel b T Perera
+  Abhishek Nayar              19   14   2   0  135.71  c I Sharma b A Mishra
+  Ashok Dinda                  0    2   0   0       0  c Cameron White b D Steyn
+  Angelo Mathews               8    6   1   0  133.33  not out
+  Bhuvneshwar Kumar            3    3   0   0     100  b D Steyn
+  Manish Pandey               15   29   0   0   51.72  c Cameron White b A Mishra
+  Mitchell Marsh               7    3   0   1  233.33  run out (T Perera)
+  Rahul Sharma                 0    1   0   0       0  b D Steyn
+  Extras: 2 (b 0, lb 0, w 2, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Dale Steyn                  3.5   0   11   3   3.14
+  Ishant Sharma                 4   0   22   0    5.5
+  Thisara Perera                4   0   29   2   7.25
+  Amit Mishra                   4   0   19   3   4.75
+  Cameron White                 1   0    2   0      2
+  Ashish Reddy                  2   0   21   1   10.5
+
+  Fall of Wickets: 36-1 (Uthappa, 6.5 ov), 42-2 (Samuels, 8.3 ov), 47-3 (Yuvraj, 9.5 ov), 50-4 (Manish Pandey, 11.2 ov), 83-5 (Nayar, 15.5 ov), 86-6 (Ross Taylor, 16.2 ov), 94-7 (Mitchell Marsh, 17.1 ov), 104-8 (Bhuvneshwar Kumar, 18.2 ov), 104-9 (Rahul Sharma, 18.3 ov), 104-10 (Dinda, 18.5 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

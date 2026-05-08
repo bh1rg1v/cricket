@@ -1,0 +1,64 @@
+SCORECARD
+============================================================
+
+============================================================
+  Kings XI Punjab  181/5 (20 ov)  RR: 9.05
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Brett Lee                    1    1   0   0     100  not out
+  Yuvraj Singh                36   20   3   2     180  c White b Kallis
+  Irfan Pathan                16    5   2   1     320  run out (Pandey/Uthappa)
+  Kumar Sangakkara            45   27   8   0  166.67  c Kallis b Steyn
+  Shaun Marsh                  2    9   0   0   22.22  c Dravid b Vinay Kumar
+  Ravi Bopara                 42   33   3   0  127.27  not out
+  Manvinder Bisla             28   26   4   0  107.69  b Kumble
+  Extras: 11 (b 2, lb 1, w 7, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Praveen Kumar                 4   0   37   0   9.25
+  Vinay Kumar                   3   0   24   1      8
+  Dale Steyn                    4   0   31   1   7.75
+  Jacques Kallis                4   0   45   1  11.25
+  Anil Kumble                   4   0   33   1   8.25
+  Kevin Pietersen               1   0    8   0      8
+
+  Fall of Wickets: 3-1 (Shaun Marsh, 1.4 ov), 66-2 (Bisla, 8.6 ov), 84-3 (Sangakkara, 11.1 ov), 149-4 (Yuvraj, 17.4 ov), 180-5 (Irfan Pathan, 19.5 ov)
+
+============================================================
+  Royal Challengers Bangalore  184/4 (19.1 ov)  RR: 9.6
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Jacques Kallis               9   10   1   0      90  c Bisla b Srivastava
+  Cameron White                6    3   1   0     200  not out
+  Kevin Pietersen             66   44   7   1     150  not out
+  Robin Uthappa               22    8   1   2     275  c Bisla b Pathan
+  Virat Kohli                 42   26   4   1  161.54  c Pathan b Bipul Sharma
+  Manish Pandey               29   25   3   0     116  run out (Bipul Sharma)
+  Extras: 10 (b 0, lb 3, w 6, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  S Sreesanth                   2   0   14   0      7
+  Brett Lee                     4   0   48   0     12
+  Shalabh Srivastava            2   0   21   1   10.5
+  Piyush Chawla                 2   0   22   0     11
+  Bipul Sharma                  4   0   26   1    6.5
+  Yuvraj Singh                  2   0   14   0      7
+  Irfan Pathan                3.1   0   36   1  11.61
+
+  Fall of Wickets: 28-1 (Kallis, 4.1 ov), 54-2 (Manish Pandey, 6.6 ov), 130-3 (Virat Kohli, 15.3 ov), 170-4 (Uthappa, 17.6 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

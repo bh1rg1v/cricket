@@ -1,0 +1,145 @@
+SCORECARD
+============================================================
+
+============================================================
+  Kolkata Knight Riders  148/5 (20 ov)  RR: 7.4
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Tripathi                     7    9   1   0   77.78  c Suryakumar Yadav b Boult
+  Shubman Gill                21   23   2   0    91.3  c Pollard b Rahul Chahar
+  Nitish Rana                  5    6   1   0   83.33  c de Kock b Coulter-Nile
+  Karthik                      4    8   1   0      50  b Rahul Chahar
+  Morgan                      39   29   2   2  134.48  not out
+  Russell                     12    9   1   1  133.33  c de Kock b Bumrah
+  Cummins                     53   36   5   2  147.22  not out
+  Extras: 7 (b 0, lb 2, w 5, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Boult                         4   0   32   1      8
+  Coulter-Nile                  4   0   51   1   12.8
+  Bumrah                        4   0   22   1    5.5
+  Krunal Pandya                 4   0   23   0    5.8
+  Rahul Chahar                  4   0   18   2    4.5
+
+  Fall of Wickets: 18-1 (Tripathi, 2.6 ov), 33-2 (Nitish Rana, 5.3 ov), 42-3 (Shubman Gill, 7.3 ov), 42-4 (Karthik, 7.4 ov), 61-5 (Russell, 10.4 ov)
+
+============================================================
+  Mumbai Indians  149/2 (16.5 ov)  RR: 8.85
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Rohit Sharma                35   36   5   1   97.22  c Karthik b Shivam Mavi
+  Quinton de Kock             78   44   9   3  177.27  not out
+  Suryakumar Yadav            10   10   1   0     100  b Chakravarthy
+  Hardik Pandya               21   11   3   1  190.91  not out
+  Extras: 5 (b 0, lb 5, w 0, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Chris Green                 2.5   0   24   0    8.5
+  Pat Cummins                   3   0   28   0    9.3
+  Prasidh Krishna               2   0   30   0     15
+  Andre Russell                 2   0   15   0    7.5
+  Varun Chakravarthy            4   0   23   1    5.8
+  Shivam Mavi                   3   0   24   1      8
+
+  Fall of Wickets: 94-1 (Rohit Sharma, 10.3 ov), 111-2 (Suryakumar Yadav, 13.3 ov)
+
+============================================================
+  MATCH 30450 - INNINGS 1
+============================================================
+  Score: 148/5 in 20 overs  |  Run Rate: 7.4
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  1  •  •  Wd  •  1            +3 runs  (Total: 3)
+  Over  2:  •  4  Wd  Wd  1  •  Wd  1  •    +9 runs  (Total: 12)  [FOUR]
+  Over  3:  •  •  1  1  4  W                +6 runs  (Total: 18)  [FOUR, over-break,WICKET]
+  Over  4:  •  •  2  1  •  4                +7 runs  (Total: 25)  [over-break,FOUR]
+  Over  5:  1  •  1  •  1  •                +3 runs  (Total: 28)
+  Over  6:  4  1  W  •  •  •                +5 runs  (Total: 33)  [FOUR, WICKET]
+  Over  7:  1  •  •  L1  1  4               +7 runs  (Total: 40)  [over-break,FOUR]
+  Over  8:  •  2  W  W  1  •                +3 runs  (Total: 43)  [WICKET, WICKET]
+  Over  9:  1  •  1  •  6  •                +8 runs  (Total: 51)  [TEAM_FIFTY,SIX]
+  Over 10:  2  •  •  •  4  •                +6 runs  (Total: 57)  [FOUR]
+  Over 11:  •  4  •  W  •  1  Wd            +6 runs  (Total: 63)  [FOUR, WICKET]
+  Over 12:  •  1  •  1  1  •                +3 runs  (Total: 66)
+  Over 13:  4  1  1  •  6  4                +16 runs  (Total: 82)  [FOUR, SIX, over-break,FOUR,HIGHSCORING_OVER]
+  Over 14:  1  2  1  L1  2  •               +7 runs  (Total: 89)
+  Over 15:  1  •  2  2  1  •                +6 runs  (Total: 95)
+  Over 16:  •  1  1  2  •  •                +4 runs  (Total: 99)
+  Over 17:  4  1  •  4  •  •                +9 runs  (Total: 108)  [TEAM_HUNDRED,FOUR, FOUR]
+  Over 18:  2  1  1  1  •  •                +5 runs  (Total: 113)  [PARTNERSHIP, over-break,DROPPED]
+  Over 19:  1  6  4  1  1  1                +14 runs  (Total: 127)  [SIX, FOUR, over-break,HIGHSCORING_OVER]
+  Over 20:  4  1  6  2  2  6                +21 runs  (Total: 148)  [FIFTY,FOUR, SIX, over-break,SIX,HIGHSCORING_OVER]
+
+BATTERS
+------------------------------------------------------------
+  Tripathi                     7 runs    9 balls  4s:0  6s:0  SR:77.78
+  Shubman Gill                21 runs   23 balls  4s:0  6s:0  SR:91.3
+  Nitish Rana                  5 runs    6 balls  4s:0  6s:0  SR:83.33
+  Karthik                      4 runs    8 balls  4s:0  6s:0  SR:50
+  Morgan                      39 runs   29 balls  4s:0  6s:0  SR:134.48
+  Russell                     12 runs    9 balls  4s:0  6s:0  SR:133.33
+  Cummins                     53 runs   36 balls  4s:0  6s:0  SR:147.22
+
+BOWLERS
+------------------------------------------------------------
+  Boult                      4 ov   32 runs  1 wkts  Econ:8
+  Coulter-Nile               4 ov   51 runs  1 wkts  Econ:12.8
+  Bumrah                     4 ov   22 runs  1 wkts  Econ:5.5
+  Krunal Pandya              4 ov   23 runs  0 wkts  Econ:5.8
+  Rahul Chahar               4 ov   18 runs  2 wkts  Econ:4.5
+
+============================================================
+  MATCH 30450 - INNINGS 2
+============================================================
+  Score: 149/2 in 16.5 overs  |  Run Rate: 8.85
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  4  •  1  •  •  2                +7 runs  (Total: 7)  [FOUR]
+  Over  2:  L4  •  4  •  L1  •              +9 runs  (Total: 16)  [FOUR, FOUR]
+  Over  3:  •  4  4  1  4  1                +14 runs  (Total: 30)  [FOUR, FOUR, FOUR, over-break,HIGHSCORING_OVER]
+  Over  4:  4  4  1  •  •  •                +9 runs  (Total: 39)  [FOUR, FOUR]
+  Over  5:  4  •  4  •  1  •                +9 runs  (Total: 48)  [FOUR, FOUR,DROPPED]
+  Over  6:  1  •  •  1  1  •                +3 runs  (Total: 51)  [TEAM_FIFTY,PARTNERSHIP]
+  Over  7:  4  1  •  1  6  4                +16 runs  (Total: 67)  [FOUR, SIX, over-break,FOUR,HIGHSCORING_OVER]
+  Over  8:  •  2  1  1  •  •                +4 runs  (Total: 71)
+  Over  9:  •  •  4  6  1  1                +12 runs  (Total: 83)  [FOUR, FIFTY,SIX]
+  Over 10:  •  •  6  •  1  •                +7 runs  (Total: 90)  [SIX]
+  Over 11:  •  4  W  •  •  •                +4 runs  (Total: 94)  [FOUR, WICKET]
+  Over 12:  1  1  2  1  2  2                +9 runs  (Total: 103)  [TEAM_HUNDRED]
+  Over 13:  1  •  1  •  1  4                +7 runs  (Total: 110)  [over-break,FOUR]
+  Over 14:  •  1  W  •  1  1                +3 runs  (Total: 113)  [WICKET]
+  Over 15:  2  •  4  6  1  •                +13 runs  (Total: 126)  [FOUR, SIX]
+  Over 16:  1  4  •  4  6  •                +15 runs  (Total: 141)  [FOUR, FOUR, SIX, over-break,HIGHSCORING_OVER]
+  Over 17:  1  1  1  4  1                   +8 runs  (Total: 149)  [FOUR]
+
+BATTERS
+------------------------------------------------------------
+  Rohit Sharma                35 runs   36 balls  4s:5  6s:1  SR:97.22
+  Quinton de Kock             78 runs   44 balls  4s:9  6s:3  SR:177.27
+  Suryakumar Yadav            10 runs   10 balls  4s:1  6s:0  SR:100
+  Hardik Pandya               21 runs   11 balls  4s:3  6s:1  SR:190.91
+
+BOWLERS
+------------------------------------------------------------
+  Chris Green                2.5 ov   24 runs  0 wkts  Econ:8.5
+  Pat Cummins                3 ov   28 runs  0 wkts  Econ:9.3
+  Prasidh Krishna            2 ov   30 runs  0 wkts  Econ:15
+  Andre Russell              2 ov   15 runs  0 wkts  Econ:7.5
+  Varun Chakravarthy         4 ov   23 runs  1 wkts  Econ:5.8
+  Shivam Mavi                3 ov   24 runs  1 wkts  Econ:8
+
+  [Win probability not available for this match]

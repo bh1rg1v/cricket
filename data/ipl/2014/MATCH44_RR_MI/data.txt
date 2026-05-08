@@ -1,0 +1,64 @@
+SCORECARD
+============================================================
+
+============================================================
+  Mumbai Indians  178/3 (20 ov)  RR: 8.9
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Rohit Sharma                40   19   3   4  210.53  run out (Faulkner)
+  Lendl Simmons               62   51   6   2  121.57  c K Cooper b Ankit Sharma
+  Kieron Pollard              14   12   0   1  116.67  not out
+  Michael Hussey              56   39   3   2  143.59  c K Cooper b Ankit Sharma
+  Extras: 6 (b 0, lb 3, w 2, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Ankit Sharma                  4   0   23   2   5.75
+  Dhawal Kulkarni               4   0   27   0   6.75
+  James Faulkner                4   0   47   0  11.75
+  Kevon Cooper                  3   0   27   0      9
+  Stuart Binny                  1   0   12   0     12
+  Rajat Bhatia                  4   0   39   0   9.75
+
+  Fall of Wickets: 120-1 (L Simmons, 14.3 ov), 122-2 (M Hussey, 14.6 ov), 178-3 (Rohit Sharma, 20 ov)
+
+============================================================
+  Rajasthan Royals  153/8 (20 ov)  RR: 7.65
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Shane Watson                 5    6   1   0   83.33  c Rayudu b P Ojha
+  Brad Hodge                  40   30   0   3  133.33  c Rohit b K Santokie
+  Rajat Bhatia                 6    4   1   0     150  not out
+  Stuart Binny                 2   10   0   0      20  st Tare b Shreyas Gopal
+  Kevon Cooper                 5    8   0   0    62.5  c K Pollard b Harbhajan
+  James Faulkner              31   21   1   2  147.62  not out
+  Ankit Sharma                 4    3   0   0  133.33  c Rayudu b Shreyas Gopal
+  Unmukt Chand                 2    9   0   0   22.22  c M Hussey b P Ojha
+  Karun Nair                  48   24   4   3     200  c K Santokie b Harbhajan
+  Sanju Samson                 2    5   0   0      40  c Rayudu b K Santokie
+  Extras: 8 (b 0, lb 1, w 7, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Jasprit Bumrah                3   0   23   0   7.67
+  Krishmar Santokie             4   0   50   2   12.5
+  Pragyan Ojha                  4   0   30   2    7.5
+  Kieron Pollard                1   0   11   0     11
+  Harbhajan Singh               4   0   13   2   3.25
+  Shreyas Gopal                 4   0   25   2   6.25
+
+  Fall of Wickets: 17-1 (Chand, 2.3 ov), 38-2 (Shane Watson, 4.2 ov), 42-3 (Sanju Samson, 5.3 ov), 61-4 (Cooper, 7.4 ov), 66-5 (Ankit Sharma, 8.3 ov), 69-6 (Binny, 10.3 ov), 75-7 (Karun Nair, 11.6 ov), 144-8 (Hodge, 18.5 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

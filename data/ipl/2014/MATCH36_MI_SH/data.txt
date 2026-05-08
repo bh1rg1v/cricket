@@ -1,0 +1,60 @@
+SCORECARD
+============================================================
+
+============================================================
+  Sunrisers Hyderabad  157/3 (20 ov)  RR: 7.85
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Shikhar Dhawan              11   11   2   0     100  b Malinga
+  Naman Ojha                   7    3   0   1  233.33  not out
+  Aaron Finch                 68   62   7   2  109.68  c K Pollard b Malinga
+  David Warner                55   31   6   2  177.42  not out
+  KL Rahul                    10   13   1   0   76.92  run out (Rohit/C Gautam)
+  Extras: 6 (b 0, lb 1, w 5, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Corey Anderson                2   0   17   0    8.5
+  Jasprit Bumrah                4   0   24   0      6
+  Harbhajan Singh               4   0   27   0   6.75
+  Lasith Malinga                4   0   35   2   8.75
+  Pragyan Ojha                  4   0   32   0      8
+  Kieron Pollard                2   0   21   0   10.5
+
+  Fall of Wickets: 31-1 (Dhawan, 4.6 ov), 70-2 (KL Rahul, 9.5 ov), 133-3 (Aaron Finch, 18.5 ov)
+
+============================================================
+  Mumbai Indians  160/3 (18.4 ov)  RR: 8.7
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Rohit Sharma                14    6   3   0  233.33  not out
+  Lendl Simmons               68   50   5   4     136  b Bhuvneshwar
+  Kieron Pollard               6    7   0   0   85.71  not out
+  CM Gautam                    1    3   0   0   33.33  c Dhawan b Bhuvneshwar
+  Ambati Rayudu               68   46   7   2  147.83  c & b Henriques
+  Extras: 3 (b 0, lb 0, w 3, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Dale Steyn                    4   0   29   0   7.25
+  Bhuvneshwar Kumar             4   0   21   2   5.25
+  Irfan Pathan                  2   0   29   0   14.5
+  Amit Mishra                   3   0   33   0     11
+  Karn Sharma                 2.4   0   25   0  10.42
+  Moises Henriques              3   0   23   1   7.67
+
+  Fall of Wickets: 2-1 (Gautam, 1.2 ov), 132-2 (L Simmons, 15.5 ov), 141-3 (Rayudu, 16.5 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

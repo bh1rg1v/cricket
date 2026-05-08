@@ -1,0 +1,68 @@
+SCORECARD
+============================================================
+
+============================================================
+  Sunrisers Hyderabad  208/7 (20 ov)  RR: 10.4
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Yuvraj Singh                38   23   4   2  165.22  c Watson b C Jordan
+  Moises Henriques             4    5   0   0      80  c Chahal b C Jordan
+  Shikhar Dhawan              28   25   3   1     112  c C Jordan b Chahal
+  Naman Ojha                   7    4   1   0     175  run out (Watson)
+  Bhuvneshwar Kumar            1    1   0   0     100  not out
+  David Warner                69   38   8   3  181.58  c I Abdulla b Aravind
+  Bipul Sharma                 5    3   1   0  166.67  c Chahal b C Jordan
+  Ben Cutting                 39   15   3   4     260  not out
+  Deepak Hooda                 3    6   0   0      50  c Kohli b Aravind
+  Extras: 14 (b 1, lb 2, w 11, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Sreenath Aravind              4   0   30   2    7.5
+  Chris Gayle                   3   0   24   0      8
+  Shane Watson                  4   0   61   0  15.25
+  Yuzvendra Chahal              4   0   35   1   8.75
+  Iqbal Abdulla                 1   0   10   0     10
+  Chris Jordan                  4   0   45   3  11.25
+
+  Fall of Wickets: 63-1 (Dhawan, 6.4 ov), 97-2 (Moises Henriques, 9.5 ov), 125-3 (David Warner, 13.3 ov), 147-4 (Deepak Hooda, 15.6 ov), 148-5 (Yuvraj, 16.1 ov), 158-6 (Naman Ojha, 17.1 ov), 174-7 (Bipul Sharma, 18.4 ov)
+
+============================================================
+  Royal Challengers Bangalore  200/7 (20 ov)  RR: 10
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Shane Watson                11    9   0   1  122.22  c Henriques b Mustafizur
+  Chris Gayle                 76   38   4   8     200  c Bipul Sharma b Ben Cutting
+  AB de Villiers               5    6   0   0   83.33  c Henriques b Bipul Sharma
+  Virat Kohli                 54   35   5   2  154.29  b Barinder
+  Stuart Binny                 9    7   0   1  128.57  run out (Deepak Hooda/N Ojha)
+  Iqbal Abdulla                4    2   1   0     200  not out
+  Chris Jordan                 3    4   0   0      75  run out (N Ojha)
+  Sachin Baby                 18   10   1   1     180  not out
+  KL Rahul                    11    9   1   0  122.22  b Ben Cutting
+  Extras: 9 (b 0, lb 5, w 4, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Bhuvneshwar Kumar             4   0   25   0   6.25
+  Barinder Sran                 3   0   41   1  13.67
+  Ben Cutting                   4   0   35   2   8.75
+  Mustafizur Rahman             4   0   37   1   9.25
+  Moises Henriques              3   0   40   0  13.33
+  Bipul Sharma                  2   0   17   1    8.5
+
+  Fall of Wickets: 114-1 (Gayle, 10.3 ov), 140-2 (Virat Kohli, 12.5 ov), 148-3 (de Villiers, 13.5 ov), 160-4 (KL Rahul, 15.3 ov), 164-5 (Shane Watson, 16.3 ov), 180-6 (Binny, 18.1 ov), 194-7 (Chris Jordan, 19.3 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

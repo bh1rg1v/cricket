@@ -1,0 +1,60 @@
+SCORECARD
+============================================================
+
+============================================================
+  Royal Challengers Bangalore  140/4 (20 ov)  RR: 7
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Tillakaratne Dilshan        59   52   4   2  113.46  not out
+  AB de Villiers              38   36   3   1  105.56  c & b K Pollard
+  Virat Kohli                 12   19   2   0   63.16  c D Jacobs b K Pollard
+  Saurabh Tiwary              16   10   3   0     160  not out
+  Mayank Agarwal               0    1   0   0       0  b L Malinga
+  Asad Pathan                  0    2   0   0       0  b L Malinga
+  Extras: 15 (b 4, lb 7, w 4, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Lasith Malinga                4   0   32   2      8
+  Munaf Patel                   3   0   10   0   3.33
+  Kieron Pollard                4   0   25   2   6.25
+  Ali Murtaza                   4   0   26   0    6.5
+  Harbhajan Singh               4   0   27   0   6.75
+  James Franklin                1   0    9   0      9
+
+  Fall of Wickets: 0-1 (Mayank Agarwal, 0.1 ov), 19-2 (Virat Kohli, 4.3 ov), 110-3 (de Villiers, 16.5 ov), 112-4 (Asad Pathan, 17.3 ov)
+
+============================================================
+  Mumbai Indians  143/1 (18.3 ov)  RR: 7.73
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Sachin Tendulkar            55   46   7   0  119.57  not out
+  Ambati Rayudu               63   50   9   0     126  not out
+  Davy Jacobs                 22   16   2   2   137.5  b D Nannes
+  Extras: 3 (b 0, lb 1, w 1, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Zaheer Khan                   4   0   36   0      9
+  Daniel Vettori                4   0   18   0    4.5
+  Dirk Nannes                   1   1    0   1      0
+  Abhimanyu Mithun              3   0   31   0  10.33
+  Virat Kohli                   2   0   15   0    7.5
+  Tillakaratne Dilshan          1   0   12   0     12
+  Asad Pathan                 3.3   0   30   0   9.09
+
+  Fall of Wickets: 33-1 (D Jacobs, 4.2 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

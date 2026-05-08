@@ -1,0 +1,155 @@
+SCORECARD
+============================================================
+
+============================================================
+  Chennai Super Kings  169/5 (20 ov)  RR: 8.45
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Ruturaj Gaikwad             73   48   5   5  152.08  c Abhinav Manohar b Yash Dayal
+  Uthappa                      3   10   0   0      30  lbw b Shami
+  Moeen                        1    3   0   0   33.33  b Alzarri Joseph
+  Rayudu                      46   31   4   2  148.39  c Vijay Shankar b Alzarri Joseph
+  Shivam Dube                 19   17   2   0  111.76  run out (Miller/Lockie Ferguson)
+  Ravindra Jadeja             22   12   0   2  183.33  not out
+  Extras: 5 (b 0, lb 0, w 4, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Shami                         4   0   20   1      5
+  Yash Dayal                    4   0   40   1     10
+  Alzarri Joseph                4   0   34   2    8.5
+  Lockie Ferguson               4   0   46   0   11.5
+  Rashid Khan                   4   0   29   0    7.2
+
+  Fall of Wickets: 7-1 (Uthappa, 2.2 ov), 32-2 (Moeen, 5.2 ov), 124-3 (Rayudu, 14.3 ov), 131-4 (Ruturaj Gaikwad, 16.2 ov), 169-5 (Shivam Dube, 20 ov)
+
+============================================================
+  Gujarat Titans  170/7 (19.5 ov)  RR: 8.57
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Wriddhiman Saha             11   18   0   0   61.11  c Ruturaj Gaikwad b Ravindra Jadeja
+  Shubman Gill                 0    1   0   0       0  c Uthappa b Mukesh Choudhary
+  Vijay Shankar                0    2   0   0       0  c Dhoni b M Theekshana
+  Abhinav Manohar             12   12   2   0     100  c Moeen b M Theekshana
+  David Miller                94   51   8   6  184.31  not out
+  Rahul Tewatia                6   14   0   0   42.86  c Ravindra Jadeja b DJ Bravo
+  Rashid Khan                 40   21   2   3  190.48  c Moeen b DJ Bravo
+  Alzarri Joseph               0    1   0   0       0  c Chris Jordan b DJ Bravo
+  Extras: 7 (b 4, lb 1, w 1, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Mukesh Choudhary              3   0   18   1      6
+  Maheesh Theekshana            4   0   24   2      6
+  Chris Jordan                3.5   0   58   0   15.1
+  Ravindra Jadeja               3   0   25   1    8.3
+  Moeen Ali                     2   0   17   0    8.5
+  Dwayne Bravo                  4   1   23   3    5.8
+
+  Fall of Wickets: 1-1 (Shubman Gill, 0.6 ov), 2-2 (Vijay Shankar, 1.3 ov), 16-3 (Abhinav Manohar, 3.5 ov), 48-4 (Wriddhiman Saha, 7.6 ov), 87-5 (Rahul Tewatia, 12.4 ov), 157-6 (Rashid Khan, 18.5 ov), 157-7 (Alzarri Joseph, 18.6 ov)
+
+============================================================
+  MATCH 46026 - INNINGS 1
+============================================================
+  Score: 169/5 in 20 overs  |  Run Rate: 8.45
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  •  1  •  Wd  •  1            +3 runs  (Total: 3)
+  Over  2:  •  •  1  1  •  1  Wd            +4 runs  (Total: 7)
+  Over  3:  •  W  1  4  Wd  2  1            +9 runs  (Total: 16)  [WICKET,UDRS, FOUR]
+  Over  4:  •  •  6  •  4  1                +11 runs  (Total: 27)  [SIX, FOUR]
+  Over  5:  •  4  •  •  •  •                +4 runs  (Total: 31)  [FOUR]
+  Over  6:  •  W  Wd  1  •  •  6            +8 runs  (Total: 39)  [WICKET, over-break,SIX]
+  Over  7:  1  •  1  1  •  4                +7 runs  (Total: 46)  [over-break,FOUR]
+  Over  8:  1  1  1  1  •  1                +5 runs  (Total: 51)  [TEAM_FIFTY]
+  Over  9:  1  1  1  1  4  •                +8 runs  (Total: 59)  [FOUR]
+  Over 10:  •  1  •  4  1  1                +7 runs  (Total: 66)  [RUNOUT_MISS, FOUR]
+  Over 11:  6  1  •  6  1  1                +15 runs  (Total: 81)  [SIX, SIX, over-break,HIGHSCORING_OVER]
+  Over 12:  1  4  6  N1  1  4  1            +19 runs  (Total: 100)  [FIFTY,PARTNERSHIP, FOUR, SIX, FOUR, over-break,TEAM_HUNDRED,HIGHSCORING_OVER]
+  Over 13:  1  1  •  1  6  4                +13 runs  (Total: 113)  [SIX, over-break,FOUR]
+  Over 14:  2  6  1  1  1  •                +11 runs  (Total: 124)  [SIX]
+  Over 15:  •  •  W  •  •  1                +1 runs  (Total: 125)  [WICKET]
+  Over 16:  •  1  1  •  1  1                +4 runs  (Total: 129)  [UDRS]
+  Over 17:  2  W  •  2  1  1                +6 runs  (Total: 135)  [WICKET]
+  Over 18:  2  1  1  4  1  1                +10 runs  (Total: 145)  [FOUR]
+  Over 19:  •  1  1  2  1  1                +6 runs  (Total: 151)  [UDRS, TEAM_HUNDRED]
+  Over 20:  4  •  1  6  6  W1               +18 runs  (Total: 169)  [FOUR,DROPPED, SIX, SIX, over-break,WICKET,HIGHSCORING_OVER]
+
+BATTERS
+------------------------------------------------------------
+  Ruturaj Gaikwad             73 runs   48 balls  4s:0  6s:0  SR:152.08
+  Uthappa                      3 runs   10 balls  4s:0  6s:0  SR:30
+  Moeen                        1 runs    3 balls  4s:0  6s:0  SR:33.33
+  Rayudu                      46 runs   31 balls  4s:0  6s:0  SR:148.39
+  Shivam Dube                 19 runs   17 balls  4s:0  6s:0  SR:111.76
+  Ravindra Jadeja             22 runs   12 balls  4s:0  6s:0  SR:183.33
+
+BOWLERS
+------------------------------------------------------------
+  Shami                      4 ov   20 runs  1 wkts  Econ:5
+  Yash Dayal                 4 ov   40 runs  1 wkts  Econ:10
+  Alzarri Joseph             4 ov   34 runs  2 wkts  Econ:8.5
+  Lockie Ferguson            4 ov   46 runs  0 wkts  Econ:11.5
+  Rashid Khan                4 ov   29 runs  0 wkts  Econ:7.2
+
+============================================================
+  MATCH 46026 - INNINGS 2
+============================================================
+  Score: 170/7 in 19.5 overs  |  Run Rate: 8.57
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  •  •  •  1  W                +1 runs  (Total: 1)  [over-break,WICKET]
+  Over  2:  1  •  W  1  1  1                +4 runs  (Total: 5)  [WICKET]
+  Over  3:  4  •  •  4  •  1                +9 runs  (Total: 14)  [FOUR, FOUR]
+  Over  4:  •  1  1  •  W  •                +2 runs  (Total: 16)  [WICKET]
+  Over  5:  1  1  2  L1  4  •               +9 runs  (Total: 25)  [FOUR]
+  Over  6:  1  1  B4  1  4  1               +12 runs  (Total: 37)  [FOUR, FOUR]
+  Over  7:  1  •  1  •  4  1  Wd            +8 runs  (Total: 45)  [FOUR]
+  Over  8:  1  1  •  •  1  W                +3 runs  (Total: 48)  [over-break,WICKET]
+  Over  9:  1  •  •  1  4  1                +7 runs  (Total: 55)  [TEAM_FIFTY, FOUR]
+  Over 10:  1  •  •  1  •  1                +3 runs  (Total: 58)
+  Over 11:  1  1  6  1  1  •                +10 runs  (Total: 68)  [SIX]
+  Over 12:  1  6  6  4  1  1                +19 runs  (Total: 87)  [SIX, SIX, FIFTY,FOUR, over-break,HIGHSCORING_OVER]
+  Over 13:  •  •  •  W  •  •                +0 runs  (Total: 87)  [WICKET, over-break,MAIDEN_OVER]
+  Over 14:  4  1  1  1  1  4                +12 runs  (Total: 99)  [FOUR, over-break,FOUR]
+  Over 15:  1  1  1  6  •  •                +9 runs  (Total: 108)  [TEAM_HUNDRED, SIX]
+  Over 16:  1  6  1  •  1  1                +10 runs  (Total: 118)  [SIX]
+  Over 17:  1  1  1  •  1  •                +4 runs  (Total: 122)  [UDRS]
+  Over 18:  6  •  4  6  1  2                +25 runs  (Total: 147)  [SIX, SIX, FOUR,PARTNERSHIP, SIX, over-break,HIGHSCORING_OVER]
+  Over 19:  4  3  1  2  •  W                +10 runs  (Total: 157)  [TEAM_HUNDRED,FOUR, WICKET, over-break,WICKET]
+  Over 20:  •  •  •  •  •  2                +13 runs  (Total: 170)  [SIX, FOUR]
+
+BATTERS
+------------------------------------------------------------
+  Wriddhiman Saha             11 runs   18 balls  4s:0  6s:0  SR:61.11
+  Shubman Gill                 0 runs    1 balls  4s:0  6s:0  SR:0
+  Vijay Shankar                0 runs    2 balls  4s:0  6s:0  SR:0
+  Abhinav Manohar             12 runs   12 balls  4s:2  6s:0  SR:100
+  David Miller                94 runs   51 balls  4s:8  6s:6  SR:184.31
+  Rahul Tewatia                6 runs   14 balls  4s:0  6s:0  SR:42.86
+  Rashid Khan                 40 runs   21 balls  4s:2  6s:3  SR:190.48
+  Alzarri Joseph               0 runs    1 balls  4s:0  6s:0  SR:0
+  Lockie Ferguson              0 runs    0 balls  4s:0  6s:0  SR:0
+
+BOWLERS
+------------------------------------------------------------
+  Mukesh Choudhary           3 ov   18 runs  1 wkts  Econ:6
+  Maheesh Theekshana         4 ov   24 runs  2 wkts  Econ:6
+  Chris Jordan               3.5 ov   58 runs  0 wkts  Econ:15.1
+  Ravindra Jadeja            3 ov   25 runs  1 wkts  Econ:8.3
+  Moeen Ali                  2 ov   17 runs  0 wkts  Econ:8.5
+  Dwayne Bravo               4 ov   23 runs  3 wkts  Econ:5.8
+
+  [Win probability not available for this match]

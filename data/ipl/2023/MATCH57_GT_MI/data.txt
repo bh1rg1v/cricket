@@ -1,0 +1,160 @@
+SCORECARD
+============================================================
+
+============================================================
+  Mumbai Indians  218/5 (20 ov)  RR: 10.9
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Ishan Kishan                31   20   4   1     155  lbw b Rashid Khan
+  Rohit                       29   18   3   2  161.11  c Rahul Tewatia b Rashid Khan
+  Suryakumar Yadav           103   49  11   6   210.2  not out
+  Nehal Wadhera               15    7   1   1  214.29  b Rashid Khan
+  Vishnu Vinod                30   20   2   2     150  c Abhinav Manohar b Mohit Sharma
+  Tim David                    5    3   1   0  166.67  c and b Rashid Khan
+  Green                        3    3   0   0     100  not out
+  Extras: 2 (b 0, lb 2, w 0, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Shami                         4   0   53   0   13.2
+  Mohit Sharma                  4   0   43   1   10.8
+  Rashid Khan                   4   0   30   4    7.5
+  Noor Ahmad                    4   0   38   0    9.5
+  Alzarri Joseph                4   0   52   0     13
+
+  Fall of Wickets: 61-1 (Rohit, 6.1 ov), 66-2 (Ishan Kishan, 6.5 ov), 88-3 (Nehal Wadhera, 8.6 ov), 153-4 (Vishnu Vinod, 15.6 ov), 164-5 (Tim David, 16.6 ov)
+
+============================================================
+  Gujarat Titans  191/8 (20 ov)  RR: 9.55
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Wriddhiman Saha              2    5   0   0      40  lbw b Akash Madhwal
+  Shubman Gill                 6    9   0   0   66.67  b Akash Madhwal
+  Hardik Pandya                4    3   1   0  133.33  c Ishan Kishan b Behrendorff
+  Vijay Shankar               29   14   6   0  207.14  b Chawla
+  David Miller                41   26   4   2  157.69  lbw b Akash Madhwal
+  Abhinav Manohar              2    3   0   0   66.67  b Kumar Kartikeya
+  Rahul Tewatia               14   13   1   0  107.69  c Green b Chawla
+  Rashid Khan                 79   32   3  10  246.88  not out
+  Noor Ahmad                   1    3   0   0   33.33  b Kumar Kartikeya
+  Alzarri Joseph               7   12   1   0   58.33  not out
+  Extras: 6 (b 0, lb 3, w 3, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Jason Behrendorff             4   0   37   1    9.2
+  Akash Madhwal                 4   0   31   3    7.8
+  Chris Jordan                  4   0   34   0    8.5
+  Piyush Chawla                 4   0   36   2      9
+  Kumar Kartikeya               3   0   37   2   12.3
+  Cameron Green                 1   0   13   0     13
+
+  Fall of Wickets: 7-1 (Wriddhiman Saha, 1.5 ov), 12-2 (Hardik Pandya, 2.3 ov), 26-3 (Shubman Gill, 3.5 ov), 48-4 (Vijay Shankar, 6.1 ov), 55-5 (Abhinav Manohar, 7.1 ov), 100-6 (David Miller, 11.6 ov), 100-7 (Rahul Tewatia, 12.1 ov), 103-8 (Noor Ahmad, 13.2 ov)
+
+============================================================
+  MATCH 66411 - INNINGS 1
+============================================================
+  Score: 218/5 in 20 overs  |  Run Rate: 10.9
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  •  L1  •  1  4               +6 runs  (Total: 6)  [over-break,FOUR]
+  Over  2:  •  4  •  4  •  6                +14 runs  (Total: 20)  [FOUR, FOUR, over-break,SIX,HIGHSCORING_OVER]
+  Over  3:  •  6  2  •  3  6                +17 runs  (Total: 37)  [SIX, over-break,SIX,HIGHSCORING_OVER]
+  Over  4:  1  •  1  •  4  1                +7 runs  (Total: 44)  [FOUR]
+  Over  5:  •  1  •  4  2  0                +7 runs  (Total: 51)  [FOUR, TEAM_FIFTY,PARTNERSHIP, over-break,UDRS]
+  Over  6:  1  •  1  4  •  4                +10 runs  (Total: 61)  [FOUR, over-break,FOUR]
+  Over  7:  W  •  4  1  W  •                +5 runs  (Total: 66)  [WICKET, FOUR, WICKET]
+  Over  8:  •  1  4  2  6  2                +15 runs  (Total: 81)  [FOUR, SIX, over-break,HIGHSCORING_OVER]
+  Over  9:  •  1  1  4  1  W                +7 runs  (Total: 88)  [FOUR, over-break,WICKET]
+  Over 10:  •  1  1  4  1  1                +8 runs  (Total: 96)  [FOUR]
+  Over 11:  •  1  •  2  •  2                +5 runs  (Total: 101)  [over-break,TEAM_HUNDRED]
+  Over 12:  1  1  •  6  1  6                +15 runs  (Total: 116)  [SIX, over-break,SIX,HIGHSCORING_OVER]
+  Over 13:  •  4  6  •  1  4                +15 runs  (Total: 131)  [FOUR, SIX, over-break,FOUR,HIGHSCORING_OVER]
+  Over 14:  4  1  1  1  1  •                +8 runs  (Total: 139)  [FOUR, PARTNERSHIP]
+  Over 15:  •  4  1  1  6  •                +12 runs  (Total: 151)  [FOUR, TEAM_HUNDRED,SIX]
+  Over 16:  1  •  •  •  1  W                +2 runs  (Total: 153)  [over-break,WICKET]
+  Over 17:  4  1  1  1  4  W                +11 runs  (Total: 164)  [FIFTY,FOUR, FOUR, over-break,WICKET]
+  Over 18:  4  4  •  6  2  4                +20 runs  (Total: 184)  [FOUR, FOUR, SIX, over-break,FOUR,HIGHSCORING_OVER]
+  Over 19:  1  6  4  L1  1  4               +17 runs  (Total: 201)  [SIX, FOUR, over-break,TEAM_HUNDRED,FOUR,HIGHSCORING_OVER]
+  Over 20:  1  2  •  6  2  6                +17 runs  (Total: 218)  [SIX, over-break,HUNDRED,PARTNERSHIP,SIX,HIGHSCORING_OVER]
+
+BATTERS
+------------------------------------------------------------
+  Ishan Kishan                31 runs   20 balls  4s:0  6s:0  SR:155
+  Rohit                       29 runs   18 balls  4s:0  6s:0  SR:161.11
+  Suryakumar Yadav           103 runs   49 balls  4s:0  6s:0  SR:210.2
+  Nehal Wadhera               15 runs    7 balls  4s:0  6s:0  SR:214.29
+  Vishnu Vinod                30 runs   20 balls  4s:0  6s:0  SR:150
+  Tim David                    5 runs    3 balls  4s:0  6s:0  SR:166.67
+  Green                        3 runs    3 balls  4s:0  6s:0  SR:100
+
+BOWLERS
+------------------------------------------------------------
+  Shami                      4 ov   53 runs  0 wkts  Econ:13.2
+  Mohit Sharma               4 ov   43 runs  1 wkts  Econ:10.8
+  Rashid Khan                4 ov   30 runs  4 wkts  Econ:7.5
+  Noor Ahmad                 4 ov   38 runs  0 wkts  Econ:9.5
+  Alzarri Joseph             4 ov   52 runs  0 wkts  Econ:13
+
+============================================================
+  MATCH 66411 - INNINGS 2
+============================================================
+  Score: 191/8 in 20 overs  |  Run Rate: 9.55
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  1  1  1  1  •                +4 runs  (Total: 4)
+  Over  2:  •  2  •  1  W  4                +7 runs  (Total: 11)  [WICKET,UDRS, over-break,FOUR]
+  Over  3:  1  •  W  4  1  •                +6 runs  (Total: 17)  [WICKET, FOUR]
+  Over  4:  4  4  •  1  W  •                +9 runs  (Total: 26)  [FOUR, FOUR, WICKET]
+  Over  5:  •  4  4  4  1  •                +13 runs  (Total: 39)  [FOUR, FOUR, FOUR]
+  Over  6:  1  L2  1  1  4  •               +9 runs  (Total: 48)  [FOUR]
+  Over  7:  W  1  •  4  1  1                +7 runs  (Total: 55)  [WICKET, TEAM_FIFTY,FOUR]
+  Over  8:  W  1  •  1  1  1                +4 runs  (Total: 59)  [WICKET]
+  Over  9:  1  1  6  4  2  4                +18 runs  (Total: 77)  [SIX, FOUR, over-break,FOUR,HIGHSCORING_OVER]
+  Over 10:  1  1  1  •  1  1                +5 runs  (Total: 82)
+  Over 11:  1  1  •  1  1  4                +8 runs  (Total: 90)  [over-break,FOUR]
+  Over 12:  6  1  1  1  1  W                +10 runs  (Total: 100)  [SIX, TEAM_HUNDRED, over-break,WICKET,UDRS]
+  Over 13:  W  1  •  •  2  •                +3 runs  (Total: 103)  [WICKET]
+  Over 14:  •  W  1  6  6  •                +13 runs  (Total: 116)  [WICKET, SIX, SIX]
+  Over 15:  1  4  6  •  1  Wd  1            +14 runs  (Total: 130)  [FOUR, SIX, over-break,HIGHSCORING_OVER]
+  Over 16:  •  L1  1  •  4  •               +6 runs  (Total: 136)  [FOUR]
+  Over 17:  4  6  •  4  1  •                +15 runs  (Total: 151)  [FOUR, SIX, TEAM_HUNDRED,FOUR, over-break,HIGHSCORING_OVER]
+  Over 18:  •  6  •  6  •  1                +13 runs  (Total: 164)  [SIX,PARTNERSHIP, FIFTY,SIX, UDRS]
+  Over 19:  •  6  1  •  •  •                +7 runs  (Total: 171)  [SIX]
+  Over 20:  6  Wd  •  6  6  •  •  Wd        +20 runs  (Total: 191)  [SIX, SIX, SIX, DROPPED, over-break,HIGHSCORING_OVER]
+
+BATTERS
+------------------------------------------------------------
+  Wriddhiman Saha              2 runs    5 balls  4s:0  6s:0  SR:40
+  Alzarri Joseph               7 runs   12 balls  4s:1  6s:0  SR:58.33
+  Shubman Gill                 6 runs    9 balls  4s:0  6s:0  SR:66.67
+  Hardik Pandya                4 runs    3 balls  4s:1  6s:0  SR:133.33
+  Vijay Shankar               29 runs   14 balls  4s:6  6s:0  SR:207.14
+  David Miller                41 runs   26 balls  4s:4  6s:2  SR:157.69
+  Abhinav Manohar              2 runs    3 balls  4s:0  6s:0  SR:66.67
+  Rahul Tewatia               14 runs   13 balls  4s:1  6s:0  SR:107.69
+  Rashid Khan                 79 runs   32 balls  4s:3  6s:10  SR:246.88
+  Noor Ahmad                   1 runs    3 balls  4s:0  6s:0  SR:33.33
+
+BOWLERS
+------------------------------------------------------------
+  Jason Behrendorff          4 ov   37 runs  1 wkts  Econ:9.2
+  Akash Madhwal              4 ov   31 runs  3 wkts  Econ:7.8
+  Chris Jordan               4 ov   34 runs  0 wkts  Econ:8.5
+  Piyush Chawla              4 ov   36 runs  2 wkts  Econ:9
+  Kumar Kartikeya            3 ov   37 runs  2 wkts  Econ:12.3
+  Cameron Green              1 ov   13 runs  0 wkts  Econ:13
+
+  [Win probability not available for this match]

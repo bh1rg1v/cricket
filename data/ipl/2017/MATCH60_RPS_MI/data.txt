@@ -1,0 +1,158 @@
+SCORECARD
+============================================================
+
+============================================================
+  Mumbai Indians  129/8 (20 ov)  RR: 6.45
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  L Simmons                    3    8   0   0    37.5  c and b Unadkat
+  Parthiv Patel                4    6   0   0   66.67  c SN Thakur b Unadkat
+  Rayudu                      12   15   1   0      80  run out (Steven Smith)
+  Rohit                       24   22   4   0  109.09  c SN Thakur b Zampa
+  Krunal Pandya               47   38   3   2  123.68  c A Rahane b Christian
+  Pollard                      7    3   0   1  233.33  c Manoj Tiwary b Zampa
+  Hardik Pandya               10    9   0   1  111.11  lbw b Christian
+  Karn Sharma                  1    5   0   0      20  run out (Christian/SN Thakur)
+  Johnson                     13   14   0   1   92.86  not out
+  Extras: 8 (b 1, lb 2, w 5, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Unadkat                       4   0   19   2    4.8
+  Washington Sundar             4   0   13   0    3.2
+  SN Thakur                     2   0    7   0    3.5
+  Lockie Ferguson               2   0   21   0   10.5
+  Zampa                         4   0   32   2      8
+  Christian                     4   0   34   2    8.5
+
+  Fall of Wickets: 7-1 (Parthiv Patel, 2.1 ov), 8-2 (L Simmons, 2.4 ov), 41-3 (Rayudu, 7.2 ov), 56-4 (Rohit, 10.1 ov), 65-5 (Pollard, 10.6 ov), 78-6 (Hardik Pandya, 13.2 ov), 79-7 (Karn Sharma, 14.1 ov), 129-8 (Krunal Pandya, 19.6 ov)
+
+============================================================
+  Rising Pune Supergiant  128/6 (20 ov)  RR: 6.4
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Ajinkya Rahane              44   38   5   0  115.79  c Pollard b Johnson
+  Rahul Tripathi               3    8   0   0    37.5  lbw b Bumrah
+  Steven Smith                51   50   2   2     102  c Rayudu b Johnson
+  MS Dhoni                    10   13   1   0   76.92  c Parthiv Patel b Bumrah
+  Manoj Tiwary                 7    8   1   0    87.5  c Pollard b Johnson
+  Daniel Christian             4    2   0   0     200  run out ((sub)J Suchith/Parthiv Patel)
+  Washington Sundar            0    1   0   0       0  not out
+  Extras: 9 (b 1, lb 5, w 3, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Krunal Pandya                 4   0   31   0    7.8
+  Mitchell Johnson              4   0   26   3    6.5
+  Jasprit  Bumrah               4   0   26   2    6.5
+  Lasith Malinga                4   0   21   0    5.2
+  Karn Sharma                   4   0   18   0    4.5
+
+  Fall of Wickets: 17-1 (Rahul Tripathi, 2.2 ov), 71-2 (Ajinkya Rahane, 11.5 ov), 98-3 (MS Dhoni, 16.2 ov), 123-4 (Manoj Tiwary, 19.2 ov), 123-5 (Steven Smith, 19.3 ov), 128-6 (Daniel Christian, 20 ov)
+
+============================================================
+  MATCH 18180 - INNINGS 1
+============================================================
+  Score: 129/8 in 20 overs  |  Run Rate: 6.45
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  •  •  1  1  1                +3 runs  (Total: 3)
+  Over  2:  •  1  •  •  2  1                +4 runs  (Total: 7)
+  Over  3:  W  •  1  W  •  1                +2 runs  (Total: 9)  [WICKET, WICKET]
+  Over  4:  •  •  1  •  •  1                +2 runs  (Total: 11)
+  Over  5:  1  1  1  Wd  •  1  •            +5 runs  (Total: 16)
+  Over  6:  4  •  4  •  4  4                +16 runs  (Total: 32)  [FOUR, FOUR, FOUR, over-break,FOUR,HIGHSCORING_OVER]
+  Over  7:  •  4  2  1  1  1                +9 runs  (Total: 41)  [FOUR]
+  Over  8:  •  W  1  2  1  •  Wd            +5 runs  (Total: 46)  [WICKET]
+  Over  9:  •  •  1  Wd  •  1  1            +4 runs  (Total: 50)
+  Over 10:  •  1  •  1  •  4                +6 runs  (Total: 56)  [over-break,FOUR]
+  Over 11:  W  1  6  1  1  W                +9 runs  (Total: 65)  [WICKET, SIX, over-break,WICKET]
+  Over 12:  •  •  1  •  •  •                +1 runs  (Total: 66)
+  Over 13:  1  6  •  1  1  1                +10 runs  (Total: 76)  [SIX]
+  Over 14:  2  W  •  •  •  1                +3 runs  (Total: 79)  [WICKET]
+  Over 15:  W  •  1  1  •  •                +2 runs  (Total: 81)  [WICKET]
+  Over 16:  •  1  •  1  2  1                +5 runs  (Total: 86)
+  Over 17:  L2  •  1  1  •  2               +6 runs  (Total: 92)
+  Over 18:  •  6  1  1  B1  4               +13 runs  (Total: 105)  [SIX, RUNOUT_MISS, over-break,FOUR]
+  Over 19:  1  •  1  1  6  1                +10 runs  (Total: 115)  [SIX]
+  Over 20:  •  Wd  4  6  Wd  1  1  W        +14 runs  (Total: 129)  [FOUR, SIX, PARTNERSHIP, over-break,WICKET,HIGHSCORING_OVER]
+
+BATTERS
+------------------------------------------------------------
+  L Simmons                    3 runs    8 balls  4s:0  6s:0  SR:37.5
+  Parthiv Patel                4 runs    6 balls  4s:0  6s:0  SR:66.67
+  Rayudu                      12 runs   15 balls  4s:0  6s:0  SR:80
+  Rohit                       24 runs   22 balls  4s:0  6s:0  SR:109.09
+  Krunal Pandya               47 runs   38 balls  4s:0  6s:0  SR:123.68
+  Pollard                      7 runs    3 balls  4s:0  6s:0  SR:233.33
+  Hardik Pandya               10 runs    9 balls  4s:0  6s:0  SR:111.11
+  Karn Sharma                  1 runs    5 balls  4s:0  6s:0  SR:20
+  Johnson                     13 runs   14 balls  4s:0  6s:0  SR:92.86
+
+BOWLERS
+------------------------------------------------------------
+  Unadkat                    4 ov   19 runs  2 wkts  Econ:4.8
+  Washington Sundar          4 ov   13 runs  0 wkts  Econ:3.2
+  SN Thakur                  2 ov    7 runs  0 wkts  Econ:3.5
+  Lockie Ferguson            2 ov   21 runs  0 wkts  Econ:10.5
+  Zampa                      4 ov   32 runs  2 wkts  Econ:8
+  Christian                  4 ov   34 runs  2 wkts  Econ:8.5
+
+============================================================
+  MATCH 18180 - INNINGS 2
+============================================================
+  Score: 128/6 in 20 overs  |  Run Rate: 6.4
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  1  •  •  1  4                +6 runs  (Total: 6)  [over-break,FOUR]
+  Over  2:  •  1  1  1  1  L4               +8 runs  (Total: 14)  [over-break,FOUR]
+  Over  3:  3  W  1  3  •  •                +7 runs  (Total: 21)  [WICKET]
+  Over  4:  1  •  1  •  •  •                +2 runs  (Total: 23)  [DROPPED]
+  Over  5:  1  1  •  1  Wd  4  1            +9 runs  (Total: 32)  [FOUR]
+  Over  6:  •  1  1  4  •  •                +6 runs  (Total: 38)  [FOUR]
+  Over  7:  2  •  1  1  •  •  Wd            +5 runs  (Total: 43)
+  Over  8:  1  1  •  1  1  1                +5 runs  (Total: 48)
+  Over  9:  1  •  •  1  •  •                +2 runs  (Total: 50)
+  Over 10:  1  2  •  4  1  •                +8 runs  (Total: 58)  [FOUR]
+  Over 11:  •  4  •  1  1  1                +7 runs  (Total: 65)  [FOUR]
+  Over 12:  1  4  •  1  W  •                +6 runs  (Total: 71)  [FOUR,PARTNERSHIP, WICKET]
+  Over 13:  1  •  •  1  •  •                +2 runs  (Total: 73)
+  Over 14:  1  •  •  1  •  2                +4 runs  (Total: 77)
+  Over 15:  1  1  •  1  •  2  Wd            +6 runs  (Total: 83)
+  Over 16:  1  1  4  1  6  1                +14 runs  (Total: 97)  [FOUR, SIX, over-break,HIGHSCORING_OVER]
+  Over 17:  1  W  1  1  •  •                +3 runs  (Total: 100)  [WICKET]
+  Over 18:  •  1  1  •  4  1                +7 runs  (Total: 107)  [FOUR]
+  Over 19:  1  1  1  L1  6  2               +12 runs  (Total: 119)  [SIX, over-break,FIFTY]
+  Over 20:  4  W  W  B1  2  W2              +9 runs  (Total: 128)  [FOUR, WICKET, WICKET, RUNOUT_MISS, DROPPED, over-break,WICKET]
+
+BATTERS
+------------------------------------------------------------
+  Ajinkya Rahane              44 runs   38 balls  4s:5  6s:0  SR:115.79
+  Rahul Tripathi               3 runs    8 balls  4s:0  6s:0  SR:37.5
+  Steven Smith                51 runs   50 balls  4s:2  6s:2  SR:102
+  MS Dhoni                    10 runs   13 balls  4s:1  6s:0  SR:76.92
+  Manoj Tiwary                 7 runs    8 balls  4s:1  6s:0  SR:87.5
+  Daniel Christian             4 runs    2 balls  4s:0  6s:0  SR:200
+  Washington Sundar            0 runs    1 balls  4s:0  6s:0  SR:0
+
+BOWLERS
+------------------------------------------------------------
+  Krunal Pandya              4 ov   31 runs  0 wkts  Econ:7.8
+  Mitchell Johnson           4 ov   26 runs  3 wkts  Econ:6.5
+  Jasprit  Bumrah            4 ov   26 runs  2 wkts  Econ:6.5
+  Lasith Malinga             4 ov   21 runs  0 wkts  Econ:5.2
+  Karn Sharma                4 ov   18 runs  0 wkts  Econ:4.5
+
+  [Win probability not available for this match]

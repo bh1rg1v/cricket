@@ -1,0 +1,63 @@
+SCORECARD
+============================================================
+
+============================================================
+  Kings XI Punjab  119/6 (20 ov)  RR: 5.95
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Adam Gilchrist              26   27   3   1    96.3  b I Abdulla
+  Dinesh Karthik              42   42   4   0     100  run out (Y Pathan/S Goswami)
+  David Hussey                15   20   1   0      75  lbw b I Abdulla
+  Shaun Marsh                  5    7   1   0   71.43  run out (S Goswami/I Abdulla)
+  Praveen Kumar                2    2   0   0     100  not out
+  Abhishek Nayar               0    2   0   0       0  run out (E Morgan/S Goswami)
+  Paul Valthaty                7    8   1   0    87.5  c M Tiwary b Y Pathan
+  Bipul Sharma                16   12   1   0  133.33  not out
+  Extras: 6 (b 1, lb 0, w 5, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Brett Lee                     4   0   27   0   6.75
+  Lakshmipathy Balaji           3   0   21   0      7
+  Iqbal Abdulla                 4   0   19   2   4.75
+  Yusuf Pathan                  4   0   24   1      6
+  Rajat Bhatia                  4   0   18   0    4.5
+  Manoj Tiwary                  1   0    9   0      9
+
+  Fall of Wickets: 32-1 (Valthaty, 4.3 ov), 40-2 (Shaun Marsh, 6 ov), 44-3 (Adam Gilchrist, 7.5 ov), 53-4 (Nayar, 9.2 ov), 86-5 (David Hussey, 14.6 ov), 117-6 (Karthik, 19.4 ov)
+
+============================================================
+  Kolkata Knight Riders  120/2 (17.2 ov)  RR: 6.92
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Jacques Kallis               1    4   0   0      25  c D Hussey b B Bhatt
+  Gautam Gambhir              45   44   4   0  102.27  not out
+  Eoin Morgan                 28   15   6   0  186.67  c R Harris b B Bhatt
+  Manoj Tiwary                34   41   3   1   82.93  not out
+  Extras: 12 (b 0, lb 1, w 11, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Praveen Kumar                 2   0   14   0      7
+  Bhargav Bhatt                 4   0   22   2    5.5
+  David Hussey                  2   0   19   0    9.5
+  Ryan Harris                   2   0   13   0    6.5
+  Piyush Chawla               3.2   0   29   0   9.06
+  Bipul Sharma                  2   0    9   0    4.5
+  Paul Valthaty                 2   0   13   0    6.5
+
+  Fall of Wickets: 5-1 (Kallis, 1.1 ov), 35-2 (Morgan, 4.2 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

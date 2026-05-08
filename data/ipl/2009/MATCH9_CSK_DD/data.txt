@@ -1,0 +1,66 @@
+SCORECARD
+============================================================
+
+============================================================
+  Delhi Daredevils  189/5 (20 ov)  RR: 9.45
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Virender Sehwag              6    9   1   0   66.67  c Morkel b Gony
+  Tillakaratne Dilshan        50   27   7   2  185.19  c Raina b Morkel
+  Dinesh Karthik              18   16   2   0   112.5  c Flintoff b Balaji
+  Gautam Gambhir               0    1   0   0       0  c Dhoni b Balaji
+  AB de Villiers             105   54   5   6  194.44  not out
+  Manoj Tiwary                 9   13   1   0   69.23  c Flintoff b Balaji
+  Extras: 1 (b 0, lb 0, w 1, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Lakshmipathy Balaji           4   0   19   3   4.75
+  Manpreet Gony                 4   0   45   1  11.25
+  Albie Morkel                  4   0   41   1  10.25
+  Andrew Flintoff               4   0   50   0   12.5
+  Joginder Sharma               1   0    8   0      8
+  Muthiah Muralidaran           3   0   26   0   8.67
+
+  Fall of Wickets: 0-1 (Gambhir, 0.1 ov), 8-2 (Sehwag, 1.6 ov), 76-3 (Dilshan, 8.3 ov), 114-4 (Karthik, 13.6 ov), 188-5 (Manoj Tiwary, 19.5 ov)
+
+============================================================
+  Chennai Super Kings  180/9 (20 ov)  RR: 9
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Andrew Flintoff             16   17   1   0   94.12  c sub (DA Warner) b Nehra
+  Parthiv Patel               16   15   2   0  106.67  c de Villiers b Sangwan
+  Muthiah Muralidaran          0    1   0   0       0  not out
+  Matthew Hayden              57   27   5   3  211.11  c Nannes b Sangwan
+  MS Dhoni                     5    7   0   0   71.43  c Karthik b Vettori
+  Joginder Sharma              4    3   0   0  133.33  run out (sub [DA Warner])
+  Suresh Raina                41   27   5   1  151.85  c de Villiers b Sangwan
+  Albie Morkel                13   14   1   0   92.86  not out
+  S Badrinath                  7    8   0   0    87.5  c sub (DA Warner) b Vettori
+  Manpreet Gony                6    2   0   1     300  run out (Sehwag/Vettori)
+  Extras: 15 (b 0, lb 6, w 8, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Dirk Nannes                   4   0   32   0      8
+  Ashish Nehra                  4   0   33   1   8.25
+  Aavishkar Salvi               3   0   41   0  13.67
+  Pradeep Sangwan               4   0   28   3      7
+  Daniel Vettori                4   0   29   2   7.25
+  Manoj Tiwary                  1   0   11   0     11
+
+  Fall of Wickets: 57-1 (Parthiv Patel, 5.2 ov), 90-2 (Matthew Hayden, 7.6 ov), 108-3 (MS Dhoni, 10.3 ov), 139-4 (Raina, 14.1 ov), 156-5 (A Flintoff, 15.6 ov), 168-6 (Badrinath, 18.3 ov), 175-7 (Gony, 18.6 ov), 179-8 (Joginder Sharma, 19.3 ov), 179-9 (Balaji, 19.4 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

@@ -1,0 +1,57 @@
+SCORECARD
+============================================================
+
+============================================================
+  Kolkata Knight Riders  155/3 (20 ov)  RR: 7.75
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Sourav Ganguly              31   34   5   0   91.18  b Harbhajan Singh
+  Chris Gayle                 75   60   7   2     125  lbw b Khan
+  Owais Shah                  31   23   3   0  134.78  b Khan
+  Angelo Mathews               3    3   0   0     100  not out
+  Extras: 15 (b 6, lb 3, w 6, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Lasith Malinga                4   0   28   0      7
+  Zaheer Khan                   4   0   27   2   6.75
+  Ryan McLaren                  4   0   38   0    9.5
+  Dwayne Bravo                  4   0   36   0      9
+  Harbhajan Singh               4   0   17   1   4.25
+
+  Fall of Wickets: 70-1 (S Ganguly, 10.6 ov), 152-2 (Owais Shah, 19.2 ov), 155-3 (Gayle, 19.6 ov)
+
+============================================================
+  Mumbai Indians  156/3 (18.3 ov)  RR: 8.43
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Sachin Tendulkar            71   48  10   0  147.92  not out
+  Kieron Pollard               7    7   1   0     100  lbw b Sharma
+  Shikhar Dhawan              23   21   4   0  109.52  c Ganguly b Kartik
+  Saurabh Tiwary              30   24   3   1     125  c Ganguly b Sharma
+  Rajagopal Sathish           21   11   3   0  190.91  not out
+  Extras: 4 (b 0, lb 0, w 4, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Shane Bond                    3   0   31   0  10.33
+  Ishant Sharma                 4   0   44   2     11
+  Chris Gayle                   4   0   31   0   7.75
+  Murali Kartik                 4   0   21   1   5.25
+  Angelo Mathews              3.3   0   29   0   8.79
+
+  Fall of Wickets: 61-1 (Dhawan, 6.5 ov), 117-2 (Saurabh Tiwary, 13.6 ov), 129-3 (Pollard, 15.5 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

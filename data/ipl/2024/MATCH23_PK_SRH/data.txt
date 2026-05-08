@@ -1,0 +1,164 @@
+SCORECARD
+============================================================
+
+============================================================
+  Sunrisers Hyderabad  182/9 (20 ov)  RR: 9.1
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Head                        21   15   4   0     140  c Dhawan b Arshdeep Singh
+  Abhishek Sharma             16   11   2   1  145.45  c Shashank Singh b Sam Curran
+  Markram                      0    2   0   0       0  c Jitesh Sharma b Arshdeep Singh
+  Nitish Reddy                64   37   4   5  172.97  c Rabada b Arshdeep Singh
+  Tripathi                    11   14   1   0   78.57  c Jitesh Sharma b Harshal Patel
+  Klaasen                      9    9   1   0     100  c Sam Curran b Harshal Patel
+  Abdul Samad                 25   12   5   0  208.33  c Harshal Patel b Arshdeep Singh
+  Shahbaz Ahmed               14    7   1   1     200  not out
+  Cummins                      3    4   0   0      75  b Rabada
+  Bhuvneshwar                  6    8   0   0      75  c Bairstow b Sam Curran
+  Jaydev Unadkat               6    1   0   1     600  not out
+  Extras: 7 (b 0, lb 2, w 5, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Rabada                        4   0   32   1      8
+  Arshdeep Singh                4   0   29   4    7.2
+  Sam Curran                    4   0   41   2   10.2
+  Harshal Patel                 4   0   30   2    7.5
+  Harpreet Brar                 4   0   48   0     12
+
+  Fall of Wickets: 27-1 (Head, 3.2 ov), 27-2 (Markram, 3.4 ov), 39-3 (Abhishek Sharma, 4.6 ov), 64-4 (Tripathi, 9.4 ov), 100-5 (Klaasen, 13.1 ov), 150-6 (Abdul Samad, 16.3 ov), 151-7 (Nitish Reddy, 16.5 ov), 155-8 (Cummins, 17.3 ov), 176-9 (Bhuvneshwar, 19.5 ov)
+
+============================================================
+  Punjab Kings  180/6 (20 ov)  RR: 9
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Shikhar Dhawan              14   16   2   0    87.5  st Klaasen b Bhuvneshwar
+  Jonny Bairstow               0    3   0   0       0  b Cummins
+  Prabhsimran Singh            4    6   1   0   66.67  c Nitish Reddy b Bhuvneshwar
+  Sam Curran                  29   22   2   2  131.82  c Cummins b T Natarajan
+  Sikandar Raza               28   22   2   2  127.27  c Klaasen b Jaydev Unadkat
+  Shashank Singh              46   25   6   1     184  not out
+  Jitesh Sharma               19   11   1   1  172.73  c Abhishek Sharma b Nitish Reddy
+  Ashutosh Sharma             33   15   3   2     220  not out
+  Extras: 7 (b 0, lb 1, w 6, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Bhuvneshwar Kumar             4   1   32   2      8
+  Pat Cummins                   4   0   22   1    5.5
+  T Natarajan                   4   0   33   1    8.2
+  Nitish Reddy                  3   0   33   1     11
+  Jaydev Unadkat                4   0   49   1   12.2
+  Shahbaz Ahmed                 1   0   10   0     10
+
+  Fall of Wickets: 2-1 (Jonny Bairstow, 1.4 ov), 11-2 (Prabhsimran Singh, 2.6 ov), 20-3 (Shikhar Dhawan, 4.4 ov), 58-4 (Sam Curran, 9.1 ov), 91-5 (Sikandar Raza, 13.1 ov), 114-6 (Jitesh Sharma, 15.3 ov)
+
+============================================================
+  MATCH 91389 - INNINGS 1
+============================================================
+  Score: 182/9 in 20 overs  |  Run Rate: 9.1
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  •  4  •  •  •                +4 runs  (Total: 4)  [FOUR]
+  Over  2:  1  •  1  •  4  •                +6 runs  (Total: 10)  [FOUR]
+  Over  3:  4  4  4  •  2  2                +16 runs  (Total: 26)  [FOUR, FOUR, FOUR, over-break,HIGHSCORING_OVER]
+  Over  4:  1  W  •  W  •  •  Wd            +2 runs  (Total: 28)  [RUNOUT_MISS, WICKET, WICKET]
+  Over  5:  •  •  •  Wd  6  4  W            +11 runs  (Total: 39)  [SIX, FOUR, over-break,WICKET]
+  Over  6:  •  1  •  •  •  •                +1 runs  (Total: 40)  [over-break,UDRS]
+  Over  7:  1  •  •  4  L1  1               +7 runs  (Total: 47)  [FOUR]
+  Over  8:  4  •  •  1  2  2                +9 runs  (Total: 56)  [TEAM_FIFTY,FOUR]
+  Over  9:  1  1  1  1  •  1                +5 runs  (Total: 61)
+  Over 10:  1  1  1  W  1  1                +5 runs  (Total: 66)  [WICKET,UDRS]
+  Over 11:  •  4  6  1  •  4                +15 runs  (Total: 81)  [FOUR, SIX, over-break,FOUR,HIGHSCORING_OVER]
+  Over 12:  •  1  •  1  6  1                +9 runs  (Total: 90)  [SIX]
+  Over 13:  6  1  •  2  1  •                +10 runs  (Total: 100)  [SIX, TEAM_HUNDRED]
+  Over 14:  W  1  1  4  4  •  Wd            +11 runs  (Total: 111)  [WICKET, FOUR, FOUR]
+  Over 15:  •  4  6  4  6  2                +22 runs  (Total: 133)  [FOUR, FIFTY,SIX, FOUR,DROPPED, SIX, over-break,HIGHSCORING_OVER]
+  Over 16:  1  1  2  4  4  1                +13 runs  (Total: 146)  [FOUR, FOUR]
+  Over 17:  4  •  W  1  W  1                +6 runs  (Total: 152)  [TEAM_HUNDRED,PARTNERSHIP,FOUR, UDRS, WICKET, WICKET]
+  Over 18:  •  2  W  Wd  •  •  L1           +4 runs  (Total: 156)  [WICKET]
+  Over 19:  2  1  •  4  6  Wd  1            +15 runs  (Total: 171)  [FOUR, SIX, over-break,HIGHSCORING_OVER]
+  Over 20:  1  1  1  2  W  6                +11 runs  (Total: 182)  [WICKET, over-break,SIX,DROPPED]
+
+BATTERS
+------------------------------------------------------------
+  Head                        21 runs   15 balls  4s:0  6s:0  SR:140
+  Bhuvneshwar                  6 runs    8 balls  4s:0  6s:0  SR:75
+  Jaydev Unadkat               6 runs    1 balls  4s:0  6s:0  SR:600
+  Abhishek Sharma             16 runs   11 balls  4s:0  6s:0  SR:145.45
+  Markram                      0 runs    2 balls  4s:0  6s:0  SR:0
+  Nitish Reddy                64 runs   37 balls  4s:0  6s:0  SR:172.97
+  Tripathi                    11 runs   14 balls  4s:0  6s:0  SR:78.57
+  Klaasen                      9 runs    9 balls  4s:0  6s:0  SR:100
+  Abdul Samad                 25 runs   12 balls  4s:0  6s:0  SR:208.33
+  Shahbaz Ahmed               14 runs    7 balls  4s:0  6s:0  SR:200
+  Cummins                      3 runs    4 balls  4s:0  6s:0  SR:75
+
+BOWLERS
+------------------------------------------------------------
+  Rabada                     4 ov   32 runs  1 wkts  Econ:8
+  Arshdeep Singh             4 ov   29 runs  4 wkts  Econ:7.2
+  Sam Curran                 4 ov   41 runs  2 wkts  Econ:10.2
+  Harshal Patel              4 ov   30 runs  2 wkts  Econ:7.5
+  Harpreet Brar              4 ov   48 runs  0 wkts  Econ:12
+
+============================================================
+  MATCH 91389 - INNINGS 2
+============================================================
+  Score: 180/6 in 20 overs  |  Run Rate: 9
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  •  •  •  L1  •               +1 runs  (Total: 1)
+  Over  2:  •  1  •  W  •  •                +1 runs  (Total: 2)  [WICKET]
+  Over  3:  4  1  •  •  4  W                +9 runs  (Total: 11)  [FOUR, FOUR, over-break,WICKET]
+  Over  4:  •  1  1  1  •  •                +3 runs  (Total: 14)
+  Over  5:  2  4  •  W  •  •                +6 runs  (Total: 20)  [FOUR, WICKET]
+  Over  6:  4  •  2  •  •  1                +7 runs  (Total: 27)  [FOUR]
+  Over  7:  4  •  1  •  4  4                +13 runs  (Total: 40)  [FOUR, FOUR, over-break,FOUR]
+  Over  8:  6  1  •  1  •  1                +9 runs  (Total: 49)  [SIX]
+  Over  9:  •  1  1  •  6  1                +9 runs  (Total: 58)  [TEAM_FIFTY, SIX]
+  Over 10:  W  1  1  4  •  2                +8 runs  (Total: 66)  [WICKET, FOUR]
+  Over 11:  6  •  •  1  •  1                +8 runs  (Total: 74)  [SIX]
+  Over 12:  1  1  1  6  •  1                +10 runs  (Total: 84)  [SIX]
+  Over 13:  1  1  •  •  1  4                +7 runs  (Total: 91)  [over-break,FOUR]
+  Over 14:  W  1  1  2  2  •                +6 runs  (Total: 97)  [WICKET]
+  Over 15:  1  1  1  4  •  1                +8 runs  (Total: 105)  [TEAM_HUNDRED, FOUR]
+  Over 16:  2  6  Wd  W  1  1  •            +11 runs  (Total: 116)  [DROPPED, SIX, WICKET]
+  Over 17:  4  4  1  1  4  1  Wd  Wd        +17 runs  (Total: 133)  [FOUR, FOUR, FOUR, over-break,HIGHSCORING_OVER, UDRS]
+  Over 18:  1  4  4  1  1  •                +11 runs  (Total: 144)  [FOUR, FOUR]
+  Over 19:  1  4  •  1  4  •                +10 runs  (Total: 154)  [FOUR, TEAM_HUNDRED, FOUR]
+  Over 20:  6  6  Wd  Wd  2  2  1  Wd  6    +26 runs  (Total: 180)  [SIX,DROPPED, PARTNERSHIP,DROPPED,SIX, DROPPED, over-break,SIX,HIGHSCORING_OVER]
+
+BATTERS
+------------------------------------------------------------
+  Shikhar Dhawan              14 runs   16 balls  4s:2  6s:0  SR:87.5
+  Jonny Bairstow               0 runs    3 balls  4s:0  6s:0  SR:0
+  Prabhsimran Singh            4 runs    6 balls  4s:1  6s:0  SR:66.67
+  Sam Curran                  29 runs   22 balls  4s:2  6s:2  SR:131.82
+  Sikandar Raza               28 runs   22 balls  4s:2  6s:2  SR:127.27
+  Shashank Singh              46 runs   25 balls  4s:6  6s:1  SR:184
+  Jitesh Sharma               19 runs   11 balls  4s:1  6s:1  SR:172.73
+  Ashutosh Sharma             33 runs   15 balls  4s:3  6s:2  SR:220
+
+BOWLERS
+------------------------------------------------------------
+  Bhuvneshwar Kumar          4 ov   32 runs  2 wkts  Econ:8
+  Pat Cummins                4 ov   22 runs  1 wkts  Econ:5.5
+  T Natarajan                4 ov   33 runs  1 wkts  Econ:8.2
+  Nitish Reddy               3 ov   33 runs  1 wkts  Econ:11
+  Jaydev Unadkat             4 ov   49 runs  1 wkts  Econ:12.2
+  Shahbaz Ahmed              1 ov   10 runs  0 wkts  Econ:10
+
+  [Win probability not available for this match]

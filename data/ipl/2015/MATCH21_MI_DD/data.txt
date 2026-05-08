@@ -1,0 +1,67 @@
+SCORECARD
+============================================================
+
+============================================================
+  Delhi Daredevils  190/4 (20 ov)  RR: 9.5
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Yuvraj Singh                 2    4   0   0      50  c K Pollard b Bumrah
+  Jean-Paul Duminy            78   50   3   6     156  not out
+  Angelo Mathews              17    8   3   0   212.5  c Parthiv Patel b McClenaghan
+  Kedar Jadhav                 1    1   0   0     100  not out
+  Mayank Agarwal               1    2   0   0      50  c Rayudu b McClenaghan
+  Shreyas Iyer                83   56   7   5  148.21  b Malinga
+  Extras: 8 (b 0, lb 1, w 6, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Mitchell McClenaghan          4   0   38   2    9.5
+  Lasith Malinga                4   0   23   1   5.75
+  Jasprit Bumrah                4   0   55   1  13.75
+  Harbhajan Singh               4   0   34   0    8.5
+  Hardik Pandya                 2   0   14   0      7
+  Kieron Pollard                2   0   25   0   12.5
+
+  Fall of Wickets: 2-1 (Mayank Agarwal, 0.3 ov), 156-2 (Shreyas Iyer, 16.4 ov), 174-3 (Mathews, 17.6 ov), 187-4 (Yuvraj, 19.3 ov)
+
+============================================================
+  Mumbai Indians  153/9 (20 ov)  RR: 7.65
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Parthiv Patel               28   19   4   1  147.37  c Tahir b Mathews
+  Harbhajan Singh              9   10   0   1      90  c (sub)Jayant Yadav b Mathews
+  Lasith Malinga               6   10   1   0      60  not out
+  Rohit Sharma                30   24   0   2     125  c S Nadeem b Coulter-Nile
+  Lendl Simmons               15   14   3   0  107.14  c Duminy b D Joseph
+  Kieron Pollard              10    8   0   1     125  c S Nadeem b A Mishra
+  Ambati Rayudu               30   22   3   1  136.36  c Coulter-Nile b Tahir
+  Mitchell McClenaghan         0    1   0   0       0  c K Jadhav b Tahir
+  Unmukt Chand                14   11   2   0  127.27  st K Jadhav b A Mishra
+  Hardik Pandya                0    1   0   0       0  c Coulter-Nile b Tahir
+  Extras: 11 (b 0, lb 2, w 9, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Nathan Coulter-Nile           4   0   36   1      9
+  Domnic Muthuswami             2   0    7   1    3.5
+  Jean-Paul Duminy              1   0   14   0     14
+  Angelo Mathews                2   0   15   2    7.5
+  Amit Mishra                   4   0   32   2      8
+  Shahbaz Nadeem                3   0   25   0   8.33
+  Imran Tahir                   4   0   22   3    5.5
+
+  Fall of Wickets: 35-1 (L Simmons, 4.2 ov), 48-2 (Parthiv Patel, 5.6 ov), 68-3 (Chand, 8.2 ov), 82-4 (Pollard, 10.2 ov), 131-5 (Rohit Sharma, 15.6 ov), 131-6 (Hardik Pandya, 16.1 ov), 135-7 (Rayudu, 16.3 ov), 135-8 (McClenaghan, 16.4 ov), 153-9 (Harbhajan, 19.4 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

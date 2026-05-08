@@ -1,0 +1,68 @@
+SCORECARD
+============================================================
+
+============================================================
+  Chennai Super Kings  150/7 (20 ov)  RR: 7.5
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Brendon McCullum             4    2   1   0     200  c Yuvraj b Coulter-Nile
+  Dwayne Bravo                 1    3   0   0   33.33  lbw b D Joseph
+  Dwayne Smith                34   31   6   0  109.68  c Coulter-Nile b Tahir
+  MS Dhoni                    30   27   1   2  111.11  c M Agarwal b Coulter-Nile
+  Suresh Raina                 4    7   0   0   57.14  b Coulter-Nile
+  Ravindra Jadeja             17   18   1   1   94.44  st C Gautam b A Mishra
+  Ravichandran Ashwin         12    8   1   0     150  not out
+  Faf du Plessis              32   24   3   0  133.33  c S Iyer b Duminy
+  Mohit Sharma                 2    1   0   0     200  not out
+  Extras: 14 (b 1, lb 10, w 2, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Albie Morkel                  3   0   28   0   9.33
+  Nathan Coulter-Nile           4   0   30   3    7.5
+  Domnic Muthuswami             3   0   18   1      6
+  Imran Tahir                   4   0   27   1   6.75
+  Amit Mishra                   4   0   21   1   5.25
+  Jean-Paul Duminy              2   0   15   1    7.5
+
+  Fall of Wickets: 20-1 (Brendon McCullum, 1.2 ov), 38-2 (Raina, 3.6 ov), 71-3 (Dwayne Smith, 8.1 ov), 100-4 (du Plessis, 12.2 ov), 117-5 (Ravindra Jadeja, 15.2 ov), 120-6 (DJ Bravo, 16.4 ov), 148-7 (MS Dhoni, 19.5 ov)
+
+============================================================
+  Delhi Daredevils  149/9 (20 ov)  RR: 7.45
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Yuvraj Singh                 9    6   1   0     150  c I Pandey b DJ Bravo
+  Jean-Paul Duminy             5    5   0   0     100  b I Pandey
+  Albie Morkel                73   55   8   1  132.73  not out
+  Amit Mishra                  4    4   0   0     100  run out (Dhoni/Nehra)
+  Kedar Jadhav                20   20   2   0     100  c R Jadeja b Mohit Sharma
+  CM Gautam                    4    5   0   0      80  c DJ Bravo b Nehra
+  Mayank Agarwal              15   12   2   1     125  c Dhoni b Nehra
+  Imran Tahir                  2    2   0   0     100  c Raina b DJ Bravo
+  Nathan Coulter-Nile          5    4   1   0     125  b Ashwin
+  Shreyas Iyer                 7    7   1   0     100  c du Plessis b Nehra
+  Extras: 5 (b 0, lb 0, w 5, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Ashish Nehra                  4   0   25   3   6.25
+  Mohit Sharma                  4   0   33   1   8.25
+  Ishwar Pandey                 4   0   30   1    7.5
+  Ravichandran Ashwin           4   0   25   1   6.25
+  Dwayne Bravo                  4   0   36   2      9
+
+  Fall of Wickets: 15-1 (Gautam, 2.3 ov), 20-2 (Mayank Agarwal, 2.6 ov), 39-3 (Shreyas Iyer, 4.6 ov), 87-4 (Kedar Jadhav, 13.1 ov), 99-5 (Yuvraj, 14.3 ov), 106-6 (Duminy, 15.4 ov), 123-7 (Coulter-Nile, 17.4 ov), 129-8 (Amit Mishra, 18.4 ov), 137-9 (Tahir, 19.3 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

@@ -1,0 +1,65 @@
+SCORECARD
+============================================================
+
+============================================================
+  Mumbai Indians  172/4 (20 ov)  RR: 8.6
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Sachin Tendulkar            28   24   4   0  116.67  c D Steyn b A Mishra
+  Andrew Symonds              44   33   4   1  133.33  not out
+  Rohit Sharma                56   34   5   3  164.71  not out
+  Kieron Pollard               0    1   0   0       0  c K Sangakkara b P Ojha
+  Ambati Rayudu                7    8   0   0    87.5  c S Dhawan b A Mishra
+  Davy Jacobs                 32   20   5   1     160  c P Ojha b I Sharma
+  Extras: 5 (b 0, lb 3, w 2, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Amit Mishra                   4   0   14   2    3.5
+  Dale Steyn                    4   0   39   0   9.75
+  Pragyan Ojha                  4   0   29   1   7.25
+  Ishant Sharma                 4   0   39   1   9.75
+  Daniel Christian              4   0   48   0     12
+
+  Fall of Wickets: 47-1 (D Jacobs, 5.1 ov), 70-2 (Tendulkar, 8.2 ov), 70-3 (Rayudu, 8.4 ov), 70-4 (Pollard, 9.1 ov)
+
+============================================================
+  Deccan Chargers  135/8 (20 ov)  RR: 6.75
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Kumar Sangakkara            34   28   3   0  121.43  b L Malinga
+  Cameron White                1    7   0   0   14.29  run out (L Malinga)
+  Dale Steyn                   4    9   0   0   44.44  run out (A Symonds/A Nechim)
+  Ishant Sharma                1    2   0   0      50  not out
+  Shikhar Dhawan              25   22   5   0  113.64  b L Malinga
+  Amit Mishra                 25   19   4   0  131.58  not out
+  Dwaraka Ravi Teja            1    4   0   0      25  c & b L Malinga
+  Bharath Chipli               6    8   1   0      75  c R Sathish b K Pollard
+  Sunny Sohal                  5    3   0   0  166.67  run out (K Pollard/D Jacobs)
+  Daniel Christian            21   18   1   1  116.67  st D Jacobs b M Patel
+  Extras: 12 (b 0, lb 5, w 7, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Munaf Patel                   4   0   35   1   8.75
+  Harbhajan Singh               4   0   27   0   6.75
+  Abu Nechim                    4   0   27   0   6.75
+  Lasith Malinga                4   0    9   3   2.25
+  Kieron Pollard                2   0   20   1     10
+  Rajagopal Sathish             2   0   12   0      6
+
+  Fall of Wickets: 14-1 (Sohal, 1.5 ov), 41-2 (Dhawan, 5.4 ov), 54-3 (Cameron White, 7.3 ov), 70-4 (Chipli, 9.4 ov), 93-5 (Sangakkara, 13.3 ov), 99-6 (Christian, 14.4 ov), 101-7 (Ravi Teja, 15.3 ov), 128-8 (Steyn, 18.5 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

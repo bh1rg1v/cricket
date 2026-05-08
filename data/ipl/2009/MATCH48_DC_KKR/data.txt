@@ -1,0 +1,62 @@
+SCORECARD
+============================================================
+
+============================================================
+  Kolkata Knight Riders  160/5 (20 ov)  RR: 8
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Sourav Ganguly              33   41   3   0   80.49  c Harris b Sharma
+  Brendon McCullum            20   18   1   1  111.11  c Suman b Harris
+  Brad Hodge                  48   41   5   0  117.07  c Harmeet Singh b Harris
+  Mashrafe Mortaza             2    2   0   0     100  not out
+  David Hussey                43   17   2   4  252.94  run out (Gilchrist)
+  Wriddhiman Saha              7    3   0   1  233.33  c Singh b Symonds
+  Extras: 7 (b 1, lb 2, w 2, nb 2)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Ryan Harris                   4   0   20   2      5
+  RP Singh                    3.1   0   30   0   9.68
+  Andrew Symonds                4   0   28   1      7
+  Harmeet Singh Bansal        3.5   0   40   0  11.43
+  Pragyan Ojha                  3   0   24   0      8
+  Rohit Sharma                  2   0   15   1    7.5
+
+  Fall of Wickets: 27-1 (Brendon McCullum, 4.3 ov), 85-2 (S Ganguly, 14.5 ov), 117-3 (Hodge, 17.5 ov), 152-4 (W Saha, 19.2 ov), 158-5 (David Hussey, 19.4 ov)
+
+============================================================
+  Deccan Chargers  166/4 (20 ov)  RR: 8.3
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Adam Gilchrist              43   31   5   2  138.71  c sub (LR Shukla) b Hodge
+  Andrew Symonds              18   13   0   1  138.46  run out (Mashrafe Mortaza)
+  Herschelle Gibbs            28   34   3   0   82.35  c Hussey b Kartik
+  Venugopal Rao                7    7   0   0     100  not out
+  Rohit Sharma                32   13   3   2  246.15  not out
+  Tirumalsetti Suman          31   24   3   1  129.17  run out (Agarkar/Hodge)
+  Extras: 7 (b 1, lb 2, w 2, nb 2)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Ishant Sharma                 4   0   23   0   5.75
+  Mashrafe Mortaza              4   0   58   0   14.5
+  Murali Kartik                 4   0   12   1      3
+  Brad Hodge                    3   0   23   1   7.67
+  Ajit Agarkar                  4   0   41   0  10.25
+  David Hussey                  1   0    6   0      6
+
+  Fall of Wickets: 68-1 (Adam Gilchrist, 9.2 ov), 85-2 (H Gibbs, 12.3 ov), 116-3 (Suman, 16.2 ov), 128-4 (Andrew Symonds, 17 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

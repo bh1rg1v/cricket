@@ -1,0 +1,61 @@
+SCORECARD
+============================================================
+
+============================================================
+  Rising Pune Supergiants  159/5 (20 ov)  RR: 7.95
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  MS Dhoni                    24   24   2   0     100  c Rayudu b Bumrah
+  Ajinkya Rahane               4    5   0   0      80  c Krunal Pandya b McClenaghan
+  Rajat Bhatia                 3    2   0   0     150  not out
+  Saurabh Tiwary              57   45   4   2  126.67  c Hardik Pandya b Bumrah
+  Steven Smith                45   23   4   3  195.65  c Parthiv Patel b Bumrah
+  Thisara Perera              12    9   0   1  133.33  not out
+  Peter Handscomb              6   12   0   0      50  c J Buttler b Harbhajan
+  Extras: 8 (b 0, lb 1, w 7, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Tim Southee                   4   0   35   0   8.75
+  Mitchell McClenaghan          4   0   27   1   6.75
+  Krunal Pandya                 2   0   28   0     14
+  Jasprit Bumrah                4   0   29   3   7.25
+  Hardik Pandya                 2   0   14   0      7
+  Harbhajan Singh               4   0   25   1   6.25
+
+  Fall of Wickets: 8-1 (Ajinkya Rahane, 1.5 ov), 92-2 (Steven Smith, 9.2 ov), 105-3 (Handscomb, 12.1 ov), 138-4 (Saurabh Tiwary, 17.3 ov), 149-5 (MS Dhoni, 19.2 ov)
+
+============================================================
+  Mumbai Indians  161/2 (18.3 ov)  RR: 8.8
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Parthiv Patel               21   15   4   0     140  c Dhoni b Dinda
+  Rohit Sharma                85   60   8   3  141.67  not out
+  Jos Buttler                 27   17   2   1  158.82  not out
+  Ambati Rayudu               22   19   1   1  115.79  c A Rahane b Ashwin
+  Extras: 6 (b 0, lb 4, w 2, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Thisara Perera                4   0   35   0   8.75
+  Ashok Dinda                   3   0   33   1     11
+  Scott Boland                  3   0   23   0   7.67
+  Rajat Bhatia                  3   0   20   0   6.67
+  Ravichandran Ashwin           3   0   21   1      7
+  Murugan Ashwin              2.3   0   25   0  10.87
+
+  Fall of Wickets: 39-1 (Parthiv Patel, 3.6 ov), 91-2 (Rayudu, 11.4 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

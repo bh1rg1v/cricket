@@ -1,13 +1,18 @@
 import re
 import os
-import requests
 import json
+import asyncio
+import requests
 from collections import defaultdict
-from playwright.sync_api import sync_playwright
+from playwright.async_api import async_playwright
 
-YEARS = range(2008, 2027)
-LIMIT = 60
+YEARS = range(2021, 2026)
+
+LIMIT = 600
 MAX_RETRIES = 1
+
+# ── CONCURRENT TABS ──────────────────────────────────────────────────────────
+CONCURRENT_TABS = 5
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
@@ -24,18 +29,21 @@ def fetch_json(url):
 
 # ── Scorecard ────────────────────────────────────────────────────────────────
 
-def fetch_scorecard_from_page(page, match_id):
+async def fetch_scorecard_from_page(page, match_id):
     """Navigate to scorecard page and extract structured data from embedded JSON."""
 
     import json as _json
 
+    team_a = "TEAMA"    
+    team_b = "TEAMB"
+
     url = f"https://www.cricbuzz.com/live-cricket-scorecard/{match_id}"
 
-    page.goto(url, wait_until="domcontentloaded", timeout=60000)
-    page.wait_for_timeout(3000)
+    await page.goto(url, wait_until="domcontentloaded", timeout=60000)
+    await page.wait_for_timeout(3000)
 
     # Extract scorecardApiData from embedded Next.js JSON
-    raw = page.evaluate("""
+    raw = await page.evaluate("""
         () => {
             for (const s of document.querySelectorAll('script:not([src])')) {
                 if (s.textContent.includes('scorecardApiData')) return s.textContent;
@@ -55,7 +63,7 @@ def fetch_scorecard_from_page(page, match_id):
 
     if not m:
         # fallback
-        text = page.inner_text('main').strip()
+        text = await page.locator("main").inner_text()
         return text[:5000]
 
     try:
@@ -154,7 +162,18 @@ def fetch_scorecard_from_page(page, match_id):
 
             lines.append(f"\n  Fall of Wickets: {fow}")
 
-    return '\n'.join(lines)
+        team_a = inn.get('batTeamDetails', {}).get('batTeamName', 'TeamA')
+        team_b = inn.get('bowlTeamDetails', {}).get('bowlTeamName', 'TeamB')
+
+        team_a = "".join([word[0] for word in team_a.split(" ")])
+        team_b = "".join([word[0] for word in team_b.split(" ")])
+
+        if team_a == "SH":
+            team_a = "SRH"
+        if team_b == "SH":
+            team_b = "SRH"
+
+    return ['\n'.join(lines), team_a, team_b]
 
 
 # ── Ball-by-ball ─────────────────────────────────────────────────────────────
@@ -247,15 +266,12 @@ def build_innings(data, match_id, innings):
 
 # ── Win probability ───────────────────────────────────────────────────────────
 
-
-
-
-def get_match_teams(page):
+async def get_match_teams(page):
     """Extract short team names from win probability titles."""
 
     try:
 
-        sample = page.evaluate("""
+        sample = await page.evaluate("""
             () => {
                 const el = document.querySelector(
                     '[title*="Over"][title*="%"]'
@@ -298,7 +314,7 @@ def get_teams_from_url(page):
     return "TeamA", "TeamB"
 
 
-def fetch_win_prob(page, match_id):
+async def fetch_win_prob(page, match_id):
 
     url = f"https://www.cricbuzz.com/live-cricket-graphs/{match_id}"
 
@@ -306,13 +322,13 @@ def fetch_win_prob(page, match_id):
 
     try:
 
-        page.goto(
+        await page.goto(
             url,
             wait_until="domcontentloaded",
             timeout=60000
         )
 
-        page.wait_for_timeout(2000)
+        await page.wait_for_timeout(2000)
 
         # fallback
         team_a, team_b = get_teams_from_url(page)
@@ -320,21 +336,21 @@ def fetch_win_prob(page, match_id):
         # click Win Probability tab
         try:
 
-            page.get_by_text(
+            await page.get_by_text(
                 "Win Probability",
                 exact=True
             ).first.click(timeout=5000)
 
-            page.wait_for_timeout(2000)
+            await page.wait_for_timeout(2000)
 
-            page.get_by_text(
+            await page.get_by_text(
                 "Over-by-over",
                 exact=True
             ).first.click(timeout=5000)
 
-            page.wait_for_timeout(2000)
+            await page.wait_for_timeout(2000)
 
-            ta, tb = get_match_teams(page)
+            ta, tb = await get_match_teams(page)
 
             if ta:
                 team_a, team_b = ta, tb
@@ -346,7 +362,7 @@ def fetch_win_prob(page, match_id):
                 team_b
             )
 
-        entries = page.evaluate("""
+        entries = await page.evaluate("""
             () =>
                 Array.from(
                     document.querySelectorAll(
@@ -400,131 +416,174 @@ def fetch_win_prob(page, match_id):
         return f"  [Win probability error: {e}]", None, None
 
 
-# ── Main ──────────────────────────────────────────────────────────────────────
+# ── Match Worker ─────────────────────────────────────────────────────────────
 
-with sync_playwright() as p:
+async def process_match(context, BASE_OUTPUT_DIR, match_id, i):
 
-    browser = p.chromium.launch(
-        headless=False,
-        channel="chrome",
-        args=["--disable-blink-features=AutomationControlled"]
-    )
+    page = await context.new_page()
 
-    context = browser.new_context(
-        user_agent=HEADERS["User-Agent"],
-        viewport={"width": 1280, "height": 800},
-        extra_http_headers={
-            "Referer": "https://www.cricbuzz.com/"
-        },
-    )
+    try:
 
-    context.add_init_script(
-        "Object.defineProperty("
-        "navigator, "
-        "'webdriver', "
-        "{get: () => undefined}"
-        ")"
-    )
+        print(f"\n[{i}] Match {match_id}")
 
-    page = context.new_page()
+        sections = []
 
-    for YEAR in YEARS:
+        # Scorecard
+        print(f"  Fetching scorecard...")
 
-        YEAR = str(YEAR)
-
-        MATCH_IDS_FILE = f"data/ipl/{YEAR}/match_ids.txt"
-        BASE_OUTPUT_DIR = f"data/ipl/{YEAR}"
-
-        print(f"\n{'='*80}")
-        print(f"PROCESSING IPL {YEAR}")
-        print(f"{'='*80}")
-
-        def load_match_ids():
-
-            with open(MATCH_IDS_FILE) as f:
-                return [
-                    l.strip()
-                    for l in f
-                    if l.strip()
-                ]
-
-        match_ids = load_match_ids()
-
-        # Optional limit
-        match_ids = match_ids[:LIMIT]
-
-        print(
-            f"Processing {len(match_ids)} "
-            f"matches for IPL {YEAR}"
+        sc_text, TEAM_A, TEAM_B = await fetch_scorecard_from_page(
+            page,
+            match_id
         )
 
-        for i, match_id in enumerate(match_ids, 1):
+        sections.append(
+            f"SCORECARD\n{'=' * 60}\n{sc_text}"
+        )
 
-            print(f"\n[{i}/{len(match_ids)}] Match {match_id}")
+        # Ball-by-ball
+        for innings in (1, 2):
 
-            sections = []
+            print(f"  Fetching innings {innings}...")
 
-            # Scorecard
-            print(f"  Fetching scorecard...")
+            try:
 
-            sc_text = fetch_scorecard_from_page(
-                page,
-                match_id
+                data = fetch_json(
+                    f"https://www.cricbuzz.com/api/mcenter/"
+                    f"balls-map/{match_id}/{innings}"
+                )
+
+                sections.append(
+                    build_innings(
+                        data,
+                        match_id,
+                        innings
+                    )
+                )
+
+            except Exception as e:
+
+                sections.append(
+                    f"  [Innings {innings} unavailable: {e}]"
+                )
+
+        # Win probability
+        win_prob, team_a, team_b = await fetch_win_prob(
+            page,
+            match_id
+        )
+
+        sections.append(win_prob)
+
+        # team_a = team_a or "TeamA"
+        # team_b = team_b or "TeamB"
+
+        TEAM_A = TEAM_A if TEAM_A else team_a
+        TEAM_B = TEAM_B if TEAM_B else team_b
+
+        folder = os.path.join(
+            BASE_OUTPUT_DIR,
+            f"MATCH{i}_{TEAM_A}_{TEAM_B}"
+        )
+
+        out_path = os.path.join(folder, "data.txt")
+
+        if os.path.exists(out_path):
+            print(f"  Skipping Match {match_id} -> already exists")
+            return
+        
+        os.makedirs(folder, exist_ok=True)
+
+        out_path = os.path.join(folder, "data.txt")
+
+        with open(out_path, "w", encoding="utf-8") as f:
+            f.write("\n\n".join(sections))
+
+        print(f"  Saved -> {out_path}")
+
+    finally:
+        await page.close()
+
+
+# ── Main ──────────────────────────────────────────────────────────────────────
+
+async def main():
+
+    async with async_playwright() as p:
+
+        browser = await p.chromium.launch(
+            headless=False,
+            channel="chrome",
+            args=["--disable-blink-features=AutomationControlled"]
+        )
+
+        context = await browser.new_context(
+            user_agent=HEADERS["User-Agent"],
+            viewport={"width": 1280, "height": 800},
+            extra_http_headers={
+                "Referer": "https://www.cricbuzz.com/"
+            },
+        )
+
+        await context.add_init_script(
+            "Object.defineProperty("
+            "navigator, "
+            "'webdriver', "
+            "{get: () => undefined}"
+            ")"
+        )
+
+        for YEAR in YEARS:
+
+            YEAR = str(YEAR)
+
+            MATCH_IDS_FILE = f"data/ipl/{YEAR}/match_ids.txt"
+            BASE_OUTPUT_DIR = f"data/ipl/{YEAR}"
+
+            print(f"\n{'='*80}")
+            print(f"PROCESSING IPL {YEAR}")
+            print(f"{'='*80}")
+
+            def load_match_ids():
+
+                with open(MATCH_IDS_FILE) as f:
+                    return [
+                        l.strip()
+                        for l in f
+                        if l.strip()
+                    ]
+
+            match_ids = load_match_ids()
+
+            # Optional limit
+            match_ids = match_ids[:LIMIT]
+
+            print(
+                f"Processing {len(match_ids)} "
+                f"matches for IPL {YEAR}"
             )
 
-            sections.append(
-                f"SCORECARD\n{'=' * 60}\n{sc_text}"
-            )
+            semaphore = asyncio.Semaphore(CONCURRENT_TABS)
 
-            # Ball-by-ball
-            for innings in (1, 2):
+            async def sem_task(match_id, i):
 
-                print(f"  Fetching innings {innings}...")
+                async with semaphore:
 
-                try:
-
-                    data = fetch_json(
-                        f"https://www.cricbuzz.com/api/mcenter/"
-                        f"balls-map/{match_id}/{innings}"
+                    await process_match(
+                        context,
+                        BASE_OUTPUT_DIR,
+                        match_id,
+                        i
                     )
 
-                    sections.append(
-                        build_innings(
-                            data,
-                            match_id,
-                            innings
-                        )
-                    )
+            tasks = [
+                sem_task(match_id, i)
+                for i, match_id in enumerate(match_ids, 1)
+            ]
 
-                except Exception as e:
+            await asyncio.gather(*tasks)
 
-                    sections.append(
-                        f"  [Innings {innings} unavailable: {e}]"
-                    )
+        await browser.close()
 
-            # Win probability
-            win_prob, team_a, team_b = fetch_win_prob(
-                page,
-                match_id
-            )
 
-            sections.append(win_prob)
-
-            team_a = team_a or "TeamA"
-            team_b = team_b or "TeamB"
-
-            folder = os.path.join(
-                BASE_OUTPUT_DIR,
-                f"MATCH{i}_{team_a}_{team_b}"
-            )
-
-            os.makedirs(folder, exist_ok=True)
-
-            out_path = os.path.join(folder, "data.txt")
-
-            with open(out_path, "w", encoding="utf-8") as f:
-                f.write("\n\n".join(sections))
-
-            print(f"  Saved -> {out_path}")
-
-    browser.close()
+if __name__ == "__main__":
+    asyncio.run(main())

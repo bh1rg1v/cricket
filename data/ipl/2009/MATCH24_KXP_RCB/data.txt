@@ -1,0 +1,69 @@
+SCORECARD
+============================================================
+
+============================================================
+  Royal Challengers Bangalore  145/9 (20 ov)  RR: 7.25
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Anil Kumble                  1    3   0   0   33.33  b Abdulla
+  Mark Boucher                 2    4   0   0      50  lbw b Yuvraj Singh
+  Jacques Kallis              27   22   4   0  122.73  b Yuvraj Singh
+  Robin Uthappa               19   17   2   0  111.76  c Katich b Yuvraj Singh
+  Jesse Ryder                  2    5   0   0      40  c Jayawardene b Pathan
+  Praveen Kumar                9    7   1   0  128.57  not out
+  Virat Kohli                 16   14   2   0  114.29  c Chawla b Pathan
+  Roelof van der Merwe        35   19   3   3  184.21  c Pathan b Abdulla
+  KP Appanna                   0    1   0   0       0  not out
+  Shreevats Goswami           10   14   0   0   71.43  c Chawla b Abdulla
+  Rajesh Bishnoi              18   14   1   2  128.57  c Chawla b Abdulla
+  Extras: 6 (b 1, lb 1, w 4, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Irfan Pathan                  4   0   19   2   4.75
+  Vikramjeet Singh Malik        3   0   29   0   9.67
+  Yusuf Abdulla                 4   1   36   4      9
+  Ramesh Powar                  1   0    8   0      8
+  Piyush Chawla                 4   0   29   0   7.25
+  Yuvraj Singh                  4   0   22   3    5.5
+
+  Fall of Wickets: 2-1 (Ryder, 0.5 ov), 27-2 (R Bishnoi, 4.4 ov), 38-3 (Goswami, 6.1 ov), 80-4 (Uthappa, 11.5 ov), 80-5 (Kallis, 11.6 ov), 84-6 (M Boucher, 13.1 ov), 128-7 (Roelof van der Merwe, 17.4 ov), 133-8 (Virat Kohli, 18.1 ov), 136-9 (A Kumble, 19.1 ov)
+
+============================================================
+  Kings XI Punjab  137/7 (20 ov)  RR: 6.85
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Yuvraj Singh                50   34   3   4  147.06  c Kallis b Kumble
+  Irfan Pathan                12    9   2   0  133.33  c Kohli b Kumar
+  Mahela Jayawardene          19   15   2   0  126.67  c Kallis b van der Merwe
+  Kumar Sangakkara            17   23   2   0   73.91  b Kumble
+  Simon Katich                 3    5   0   0      60  run out (van der Merwe/Boucher)
+  Piyush Chawla                3    4   0   0      75  b Kumar
+  Tanmay Srivastava            0    1   0   0       0  not out
+  Karan Goel                  20   29   2   0   68.97  c Kohli b van der Merwe
+  Extras: 13 (b 4, lb 6, w 3, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Praveen Kumar                 4   0   27   2   6.75
+  Jacques Kallis                3   0   19   0   6.33
+  Jesse Ryder                   4   0   24   0      6
+  Roelof van der Merwe          3   0   22   2   7.33
+  Anil Kumble                   4   0   25   2   6.25
+  KP Appanna                    2   0   10   0      5
+
+  Fall of Wickets: 70-1 (Yuvraj, 9.5 ov), 73-2 (K Goel, 10.6 ov), 84-3 (Simon Katich, 12.4 ov), 116-4 (Mahela, 17.1 ov), 129-5 (Sangakkara, 18.2 ov), 137-6 (Irfan Pathan, 19.4 ov), 137-7 (Chawla, 19.5 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

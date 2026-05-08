@@ -1,0 +1,159 @@
+SCORECARD
+============================================================
+
+============================================================
+  Kolkata Knight Riders  200/6 (20 ov)  RR: 10
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  de Kock                      1    6   0   0   16.67  c Zeeshan Ansari b Cummins
+  Narine                       7    7   0   1     100  c Klaasen b Shami
+  Ajinkya Rahane              38   27   1   4  140.74  c Klaasen b Zeeshan Ansari
+  Angkrish Raghuvanshi        50   32   5   2  156.25  c Harshal Patel b Kamindu Mendis
+  Venkatesh Iyer              60   29   7   3   206.9  c Aniket Verma b Harshal Patel
+  Rinku Singh                 32   17   4   1  188.24  not out
+  Russell                      1    2   0   0      50  run out (Klaasen)
+  Extras: 11 (b 0, lb 8, w 3, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Shami                         4   0   29   1    7.2
+  Cummins                       4   0   44   1     11
+  Simarjeet Singh               4   0   47   0   11.8
+  Zeeshan Ansari                3   0   25   1    8.3
+  Harshal Patel                 4   0   43   1   10.8
+  Kamindu Mendis                1   0    4   1      4
+
+  Fall of Wickets: 14-1 (de Kock, 1.5 ov), 16-2 (Narine, 2.3 ov), 97-3 (Ajinkya Rahane, 10.6 ov), 106-4 (Angkrish Raghuvanshi, 12.4 ov), 197-5 (Venkatesh Iyer, 19.3 ov), 200-6 (Russell, 20 ov)
+
+============================================================
+  Sunrisers Hyderabad  120/10 (16.4 ov)  RR: 7.2
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Travis Head                  4    2   1   0     200  c Harshit Rana b Vaibhav Arora
+  Abhishek Sharma              2    6   0   0   33.33  c Venkatesh Iyer b Harshit Rana
+  Ishan Kishan                 2    5   0   0      40  c Ajinkya Rahane b Vaibhav Arora
+  Nitish Kumar Reddy          19   15   2   1  126.67  c Narine b Russell
+  Kamindu Mendis              27   20   1   2     135  c (sub)Anukul Roy b Narine
+  Heinrich Klaasen            33   21   2   2  157.14  c Moeen b Vaibhav Arora
+  Aniket Verma                 6    6   1   0     100  c Venkatesh Iyer b Varun Chakaravarthy
+  Pat Cummins                 14   15   2   0   93.33  c Harshit Rana b Varun Chakaravarthy
+  Harshal Patel                3    5   0   0      60  c and b Russell
+  Simarjeet Singh              0    1   0   0       0  b Varun Chakaravarthy
+  Mohammed Shami               2    4   0   0      50  not out
+  Extras: 8 (b 0, lb 3, w 5, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Vaibhav Arora                 4   1   29   3    7.2
+  Harshit Rana                  3   0   15   1      5
+  Varun Chakaravarthy           4   0   22   3    5.5
+  Andre Russell               1.4   0   21   2   12.6
+  Sunil Narine                  4   0   30   1    7.5
+
+  Fall of Wickets: 4-1 (Travis Head, 0.2 ov), 9-2 (Abhishek Sharma, 1.6 ov), 9-3 (Ishan Kishan, 2.1 ov), 44-4 (Nitish Kumar Reddy, 6.4 ov), 66-5 (Kamindu Mendis, 9.3 ov), 75-6 (Aniket Verma, 10.4 ov), 112-7 (Heinrich Klaasen, 14.4 ov), 114-8 (Pat Cummins, 15.1 ov), 114-9 (Simarjeet Singh, 15.2 ov), 120-10 (Harshal Patel, 16.4 ov)
+
+============================================================
+  MATCH 115050 - INNINGS 1
+============================================================
+  Score: 200/6 in 20 overs  |  Run Rate: 10
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  L4  Wd  1  L1  •  •  •          +7 runs  (Total: 7)  [FOUR]
+  Over  2:  6  •  •  L1  W  •               +7 runs  (Total: 14)  [SIX, WICKET]
+  Over  3:  1  1  W  1  •  •                +3 runs  (Total: 17)  [WICKET]
+  Over  4:  •  2  •  1  6  •                +9 runs  (Total: 26)  [SIX]
+  Over  5:  1  •  •  6  1  4                +12 runs  (Total: 38)  [SIX, over-break,FOUR]
+  Over  6:  •  6  1  1  L1  6               +15 runs  (Total: 53)  [SIX, over-break,TEAM_FIFTY,SIX,HIGHSCORING_OVER]
+  Over  7:  2  4  1  •  1  •                +8 runs  (Total: 61)  [FOUR]
+  Over  8:  4  •  1  1  •  4                +10 runs  (Total: 71)  [FOUR, PARTNERSHIP, over-break,FOUR]
+  Over  9:  •  1  •  1  1  1                +4 runs  (Total: 75)
+  Over 10:  1  •  •  1  1  6                +9 runs  (Total: 84)  [over-break,SIX]
+  Over 11:  •  2  6  4  1  W                +13 runs  (Total: 97)  [SIX, FOUR, over-break,WICKET]
+  Over 12:  1  •  1  4  1  •                +7 runs  (Total: 104)  [DROPPED, TEAM_HUNDRED,FOUR]
+  Over 13:  1  1  •  W  1  1                +4 runs  (Total: 108)  [FIFTY, WICKET]
+  Over 14:  1  •  1  Wd  •  1  1            +5 runs  (Total: 113)
+  Over 15:  •  2  •  1  6  •                +9 runs  (Total: 122)  [SIX]
+  Over 16:  1  •  2  4  1  4                +12 runs  (Total: 134)  [FOUR, over-break,FOUR]
+  Over 17:  1  4  4  4  1  1                +15 runs  (Total: 149)  [FOUR, FOUR, FOUR, over-break,HIGHSCORING_OVER]
+  Over 18:  1  1  4  4  1  6                +17 runs  (Total: 166)  [TEAM_HUNDRED, FOUR, FOUR,PARTNERSHIP, over-break,SIX,HIGHSCORING_OVER]
+  Over 19:  4  6  4  4  2  L1               +21 runs  (Total: 187)  [FOUR, SIX, FOUR, FOUR, FIFTY, over-break,HIGHSCORING_OVER]
+  Over 20:  6  4  W  1  1  Wd  W            +13 runs  (Total: 200)  [SIX, FOUR, WICKET, TEAM_HUNDRED, over-break,WICKET]
+
+BATTERS
+------------------------------------------------------------
+  de Kock                      1 runs    6 balls  4s:0  6s:0  SR:16.67
+  Narine                       7 runs    7 balls  4s:0  6s:0  SR:100
+  Ajinkya Rahane              38 runs   27 balls  4s:0  6s:0  SR:140.74
+  Angkrish Raghuvanshi        50 runs   32 balls  4s:0  6s:0  SR:156.25
+  Venkatesh Iyer              60 runs   29 balls  4s:0  6s:0  SR:206.9
+  Rinku Singh                 32 runs   17 balls  4s:0  6s:0  SR:188.24
+  Russell                      1 runs    2 balls  4s:0  6s:0  SR:50
+
+BOWLERS
+------------------------------------------------------------
+  Shami                      4 ov   29 runs  1 wkts  Econ:7.2
+  Cummins                    4 ov   44 runs  1 wkts  Econ:11
+  Simarjeet Singh            4 ov   47 runs  0 wkts  Econ:11.8
+  Zeeshan Ansari             3 ov   25 runs  1 wkts  Econ:8.3
+  Harshal Patel              4 ov   43 runs  1 wkts  Econ:10.8
+  Kamindu Mendis             1 ov    4 runs  1 wkts  Econ:4
+
+============================================================
+  MATCH 115050 - INNINGS 2
+============================================================
+  Score: 120/10 in 16.4 overs  |  Run Rate: 7.2
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  4  W  •  1  •  1                +6 runs  (Total: 6)  [FOUR, WICKET]
+  Over  2:  •  1  •  Wd  1  •  W            +3 runs  (Total: 9)  [over-break,WICKET]
+  Over  3:  W  •  •  •  •  0                +0 runs  (Total: 9)  [WICKET, over-break,DROPPED,MAIDEN_OVER]
+  Over  4:  •  •  1  •  2  2                +5 runs  (Total: 14)
+  Over  5:  4  •  4  6  •  1                +15 runs  (Total: 29)  [FOUR, FOUR, SIX, over-break,HIGHSCORING_OVER]
+  Over  6:  2  •  •  •  1  1                +4 runs  (Total: 33)  [UDRS]
+  Over  7:  6  4  1  W  1  6                +18 runs  (Total: 51)  [SIX, FOUR, WICKET, over-break,TEAM_FIFTY,SIX,HIGHSCORING_OVER]
+  Over  8:  1  1  •  1  1  1                +5 runs  (Total: 56)
+  Over  9:  1  1  4  1  •  •                +7 runs  (Total: 63)  [FOUR]
+  Over 10:  1  2  W  •  4  1  Wd            +9 runs  (Total: 72)  [WICKET, FOUR]
+  Over 11:  •  1  1  W  Wd  4  1            +8 runs  (Total: 80)  [WICKET, FOUR]
+  Over 12:  •  L2  •  •  1  1               +4 runs  (Total: 84)
+  Over 13:  1  •  •  4  1  1                +7 runs  (Total: 91)  [FOUR]
+  Over 14:  6  6  •  L1  1  1               +15 runs  (Total: 106)  [SIX, TEAM_HUNDRED,SIX, over-break,HIGHSCORING_OVER]
+  Over 15:  4  1  1  W  1  1                +8 runs  (Total: 114)  [FOUR, WICKET]
+  Over 16:  W  W  •  •  1  Wd  1            +3 runs  (Total: 117)  [WICKET, WICKET]
+  Over 17:  1  Wd  1  •  W                  +3 runs  (Total: 120)  [WICKET]
+
+BATTERS
+------------------------------------------------------------
+  Travis Head                  4 runs    2 balls  4s:1  6s:0  SR:200
+  Simarjeet Singh              0 runs    1 balls  4s:0  6s:0  SR:0
+  Mohammed Shami               2 runs    4 balls  4s:0  6s:0  SR:50
+  Abhishek Sharma              2 runs    6 balls  4s:0  6s:0  SR:33.33
+  Ishan Kishan                 2 runs    5 balls  4s:0  6s:0  SR:40
+  Nitish Kumar Reddy          19 runs   15 balls  4s:2  6s:1  SR:126.67
+  Kamindu Mendis              27 runs   20 balls  4s:1  6s:2  SR:135
+  Heinrich Klaasen            33 runs   21 balls  4s:2  6s:2  SR:157.14
+  Aniket Verma                 6 runs    6 balls  4s:1  6s:0  SR:100
+  Pat Cummins                 14 runs   15 balls  4s:2  6s:0  SR:93.33
+  Harshal Patel                3 runs    5 balls  4s:0  6s:0  SR:60
+
+BOWLERS
+------------------------------------------------------------
+  Vaibhav Arora              4 ov   29 runs  3 wkts  Econ:7.2
+  Harshit Rana               3 ov   15 runs  1 wkts  Econ:5
+  Varun Chakaravarthy        4 ov   22 runs  3 wkts  Econ:5.5
+  Andre Russell              1.4 ov   21 runs  2 wkts  Econ:12.6
+  Sunil Narine               4 ov   30 runs  1 wkts  Econ:7.5
+
+  [Win probability not available for this match]

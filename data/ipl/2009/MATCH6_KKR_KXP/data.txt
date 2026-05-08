@@ -1,0 +1,61 @@
+SCORECARD
+============================================================
+
+============================================================
+  Kings XI Punjab  158/6 (20 ov)  RR: 7.9
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Yuvraj Singh                38   28   3   2  135.71  c Yashpal Singh b Henriques
+  Irfan Pathan                32   17   5   1  188.24  c Kartik b Ganguly
+  Mahela Jayawardene          31   19   3   1  163.16  not out
+  Kumar Sangakkara            26   24   2   0  108.33  run out (Chopra/McCullum)
+  Piyush Chawla                3    6   0   0      50  not out
+  Ravi Bopara                 15   15   2   0     100  c McCullum b Ganguly
+  Taruwar Kohli                1    4   0   0      25  c McCullum b Dinda
+  Karan Goel                   0    7   0   0       0  c Gayle b Sharma
+  Extras: 12 (b 1, lb 0, w 11, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Ishant Sharma                 4   0   24   1      6
+  Ashok Dinda                   4   0   34   1    8.5
+  Moises Henriques              4   0   32   1      8
+  Sourav Ganguly                4   0   24   2      6
+  Laxmi Shukla                  2   0   22   0     11
+  Chris Gayle                   1   0   14   0     14
+  Murali Kartik                 1   0    7   0      7
+
+  Fall of Wickets: 9-1 (K Goel, 2.2 ov), 47-2 (Irfan Pathan, 6.2 ov), 48-3 (Bopara, 6.4 ov), 104-4 (Sangakkara, 14.1 ov), 122-5 (Yuvraj, 15.4 ov), 131-6 (T Kohli, 17.2 ov)
+
+============================================================
+  Kolkata Knight Riders  79/1 (9.2 ov)  RR: 8.46
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Brendon McCullum            21   16   1   2  131.25  c Sangakkara b Malik
+  Chris Gayle                 44   26   2   4  169.23  not out
+  Brad Hodge                  10   14   0   0   71.43  not out
+  Extras: 4 (b 0, lb 0, w 4, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Irfan Pathan                  3   0   27   0      9
+  Yusuf Abdulla                 2   0   20   0     10
+  Vikramjeet Singh Malik        2   0   23   1   11.5
+  Piyush Chawla                 2   0    8   0      4
+  Ravi Bopara                 0.2   0    1   0      5
+
+  Fall of Wickets: 57-1 (Brendon McCullum, 5.3 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

@@ -1,0 +1,68 @@
+SCORECARD
+============================================================
+
+============================================================
+  Mumbai Indians  184/5 (20 ov)  RR: 9.2
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Sachin Tendulkar             9    9   2   0     100  c Taylor b Steyn
+  Jean-Paul Duminy             3    4   0   0      75  c Pietersen b Kumble
+  Kieron Pollard              33   13   1   3  253.85  not out
+  Shikhar Dhawan              12    9   2   0  133.33  run out (Kohli)
+  Abhishek Nayar              22   18   2   0  122.22  c Kumar b Pietersen
+  Saurabh Tiwary              52   31   3   4  167.74  not out
+  Ambati Rayudu               40   38   4   0  105.26  c Kallis b Steyn
+  Extras: 13 (b 0, lb 2, w 9, nb 2)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Praveen Kumar                 3   0   29   0   9.67
+  Dale Steyn                    4   0   43   2  10.75
+  Vinay Kumar                   2   0   25   0   12.5
+  Jacques Kallis                2   0   25   0   12.5
+  Anil Kumble                   4   0   30   1    7.5
+  Kevin Pietersen               4   0   20   1      5
+  Virat Kohli                   1   0   10   0     10
+
+  Fall of Wickets: 11-1 (Tendulkar, 1.5 ov), 29-2 (Dhawan, 3.4 ov), 68-3 (Nayar, 8.2 ov), 77-4 (Duminy, 9.3 ov), 144-5 (Rayudu, 17.4 ov)
+
+============================================================
+  Royal Challengers Bangalore  149/9 (20 ov)  RR: 7.45
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Rahul Dravid                23   22   3   0  104.55  run out (Nayar/Pollard)
+  Anil Kumble                  1    2   0   0      50  not out
+  Jacques Kallis              11    9   2   0  122.22  c Rayudu b Malinga
+  Kevin Pietersen             19   14   2   0  135.71  st Rayudu b Harbhajan Singh
+  Dale Steyn                   5    5   1   0     100  b Fernando
+  Ross Taylor                 31   30   1   1  103.33  not out
+  Robin Uthappa               26   13   2   2     200  c Dhawan b Pollard
+  Praveen Kumar                1    2   0   0      50  b Harbhajan Singh
+  Virat Kohli                  9    7   1   0  128.57  c Rayudu b Pollard
+  Vinay Kumar                  8    8   0   0     100  b Malinga
+  Manish Pandey                5    9   0   0   55.56  c Duminy b Pollard
+  Extras: 10 (b 0, lb 2, w 7, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Zaheer Khan                   4   0   34   0    8.5
+  Dilhara Fernando              4   0   28   1      7
+  Lasith Malinga                4   0   24   2      6
+  Harbhajan Singh               4   0   44   2     11
+  Kieron Pollard                4   0   17   3   4.25
+
+  Fall of Wickets: 24-1 (Kallis, 2.4 ov), 47-2 (Pietersen, 6.1 ov), 81-3 (Uthappa, 9.3 ov), 81-4 (Dravid, 9.4 ov), 97-5 (Virat Kohli, 11.3 ov), 108-6 (Manish Pandey, 13.4 ov), 118-7 (P Kumar, 14.6 ov), 134-8 (Vinay Kumar, 17.6 ov), 146-9 (Steyn, 19.3 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

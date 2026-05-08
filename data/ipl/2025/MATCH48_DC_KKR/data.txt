@@ -1,0 +1,172 @@
+SCORECARD
+============================================================
+
+============================================================
+  Kolkata Knight Riders  204/9 (20 ov)  RR: 10.2
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Gurbaz                      26   12   5   1  216.67  c Abishek Porel b Mitchell Starc
+  Narine                      27   16   2   2  168.75  lbw b Vipraj Nigam
+  Ajinkya Rahane              26   14   4   1  185.71  lbw b Axar
+  Angkrish Raghuvanshi        44   32   3   2   137.5  c Karun Nair b Chameera
+  Venkatesh Iyer               7    5   1   0     140  c Vipraj Nigam b Axar
+  Rinku Singh                 36   25   3   1     144  c Mitchell Starc b Vipraj Nigam
+  Russell                     17    9   2   1  188.89  run out (Abishek Porel)
+  Rovman Powell                5    5   1   0     100  lbw b Mitchell Starc
+  Anukul Roy                   0    1   0   0       0  c Chameera b Mitchell Starc
+  Harshit Rana                 0    1   0   0       0  not out
+  Varun Chakaravarthy          1    1   0   0     100  not out
+  Extras: 15 (b 0, lb 3, w 11, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Mitchell Starc                4   0   43   3   10.8
+  Chameera                      3   0   46   1   15.3
+  Mukesh Kumar                  2   0   17   0    8.5
+  Vipraj Nigam                  4   0   41   2   10.2
+  Axar                          4   0   27   2    6.8
+  Kuldeep Yadav                 3   0   27   0      9
+
+  Fall of Wickets: 48-1 (Gurbaz, 2.6 ov), 85-2 (Narine, 6.4 ov), 91-3 (Ajinkya Rahane, 7.2 ov), 113-4 (Venkatesh Iyer, 9.2 ov), 174-5 (Angkrish Raghuvanshi, 16.5 ov), 177-6 (Rinku Singh, 17.3 ov), 203-7 (Rovman Powell, 19.3 ov), 203-8 (Anukul Roy, 19.4 ov), 203-9 (Russell, 19.5 ov)
+
+============================================================
+  Delhi Capitals  190/9 (20 ov)  RR: 9.5
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Abishek Porel                4    2   1   0     200  c Russell b Anukul Roy
+  Faf du Plessis              62   45   7   2  137.78  c Rinku Singh b Narine
+  Karun Nair                  15   13   2   0  115.38  lbw b Vaibhav Arora
+  KL Rahul                     7    5   1   0     140  run out (Narine)
+  Axar Patel                  43   23   4   3  186.96  c Harshit Rana b Narine
+  Tristan Stubbs               1    3   0   0   33.33  b Narine
+  Vipraj Nigam                38   19   5   2     200  b Russell
+  Ashutosh Sharma              7    6   0   1  116.67  c Narine b Varun Chakaravarthy
+  Mitchell Starc               0    1   0   0       0  c Gurbaz b Varun Chakaravarthy
+  Dushmantha Chameera          2    3   0   0   66.67  not out
+  Kuldeep Yadav                1    1   0   0     100  not out
+  Extras: 10 (b 5, lb 0, w 4, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Anukul Roy                    4   0   27   1    6.8
+  Vaibhav Arora                 2   0   19   1    9.5
+  Harshit Rana                  4   0   49   0   12.2
+  Varun Chakaravarthy           4   0   39   2    9.8
+  Sunil Narine                  4   0   29   3    7.2
+  Andre Russell                 2   0   22   1     11
+
+  Fall of Wickets: 4-1 (Abishek Porel, 0.2 ov), 43-2 (Karun Nair, 4.3 ov), 60-3 (KL Rahul, 6.3 ov), 136-4 (Axar Patel, 13.2 ov), 138-5 (Tristan Stubbs, 13.6 ov), 146-6 (Faf du Plessis, 15.2 ov), 160-7 (Ashutosh Sharma, 17.2 ov), 160-8 (Mitchell Starc, 17.3 ov), 189-9 (Vipraj Nigam, 19.5 ov)
+
+============================================================
+  MATCH 115275 - INNINGS 1
+============================================================
+  Score: 204/9 in 20 overs  |  Run Rate: 10.2
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  4  •  •  •  •  4                +8 runs  (Total: 8)  [FOUR, over-break,FOUR]
+  Over  2:  6  2  Wd  4  6  Wd  1  4        +25 runs  (Total: 33)  [SIX, FOUR, SIX, over-break,FOUR,HIGHSCORING_OVER]
+  Over  3:  1  4  •  4  6  W                +15 runs  (Total: 48)  [FOUR, FOUR, SIX, over-break,WICKET,HIGHSCORING_OVER]
+  Over  4:  •  •  •  4  1  Wd  •            +6 runs  (Total: 54)  [TEAM_FIFTY,FOUR]
+  Over  5:  L1  1  L1  6  4  1              +14 runs  (Total: 68)  [SIX, FOUR, over-break,HIGHSCORING_OVER]
+  Over  6:  4  4  •  1  Wd  1  •            +11 runs  (Total: 79)  [FOUR, FOUR]
+  Over  7:  1  4  1  W  2  4                +12 runs  (Total: 91)  [FOUR, WICKET, over-break,FOUR]
+  Over  8:  •  W  1  1  4  •                +6 runs  (Total: 97)  [WICKET, FOUR]
+  Over  9:  •  •  •  6  6  2                +14 runs  (Total: 111)  [TEAM_HUNDRED,SIX, SIX, over-break,HIGHSCORING_OVER]
+  Over 10:  2  W  1  1  1  1                +6 runs  (Total: 117)  [WICKET]
+  Over 11:  2  1  4  1  1  •                +9 runs  (Total: 126)  [FOUR]
+  Over 12:  1  2  1  1  1  4                +10 runs  (Total: 136)  [over-break,FOUR]
+  Over 13:  •  •  1  •  •  •                +1 runs  (Total: 137)
+  Over 14:  1  •  1  •  Wd  1  1            +5 runs  (Total: 142)
+  Over 15:  1  4  2  •  6  4                +17 runs  (Total: 159)  [FOUR, TEAM_HUNDRED,SIX, over-break,FOUR,HIGHSCORING_OVER]
+  Over 16:  1  N  1  1  1  1  2  Wd         +9 runs  (Total: 168)  [PARTNERSHIP]
+  Over 17:  •  4  1  1  W  •  Wd            +7 runs  (Total: 175)  [FOUR, WICKET]
+  Over 18:  1  1  W  •  •  4                +6 runs  (Total: 181)  [WICKET, over-break,FOUR]
+  Over 19:  1  1  Wd  Wd  4  4  •  Wd  1    +14 runs  (Total: 195)  [FOUR, FOUR, over-break,HIGHSCORING_OVER]
+  Over 20:  6  L1  Wd  W  W  W  1           +9 runs  (Total: 204)  [TEAM_HUNDRED,SIX, UDRS, UDRS, WICKET,UDRS, WICKET, WICKET]
+
+BATTERS
+------------------------------------------------------------
+  Gurbaz                      26 runs   12 balls  4s:0  6s:0  SR:216.67
+  Harshit Rana                 0 runs    1 balls  4s:0  6s:0  SR:0
+  Varun Chakaravarthy          1 runs    1 balls  4s:0  6s:0  SR:100
+  Narine                      27 runs   16 balls  4s:0  6s:0  SR:168.75
+  Ajinkya Rahane              26 runs   14 balls  4s:0  6s:0  SR:185.71
+  Angkrish Raghuvanshi        44 runs   32 balls  4s:0  6s:0  SR:137.5
+  Venkatesh Iyer               7 runs    5 balls  4s:0  6s:0  SR:140
+  Rinku Singh                 36 runs   25 balls  4s:0  6s:0  SR:144
+  Russell                     17 runs    9 balls  4s:0  6s:0  SR:188.89
+  Rovman Powell                5 runs    5 balls  4s:0  6s:0  SR:100
+  Anukul Roy                   0 runs    1 balls  4s:0  6s:0  SR:0
+
+BOWLERS
+------------------------------------------------------------
+  Mitchell Starc             4 ov   43 runs  3 wkts  Econ:10.8
+  Chameera                   3 ov   46 runs  1 wkts  Econ:15.3
+  Mukesh Kumar               2 ov   17 runs  0 wkts  Econ:8.5
+  Vipraj Nigam               4 ov   41 runs  2 wkts  Econ:10.2
+  Axar                       4 ov   27 runs  2 wkts  Econ:6.8
+  Kuldeep Yadav              3 ov   27 runs  0 wkts  Econ:9
+
+============================================================
+  MATCH 115275 - INNINGS 2
+============================================================
+  Score: 190/9 in 20 overs  |  Run Rate: 9.5
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  4  W  •  1  1  1                +7 runs  (Total: 7)  [FOUR, WICKET]
+  Over  2:  •  •  Wd  1  6  1  1            +10 runs  (Total: 17)  [SIX]
+  Over  3:  4  2  1  •  •  1                +8 runs  (Total: 25)  [FOUR]
+  Over  4:  4  •  2  4  4  •                +14 runs  (Total: 39)  [FOUR, FOUR, FOUR, over-break,HIGHSCORING_OVER]
+  Over  5:  •  4  W  1  4  •                +9 runs  (Total: 48)  [FOUR, WICKET,UDRS, FOUR]
+  Over  6:  •  1  •  1  1  4                +10 runs  (Total: 58)  [TEAM_FIFTY,FOUR, over-break,FOUR]
+  Over  7:  1  1  W  •  1  1                +4 runs  (Total: 62)  [WICKET]
+  Over  8:  1  •  6  1  •  1                +9 runs  (Total: 71)  [SIX]
+  Over  9:  1  1  4  4  •  6                +16 runs  (Total: 87)  [FOUR, FOUR, over-break,SIX,HIGHSCORING_OVER]
+  Over 10:  1  1  1  1  •  6                +10 runs  (Total: 97)  [over-break,SIX]
+  Over 11:  1  4  •  1  4  1                +11 runs  (Total: 108)  [FIFTY, TEAM_HUNDRED,FOUR, UDRS, FOUR]
+  Over 12:  4  N1  1  •  1  •  Wd  4        +13 runs  (Total: 121)  [FOUR, PARTNERSHIP, over-break,FOUR]
+  Over 13:  1  1  1  •  4  Wd  1            +9 runs  (Total: 130)  [FOUR]
+  Over 14:  6  W  •  1  1  W                +8 runs  (Total: 138)  [SIX, WICKET, over-break,WICKET]
+  Over 15:  1  1  •  •  Wd  1  4            +8 runs  (Total: 146)  [over-break,FOUR]
+  Over 16:  •  W  •  •  1  1                +2 runs  (Total: 148)  [WICKET]
+  Over 17:  •  •  4  1  6  •                +11 runs  (Total: 159)  [TEAM_HUNDRED,FOUR, SIX]
+  Over 18:  1  W  W  1  •  6                +8 runs  (Total: 167)  [WICKET, WICKET, over-break,SIX]
+  Over 19:  1  4  •  6  2  •                +13 runs  (Total: 180)  [FOUR, SIX, RUNOUT_MISS]
+  Over 20:  B1  4  •  4  W  1               +10 runs  (Total: 190)  [FOUR, FOUR, WICKET]
+
+BATTERS
+------------------------------------------------------------
+  Abishek Porel                4 runs    2 balls  4s:1  6s:0  SR:200
+  Dushmantha Chameera          2 runs    3 balls  4s:0  6s:0  SR:66.67
+  Kuldeep Yadav                1 runs    1 balls  4s:0  6s:0  SR:100
+  Faf du Plessis              62 runs   45 balls  4s:7  6s:2  SR:137.78
+  Karun Nair                  15 runs   13 balls  4s:2  6s:0  SR:115.38
+  KL Rahul                     7 runs    5 balls  4s:1  6s:0  SR:140
+  Axar Patel                  43 runs   23 balls  4s:4  6s:3  SR:186.96
+  Tristan Stubbs               1 runs    3 balls  4s:0  6s:0  SR:33.33
+  Vipraj Nigam                38 runs   19 balls  4s:5  6s:2  SR:200
+  Ashutosh Sharma              7 runs    6 balls  4s:0  6s:1  SR:116.67
+  Mitchell Starc               0 runs    1 balls  4s:0  6s:0  SR:0
+
+BOWLERS
+------------------------------------------------------------
+  Anukul Roy                 4 ov   27 runs  1 wkts  Econ:6.8
+  Vaibhav Arora              2 ov   19 runs  1 wkts  Econ:9.5
+  Harshit Rana               4 ov   49 runs  0 wkts  Econ:12.2
+  Varun Chakaravarthy        4 ov   39 runs  2 wkts  Econ:9.8
+  Sunil Narine               4 ov   29 runs  3 wkts  Econ:7.2
+  Andre Russell              2 ov   22 runs  1 wkts  Econ:11
+
+  [Win probability not available for this match]

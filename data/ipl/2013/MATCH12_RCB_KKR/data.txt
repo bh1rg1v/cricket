@@ -1,0 +1,63 @@
+SCORECARD
+============================================================
+
+============================================================
+  Kolkata Knight Riders  154/8 (20 ov)  RR: 7.7
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Jacques Kallis              16   19   2   0   84.21  c M Henriques b V Kumar
+  Gautam Gambhir              59   46   7   1  128.26  c & b V Kumar
+  Eoin Morgan                  2    5   0   0      40  c (sub)D Christian b RP Singh
+  Manoj Tiwary                23   16   2   0  143.75  c de Villiers b RP Singh
+  Yusuf Pathan                27   17   3   1  158.82  c V Kumar b M Henriques
+  Rajat Bhatia                13    7   2   0  185.71  b RP Singh
+  Pradeep Sangwan              4    2   1   0     200  not out
+  Ryan McLaren                 2    3   0   0   66.67  run out (RP Singh)
+  Manvinder Bisla              1    5   0   0      20  c L Rahul b M Henriques
+  Sunil Narine                 1    1   0   0     100  not out
+  Extras: 6 (b 0, lb 3, w 2, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Moises Henriques              4   0   24   2      6
+  RP Singh                      4   0   27   3   6.75
+  Jaydev Unadkat                4   0   34   0    8.5
+  Muthiah Muralidaran           4   0   30   0    7.5
+  Vinay Kumar                   4   0   36   2      9
+
+  Fall of Wickets: 3-1 (Bisla, 0.6 ov), 54-2 (Kallis, 8.1 ov), 95-3 (Yusuf Pathan, 12.5 ov), 124-4 (Gambhir, 16.2 ov), 132-5 (Morgan, 17.2 ov), 135-6 (Manoj Tiwary, 17.6 ov), 149-7 (McLaren, 19.2 ov), 149-8 (R Bhatia, 19.3 ov)
+
+============================================================
+  Royal Challengers Bangalore  158/2 (17.3 ov)  RR: 9.13
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Chris Gayle                 85   50   4   9     170  not out
+  AB de Villiers              22   22   2   1     100  not out
+  Virat Kohli                 35   27   4   2  129.63  c E Morgan b L Balaji
+  Mayank Agarwal               6    8   1   0      75  c M Bisla b R McLaren
+  Extras: 10 (b 0, lb 0, w 8, nb 2)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Ryan McLaren                  3   0   34   1  11.33
+  Jacques Kallis                4   1   30   0    7.5
+  Sunil Narine                  4   0   17   0   4.25
+  Lakshmipathy Balaji         3.3   0   33   1     10
+  Pradeep Sangwan               2   0   34   0     17
+  Rajat Bhatia                  1   0   10   0     10
+
+  Fall of Wickets: 12-1 (Mayank Agarwal, 2.3 ov), 75-2 (Virat Kohli, 9.1 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

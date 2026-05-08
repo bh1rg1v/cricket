@@ -1,0 +1,158 @@
+SCORECARD
+============================================================
+
+============================================================
+  Lucknow Super Giants  154/7 (20 ov)  RR: 7.7
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Rahul                       39   32   4   1  121.88  c Jos Buttler b Holder
+  K Mayers                    51   42   4   3  121.43  b Ashwin
+  Ayush Badoni                 1    4   0   0      25  b Boult
+  Deepak Hooda                 2    4   0   0      50  c Hetmyer b Ashwin
+  Stoinis                     21   16   2   0  131.25  c Samson b Sandeep Sharma
+  Pooran                      29   20   2   1     145  run out (Samson)
+  Krunal Pandya                4    2   1   0     200  not out
+  Yudhvir Singh                1    1   0   0     100  run out (Hetmyer/Samson)
+  Extras: 6 (b 0, lb 4, w 1, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Boult                         4   1   16   1      4
+  Sandeep Sharma                4   0   32   1      8
+  Ashwin                        4   0   23   2    5.8
+  Chahal                        4   0   41   0   10.2
+  Holder                        4   0   38   1    9.5
+
+  Fall of Wickets: 82-1 (Rahul, 10.4 ov), 85-2 (Ayush Badoni, 11.4 ov), 99-3 (Deepak Hooda, 13.2 ov), 104-4 (K Mayers, 13.5 ov), 149-5 (Stoinis, 19.3 ov), 153-6 (Pooran, 19.5 ov), 154-7 (Yudhvir Singh, 20 ov)
+
+============================================================
+  Rajasthan Royals  144/6 (20 ov)  RR: 7.2
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Yashasvi Jaiswal            44   35   4   2  125.71  c Avesh Khan b Stoinis
+  Jos Buttler                 40   41   4   1   97.56  c Ravi Bishnoi b Stoinis
+  Sanju Samson                 2    4   0   0      50  run out (Amit Mishra/Pooran)
+  Devdutt Padikkal            26   21   4   0  123.81  c Pooran b Avesh Khan
+  Shimron Hetmyer              2    5   0   0      40  c Rahul b Avesh Khan
+  Riyan Parag                 15   12   1   1     125  not out
+  Dhruv Jurel                  0    1   0   0       0  c Deepak Hooda b Avesh Khan
+  Ravichandran Ashwin          3    2   0   0     150  not out
+  Extras: 12 (b 1, lb 4, w 6, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Naveen-ul-Haq                 4   0   19   0    4.8
+  Yudhvir Singh Charak          2   0   27   0   13.5
+  Avesh Khan                    4   0   25   3    6.2
+  Marcus Stoinis                4   0   28   2      7
+  Ravi Bishnoi                  4   0   25   0    6.2
+  Amit Mishra                   2   0   15   0    7.5
+
+  Fall of Wickets: 87-1 (Yashasvi Jaiswal, 11.3 ov), 93-2 (Sanju Samson, 12.4 ov), 97-3 (Jos Buttler, 13.3 ov), 104-4 (Shimron Hetmyer, 15.1 ov), 141-5 (Devdutt Padikkal, 19.3 ov), 141-6 (Dhruv Jurel, 19.4 ov)
+
+============================================================
+  MATCH 66292 - INNINGS 1
+============================================================
+  Score: 154/7 in 20 overs  |  Run Rate: 7.7
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  •  •  •  •  •                +0 runs  (Total: 0)  [over-break,MAIDEN_OVER]
+  Over  2:  •  4  •  N  1  2  4             +12 runs  (Total: 12)  [FOUR, over-break,FOUR]
+  Over  3:  •  2  •  •  •  •                +2 runs  (Total: 14)
+  Over  4:  •  1  1  •  1  1                +4 runs  (Total: 18)  [DROPPED, RUNOUT_MISS]
+  Over  5:  •  6  •  L1  4  2               +13 runs  (Total: 31)  [SIX, FOUR, over-break,DROPPED]
+  Over  6:  1  •  •  •  4  1                +6 runs  (Total: 37)  [RUNOUT_MISS, FOUR]
+  Over  7:  1  1  •  1  •  2                +6 runs  (Total: 43)
+  Over  8:  •  L1  1  6  1  4               +13 runs  (Total: 56)  [TEAM_FIFTY,PARTNERSHIP,SIX, over-break,FOUR]
+  Over  9:  6  4  1  •  6  1                +18 runs  (Total: 74)  [SIX, FOUR, SIX, over-break,HIGHSCORING_OVER]
+  Over 10:  1  •  1  Wd  1  •  1            +5 runs  (Total: 79)
+  Over 11:  1  1  1  W  L1  •               +4 runs  (Total: 83)  [WICKET]
+  Over 12:  1  L1  •  W  •  1               +3 runs  (Total: 86)  [WICKET]
+  Over 13:  1  2  •  4  4  1                +12 runs  (Total: 98)  [FOUR, FOUR, over-break,MILESTONE,FIFTY]
+  Over 14:  1  W  4  1  W  •                +6 runs  (Total: 104)  [WICKET, TEAM_HUNDRED,FOUR, WICKET]
+  Over 15:  1  1  1  •  1  1                +5 runs  (Total: 109)
+  Over 16:  1  •  1  1  1  2                +6 runs  (Total: 115)
+  Over 17:  1  4  •  1  •  2                +8 runs  (Total: 123)  [FOUR]
+  Over 18:  •  1  1  1  2  1                +6 runs  (Total: 129)
+  Over 19:  6  4  •  4  1  2                +17 runs  (Total: 146)  [SIX, FOUR, FOUR, over-break,HIGHSCORING_OVER]
+  Over 20:  2  1  W  4  W  W1               +8 runs  (Total: 154)  [WICKET, TEAM_HUNDRED,FOUR, WICKET, over-break,WICKET]
+
+BATTERS
+------------------------------------------------------------
+  Rahul                       39 runs   32 balls  4s:0  6s:0  SR:121.88
+  K Mayers                    51 runs   42 balls  4s:0  6s:0  SR:121.43
+  Ayush Badoni                 1 runs    4 balls  4s:0  6s:0  SR:25
+  Deepak Hooda                 2 runs    4 balls  4s:0  6s:0  SR:50
+  Stoinis                     21 runs   16 balls  4s:0  6s:0  SR:131.25
+  Pooran                      29 runs   20 balls  4s:0  6s:0  SR:145
+  Krunal Pandya                4 runs    2 balls  4s:0  6s:0  SR:200
+  Yudhvir Singh                1 runs    1 balls  4s:0  6s:0  SR:100
+
+BOWLERS
+------------------------------------------------------------
+  Boult                      4 ov   16 runs  1 wkts  Econ:4
+  Sandeep Sharma             4 ov   32 runs  1 wkts  Econ:8
+  Ashwin                     4 ov   23 runs  2 wkts  Econ:5.8
+  Chahal                     4 ov   41 runs  0 wkts  Econ:10.2
+  Holder                     4 ov   38 runs  1 wkts  Econ:9.5
+
+============================================================
+  MATCH 66292 - INNINGS 2
+============================================================
+  Score: 144/6 in 20 overs  |  Run Rate: 7.2
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  1  1  •  •  •                +2 runs  (Total: 2)  [UDRS]
+  Over  2:  •  •  Wd5  •  1  4  6           +16 runs  (Total: 18)  [FOUR, over-break,SIX,HIGHSCORING_OVER]
+  Over  3:  1  1  •  •  •  1                +3 runs  (Total: 21)
+  Over  4:  •  •  •  1  •  1                +2 runs  (Total: 23)
+  Over  5:  4  •  1  6  •  •                +11 runs  (Total: 34)  [FOUR, SIX]
+  Over  6:  4  4  •  1  •  4                +13 runs  (Total: 47)  [FOUR, FOUR, over-break,FOUR]
+  Over  7:  •  •  1  •  1  1                +3 runs  (Total: 50)  [over-break,TEAM_FIFTY,PARTNERSHIP]
+  Over  8:  1  1  N4  •  1  1  1            +10 runs  (Total: 60)  [FOUR, UDRS]
+  Over  9:  1  •  4  1  1  1                +8 runs  (Total: 68)  [FOUR]
+  Over 10:  •  B1  1  1  1  1               +5 runs  (Total: 73)
+  Over 11:  4  L1  1  1  •  1               +8 runs  (Total: 81)  [FOUR]
+  Over 12:  6  •  W  •  •  2                +8 runs  (Total: 89)  [SIX, WICKET]
+  Over 13:  1  L1  2  W  1  1               +6 runs  (Total: 95)  [WICKET]
+  Over 14:  1  1  W  •  1  1                +4 runs  (Total: 99)  [WICKET]
+  Over 15:  •  1  L1  1  Wd  1  •           +5 runs  (Total: 104)  [TEAM_HUNDRED]
+  Over 16:  W  •  1  1  •  1                +3 runs  (Total: 107)  [WICKET]
+  Over 17:  •  1  4  •  1  •                +6 runs  (Total: 113)  [FOUR]
+  Over 18:  •  4  4  •  4  1                +13 runs  (Total: 126)  [FOUR, FOUR, FOUR]
+  Over 19:  1  1  1  6  1  •                +10 runs  (Total: 136)  [SIX]
+  Over 20:  4  L1  W  W  2  1               +8 runs  (Total: 144)  [FOUR, WICKET, WICKET, over-break,DROPPED]
+
+BATTERS
+------------------------------------------------------------
+  Yashasvi Jaiswal            44 runs   35 balls  4s:4  6s:2  SR:125.71
+  Jos Buttler                 40 runs   41 balls  4s:4  6s:1  SR:97.56
+  Sanju Samson                 2 runs    4 balls  4s:0  6s:0  SR:50
+  Devdutt Padikkal            26 runs   21 balls  4s:4  6s:0  SR:123.81
+  Shimron Hetmyer              2 runs    5 balls  4s:0  6s:0  SR:40
+  Riyan Parag                 15 runs   12 balls  4s:1  6s:1  SR:125
+  Dhruv Jurel                  0 runs    1 balls  4s:0  6s:0  SR:0
+  Ravichandran Ashwin          3 runs    2 balls  4s:0  6s:0  SR:150
+
+BOWLERS
+------------------------------------------------------------
+  Naveen-ul-Haq              4 ov   19 runs  0 wkts  Econ:4.8
+  Yudhvir Singh Charak       2 ov   27 runs  0 wkts  Econ:13.5
+  Avesh Khan                 4 ov   25 runs  3 wkts  Econ:6.2
+  Marcus Stoinis             4 ov   28 runs  2 wkts  Econ:7
+  Ravi Bishnoi               4 ov   25 runs  0 wkts  Econ:6.2
+  Amit Mishra                2 ov   15 runs  0 wkts  Econ:7.5
+
+  [Win probability not available for this match]

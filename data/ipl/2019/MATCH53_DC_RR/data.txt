@@ -1,0 +1,161 @@
+SCORECARD
+============================================================
+
+============================================================
+  Rajasthan Royals  115/9 (20 ov)  RR: 5.75
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  A Rahane                     2    4   0   0      50  c Dhawan b Ishant
+  Livingstone                 14   13   1   1  107.69  b Ishant
+  Samson                       5    8   0   0    62.5  run out (Prithvi Shaw)
+  Lomror                       8    3   2   0  266.67  c Pant b Ishant
+  Shreyas Gopal               12   18   0   0   66.67  st Pant b A Mishra
+  Riyan Parag                 50   49   4   2  102.04  c Sherfane Rutherford b Boult
+  Binny                        0    1   0   0       0  c Pant b A Mishra
+  Gowtham                      6    6   1   0     100  c Ishant b A Mishra
+  Ish Sodhi                    6   11   0   0   54.55  c A Mishra b Boult
+  Aaron                        3    7   0   0   42.86  not out
+  Extras: 9 (b 0, lb 0, w 9, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Boult                         4   0   27   2    6.8
+  Ishant                        4   0   38   3    9.5
+  Axar                          4   0   16   0      4
+  A Mishra                      4   0   17   3    4.2
+  Keemo Paul                  3.1   0   15   0    4.7
+  Sherfane Rutherford         0.5   0    2   0    2.4
+
+  Fall of Wickets: 11-1 (A Rahane, 1.6 ov), 20-2 (Livingstone, 3.5 ov), 26-3 (Samson, 4.2 ov), 30-4 (Lomror, 5.2 ov), 57-5 (Shreyas Gopal, 11.2 ov), 57-6 (Binny, 11.3 ov), 65-7 (Gowtham, 13.2 ov), 95-8 (Ish Sodhi, 17.2 ov), 115-9 (Riyan Parag, 19.6 ov)
+
+============================================================
+  Delhi Capitals  121/5 (16.1 ov)  RR: 7.48
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Prithvi Shaw                 8    8   1   0     100  b Ish Sodhi
+  Shikhar Dhawan              16   12   2   0  133.33  c Riyan Parag b Ish Sodhi
+  Shreyas Iyer                15    9   0   2  166.67  c Livingstone b Shreyas Gopal
+  Rishabh Pant                53   38   2   5  139.47  not out
+  Colin Ingram                12   23   0   0   52.17  c A Rahane b Ish Sodhi
+  Sherfane Rutherford         11    6   0   1  183.33  c Livingstone b Shreyas Gopal
+  Axar Patel                   1    1   0   0     100  not out
+  Extras: 5 (b 0, lb 4, w 1, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Krishnappa Gowtham            4   0   16   0      4
+  Varun Aaron                   2   0   21   0   10.5
+  Oshane Thomas                 1   0   13   0     13
+  Ish Sodhi                   3.1   1   26   3    8.2
+  Shreyas Gopal                 4   0   21   2    5.2
+  Riyan Parag                   1   0   14   0     14
+  Stuart Binny                  1   0    6   0      6
+
+  Fall of Wickets: 28-1 (Shikhar Dhawan, 3.1 ov), 28-2 (Prithvi Shaw, 3.2 ov), 61-3 (Shreyas Iyer, 7.3 ov), 83-4 (Colin Ingram, 13.4 ov), 106-5 (Sherfane Rutherford, 15.2 ov)
+
+============================================================
+  MATCH 22488 - INNINGS 1
+============================================================
+  Score: 115/9 in 20 overs  |  Run Rate: 5.75
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  1  1  1  •  •  1                +4 runs  (Total: 4)
+  Over  2:  •  •  6  1  •  W                +7 runs  (Total: 11)  [SIX, over-break,WICKET]
+  Over  3:  1  •  1  •  Wd  •  1            +4 runs  (Total: 15)
+  Over  4:  •  1  4  •  W  4                +9 runs  (Total: 24)  [FOUR, WICKET, over-break,FOUR]
+  Over  5:  2  W  •  •  •  •                +2 runs  (Total: 26)  [WICKET]
+  Over  6:  4  W  •  •  •  •                +4 runs  (Total: 30)  [FOUR, WICKET]
+  Over  7:  1  •  1  1  1  1                +5 runs  (Total: 35)
+  Over  8:  1  1  2  1  4  •                +9 runs  (Total: 44)  [FOUR]
+  Over  9:  •  1  4  •  1  1                +7 runs  (Total: 51)  [FOUR]
+  Over 10:  1  1  1  •  •  1                +4 runs  (Total: 55)
+  Over 11:  •  •  •  1  1  •                +2 runs  (Total: 57)
+  Over 12:  •  W  W  1  •  •                +1 runs  (Total: 58)  [WICKET, WICKET, DROPPED]
+  Over 13:  1  •  1  4  •  •                +6 runs  (Total: 64)  [FOUR]
+  Over 14:  1  W  •  1  •  1                +3 runs  (Total: 67)  [WICKET]
+  Over 15:  1  •  1  1  •  •                +3 runs  (Total: 70)
+  Over 16:  •  1  1  •  Wd  1  1            +5 runs  (Total: 75)
+  Over 17:  1  1  Wd3  Wd2  4  4  2  1      +18 runs  (Total: 93)  [FOUR, FOUR, over-break,HIGHSCORING_OVER]
+  Over 18:  1  Wd  W  •  1  1  •            +4 runs  (Total: 97)  [WICKET]
+  Over 19:  1  1  •  1  •  •                +3 runs  (Total: 100)
+  Over 20:  6  1  1  6  •  Wd  W            +15 runs  (Total: 115)  [SIX, FIFTY,SIX, over-break,WICKET,HIGHSCORING_OVER]
+
+BATTERS
+------------------------------------------------------------
+  A Rahane                     2 runs    4 balls  4s:0  6s:0  SR:50
+  Aaron                        3 runs    7 balls  4s:0  6s:0  SR:42.86
+  Livingstone                 14 runs   13 balls  4s:0  6s:0  SR:107.69
+  Samson                       5 runs    8 balls  4s:0  6s:0  SR:62.5
+  Lomror                       8 runs    3 balls  4s:0  6s:0  SR:266.67
+  Shreyas Gopal               12 runs   18 balls  4s:0  6s:0  SR:66.67
+  Riyan Parag                 50 runs   49 balls  4s:0  6s:0  SR:102.04
+  Binny                        0 runs    1 balls  4s:0  6s:0  SR:0
+  Gowtham                      6 runs    6 balls  4s:0  6s:0  SR:100
+  Ish Sodhi                    6 runs   11 balls  4s:0  6s:0  SR:54.55
+
+BOWLERS
+------------------------------------------------------------
+  Boult                      4 ov   27 runs  2 wkts  Econ:6.8
+  Ishant                     4 ov   38 runs  3 wkts  Econ:9.5
+  Axar                       4 ov   16 runs  0 wkts  Econ:4
+  A Mishra                   4 ov   17 runs  3 wkts  Econ:4.2
+  Keemo Paul                 3.1 ov   15 runs  0 wkts  Econ:4.7
+  Sherfane Rutherford        0.5 ov    2 runs  0 wkts  Econ:2.4
+
+============================================================
+  MATCH 22488 - INNINGS 2
+============================================================
+  Score: 121/5 in 16.1 overs  |  Run Rate: 7.48
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  1  1  1  1  1  1                +6 runs  (Total: 6)
+  Over  2:  1  1  L4  2  1  •               +9 runs  (Total: 15)  [FOUR]
+  Over  3:  4  •  4  1  •  4                +13 runs  (Total: 28)  [FOUR, FOUR, over-break,FOUR]
+  Over  4:  W  W  •  •  •  •                +0 runs  (Total: 28)  [WICKET, WICKET, over-break,MAIDEN_OVER]
+  Over  5:  1  •  •  •  •  •                +1 runs  (Total: 29)
+  Over  6:  •  6  6  •  1  4                +17 runs  (Total: 46)  [SIX, SIX, over-break,FOUR,HIGHSCORING_OVER]
+  Over  7:  1  •  6  6  •  1                +14 runs  (Total: 60)  [SIX, SIX, over-break,HIGHSCORING_OVER]
+  Over  8:  1  •  W  1  •  1                +3 runs  (Total: 63)  [WICKET]
+  Over  9:  1  •  •  •  •  •                +1 runs  (Total: 64)
+  Over 10:  1  1  1  1  1  1                +6 runs  (Total: 70)
+  Over 11:  •  1  1  •  2  1                +5 runs  (Total: 75)
+  Over 12:  •  1  •  1  •  •                +2 runs  (Total: 77)
+  Over 13:  1  1  •  •  1  1                +4 runs  (Total: 81)
+  Over 14:  •  1  1  W  1  •                +3 runs  (Total: 84)  [WICKET]
+  Over 15:  2  Wd  1  1  1  6  4            +16 runs  (Total: 100)  [SIX, over-break,FOUR,HIGHSCORING_OVER]
+  Over 16:  6  W  1  1  6  1                +15 runs  (Total: 115)  [SIX, WICKET, SIX, over-break,HIGHSCORING_OVER]
+  Over 17:  6                               +6 runs  (Total: 121)  [FIFTY,SIX]
+
+BATTERS
+------------------------------------------------------------
+  Prithvi Shaw                 8 runs    8 balls  4s:1  6s:0  SR:100
+  Shikhar Dhawan              16 runs   12 balls  4s:2  6s:0  SR:133.33
+  Shreyas Iyer                15 runs    9 balls  4s:0  6s:2  SR:166.67
+  Rishabh Pant                53 runs   38 balls  4s:2  6s:5  SR:139.47
+  Colin Ingram                12 runs   23 balls  4s:0  6s:0  SR:52.17
+  Sherfane Rutherford         11 runs    6 balls  4s:0  6s:1  SR:183.33
+  Axar Patel                   1 runs    1 balls  4s:0  6s:0  SR:100
+
+BOWLERS
+------------------------------------------------------------
+  Krishnappa Gowtham         4 ov   16 runs  0 wkts  Econ:4
+  Varun Aaron                2 ov   21 runs  0 wkts  Econ:10.5
+  Oshane Thomas              1 ov   13 runs  0 wkts  Econ:13
+  Ish Sodhi                  3.1 ov   26 runs  3 wkts  Econ:8.2
+  Shreyas Gopal              4 ov   21 runs  2 wkts  Econ:5.2
+  Riyan Parag                1 ov   14 runs  0 wkts  Econ:14
+  Stuart Binny               1 ov    6 runs  0 wkts  Econ:6
+
+  [Win probability not available for this match]

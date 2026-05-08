@@ -1,0 +1,61 @@
+SCORECARD
+============================================================
+
+============================================================
+  Kings XI Punjab  124/7 (20 ov)  RR: 6.2
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Adam Gilchrist              40   30   3   1  133.33  not out
+  Piyush Chawla                9   10   0   0      90  b S Narine
+  David Hussey                10   14   0   0   71.43  run out (B McCullum/M Bisla)
+  Shaun Marsh                 33   30   4   0     110  c M Bisla b B Lee
+  Dimitri Mascarenhas          9   10   1   0      90  c Manoj Tiwary b R Bhatia
+  Paras Dogra                  6    8   0   0      75  c J Kallis b S Narine
+  Paul Valthaty                8    8   1   0     100  c M Bisla b B Lee
+  Mandeep Singh                6   10   0   0      60  c R Bhatia b L Balaji
+  Extras: 3 (b 0, lb 1, w 2, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Brett Lee                     4   0   26   2    6.5
+  Jacques Kallis                3   0   23   0   7.67
+  Sunil Narine                  4   0   24   2      6
+  Lakshmipathy Balaji           4   0   20   1      5
+  Yusuf Pathan                  1   0    7   0      7
+  Rajat Bhatia                  4   0   23   1   5.75
+
+  Fall of Wickets: 24-1 (Valthaty, 2.6 ov), 62-2 (Mandeep, 9.3 ov), 86-3 (Shaun Marsh, 13.6 ov), 87-4 (David Hussey, 14.2 ov), 101-5 (Mascarenhas, 16.5 ov), 103-6 (P Dogra, 17.1 ov), 124-7 (Chawla, 19.6 ov)
+
+============================================================
+  Kolkata Knight Riders  127/2 (16.3 ov)  RR: 7.79
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Brendon McCullum            15   18   3   0   83.33  c D Mascarenhas b P Chawla
+  Jacques Kallis              30   23   2   1  130.43  not out
+  Gautam Gambhir              66   44   7   1     150  not out
+  Manvinder Bisla             11   14   0   1   78.57  b P Chawla
+  Extras: 5 (b 0, lb 4, w 1, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Praveen Kumar                 3   1   23   0   7.67
+  Dimitri Mascarenhas           4   0   23   0   5.75
+  Harmeet Singh Bansal          2   0   26   0     13
+  Piyush Chawla                 4   0   19   2   4.75
+  Bhargav Bhatt               3.3   0   32   0    9.7
+
+  Fall of Wickets: 53-1 (Brendon McCullum, 5.5 ov), 74-2 (Bisla, 9.5 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

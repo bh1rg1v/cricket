@@ -1,0 +1,65 @@
+SCORECARD
+============================================================
+
+============================================================
+  Royal Challengers Bangalore  226/3 (20 ov)  RR: 11.3
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Dinesh Karthik               8    3   0   1  266.67  b Sandeep Sharma
+  Chris Gayle                117   57   7  12  205.26  c & b A Patel
+  AB de Villiers              47   24   3   4  195.83  not out
+  Virat Kohli                 32   30   3   1  106.67  b Sandeep Sharma
+  Sarfaraz Khan               11    7   1   0  157.14  not out
+  Extras: 11 (b 0, lb 3, w 7, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Sandeep Sharma                4   0   41   2  10.25
+  Mitchell Johnson              4   0   43   0  10.75
+  Anureet Singh                 4   0   25   0   6.25
+  Glenn Maxwell                 2   0   23   0   11.5
+  Axar Patel                    4   0   50   1   12.5
+  Karanveer Singh               2   0   41   0   20.5
+
+  Fall of Wickets: 119-1 (Virat Kohli, 11.2 ov), 190-2 (Gayle, 16.6 ov), 199-3 (Karthik, 17.4 ov)
+
+============================================================
+  Kings XI Punjab  88/10 (13.4 ov)  RR: 6.57
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Mitchell Johnson             1    4   0   0      25  b M Starc
+  George Bailey                2    4   0   0      50  b Aravind
+  Wriddhiman Saha             13   11   1   1  118.18  c Kohli b Aravind
+  Murali Vijay                 2    6   0   0   33.33  b Harshal Patel
+  Anureet Singh                0    2   0   0       0  b M Starc
+  David Miller                 7   10   1   0      70  b Aravind
+  Glenn Maxwell                1    5   0   0      20  b Aravind
+  Sandeep Sharma               7    9   1   0   77.78  c & b Chahal
+  Manan Vohra                  2    3   0   0   66.67  c D Wiese b M Starc
+  Axar Patel                  40   21   5   2  190.48  not out
+  Karanveer Singh              4    7   0   0   57.14  b M Starc
+  Extras: 9 (b 0, lb 5, w 4, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Mitchell Starc                4   0   15   4   3.75
+  Sreenath Aravind              4   0   27   4   6.75
+  Harshal Patel                 2   0   13   1    6.5
+  Yuzvendra Chahal            2.4   0   24   1     10
+  David Wiese                   1   0    4   0      4
+
+  Fall of Wickets: 6-1 (Vohra, 0.4 ov), 19-2 (Vijay, 2.2 ov), 20-3 (Glenn Maxwell, 3.1 ov), 33-4 (W Saha, 5.4 ov), 34-5 (David Miller, 5.6 ov), 39-6 (George Bailey, 7.1 ov), 49-7 (Johnson, 8.2 ov), 49-8 (Anureet Singh, 8.4 ov), 65-9 (Karanveer Singh, 10.4 ov), 88-10 (Sandeep Sharma, 13.4 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

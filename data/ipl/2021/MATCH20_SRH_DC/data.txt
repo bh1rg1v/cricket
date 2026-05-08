@@ -1,0 +1,158 @@
+SCORECARD
+============================================================
+
+============================================================
+  Delhi Capitals  159/4 (20 ov)  RR: 7.95
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Prithvi Shaw                53   39   7   1   135.9  run out (Khaleel Ahmed/J Suchith)
+  Dhawan                      28   26   3   0  107.69  b Rashid Khan
+  Pant                        37   27   4   1  137.04  c J Suchith b S Kaul
+  Steven Smith                34   25   3   1     136  not out
+  Hetmyer                      1    2   0   0      50  c Williamson b S Kaul
+  Stoinis                      2    2   0   0     100  not out
+  Extras: 4 (b 1, lb 0, w 2, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Khaleel Ahmed                 4   0   42   0   10.5
+  Abhishek Sharma               1   0   14   0     14
+  S Kaul                        4   0   31   2    7.8
+  J Suchith                     4   0   21   0    5.2
+  Vijay Shankar                 3   0   19   0    6.3
+  Rashid Khan                   4   0   31   1    7.8
+
+  Fall of Wickets: 81-1 (Dhawan, 10.2 ov), 84-2 (Prithvi Shaw, 11.3 ov), 142-3 (Pant, 18.2 ov), 145-4 (Hetmyer, 18.6 ov)
+
+============================================================
+  Sunrisers Hyderabad  159/7 (20 ov)  RR: 7.95
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  David Warner                 6    8   0   0      75  run out (Rabada/Pant)
+  Jonny Bairstow              38   18   3   4  211.11  c Dhawan b Avesh Khan
+  Kane Williamson             66   51   8   0  129.41  not out
+  Virat Singh                  4   14   0   0   28.57  c Stoinis b Avesh Khan
+  Kedar Jadhav                 9    9   1   0     100  st Pant b A Mishra
+  Abhishek Sharma              5    6   0   0   83.33  lbw b Axar
+  Rashid Khan                  0    1   0   0       0  lbw b Axar
+  Vijay Shankar                8    7   0   0  114.29  b Avesh Khan
+  Jagadeesha Suchith          14    6   2   1  233.33  not out
+  Extras: 9 (b 2, lb 2, w 5, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Kagiso Rabada                 3   0   25   0    8.3
+  Ravichandran Ashwin           4   0   27   0    6.8
+  Marcus Stoinis                1   0   12   0     12
+  Axar Patel                    4   0   26   2    6.5
+  Avesh Khan                    4   0   34   3    8.5
+  Amit Mishra                   4   0   31   1    7.8
+
+  Fall of Wickets: 28-1 (David Warner, 3.2 ov), 56-2 (Jonny Bairstow, 5.4 ov), 84-3 (Virat Singh, 11.2 ov), 104-4 (Kedar Jadhav, 14.2 ov), 117-5 (Abhishek Sharma, 16.1 ov), 117-6 (Rashid Khan, 16.2 ov), 136-7 (Vijay Shankar, 18.3 ov)
+
+============================================================
+  MATCH 35683 - INNINGS 1
+============================================================
+  Score: 159/4 in 20 overs  |  Run Rate: 7.95
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  4  4  4  •  •  •                +12 runs  (Total: 12)  [FOUR, FOUR, FOUR]
+  Over  2:  •  4  Wd  1  4  •  4            +14 runs  (Total: 26)  [FOUR, FOUR, over-break,FOUR,HIGHSCORING_OVER]
+  Over  3:  •  1  •  •  •  6                +7 runs  (Total: 33)  [DROPPED, over-break,SIX]
+  Over  4:  1  2  1  •  1  1                +6 runs  (Total: 39)
+  Over  5:  1  1  1  1  4  1                +9 runs  (Total: 48)  [FOUR]
+  Over  6:  1  1  •  1  •  •                +3 runs  (Total: 51)  [TEAM_FIFTY,PARTNERSHIP]
+  Over  7:  •  •  •  Wd  1  3  •            +5 runs  (Total: 56)
+  Over  8:  1  1  4  4  •  1                +11 runs  (Total: 67)  [FOUR, FOUR]
+  Over  9:  1  1  1  2  4  •                +9 runs  (Total: 76)  [FOUR]
+  Over 10:  •  1  1  •  1  1                +4 runs  (Total: 80)  [over-break,FIFTY]
+  Over 11:  1  W  •  1  1  •                +3 runs  (Total: 83)  [WICKET]
+  Over 12:  •  1  W  1  1  •                +3 runs  (Total: 86)  [WICKET]
+  Over 13:  1  •  1  1  4  N1  1            +10 runs  (Total: 96)  [FOUR]
+  Over 14:  •  2  •  1  4  1                +8 runs  (Total: 104)  [TEAM_HUNDRED,FOUR]
+  Over 15:  •  6  2  2  1  1                +12 runs  (Total: 116)  [SIX]
+  Over 16:  •  1  4  4  1  1                +11 runs  (Total: 127)  [FOUR, FOUR]
+  Over 17:  1  1  1  •  1  •                +4 runs  (Total: 131)  [DROPPED]
+  Over 18:  1  •  4  1  4  1                +11 runs  (Total: 142)  [FOUR,PARTNERSHIP, FOUR]
+  Over 19:  •  W  1  1  1  W                +3 runs  (Total: 145)  [WICKET, over-break,WICKET]
+  Over 20:  1  1  1  4  6  B1               +14 runs  (Total: 159)  [TEAM_HUNDRED,FOUR, SIX, over-break,HIGHSCORING_OVER]
+
+BATTERS
+------------------------------------------------------------
+  Prithvi Shaw                53 runs   39 balls  4s:0  6s:0  SR:135.9
+  Dhawan                      28 runs   26 balls  4s:0  6s:0  SR:107.69
+  Pant                        37 runs   27 balls  4s:0  6s:0  SR:137.04
+  Steven Smith                34 runs   25 balls  4s:0  6s:0  SR:136
+  Hetmyer                      1 runs    2 balls  4s:0  6s:0  SR:50
+  Stoinis                      2 runs    2 balls  4s:0  6s:0  SR:100
+
+BOWLERS
+------------------------------------------------------------
+  Khaleel Ahmed              4 ov   42 runs  0 wkts  Econ:10.5
+  Abhishek Sharma            1 ov   14 runs  0 wkts  Econ:14
+  S Kaul                     4 ov   31 runs  2 wkts  Econ:7.8
+  J Suchith                  4 ov   21 runs  0 wkts  Econ:5.2
+  Vijay Shankar              3 ov   19 runs  0 wkts  Econ:6.3
+  Rashid Khan                4 ov   31 runs  1 wkts  Econ:7.8
+
+============================================================
+  MATCH 35683 - INNINGS 2
+============================================================
+  Score: 159/7 in 20 overs  |  Run Rate: 7.95
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  2  1  1  1  •                +5 runs  (Total: 5)
+  Over  2:  •  1  •  •  4  •                +5 runs  (Total: 10)  [UDRS, FOUR,DROPPED]
+  Over  3:  •  1  4  6  •  1                +12 runs  (Total: 22)  [FOUR, SIX]
+  Over  4:  6  W  4  •  Wd  1  •            +12 runs  (Total: 34)  [SIX, WICKET, FOUR]
+  Over  5:  •  •  1  4  6  •                +11 runs  (Total: 45)  [FOUR, SIX]
+  Over  6:  4  1  6  W  •  •                +11 runs  (Total: 56)  [FOUR, TEAM_FIFTY,RUNOUT_MISS, SIX, WICKET]
+  Over  7:  2  •  •  2  1  1                +6 runs  (Total: 62)
+  Over  8:  •  •  1  •  1  •                +2 runs  (Total: 64)
+  Over  9:  •  •  4  4  •  •                +8 runs  (Total: 72)  [FOUR, FOUR]
+  Over 10:  1  1  1  4  1  •                +8 runs  (Total: 80)  [FOUR]
+  Over 11:  •  2  •  1  •  L1               +4 runs  (Total: 84)
+  Over 12:  •  W  •  1  1  1  Wd            +4 runs  (Total: 88)  [WICKET]
+  Over 13:  4  1  •  1  1  1                +8 runs  (Total: 96)  [FOUR]
+  Over 14:  1  1  2  •  •  4                +8 runs  (Total: 104)  [TEAM_HUNDRED, over-break,FOUR]
+  Over 15:  •  W  1  2  1  2                +6 runs  (Total: 110)  [WICKET]
+  Over 16:  1  •  1  Wd  1  1  2            +7 runs  (Total: 117)  [over-break,FIFTY]
+  Over 17:  W  W  •  2  1  1                +4 runs  (Total: 121)  [WICKET,UDRS, WICKET]
+  Over 18:  4  1  1  2  1  2                +11 runs  (Total: 132)  [FOUR]
+  Over 19:  1  Wd  2  W  4  •  4            +12 runs  (Total: 144)  [WICKET, FOUR, over-break,FOUR]
+  Over 20:  4  Wd  B1  6  B1  1  L1         +15 runs  (Total: 159)  [FOUR, TEAM_HUNDRED, SIX, over-break,HIGHSCORING_OVER]
+
+BATTERS
+------------------------------------------------------------
+  David Warner                 6 runs    8 balls  4s:0  6s:0  SR:75
+  Jonny Bairstow              38 runs   18 balls  4s:3  6s:4  SR:211.11
+  Kane Williamson             66 runs   51 balls  4s:8  6s:0  SR:129.41
+  Virat Singh                  4 runs   14 balls  4s:0  6s:0  SR:28.57
+  Kedar Jadhav                 9 runs    9 balls  4s:1  6s:0  SR:100
+  Abhishek Sharma              5 runs    6 balls  4s:0  6s:0  SR:83.33
+  Rashid Khan                  0 runs    1 balls  4s:0  6s:0  SR:0
+  Vijay Shankar                8 runs    7 balls  4s:0  6s:0  SR:114.29
+  Jagadeesha Suchith          14 runs    6 balls  4s:2  6s:1  SR:233.33
+
+BOWLERS
+------------------------------------------------------------
+  Kagiso Rabada              3 ov   25 runs  0 wkts  Econ:8.3
+  Ravichandran Ashwin        4 ov   27 runs  0 wkts  Econ:6.8
+  Marcus Stoinis             1 ov   12 runs  0 wkts  Econ:12
+  Axar Patel                 4 ov   26 runs  2 wkts  Econ:6.5
+  Avesh Khan                 4 ov   34 runs  3 wkts  Econ:8.5
+  Amit Mishra                4 ov   31 runs  1 wkts  Econ:7.8
+
+  [Win probability not available for this match]

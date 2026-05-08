@@ -1,0 +1,67 @@
+SCORECARD
+============================================================
+
+============================================================
+  Pune Warriors  118/10 (17.2 ov)  RR: 6.81
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Yuvraj Singh                 0    2   0   0       0  c A Rayudu b M Patel
+  Murali Kartik               11   13   1   0   84.62  c A Symonds b L Malinga
+  Alfonso Thomas               0    2   0   0       0  not out
+  Robin Uthappa               45   37   6   1  121.62  c K Pollard b A Murtaza
+  Jesse Ryder                 12   15   2   0      80  c S Tendulkar b A Nechim
+  Mithun Manhas                0    1   0   0       0  c A Rayudu b A Nechim
+  Wayne Parnell                9    8   1   0   112.5  b J Franklin
+  Tim Paine                    2    9   0   0   22.22  b M Patel
+  Shrikant Wagh                2    2   0   0     100  c A Symonds b L Malinga
+  Mohnish Mishra              12   10   2   0     120  c R Sharma b A Murtaza
+  Rahul Sharma                13    9   1   1  144.44  c A Murtaza b M Patel
+  Extras: 12 (b 0, lb 6, w 2, nb 4)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Ali Murtaza                   4   0   18   2    4.5
+  Lasith Malinga                4   0   28   2      7
+  Abu Nechim                    3   1   13   2   4.33
+  Munaf Patel                 2.2   0    8   3   3.64
+  Kieron Pollard                1   0   13   0     13
+  James Franklin                3   0   32   1  10.67
+
+  Fall of Wickets: 16-1 (Ryder, 3.3 ov), 17-2 (Manhas, 3.5 ov), 17-3 (Tim Paine, 4.2 ov), 17-4 (Yuvraj, 4.4 ov), 52-5 (M Mishra, 8.3 ov), 87-6 (M Kartik, 12.6 ov), 98-7 (Uthappa, 14.2 ov), 111-8 (Parnell, 15.6 ov), 118-9 (Shrikant Wagh, 16.4 ov), 118-10 (Rahul Sharma, 17.2 ov)
+
+============================================================
+  Mumbai Indians  124/3 (20 ov)  RR: 6.2
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Sachin Tendulkar            35   39   2   0   89.74  c A Thomas b R Sharma
+  Andrew Symonds              16   15   2   0  106.67  not out
+  James Franklin               6    8   1   0      75  c M Manhas b S Wagh
+  Rohit Sharma                20   18   1   1  111.11  not out
+  Ambati Rayudu               37   40   4   0    92.5  c R Sharma b A Thomas
+  Extras: 10 (b 2, lb 6, w 2, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Alfonso Thomas                4   0   16   1      4
+  Shrikant Wagh                 2   0    9   1    4.5
+  Murali Kartik                 4   0   29   0   7.25
+  Wayne Parnell                 4   0   28   0      7
+  Rahul Sharma                  3   0   14   1   4.67
+  Jesse Ryder                   2   0   15   0    7.5
+  Yuvraj Singh                  1   0    5   0      5
+
+  Fall of Wickets: 9-1 (Franklin, 1.4 ov), 83-2 (Tendulkar, 13.4 ov), 89-3 (Rayudu, 14.6 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

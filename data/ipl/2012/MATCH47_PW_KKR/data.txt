@@ -1,0 +1,66 @@
+SCORECARD
+============================================================
+
+============================================================
+  Kolkata Knight Riders  150/5 (20 ov)  RR: 7.5
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Brendon McCullum            42   43   5   1   97.67  lbw b A Mathews
+  Jacques Kallis               1    4   0   0      25  b A Mathews
+  Gautam Gambhir              56   36   4   2  155.56  c M Manhas b M Kartik
+  Manoj Tiwary                 6    4   0   0     150  not out
+  Yusuf Pathan                11   15   0   0   73.33  c S Smith b B Kumar
+  Laxmi Shukla                 0    1   0   0       0  c S Ganguly b B Kumar
+  Debabrata Das               15   18   0   1   83.33  not out
+  Extras: 19 (b 1, lb 5, w 12, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Murali Kartik                 4   0   22   1    5.5
+  Ashok Dinda                   2   0   28   0     14
+  Bhuvneshwar Kumar             4   0   26   2    6.5
+  Wayne Parnell                 4   0   37   0   9.25
+  Michael Clarke                2   0   14   0      7
+  Angelo Mathews                4   0   17   2   4.25
+
+  Fall of Wickets: 113-1 (Gambhir, 12.3 ov), 115-2 (Brendon McCullum, 13.4 ov), 122-3 (Kallis, 15.2 ov), 134-4 (Yusuf Pathan, 18.1 ov), 141-5 (L Shukla, 18.6 ov)
+
+============================================================
+  Pune Warriors  143/8 (20 ov)  RR: 7.15
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Sourav Ganguly              36   35   4   1  102.86  c I Abdulla b R Bhatia
+  Michael Clarke               1    2   0   0      50  b M de Lange
+  Robin Uthappa               17   14   2   0  121.43  c L Shukla b M de Lange
+  Mithun Manhas                1    3   0   0   33.33  c I Abdulla b J Kallis
+  Angelo Mathews              35   27   0   3  129.63  c L Shukla b M de Lange
+  Wayne Parnell                1    2   0   0      50  run out (L Shukla/B McCullum)
+  Bhuvneshwar Kumar           11    7   2   0  157.14  not out
+  Manish Pandey               17   15   2   0  113.33  c D Das b I Abdulla
+  Steven Smith                14   16   1   0    87.5  lbw b S Narine
+  Extras: 10 (b 0, lb 4, w 5, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Iqbal Abdulla                 4   0   26   1    6.5
+  Marchant de Lange             4   0   34   3    8.5
+  Jacques Kallis                2   0   16   1      8
+  Sunil Narine                  4   1   13   1   3.25
+  Rajat Bhatia                  4   0   27   1   6.75
+  Yusuf Pathan                  2   0   23   0   11.5
+
+  Fall of Wickets: 10-1 (Clarke, 1.1 ov), 28-2 (Uthappa, 3.4 ov), 49-3 (Manish Pandey, 6.4 ov), 53-4 (Manhas, 7.4 ov), 55-5 (Steven Smith, 8.2 ov), 128-6 (S Ganguly, 17.4 ov), 131-7 (Parnell, 18.3 ov), 139-8 (Mathews, 19.4 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

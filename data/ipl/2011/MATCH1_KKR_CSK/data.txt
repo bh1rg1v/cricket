@@ -1,0 +1,65 @@
+SCORECARD
+============================================================
+
+============================================================
+  Chennai Super Kings  153/4 (20 ov)  RR: 7.65
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Scott Styris                 5    2   1   0     250  not out
+  MS Dhoni                    29   21   1   1   138.1  c M Bisla b J Kallis
+  Suresh Raina                33   29   4   0  113.79  c S Ladda b Y Pathan
+  Albie Morkel                15    9   1   1  166.67  not out
+  Murali Vijay                 4    4   1   0     100  c R Bhatia b I Abdulla
+  Srikkanth Anirudha          64   55   6   2  116.36  b J Kallis
+  Extras: 3 (b 1, lb 0, w 2, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Iqbal Abdulla                 4   0   26   1    6.5
+  Yusuf Pathan                  3   0   19   1   6.33
+  Lakshmipathy Balaji           4   0   25   0   6.25
+  Jacques Kallis                3   0   34   2  11.33
+  Sarabjit Ladda                3   0   29   0   9.67
+  Rajat Bhatia                  3   0   19   0   6.33
+
+  Fall of Wickets: 5-1 (Vijay, 0.6 ov), 80-2 (Raina, 10.3 ov), 129-3 (MS Dhoni, 17.2 ov), 138-4 (Anirudha, 19.2 ov)
+
+============================================================
+  Kolkata Knight Riders  151/7 (20 ov)  RR: 7.55
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Jacques Kallis              54   42   7   0  128.57  c S Badrinath b R Ashwin
+  Gautam Gambhir               1    2   0   0      50  run out (S Styris)
+  Eoin Morgan                  6    6   1   0     100  st M Dhoni b S Raina
+  Manoj Tiwary                27   15   1   2     180  st M Dhoni b S Randiv
+  Yusuf Pathan                11   12   0   1   91.67  run out (M Dhoni)
+  Rajat Bhatia                 0    1   0   0       0  not out
+  Laxmi Shukla                14   10   2   0     140  c S Styris b T Southee
+  Iqbal Abdulla                3    3   0   0     100  not out
+  Manvinder Bisla             27   29   3   0    93.1  st M Dhoni b S Jakati
+  Extras: 8 (b 0, lb 1, w 7, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Albie Morkel                  3   0   32   0  10.67
+  Tim Southee                   4   0   30   1    7.5
+  Ravichandran Ashwin           4   0   26   1    6.5
+  Suraj Randiv                  4   0   33   1   8.25
+  Shadab Jakati                 4   0   26   1    6.5
+  Suresh Raina                  1   0    3   1      3
+
+  Fall of Wickets: 64-1 (Bisla, 8.5 ov), 93-2 (Yusuf Pathan, 12.5 ov), 112-3 (Kallis, 15.2 ov), 119-4 (Morgan, 16.3 ov), 120-5 (Gambhir, 16.5 ov), 145-6 (Manoj Tiwary, 18.6 ov), 147-7 (L Shukla, 19.2 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

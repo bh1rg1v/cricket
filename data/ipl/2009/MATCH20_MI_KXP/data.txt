@@ -1,0 +1,69 @@
+SCORECARD
+============================================================
+
+============================================================
+  Kings XI Punjab  119/8 (20 ov)  RR: 5.95
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Yuvraj Singh                10   13   1   0   76.92  c Khan b Duminy
+  Irfan Pathan                 7   10   0   0      70  c Bravo b Khan
+  Mahela Jayawardene           7    9   0   0   77.78  c Dhawan b Jayasuriya
+  Kumar Sangakkara            45   44   2   1  102.27  not out
+  Piyush Chawla                0    2   0   0       0  b Malinga
+  Ramesh Powar                10   10   1   0     100  run out (Shah)
+  Ravi Bopara                  6   14   0   0   42.86  c Tendulkar b Bravo
+  Karan Goel                  12   12   0   1     100  st Shah b Harbhajan Singh
+  Wilkin Mota                  5    6   0   0   83.33  b Malinga
+  Extras: 17 (b 4, lb 2, w 11, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Zaheer Khan                   4   0   19   1   4.75
+  Lasith Malinga                4   0   12   2      3
+  Harbhajan Singh               4   0   23   1   5.75
+  Dwayne Bravo                  3   0   24   1      8
+  Jean-Paul Duminy              3   0   23   1   7.67
+  Sachin Tendulkar              1   0    7   0      7
+  Sanath Jayasuriya             1   0    5   1      5
+
+  Fall of Wickets: 18-1 (K Goel, 3.5 ov), 18-2 (Bopara, 4.3 ov), 41-3 (Yuvraj, 8.3 ov), 52-4 (Mahela, 10.3 ov), 84-5 (Irfan Pathan, 14.3 ov), 97-6 (W Mota, 16.2 ov), 97-7 (Chawla, 16.4 ov), 119-8 (R Powar, 19.6 ov)
+
+============================================================
+  Mumbai Indians  116/7 (20 ov)  RR: 5.8
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Sachin Tendulkar             1    6   0   0   16.67  c Jayawardene b Malik
+  Harbhajan Singh              6    5   1   0     120  c Goel b Chawla
+  Sanath Jayasuriya            0    1   0   0       0  c Yuvraj Singh b Pathan
+  Jean-Paul Duminy            59   63   4   0   93.65  c sub (T Kohli) b Abdulla
+  Dwayne Bravo                15   20   1   1      75  c Mota b Powar
+  Shikhar Dhawan               3    7   0   0   42.86  lbw b Abdulla
+  Abhishek Nayar              15   15   1   0     100  b Pathan
+  Saurabh Tiwary               6    4   0   0     150  not out
+  Extras: 11 (b 1, lb 1, w 8, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Irfan Pathan                  4   0   20   2      5
+  Vikramjeet Singh Malik        2   0   12   1      6
+  Ramesh Powar                  4   0   23   1   5.75
+  Yusuf Abdulla                 4   0   19   2   4.75
+  Piyush Chawla                 3   0   26   1   8.67
+  Karan Goel                    2   0   11   0    5.5
+  Wilkin Mota                   1   0    3   0      3
+
+  Fall of Wickets: 1-1 (S Jayasuriya, 0.1 ov), 4-2 (Tendulkar, 1.2 ov), 12-3 (Dhawan, 4.1 ov), 45-4 (DJ Bravo, 9.2 ov), 94-5 (Nayar, 17.1 ov), 101-6 (Harbhajan, 18.1 ov), 113-7 (Duminy, 19.4 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

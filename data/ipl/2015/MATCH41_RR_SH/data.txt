@@ -1,0 +1,65 @@
+SCORECARD
+============================================================
+
+============================================================
+  Sunrisers Hyderabad  201/4 (20 ov)  RR: 10.05
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Ravi Bopara                 17   12   2   0  141.67  not out
+  Eoin Morgan                 63   28   4   5     225  c S Smith b Watson
+  Moises Henriques            20   21   3   0   95.24  b Tambe
+  Shikhar Dhawan              54   35   6   2  154.29  b Faulkner
+  Naman Ojha                   8    6   1   0  133.33  not out
+  David Warner                24   18   5   0  133.33  c Samson b Watson
+  Extras: 15 (b 0, lb 5, w 10, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Deepak Hooda                  3   0   34   0  11.33
+  Chris Morris                  4   0   38   0    9.5
+  Dhawal Kulkarni               2   0   19   0    9.5
+  Shane Watson                  3   0   36   2     12
+  James Faulkner                4   0   37   1   9.25
+  Pravin Tambe                  4   0   32   1      8
+
+  Fall of Wickets: 48-1 (David Warner, 4.3 ov), 89-2 (Moises Henriques, 10.3 ov), 127-3 (Dhawan, 14.2 ov), 180-4 (Morgan, 17.4 ov)
+
+============================================================
+  Rajasthan Royals  194/7 (20 ov)  RR: 9.7
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Shane Watson                12   12   3   0     100  c P Kumar b Ishant
+  Ajinkya Rahane               8    6   2   0  133.33  c N Ojha b Bhuvneshwar
+  Stuart Binny                 3    3   0   0     100  not out
+  Steven Smith                68   40   9   2     170  b R Bopara
+  James Faulkner              30   19   2   2  157.89  c R Bopara b Bhuvneshwar
+  Karun Nair                   4   10   0   0      40  c N Ojha b Henriques
+  Sanju Samson                21   10   0   3     210  b Bhuvneshwar
+  Chris Morris                34   11   2   3  309.09  not out
+  Deepak Hooda                 7    9   0   0   77.78  c Bhuvneshwar b Karn Sharma
+  Extras: 7 (b 0, lb 6, w 1, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Bhuvneshwar Kumar             4   0   44   3     11
+  Praveen Kumar                 4   0   40   0     10
+  Ishant Sharma                 3   0   25   1   8.33
+  Karn Sharma                   3   0   28   1   9.33
+  Moises Henriques              3   0   29   1   9.67
+  Ravi Bopara                   3   0   22   1   7.33
+
+  Fall of Wickets: 8-1 (Ajinkya Rahane, 0.6 ov), 30-2 (Shane Watson, 3.6 ov), 45-3 (Karun Nair, 7.3 ov), 77-4 (Deepak Hooda, 10.6 ov), 121-5 (Steven Smith, 14.2 ov), 145-6 (Faulkner, 17.1 ov), 157-7 (Sanju Samson, 17.4 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

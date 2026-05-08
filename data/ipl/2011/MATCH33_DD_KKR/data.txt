@@ -1,0 +1,68 @@
+SCORECARD
+============================================================
+
+============================================================
+  Kolkata Knight Riders  148/7 (20 ov)  RR: 7.4
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Brett Lee                    1    1   0   0     100  run out (Y Nagar/N Ojha)
+  Lakshmipathy Balaji          3    1   0   0     300  not out
+  Jacques Kallis              11   11   2   0     100  b I Pathan
+  Gautam Gambhir              18   19   2   0   94.74  c V Rao b J Hopes
+  Eoin Morgan                  0    1   0   0       0  c N Ojha b U Yadav
+  Ryan ten Doeschate          19   12   2   1  158.33  c I Pathan b M Morkel
+  Manoj Tiwary                61   47   2   3  129.79  not out
+  Yusuf Pathan                 5    8   0   0    62.5  c I Pathan b U Yadav
+  Shreevats Goswami           22   20   4   0     110  c N Ojha b A Agarkar
+  Extras: 8 (b 0, lb 2, w 6, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Irfan Pathan                  4   0   16   1      4
+  Morne Morkel                  4   0   42   1   10.5
+  Umesh Yadav                   4   0   29   2   7.25
+  Ajit Agarkar                  4   0   34   1    8.5
+  James Hopes                   4   0   25   1   6.25
+
+  Fall of Wickets: 29-1 (Kallis, 4.3 ov), 42-2 (Goswami, 6.1 ov), 82-3 (Gambhir, 11.5 ov), 105-4 (Yusuf Pathan, 14.5 ov), 105-5 (Morgan, 14.6 ov), 140-6 (ten Doeschate, 18.6 ov), 145-7 (Brett Lee, 19.5 ov)
+
+============================================================
+  Delhi Daredevils  131/9 (20 ov)  RR: 6.55
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Virender Sehwag             34   23   5   1  147.83  c L Balaji b J Unadkat
+  Irfan Pathan                 9   12   0   1      75  c R Doeschate b I Abdulla
+  James Hopes                 25   30   1   1   83.33  c M Tiwary b I Abdulla
+  Venugopal Rao               19   18   2   0  105.56  run out (B Lee)
+  Morne Morkel                 6    5   1   0     120  not out
+  Naman Ojha                   1    2   0   0      50  c B Lee b I Abdulla
+  David Warner                 2    6   0   0   33.33  b L Balaji
+  Yogesh Nagar                19   12   0   2  158.33  c S Goswami b L Balaji
+  Umesh Yadav                  1    1   0   0     100  not out
+  Travis Birt                  8   11   0   0   72.73  c (sub)S Hasan b Y Pathan
+  Extras: 7 (b 3, lb 0, w 4, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Brett Lee                     4   0   24   0      6
+  Lakshmipathy Balaji           4   0   38   2    9.5
+  Jaydev Unadkat                4   0   24   1      6
+  Iqbal Abdulla                 4   0   25   3   6.25
+  Jacques Kallis                2   0   11   0    5.5
+  Yusuf Pathan                  2   0    6   1      3
+
+  Fall of Wickets: 14-1 (David Warner, 1.6 ov), 43-2 (Sehwag, 6.4 ov), 61-3 (Irfan Pathan, 10.3 ov), 75-4 (T Birt, 13.1 ov), 83-5 (James Hopes, 14.2 ov), 85-6 (Naman Ojha, 14.5 ov), 123-7 (V Rao, 18.2 ov), 123-8 (Agarkar, 18.3 ov), 130-9 (Nagar, 19.5 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

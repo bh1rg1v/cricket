@@ -1,0 +1,66 @@
+SCORECARD
+============================================================
+
+============================================================
+  Delhi Daredevils  143/7 (20 ov)  RR: 7.15
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Virender Sehwag             16   11   2   1  145.45  c Kamran Khan b Mascarenhas
+  Tillakaratne Dilshan         7   10   1   0      70  c Asnodkar b Patel
+  Dinesh Karthik               4    5   0   0      80  c &amp; b Warne
+  Daniel Vettori              29   28   3   0  103.57  b Patel
+  Gautam Gambhir               8    6   1   0  133.33  c Warne b Mascarenhas
+  AB de Villiers              50   40   5   1     125  lbw b Warne
+  Mithun Manhas               23   16   2   1  143.75  not out
+  Amit Mishra                  0    4   0   0       0  b Kamran Khan
+  Pradeep Sangwan              1    1   0   0     100  not out
+  Extras: 5 (b 0, lb 3, w 1, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Dimitri Mascarenhas           4   0   28   2      7
+  Kamran Khan                   4   0   35   1   8.75
+  Munaf Patel                   4   1   14   2    3.5
+  Shane Warne                   4   0   32   2      8
+  Ravindra Jadeja               2   0   17   0    8.5
+  Yusuf Pathan                  2   0   14   0      7
+
+  Fall of Wickets: 20-1 (Gambhir, 2.3 ov), 25-2 (Sehwag, 2.6 ov), 38-3 (Dilshan, 5.5 ov), 49-4 (Karthik, 7.2 ov), 105-5 (de Villiers, 15.2 ov), 135-6 (Vettori, 18.3 ov), 142-7 (Amit Mishra, 19.5 ov)
+
+============================================================
+  Rajasthan Royals  147/5 (18.3 ov)  RR: 7.94
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Shane Warne                  0    2   0   0       0  st Karthik b Mishra
+  Graeme Smith                44   46   5   0   95.65  not out
+  Ravindra Jadeja             16   13   1   0  123.08  c Sangwan b Mishra
+  Yusuf Pathan                62   30   3   6  206.67  not out
+  Swapnil Asnodkar            11    8   1   1   137.5  run out (Mishra)
+  Rob Quiney                   4    9   1   0   44.44  lbw b Nehra
+  Paul Valthaty                1    5   0   0      20  c Vettori b Mishra
+  Extras: 9 (b 0, lb 3, w 5, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Dirk Nannes                 3.3   0   23   0   6.97
+  Ashish Nehra                  4   0   23   1   5.75
+  Pradeep Sangwan               4   0   28   0      7
+  Amit Mishra                   4   0   34   3    8.5
+  Tillakaratne Dilshan          1   0    4   0      4
+  Daniel Vettori                2   0   32   0     16
+
+  Fall of Wickets: 20-1 (Rob Quiney, 3.3 ov), 31-2 (S Asnodkar, 4.5 ov), 34-3 (Valthaty, 6.4 ov), 63-4 (Ravindra Jadeja, 10.3 ov), 64-5 (S Warne, 10.6 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

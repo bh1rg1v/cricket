@@ -1,0 +1,157 @@
+SCORECARD
+============================================================
+
+============================================================
+  Kings XI Punjab  206/3 (20 ov)  RR: 10.3
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Rahul                      132   69  14   7   191.3  not out
+  Mayank Agarwal              26   20   4   0     130  b Chahal
+  Pooran                      17   18   1   0   94.44  c de Villiers b Shivam Dube
+  Maxwell                      5    6   0   0   83.33  c Finch b Shivam Dube
+  Nair                        15    8   2   0   187.5  not out
+  Extras: 11 (b 2, lb 4, w 4, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Umesh                         3   0   35   0   11.7
+  Steyn                         4   0   57   0   14.2
+  Navdeep Saini                 4   0   37   0    9.2
+  Chahal                        4   0   25   1    6.2
+  Washington Sundar             2   0   13   0    6.5
+  Shivam Dube                   3   0   33   2     11
+
+  Fall of Wickets: 57-1 (Mayank Agarwal, 6.6 ov), 114-2 (Pooran, 13.1 ov), 128-3 (Maxwell, 15.2 ov)
+
+============================================================
+  Royal Challengers Bangalore  109/10 (17 ov)  RR: 6.41
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Devdutt Padikkal             1    2   0   0      50  c Ravi Bishnoi b Cottrell
+  Aaron Finch                 20   21   3   0   95.24  b Ravi Bishnoi
+  Josh Philippe                0    3   0   0       0  lbw b Shami
+  Virat Kohli                  1    5   0   0      20  c Ravi Bishnoi b Cottrell
+  AB de Villiers              28   18   4   1  155.56  c Sarfaraz Khan b M Ashwin
+  Washington Sundar           30   27   2   1  111.11  c Mayank Agarwal b Ravi Bishnoi
+  Shivam Dube                 12   12   0   1     100  b Maxwell
+  Umesh Yadav                  0    2   0   0       0  b Ravi Bishnoi
+  Navdeep Saini                6    7   1   0   85.71  b M Ashwin
+  Dale Steyn                   1    2   0   0      50  not out
+  Yuzvendra Chahal             1    3   0   0   33.33  lbw b M Ashwin
+  Extras: 9 (b 0, lb 2, w 7, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Sheldon Cottrell              3   0   17   2    5.7
+  Mohammed Shami                3   0   14   1    4.7
+  Ravi Bishnoi                  4   0   32   3      8
+  Murugan Ashwin                3   0   21   3      7
+  James Neesham                 2   0   13   0    6.5
+  Glenn Maxwell                 2   0   10   1      5
+
+  Fall of Wickets: 2-1 (Devdutt Padikkal, 0.4 ov), 3-2 (Josh Philippe, 1.3 ov), 4-3 (Virat Kohli, 2.4 ov), 53-4 (Aaron Finch, 7.5 ov), 57-5 (AB de Villiers, 8.2 ov), 83-6 (Shivam Dube, 12.6 ov), 88-7 (Umesh Yadav, 13.6 ov), 101-8 (Washington Sundar, 15.2 ov), 106-9 (Navdeep Saini, 16.2 ov), 109-10 (Yuzvendra Chahal, 16.6 ov)
+
+============================================================
+  MATCH 30355 - INNINGS 1
+============================================================
+  Score: 206/3 in 20 overs  |  Run Rate: 10.3
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  1  2  1  •  4                +8 runs  (Total: 8)  [over-break,FOUR]
+  Over  2:  1  •  4  4  •  •                +9 runs  (Total: 17)  [FOUR, FOUR]
+  Over  3:  4  •  4  1  •  •                +9 runs  (Total: 26)  [FOUR, FOUR]
+  Over  4:  •  •  1  2  4  •                +7 runs  (Total: 33)  [FOUR]
+  Over  5:  1  1  4  •  1  1                +8 runs  (Total: 41)  [FOUR]
+  Over  6:  1  •  •  Wd  4  Wd  1  1        +9 runs  (Total: 50)  [FOUR, over-break,TEAM_FIFTY,PARTNERSHIP]
+  Over  7:  1  1  4  •  1  W                +7 runs  (Total: 57)  [FOUR, over-break,WICKET]
+  Over  8:  4  1  1  1  1  •                +8 runs  (Total: 65)  [FOUR]
+  Over  9:  •  •  2  1  1  1                +5 runs  (Total: 70)
+  Over 10:  4  Wd  1  6  NB2  •  4  1       +20 runs  (Total: 90)  [FOUR, SIX, FOUR, over-break,HIGHSCORING_OVER]
+  Over 11:  •  1  2  1  1  •                +5 runs  (Total: 95)
+  Over 12:  1  •  1  1  1  1                +5 runs  (Total: 100)  [FIFTY, over-break,TEAM_HUNDRED]
+  Over 13:  L4  1  •  1  4  4               +14 runs  (Total: 114)  [FOUR, FOUR,PARTNERSHIP, over-break,FOUR,HIGHSCORING_OVER]
+  Over 14:  W  •  1  1  1  1                +4 runs  (Total: 118)  [WICKET, DROPPED]
+  Over 15:  2  •  4  1  1  •                +8 runs  (Total: 126)  [FOUR]
+  Over 16:  2  W  1  1  1  1                +6 runs  (Total: 132)  [WICKET]
+  Over 17:  1  1  2  2  6  Wd  1            +14 runs  (Total: 146)  [SIX, over-break,DROPPED,HIGHSCORING_OVER]
+  Over 18:  •  1  4  1  4  1                +11 runs  (Total: 157)  [TEAM_HUNDRED,FOUR, FOUR, over-break,DROPPED]
+  Over 19:  6  4  •  6  6  4                +26 runs  (Total: 183)  [SIX, HUNDRED,FOUR, SIX, SIX,PARTNERSHIP, over-break,FOUR,HIGHSCORING_OVER]
+  Over 20:  2  4  1  4  6  6                +23 runs  (Total: 206)  [FOUR, FOUR, TEAM_HUNDRED,SIX, over-break,SIX,HIGHSCORING_OVER]
+
+BATTERS
+------------------------------------------------------------
+  Rahul                      132 runs   69 balls  4s:0  6s:0  SR:191.3
+  Mayank Agarwal              26 runs   20 balls  4s:0  6s:0  SR:130
+  Pooran                      17 runs   18 balls  4s:0  6s:0  SR:94.44
+  Maxwell                      5 runs    6 balls  4s:0  6s:0  SR:83.33
+  Nair                        15 runs    8 balls  4s:0  6s:0  SR:187.5
+
+BOWLERS
+------------------------------------------------------------
+  Umesh                      3 ov   35 runs  0 wkts  Econ:11.7
+  Steyn                      4 ov   57 runs  0 wkts  Econ:14.2
+  Navdeep Saini              4 ov   37 runs  0 wkts  Econ:9.2
+  Chahal                     4 ov   25 runs  1 wkts  Econ:6.2
+  Washington Sundar          2 ov   13 runs  0 wkts  Econ:6.5
+  Shivam Dube                3 ov   33 runs  2 wkts  Econ:11
+
+============================================================
+  MATCH 30355 - INNINGS 2
+============================================================
+  Score: 109/10 in 17 overs  |  Run Rate: 6.41
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  1  •  1  W  •  •                +2 runs  (Total: 2)  [WICKET]
+  Over  2:  •  L1  W  1  •  •               +2 runs  (Total: 4)  [WICKET]
+  Over  3:  •  •  •  W  1  •                +1 runs  (Total: 5)  [WICKET]
+  Over  4:  1  1  •  4  •  •                +6 runs  (Total: 11)  [FOUR, UDRS]
+  Over  5:  •  6  4  Wd  •  •  2  Wd        +14 runs  (Total: 25)  [SIX, FOUR, over-break,HIGHSCORING_OVER]
+  Over  6:  4  Wd  4  Wd2  •  •  4  •       +15 runs  (Total: 40)  [FOUR, FOUR, FOUR, over-break,HIGHSCORING_OVER]
+  Over  7:  4  •  •  L1  1  2               +8 runs  (Total: 48)  [FOUR]
+  Over  8:  1  1  1  2  W  •                +5 runs  (Total: 53)  [TEAM_FIFTY, WICKET]
+  Over  9:  4  W  •  1  •  2                +7 runs  (Total: 60)  [FOUR, WICKET]
+  Over 10:  •  •  1  •  1  1                +3 runs  (Total: 63)
+  Over 11:  4  1  1  •  1  •                +7 runs  (Total: 70)  [FOUR]
+  Over 12:  •  1  Wd  6  •  1  1            +10 runs  (Total: 80)  [SIX]
+  Over 13:  •  1  1  1  •  W                +3 runs  (Total: 83)  [over-break,WICKET]
+  Over 14:  2  2  •  1  •  W                +5 runs  (Total: 88)  [over-break,WICKET]
+  Over 15:  1  1  4  •  1  •                +7 runs  (Total: 95)  [FOUR]
+  Over 16:  6  W  •  •  1  •                +7 runs  (Total: 102)  [TEAM_HUNDRED,SIX, WICKET]
+  Over 17:  4  W  •  Wd  1  1  W            +7 runs  (Total: 109)  [FOUR, WICKET, over-break,WICKET]
+
+BATTERS
+------------------------------------------------------------
+  Devdutt Padikkal             1 runs    2 balls  4s:0  6s:0  SR:50
+  Dale Steyn                   1 runs    2 balls  4s:0  6s:0  SR:50
+  Yuzvendra Chahal             1 runs    3 balls  4s:0  6s:0  SR:33.33
+  Aaron Finch                 20 runs   21 balls  4s:3  6s:0  SR:95.24
+  Josh Philippe                0 runs    3 balls  4s:0  6s:0  SR:0
+  Virat Kohli                  1 runs    5 balls  4s:0  6s:0  SR:20
+  AB de Villiers              28 runs   18 balls  4s:4  6s:1  SR:155.56
+  Washington Sundar           30 runs   27 balls  4s:2  6s:1  SR:111.11
+  Shivam Dube                 12 runs   12 balls  4s:0  6s:1  SR:100
+  Umesh Yadav                  0 runs    2 balls  4s:0  6s:0  SR:0
+  Navdeep Saini                6 runs    7 balls  4s:1  6s:0  SR:85.71
+
+BOWLERS
+------------------------------------------------------------
+  Sheldon Cottrell           3 ov   17 runs  2 wkts  Econ:5.7
+  Mohammed Shami             3 ov   14 runs  1 wkts  Econ:4.7
+  Ravi Bishnoi               4 ov   32 runs  3 wkts  Econ:8
+  Murugan Ashwin             3 ov   21 runs  3 wkts  Econ:7
+  James Neesham              2 ov   13 runs  0 wkts  Econ:6.5
+  Glenn Maxwell              2 ov   10 runs  1 wkts  Econ:5
+
+  [Win probability not available for this match]

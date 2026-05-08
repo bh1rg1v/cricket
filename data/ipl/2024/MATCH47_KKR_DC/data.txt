@@ -1,0 +1,155 @@
+SCORECARD
+============================================================
+
+============================================================
+  Delhi Capitals  153/9 (20 ov)  RR: 7.65
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Prithvi Shaw                13    7   3   0  185.71  c Salt b Vaibhav Arora
+  Jake Fraser-McGurk          12    7   1   1  171.43  c Venkatesh Iyer b Starc
+  Abishek Porel               18   15   2   1     120  b Harshit Rana
+  Shai Hope                    6    3   0   1     200  b Vaibhav Arora
+  Pant                        27   20   2   1     135  c Shreyas Iyer b Chakaravarthy
+  Axar                        15   21   2   0   71.43  b Narine
+  Tristan Stubbs               4    7   0   0   57.14  c Salt b Chakaravarthy
+  Kushagra                     1    3   0   0   33.33  c Salt b Chakaravarthy
+  Kuldeep Yadav               35   26   5   1  134.62  not out
+  Rasikh Salam                 8   10   1   0      80  c Shreyas Iyer b Harshit Rana
+  Williams                     1    2   0   0      50  not out
+  Extras: 13 (b 0, lb 3, w 9, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Starc                         3   0   43   1   14.3
+  Vaibhav Arora                 4   0   29   2    7.2
+  Harshit Rana                  4   0   28   2      7
+  Narine                        4   0   24   1      6
+  Chakaravarthy                 4   0   16   3      4
+  Russell                       1   0   10   0     10
+
+  Fall of Wickets: 17-1 (Prithvi Shaw, 1.3 ov), 30-2 (Jake Fraser-McGurk, 2.5 ov), 37-3 (Shai Hope, 3.3 ov), 68-4 (Abishek Porel, 6.4 ov), 93-5 (Pant, 10.1 ov), 99-6 (Tristan Stubbs, 12.1 ov), 101-7 (Axar, 13.3 ov), 111-8 (Kushagra, 14.3 ov), 140-9 (Rasikh Salam, 18.2 ov)
+
+============================================================
+  Kolkata Knight Riders  157/3 (16.3 ov)  RR: 9.52
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Philip Salt                 68   33   7   5  206.06  b Axar
+  Sunil Narine                15   10   3   0     150  c Jake Fraser-McGurk b Axar
+  Rinku Singh                 11   11   1   0     100  c Kuldeep Yadav b Williams
+  Shreyas Iyer                33   23   3   1  143.48  not out
+  Venkatesh Iyer              26   23   2   1  113.04  not out
+  Extras: 4 (b 0, lb 2, w 1, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Lizaad Williams               3   0   38   1   12.7
+  Khaleel Ahmed                 3   0   28   0    9.3
+  Rasikh Dar Salam            2.3   0   30   0     12
+  Axar Patel                    4   0   25   2    6.2
+  Kuldeep Yadav                 4   0   34   0    8.5
+
+  Fall of Wickets: 79-1 (Sunil Narine, 6.1 ov), 96-2 (Philip Salt, 8.1 ov), 100-3 (Rinku Singh, 9.2 ov)
+
+============================================================
+  MATCH 91564 - INNINGS 1
+============================================================
+  Score: 153/9 in 20 overs  |  Run Rate: 7.65
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  4  4  Wd  4  •  1  1            +15 runs  (Total: 15)  [FOUR, FOUR, FOUR, over-break,HIGHSCORING_OVER]
+  Over  2:  1  N  •  W  •  Wd  •  0         +3 runs  (Total: 18)  [WICKET,UDRS]
+  Over  3:  1  1  6  4  W  •                +12 runs  (Total: 30)  [SIX, FOUR, WICKET]
+  Over  4:  1  6  W  •  Wd  •  4            +12 runs  (Total: 42)  [SIX, WICKET, over-break,FOUR]
+  Over  5:  •  4  6  4  1  1                +16 runs  (Total: 58)  [FOUR, TEAM_FIFTY,SIX, FOUR, over-break,HIGHSCORING_OVER]
+  Over  6:  •  6  1  •  1  1                +9 runs  (Total: 67)  [SIX]
+  Over  7:  1  •  •  W  •  •                +1 runs  (Total: 68)  [WICKET]
+  Over  8:  •  2  1  •  1  1                +5 runs  (Total: 73)
+  Over  9:  1  1  2  1  •  2                +7 runs  (Total: 80)  [DROPPED]
+  Over 10:  4  •  1  4  4  •                +13 runs  (Total: 93)  [FOUR, FOUR, FOUR]
+  Over 11:  W  •  1  •  •  •                +1 runs  (Total: 94)  [WICKET]
+  Over 12:  1  1  1  1  •  1                +5 runs  (Total: 99)
+  Over 13:  W  1  •  •  1  •                +2 runs  (Total: 101)  [WICKET, TEAM_HUNDRED]
+  Over 14:  •  •  W  •  4  1                +5 runs  (Total: 106)  [WICKET, FOUR]
+  Over 15:  4  1  W  •  1  •                +6 runs  (Total: 112)  [FOUR, WICKET, UDRS]
+  Over 16:  •  •  1  •  6  4  Wd5           +16 runs  (Total: 128)  [SIX,DROPPED, over-break,FOUR,HIGHSCORING_OVER]
+  Over 17:  L1  1  1  •  1  4               +8 runs  (Total: 136)  [over-break,FOUR]
+  Over 18:  •  •  1  1  •  L1               +3 runs  (Total: 139)  [over-break,UDRS]
+  Over 19:  1  W  •  1  •  1  Wd            +4 runs  (Total: 143)  [WICKET]
+  Over 20:  4  •  •  2  •  4                +10 runs  (Total: 153)  [FOUR, OTHER, UDRS, over-break,TEAM_HUNDRED,FOUR]
+
+BATTERS
+------------------------------------------------------------
+  Prithvi Shaw                13 runs    7 balls  4s:0  6s:0  SR:185.71
+  Rasikh Salam                 8 runs   10 balls  4s:0  6s:0  SR:80
+  Williams                     1 runs    2 balls  4s:0  6s:0  SR:50
+  Jake Fraser-McGurk          12 runs    7 balls  4s:0  6s:0  SR:171.43
+  Abishek Porel               18 runs   15 balls  4s:0  6s:0  SR:120
+  Shai Hope                    6 runs    3 balls  4s:0  6s:0  SR:200
+  Pant                        27 runs   20 balls  4s:0  6s:0  SR:135
+  Axar                        15 runs   21 balls  4s:0  6s:0  SR:71.43
+  Tristan Stubbs               4 runs    7 balls  4s:0  6s:0  SR:57.14
+  Kushagra                     1 runs    3 balls  4s:0  6s:0  SR:33.33
+  Kuldeep Yadav               35 runs   26 balls  4s:0  6s:0  SR:134.62
+
+BOWLERS
+------------------------------------------------------------
+  Starc                      3 ov   43 runs  1 wkts  Econ:14.3
+  Vaibhav Arora              4 ov   29 runs  2 wkts  Econ:7.2
+  Harshit Rana               4 ov   28 runs  2 wkts  Econ:7
+  Narine                     4 ov   24 runs  1 wkts  Econ:6
+  Chakaravarthy              4 ov   16 runs  3 wkts  Econ:4
+  Russell                    1 ov   10 runs  0 wkts  Econ:10
+
+============================================================
+  MATCH 91564 - INNINGS 2
+============================================================
+  Score: 157/3 in 16.3 overs  |  Run Rate: 9.52
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  4  1  6  Wd  NL1  4  L1  4      +23 runs  (Total: 23)  [FOUR, SIX, FOUR, over-break,FOUR,HIGHSCORING_OVER]
+  Over  2:  2  •  •  •  2  •                +4 runs  (Total: 27)  [DROPPED, UDRS]
+  Over  3:  •  1  •  6  6  •                +13 runs  (Total: 40)  [SIX, SIX]
+  Over  4:  •  1  •  •  4  1                +6 runs  (Total: 46)  [FOUR]
+  Over  5:  1  4  4  1  4  1                +15 runs  (Total: 61)  [TEAM_FIFTY,PARTNERSHIP,FOUR, FOUR, FOUR, over-break,HIGHSCORING_OVER]
+  Over  6:  •  4  •  6  4  4                +18 runs  (Total: 79)  [FOUR, FIFTY,SIX, FOUR, over-break,FOUR,HIGHSCORING_OVER]
+  Over  7:  W  3  •  1  •  1                +5 runs  (Total: 84)  [WICKET, OTHER]
+  Over  8:  •  4  •  1  6  1                +12 runs  (Total: 96)  [FOUR, SIX]
+  Over  9:  W  1  1  •  1  1                +4 runs  (Total: 100)  [WICKET, over-break,TEAM_HUNDRED]
+  Over 10:  •  W  •  1  1  2                +4 runs  (Total: 104)  [WICKET]
+  Over 11:  •  4  4  •  •  1                +9 runs  (Total: 113)  [FOUR, FOUR]
+  Over 12:  1  4  •  •  1  2                +8 runs  (Total: 121)  [FOUR]
+  Over 13:  4  1  2  •  1  1                +9 runs  (Total: 130)  [FOUR]
+  Over 14:  •  2  •  1  •  1                +4 runs  (Total: 134)
+  Over 15:  4  1  1  1  •  •                +7 runs  (Total: 141)  [FOUR]
+  Over 16:  1  1  1  •  1  6                +10 runs  (Total: 151)  [over-break,TEAM_HUNDRED,PARTNERSHIP,SIX]
+  Over 17:  •  •  6                         +6 runs  (Total: 157)  [SIX]
+
+BATTERS
+------------------------------------------------------------
+  Philip Salt                 68 runs   33 balls  4s:7  6s:5  SR:206.06
+  Sunil Narine                15 runs   10 balls  4s:3  6s:0  SR:150
+  Rinku Singh                 11 runs   11 balls  4s:1  6s:0  SR:100
+  Shreyas Iyer                33 runs   23 balls  4s:3  6s:1  SR:143.48
+  Venkatesh Iyer              26 runs   23 balls  4s:2  6s:1  SR:113.04
+
+BOWLERS
+------------------------------------------------------------
+  Lizaad Williams            3 ov   38 runs  1 wkts  Econ:12.7
+  Khaleel Ahmed              3 ov   28 runs  0 wkts  Econ:9.3
+  Rasikh Dar Salam           2.3 ov   30 runs  0 wkts  Econ:12
+  Axar Patel                 4 ov   25 runs  2 wkts  Econ:6.2
+  Kuldeep Yadav              4 ov   34 runs  0 wkts  Econ:8.5
+
+  [Win probability not available for this match]

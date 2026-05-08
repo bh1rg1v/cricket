@@ -1,0 +1,63 @@
+SCORECARD
+============================================================
+
+============================================================
+  Delhi Daredevils  98/10 (17.4 ov)  RR: 5.63
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Zaheer Khan                  4    9   1   0   44.44  c M Pandey b J Hastings
+  Amit Mishra                  3    9   0   0   33.33  c Gambhir b B Hogg
+  Mayank Agarwal               9   11   1   0   81.82  c B Hogg b A Russell
+  Nathan Coulter-Nile          7   11   1   0   63.64  not out
+  Carlos Brathwaite            6    4   0   1     150  lbw b Chawla
+  Karun Nair                   3    8   0   0    37.5  c M Pandey b J Hastings
+  Sanju Samson                15   13   2   0  115.38  c Uthappa b B Hogg
+  Pawan Negi                  11   19   0   1   57.89  st Uthappa b B Hogg
+  Chris Morris                11    9   2   0  122.22  b Chawla
+  Quinton de Kock             17   10   1   1     170  c Y Pathan b A Russell
+  Shreyas Iyer                 0    3   0   0       0  lbw b A Russell
+  Extras: 12 (b 0, lb 0, w 12, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Andre Russell                 3   0   24   3      8
+  Umesh Yadav                   3   0   21   0      7
+  John Hastings               2.4   1    6   2    2.5
+  Colin Munro                   1   0    7   0      7
+  Brad Hogg                     4   1   19   3   4.75
+  Piyush Chawla                 4   0   21   2   5.25
+
+  Fall of Wickets: 24-1 (Quinton de Kock, 2.2 ov), 25-2 (Shreyas Iyer, 2.6 ov), 31-3 (Mayank Agarwal, 4.5 ov), 35-4 (Karun Nair, 5.3 ov), 55-5 (Negi, 9.6 ov), 67-6 (C Brathwaite, 10.5 ov), 84-7 (Chris Morris, 12.4 ov), 84-8 (Sanju Samson, 13.1 ov), 92-9 (Amit Mishra, 15.4 ov), 98-10 (Zaheer, 17.4 ov)
+
+============================================================
+  Kolkata Knight Riders  99/1 (14.1 ov)  RR: 7.02
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Gautam Gambhir              38   41   5   0   92.68  not out
+  Robin Uthappa               35   33   7   0  106.06  c C Morris b A Mishra
+  Manish Pandey               15   12   3   0     125  not out
+  Extras: 11 (b 2, lb 0, w 8, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Nathan Coulter-Nile           4   0   32   0      8
+  Zaheer Khan                 2.1   0   24   0  11.43
+  Chris Morris                  4   0   21   0   5.25
+  Carlos Brathwaite             2   0    9   0    4.5
+  Amit Mishra                   2   0   11   1    5.5
+
+  Fall of Wickets: 69-1 (Uthappa, 9.4 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

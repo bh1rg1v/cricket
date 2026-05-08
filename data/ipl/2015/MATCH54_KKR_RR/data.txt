@@ -1,0 +1,68 @@
+SCORECARD
+============================================================
+
+============================================================
+  Rajasthan Royals  199/6 (20 ov)  RR: 9.95
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Shane Watson               104   59   9   5  176.27  not out
+  Ajinkya Rahane              37   22   3   2  168.18  run out (Shakib/A Mahmood)
+  Steven Smith                14   11   2   0  127.27  c M Morkel b A Russell
+  James Faulkner               6    6   1   0     100  c Suryakumar Yadav b A Russell
+  Karun Nair                  16   10   3   0     160  c Uthappa b Umesh
+  Sanju Samson                 8    9   1   0   88.89  c Gambhir b A Russell
+  Chris Morris                 4    5   0   0      80  run out (M Pandey/Uthappa)
+  Extras: 10 (b 0, lb 4, w 4, nb 2)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Azhar Mahmood                 3   0   41   0  13.67
+  Morne Morkel                  4   0   38   0    9.5
+  Umesh Yadav                   4   0   36   1      9
+  Shakib Al Hasan               4   0   36   0      9
+  Andre Russell                 4   0   32   3      8
+  Piyush Chawla                 1   0   12   0     12
+
+  Fall of Wickets: 80-1 (Ajinkya Rahane, 7 ov), 110-2 (Steven Smith, 10.5 ov), 122-3 (Sanju Samson, 12.5 ov), 140-4 (Faulkner, 14.3 ov), 180-5 (Karun Nair, 17.6 ov), 199-6 (Chris Morris, 20 ov)
+
+============================================================
+  Kolkata Knight Riders  190/9 (20 ov)  RR: 9.5
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Azhar Mahmood                6    7   1   0   85.71  c A Rahane b Faulkner
+  Gautam Gambhir               1    3   0   0   33.33  c Binny b C Morris
+  Piyush Chawla                0    1   0   0       0  c Binny b Watson
+  Robin Uthappa               14    8   3   0     175  c S Smith b D Kulkarni
+  Shakib Al Hasan             13   11   2   0  118.18  c S Smith b C Morris
+  Morne Morkel                 4    3   0   0  133.33  not out
+  Yusuf Pathan                44   35   5   1  125.71  c D Kulkarni b Watson
+  Manish Pandey               21   21   3   0     100  c C Morris b D Kulkarni
+  Umesh Yadav                 24   11   4   1  218.18  not out
+  Andre Russell               37   20   4   2     185  c D Kulkarni b C Morris
+  Suryakumar Yadav             0    1   0   0       0  c Samson b C Morris
+  Extras: 26 (b 0, lb 3, w 18, nb 5)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Chris Morris                  4   0   23   4   5.75
+  Barinder Sran                 3   0   35   0  11.67
+  Dhawal Kulkarni               4   0   36   2      9
+  James Faulkner                4   0   45   1  11.25
+  Shane Watson                  4   0   38   2    9.5
+  Stuart Binny                  1   0   10   0     10
+
+  Fall of Wickets: 8-1 (Gambhir, 0.6 ov), 21-2 (Uthappa, 2.6 ov), 77-3 (Manish Pandey, 8.1 ov), 132-4 (Russell, 13.2 ov), 133-5 (Suryakumar Yadav, 13.4 ov), 146-6 (Yusuf Pathan, 15.2 ov), 156-7 (A Mahmood, 16.4 ov), 159-8 (Chawla, 17.2 ov), 184-9 (Shakib, 19.1 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

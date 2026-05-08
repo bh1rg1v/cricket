@@ -1,0 +1,151 @@
+SCORECARD
+============================================================
+
+============================================================
+  Kolkata Knight Riders  261/6 (20 ov)  RR: 13.05
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Salt                        75   37   6   6   202.7  b Sam Curran
+  Narine                      71   32   9   4  221.88  c Bairstow b Rahul Chahar
+  Venkatesh Iyer              39   23   3   2  169.57  run out (Jitesh Sharma)
+  Russell                     24   12   2   2     200  c Harshal Patel b Arshdeep Singh
+  Shreyas Iyer                28   10   1   3     280  c Rabada b Arshdeep Singh
+  Rinku Singh                  5    4   1   0     125  c Ashutosh Sharma b Harshal Patel
+  Ramandeep Singh              6    3   0   1     200  not out
+  Extras: 13 (b 1, lb 1, w 10, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Sam Curran                    4   0   60   1     15
+  Arshdeep Singh                4   0   45   2   11.2
+  Harshal Patel                 3   0   48   1     16
+  Rabada                        3   0   52   0   17.3
+  Rahul Chahar                  4   0   33   1    8.2
+  Harpreet Brar                 2   0   21   0   10.5
+
+  Fall of Wickets: 138-1 (Narine, 10.2 ov), 163-2 (Salt, 12.3 ov), 203-3 (Russell, 15.3 ov), 246-4 (Shreyas Iyer, 18.3 ov), 253-5 (Rinku Singh, 19.2 ov), 261-6 (Venkatesh Iyer, 20 ov)
+
+============================================================
+  Punjab Kings  262/2 (18.4 ov)  RR: 14.04
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Prabhsimran Singh           54   20   4   5     270  run out (Narine)
+  Jonny Bairstow             108   48   8   9     225  not out
+  Rilee Rossouw               26   16   1   2   162.5  c Shreyas Iyer b Narine
+  Shashank Singh              68   28   2   8  242.86  not out
+  Extras: 6 (b 0, lb 2, w 4, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Dushmantha Chameera           3   0   48   0     16
+  Harshit Rana                  4   0   61   0   15.2
+  Anukul Roy                    2   0   36   0     18
+  Sunil Narine                  4   0   24   1      6
+  Varun Chakaravarthy           3   0   46   0   15.3
+  Andre Russell                 2   0   36   0     18
+  Ramandeep Singh             0.4   0    9   0   13.5
+
+  Fall of Wickets: 93-1 (Prabhsimran Singh, 6 ov), 178-2 (Rilee Rossouw, 12.3 ov)
+
+============================================================
+  MATCH 91528 - INNINGS 1
+============================================================
+  Score: 261/6 in 20 overs  |  Run Rate: 13.05
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  1  4  •  •  2                +7 runs  (Total: 7)  [FOUR]
+  Over  2:  •  •  1  6  4  Wd  Wd  •        +13 runs  (Total: 20)  [SIX, FOUR]
+  Over  3:  1  1  6  4  6  •                +18 runs  (Total: 38)  [DROPPED, SIX, FOUR, SIX, over-break,HIGHSCORING_OVER]
+  Over  4:  1  4  1  Wd  4  6  4            +21 runs  (Total: 59)  [FOUR, FOUR, TEAM_FIFTY,PARTNERSHIP,SIX, over-break,FOUR,HIGHSCORING_OVER]
+  Over  5:  •  4  1  1  1  4                +11 runs  (Total: 70)  [FOUR, over-break,FOUR]
+  Over  6:  4  •  •  •  1  1                +6 runs  (Total: 76)  [FOUR, DROPPED]
+  Over  7:  •  4  •  1  1  1                +7 runs  (Total: 83)  [FOUR]
+  Over  8:  •  Wd  Wd  4  4  1  4  Wd  6    +22 runs  (Total: 105)  [FOUR, FIFTY,FOUR, FOUR, over-break,TEAM_HUNDRED,PARTNERSHIP,SIX,HIGHSCORING_OVER]
+  Over  9:  6  •  1  4  2  •                +13 runs  (Total: 118)  [SIX, UDRS, FIFTY,FOUR]
+  Over 10:  4  •  6  1  6  1  N             +19 runs  (Total: 137)  [FOUR, SIX, SIX, over-break,HIGHSCORING_OVER]
+  Over 11:  1  W  •  4  L1  1               +7 runs  (Total: 144)  [WICKET, FOUR]
+  Over 12:  1  2  2  1  1  •                +7 runs  (Total: 151)  [TEAM_HUNDRED]
+  Over 13:  6  6  W  •  4  2                +18 runs  (Total: 169)  [SIX, SIX, WICKET, FOUR, over-break,HIGHSCORING_OVER]
+  Over 14:  •  4  1  1  1  •                +7 runs  (Total: 176)  [FOUR]
+  Over 15:  1  •  6  •  1  6                +14 runs  (Total: 190)  [SIX, over-break,SIX,HIGHSCORING_OVER]
+  Over 16:  6  Wd  4  Wd  Wd  W  2  1  •    +16 runs  (Total: 206)  [SIX, TEAM_HUNDRED,FOUR, WICKET, over-break,HIGHSCORING_OVER]
+  Over 17:  1  2  4  •  1  1                +9 runs  (Total: 215)  [FOUR]
+  Over 18:  1  1  6  4  6  6                +24 runs  (Total: 239)  [SIX, FOUR, SIX, over-break,SIX,HIGHSCORING_OVER]
+  Over 19:  6  1  W  •  1  2                +10 runs  (Total: 249)  [SIX, WICKET]
+  Over 20:  4  W  6  •  B1  W  Wd           +12 runs  (Total: 261)  [TEAM_HUNDRED,FOUR, WICKET, SIX, UDRS, over-break,WICKET]
+
+BATTERS
+------------------------------------------------------------
+  Salt                        75 runs   37 balls  4s:0  6s:0  SR:202.7
+  Narine                      71 runs   32 balls  4s:0  6s:0  SR:221.88
+  Venkatesh Iyer              39 runs   23 balls  4s:0  6s:0  SR:169.57
+  Russell                     24 runs   12 balls  4s:0  6s:0  SR:200
+  Shreyas Iyer                28 runs   10 balls  4s:0  6s:0  SR:280
+  Rinku Singh                  5 runs    4 balls  4s:0  6s:0  SR:125
+  Ramandeep Singh              6 runs    3 balls  4s:0  6s:0  SR:200
+
+BOWLERS
+------------------------------------------------------------
+  Sam Curran                 4 ov   60 runs  1 wkts  Econ:15
+  Arshdeep Singh             4 ov   45 runs  2 wkts  Econ:11.2
+  Harshal Patel              3 ov   48 runs  1 wkts  Econ:16
+  Rabada                     3 ov   52 runs  0 wkts  Econ:17.3
+  Rahul Chahar               4 ov   33 runs  1 wkts  Econ:8.2
+  Harpreet Brar              2 ov   21 runs  0 wkts  Econ:10.5
+
+============================================================
+  MATCH 91528 - INNINGS 2
+============================================================
+  Score: 262/2 in 18.4 overs  |  Run Rate: 14.04
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  L1  1  1  4  1  •               +8 runs  (Total: 8)  [FOUR]
+  Over  2:  •  L1  6  •  6  1               +14 runs  (Total: 22)  [SIX, SIX, over-break,HIGHSCORING_OVER]
+  Over  3:  6  •  4  6  2  4  Wd            +23 runs  (Total: 45)  [SIX, FOUR, SIX, over-break,FOUR,HIGHSCORING_OVER]
+  Over  4:  •  4  1  4  2  1                +12 runs  (Total: 57)  [FOUR, TEAM_FIFTY,PARTNERSHIP, FOUR]
+  Over  5:  4  6  •  1  •  1                +12 runs  (Total: 69)  [FOUR, FIFTY,SIX]
+  Over  6:  4  6  4  4  6  W                +24 runs  (Total: 93)  [FOUR, SIX, FOUR, FOUR, SIX, over-break,WICKET,HIGHSCORING_OVER]
+  Over  7:  •  1  •  •  •  •                +1 runs  (Total: 94)
+  Over  8:  •  6  1  4  2  1                +14 runs  (Total: 108)  [TEAM_HUNDRED,SIX, FOUR, over-break,HIGHSCORING_OVER]
+  Over  9:  2  1  1  1  6  1                +12 runs  (Total: 120)  [FIFTY,SIX]
+  Over 10:  •  4  1  6  1  •                +12 runs  (Total: 132)  [FOUR, SIX]
+  Over 11:  1  •  •  6  4  6                +17 runs  (Total: 149)  [SIX, FOUR,PARTNERSHIP, over-break,SIX,HIGHSCORING_OVER]
+  Over 12:  6  Wd  1  Wd  6  6  2  1        +24 runs  (Total: 173)  [SIX, TEAM_HUNDRED, SIX, SIX, over-break,HIGHSCORING_OVER]
+  Over 13:  4  1  W  •  •  1                +6 runs  (Total: 179)  [FOUR, WICKET]
+  Over 14:  6  6  2  1  1  1                +17 runs  (Total: 196)  [SIX, SIX, over-break,HIGHSCORING_OVER]
+  Over 15:  1  1  •  •  1  2                +5 runs  (Total: 201)  [over-break,TEAM_HUNDRED]
+  Over 16:  4  1  •  1  1  2                +9 runs  (Total: 210)  [FOUR, over-break,HUNDRED,DROPPED]
+  Over 17:  •  6  •  6  •  6                +18 runs  (Total: 228)  [SIX, SIX,UDRS, over-break,SIX,PARTNERSHIP,HIGHSCORING_OVER]
+  Over 18:  1  6  Wd  6  4  1  6            +25 runs  (Total: 253)  [SIX, FIFTY,SIX, FOUR, over-break,TEAM_HUNDRED,SIX,HIGHSCORING_OVER]
+  Over 19:  6  1  1  1                      +9 runs  (Total: 262)  [SIX]
+
+BATTERS
+------------------------------------------------------------
+  Prabhsimran Singh           54 runs   20 balls  4s:4  6s:5  SR:270
+  Jonny Bairstow             108 runs   48 balls  4s:8  6s:9  SR:225
+  Rilee Rossouw               26 runs   16 balls  4s:1  6s:2  SR:162.5
+  Shashank Singh              68 runs   28 balls  4s:2  6s:8  SR:242.86
+
+BOWLERS
+------------------------------------------------------------
+  Dushmantha Chameera        3 ov   48 runs  0 wkts  Econ:16
+  Harshit Rana               4 ov   61 runs  0 wkts  Econ:15.2
+  Anukul Roy                 2 ov   36 runs  0 wkts  Econ:18
+  Sunil Narine               4 ov   24 runs  1 wkts  Econ:6
+  Varun Chakaravarthy        3 ov   46 runs  0 wkts  Econ:15.3
+  Andre Russell              2 ov   36 runs  0 wkts  Econ:18
+  Ramandeep Singh            0.4 ov    9 runs  0 wkts  Econ:13.5
+
+  [Win probability not available for this match]

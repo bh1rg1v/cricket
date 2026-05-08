@@ -1,0 +1,168 @@
+SCORECARD
+============================================================
+
+============================================================
+  Punjab Kings  180/8 (20 ov)  RR: 9
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Mayank Agarwal               4    2   1   0     200  c Uthappa b Mukesh Choudhary
+  Dhawan                      33   24   4   1   137.5  c Ravindra Jadeja b DJ Bravo
+  B Rajapaksa                  9    5   0   1     180  run out (Chris Jordan/Dhoni)
+  Livingstone                 60   32   5   5   187.5  c Rayudu b Ravindra Jadeja
+  Jitesh Sharma               26   17   0   3  152.94  c Uthappa b Pretorius
+  Shahrukh Khan                6   11   0   0   54.55  c Pretorius b Chris Jordan
+  Odean Smith                  3    7   0   0   42.86  c DJ Bravo b Chris Jordan
+  Rabada                      12   12   1   0     100  not out
+  Rahul Chahar                12    8   1   1     150  c DJ Bravo b Pretorius
+  Vaibhav Arora                1    2   0   0      50  not out
+  Extras: 14 (b 0, lb 1, w 13, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Mukesh Choudhary              4   0   52   1     13
+  Chris Jordan                  4   0   23   2    5.8
+  DJ Bravo                      3   0   32   1   10.7
+  Ravindra Jadeja               4   0   34   1    8.5
+  Pretorius                     4   0   30   2    7.5
+  Moeen                         1   0    8   0      8
+
+  Fall of Wickets: 4-1 (Mayank Agarwal, 0.2 ov), 14-2 (B Rajapaksa, 1.2 ov), 109-3 (Dhawan, 9.6 ov), 115-4 (Livingstone, 10.4 ov), 146-5 (Jitesh Sharma, 14.5 ov), 151-6 (Shahrukh Khan, 15.4 ov), 161-7 (Odean Smith, 17.1 ov), 176-8 (Rahul Chahar, 18.6 ov)
+
+============================================================
+  Chennai Super Kings  126/10 (18 ov)  RR: 7
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Robin Uthappa               13   10   2   0     130  c Mayank Agarwal b Vaibhav Arora
+  Ruturaj Gaikwad              1    4   0   0      25  c Dhawan b Rabada
+  Moeen Ali                    0    2   0   0       0  b Vaibhav Arora
+  Ambati Rayudu               13   21   2   0    61.9  c Jitesh Sharma b Odean Smith
+  Ravindra Jadeja              0    3   0   0       0  b Arshdeep Singh
+  Shivam Dube                 57   30   6   3     190  c Arshdeep Singh b Livingstone
+  MS Dhoni                    23   28   1   1   82.14  c Jitesh Sharma b Rahul Chahar
+  Dwayne Bravo                 0    1   0   0       0  c and b Livingstone
+  Dwaine Pretorius             8    4   0   1     200  c Arshdeep Singh b Rahul Chahar
+  Chris Jordan                 5    5   0   0     100  c Livingstone b Rahul Chahar
+  Mukesh Choudhary             2    2   0   0     100  not out
+  Extras: 4 (b 0, lb 0, w 2, nb 2)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Vaibhav Arora                 4   0   21   2    5.2
+  Kagiso Rabada                 3   0   28   1    9.3
+  Arshdeep Singh                2   0   13   1    6.5
+  Odean Smith                   2   0   14   1      7
+  Rahul Chahar                  4   0   25   3    6.2
+  Liam Livingstone              3   0   25   2    8.3
+
+  Fall of Wickets: 10-1 (Ruturaj Gaikwad, 1.6 ov), 14-2 (Robin Uthappa, 2.2 ov), 22-3 (Moeen Ali, 4.4 ov), 23-4 (Ravindra Jadeja, 5.3 ov), 36-5 (Ambati Rayudu, 7.3 ov), 98-6 (Shivam Dube, 14.5 ov), 98-7 (Dwayne Bravo, 14.6 ov), 107-8 (Dwaine Pretorius, 15.5 ov), 121-9 (MS Dhoni, 17.1 ov), 126-10 (Chris Jordan, 17.6 ov)
+
+============================================================
+  MATCH 45936 - INNINGS 1
+============================================================
+  Score: 180/8 in 20 overs  |  Run Rate: 9
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  4  W  •  Wd  2  1  •            +8 runs  (Total: 8)  [FOUR, WICKET]
+  Over  2:  6  W  •  3  •  •                +9 runs  (Total: 17)  [SIX, WICKET]
+  Over  3:  •  •  •  6  •  4                +10 runs  (Total: 27)  [SIX, over-break,FOUR]
+  Over  4:  1  1  2  •  •  •                +4 runs  (Total: 31)
+  Over  5:  6  •  4  4  Wd  Wd  4  6        +26 runs  (Total: 57)  [SIX, FOUR, FOUR, TEAM_FIFTY,FOUR, over-break,SIX,HIGHSCORING_OVER]
+  Over  6:  •  Wd  6  4  •  •  4            +15 runs  (Total: 72)  [SIX,PARTNERSHIP, FOUR, over-break,FOUR,HIGHSCORING_OVER]
+  Over  7:  6  1  2  1  •  •                +10 runs  (Total: 82)  [SIX, DROPPED]
+  Over  8:  L1  •  1  2  1  Wd  1           +7 runs  (Total: 89)
+  Over  9:  •  •  •  1  Wd  4  1            +7 runs  (Total: 96)  [FOUR]
+  Over 10:  4  Wd  1  6  •  1  W            +13 runs  (Total: 109)  [TEAM_HUNDRED,FOUR, FIFTY,SIX, over-break,WICKET]
+  Over 11:  4  1  1  W  •  •                +6 runs  (Total: 115)  [FOUR, WICKET]
+  Over 12:  •  6  •  1  •  1                +8 runs  (Total: 123)  [SIX]
+  Over 13:  1  •  •  6  •  1                +8 runs  (Total: 131)  [SIX]
+  Over 14:  1  •  Wd  1  6  Wd  1  •        +11 runs  (Total: 142)  [SIX]
+  Over 15:  •  2  1  1  W  1                +5 runs  (Total: 147)  [WICKET]
+  Over 16:  •  Wd  1  2  W  •  1            +5 runs  (Total: 152)  [TEAM_HUNDRED, WICKET]
+  Over 17:  4  1  Wd  •  •  1  Wd  •  Wd    +9 runs  (Total: 161)  [FOUR]
+  Over 18:  W  1  •  2  1  1                +5 runs  (Total: 166)  [WICKET]
+  Over 19:  •  4  •  6  •  W                +10 runs  (Total: 176)  [FOUR, SIX, over-break,WICKET]
+  Over 20:  •  2  •  1  •  1                +4 runs  (Total: 180)
+
+BATTERS
+------------------------------------------------------------
+  Mayank Agarwal               4 runs    2 balls  4s:0  6s:0  SR:200
+  Vaibhav Arora                1 runs    2 balls  4s:0  6s:0  SR:50
+  Dhawan                      33 runs   24 balls  4s:0  6s:0  SR:137.5
+  B Rajapaksa                  9 runs    5 balls  4s:0  6s:0  SR:180
+  Livingstone                 60 runs   32 balls  4s:0  6s:0  SR:187.5
+  Jitesh Sharma               26 runs   17 balls  4s:0  6s:0  SR:152.94
+  Shahrukh Khan                6 runs   11 balls  4s:0  6s:0  SR:54.55
+  Odean Smith                  3 runs    7 balls  4s:0  6s:0  SR:42.86
+  Rabada                      12 runs   12 balls  4s:0  6s:0  SR:100
+  Rahul Chahar                12 runs    8 balls  4s:0  6s:0  SR:150
+
+BOWLERS
+------------------------------------------------------------
+  Mukesh Choudhary           4 ov   52 runs  1 wkts  Econ:13
+  Chris Jordan               4 ov   23 runs  2 wkts  Econ:5.8
+  DJ Bravo                   3 ov   32 runs  1 wkts  Econ:10.7
+  Ravindra Jadeja            4 ov   34 runs  1 wkts  Econ:8.5
+  Pretorius                  4 ov   30 runs  2 wkts  Econ:7.5
+  Moeen                      1 ov    8 runs  0 wkts  Econ:8
+
+============================================================
+  MATCH 45936 - INNINGS 2
+============================================================
+  Score: 126/10 in 18 overs  |  Run Rate: 7
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  2  1  1  1  •                +5 runs  (Total: 5)
+  Over  2:  •  •  4  1  •  W                +5 runs  (Total: 10)  [FOUR, over-break,WICKET]
+  Over  3:  4  W  •  •  •  1  Wd            +6 runs  (Total: 16)  [FOUR, WICKET]
+  Over  4:  •  4  •  •  •  1                +5 runs  (Total: 21)  [FOUR]
+  Over  5:  •  1  •  W  •  •                +1 runs  (Total: 22)  [WICKET]
+  Over  6:  •  1  W  4  •  •                +5 runs  (Total: 27)  [WICKET, FOUR]
+  Over  7:  4  •  •  1  4  •                +9 runs  (Total: 36)  [FOUR, FOUR]
+  Over  8:  •  •  W  1  •  1                +2 runs  (Total: 38)  [WICKET]
+  Over  9:  1  •  1  1  •  •                +3 runs  (Total: 41)
+  Over 10:  1  •  1  6  •  4                +12 runs  (Total: 53)  [SIX, over-break,TEAM_FIFTY,FOUR]
+  Over 11:  1  1  1  4  1  •                +8 runs  (Total: 61)  [FOUR]
+  Over 12:  1  •  1  1  1  4                +8 runs  (Total: 69)  [over-break,FOUR]
+  Over 13:  •  1  1  •  •  1                +3 runs  (Total: 72)
+  Over 14:  •  N1  •  N2  6  6  1  •        +18 runs  (Total: 90)  [SIX, SIX,PARTNERSHIP, FIFTY, over-break,HIGHSCORING_OVER]
+  Over 15:  4  1  1  2  W  W                +8 runs  (Total: 98)  [FOUR, WICKET, over-break,WICKET]
+  Over 16:  1  6  •  2  W  •                +9 runs  (Total: 107)  [TEAM_HUNDRED,SIX, WICKET, over-break,UDRS]
+  Over 17:  6  •  4  •  1  Wd  2            +14 runs  (Total: 121)  [SIX, FOUR, over-break,HIGHSCORING_OVER]
+  Over 18:  W  1  2  1  1  W                +5 runs  (Total: 126)  [WICKET,UDRS, over-break,WICKET]
+
+BATTERS
+------------------------------------------------------------
+  Robin Uthappa               13 runs   10 balls  4s:2  6s:0  SR:130
+  Chris Jordan                 5 runs    5 balls  4s:0  6s:0  SR:100
+  Mukesh Choudhary             2 runs    2 balls  4s:0  6s:0  SR:100
+  Ruturaj Gaikwad              1 runs    4 balls  4s:0  6s:0  SR:25
+  Moeen Ali                    0 runs    2 balls  4s:0  6s:0  SR:0
+  Ambati Rayudu               13 runs   21 balls  4s:2  6s:0  SR:61.9
+  Ravindra Jadeja              0 runs    3 balls  4s:0  6s:0  SR:0
+  Shivam Dube                 57 runs   30 balls  4s:6  6s:3  SR:190
+  MS Dhoni                    23 runs   28 balls  4s:1  6s:1  SR:82.14
+  Dwayne Bravo                 0 runs    1 balls  4s:0  6s:0  SR:0
+  Dwaine Pretorius             8 runs    4 balls  4s:0  6s:1  SR:200
+
+BOWLERS
+------------------------------------------------------------
+  Vaibhav Arora              4 ov   21 runs  2 wkts  Econ:5.2
+  Kagiso Rabada              3 ov   28 runs  1 wkts  Econ:9.3
+  Arshdeep Singh             2 ov   13 runs  1 wkts  Econ:6.5
+  Odean Smith                2 ov   14 runs  1 wkts  Econ:7
+  Rahul Chahar               4 ov   25 runs  3 wkts  Econ:6.2
+  Liam Livingstone           3 ov   25 runs  2 wkts  Econ:8.3
+
+  [Win probability not available for this match]

@@ -1,0 +1,164 @@
+SCORECARD
+============================================================
+
+============================================================
+  Kolkata Knight Riders  200/9 (20 ov)  RR: 10
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Chris Lynn                  31   29   4   1   106.9  c Roy b Shami
+  Narine                       1    4   0   0      25  c Maxwell b Boult
+  Uthappa                     35   19   2   3  184.21  c and b Nadeem
+  Nitish Rana                 59   35   5   4  168.57  c Gambhir b Chris Morris
+  Karthik                     19   10   2   1     190  c Boult b Chris Morris
+  A Russell                   41   12   0   6  341.67  b Boult
+  Shubman Gill                 6    5   1   0     120  c Chris Morris b Rahul Tewatia
+  Tom Curran                   2    3   0   0   66.67  c Maxwell b Rahul Tewatia
+  Chawla                       0    3   0   0       0  c Pant b Rahul Tewatia
+  Extras: 6 (b 0, lb 4, w 2, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Boult                         4   1   29   2    7.2
+  Chris Morris                  4   0   41   2   10.2
+  Nadeem                        4   0   43   1   10.8
+  Rahul Tewatia                 3   0   18   3      6
+  Shami                         4   0   53   1   13.2
+  Vijay Shankar                 1   0   12   0     12
+
+  Fall of Wickets: 7-1 (Narine, 2.3 ov), 62-2 (Uthappa, 7.3 ov), 89-3 (Chris Lynn, 10.5 ov), 117-4 (Karthik, 13.4 ov), 178-5 (A Russell, 17.2 ov), 193-6 (Nitish Rana, 18.3 ov), 200-7 (Shubman Gill, 19.2 ov), 200-8 (Chawla, 19.5 ov), 200-9 (Tom Curran, 19.6 ov)
+
+============================================================
+  Delhi Daredevils  129/10 (14.2 ov)  RR: 9
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Gautam Gambhir               8    7   1   0  114.29  b Shivam Mavi
+  Jason Roy                    1    3   0   0   33.33  st Karthik b Chawla
+  Shreyas Iyer                 4    3   1   0  133.33  c Nitish Rana b A Russell
+  Rishabh Pant                43   26   7   1  165.38  c Chawla b Kuldeep Yadav
+  Glenn Maxwell               47   22   3   4  213.64  c Uthappa b Kuldeep Yadav
+  Rahul Tewatia                1    2   0   0      50  c A Russell b Tom Curran
+  Vijay Shankar                2    4   0   0      50  lbw b Narine
+  Chris Morris                 2    3   0   0   66.67  b Narine
+  Mohammed Shami               7    6   1   0  116.67  c A Russell b Narine
+  Shahbaz Nadeem               6    8   0   0      75  not out
+  Trent Boult                  0    2   0   0       0  c and b Kuldeep Yadav
+  Extras: 8 (b 0, lb 3, w 5, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Piyush Chawla                 2   0   16   1      8
+  Andre Russell                 2   0   25   1   12.5
+  Shivam Mavi                   2   0   14   1      7
+  Sunil Narine                  3   0   18   3      6
+  Tom Curran                    2   0   21   1   10.5
+  Kuldeep Yadav               3.2   0   32   3    9.6
+
+  Fall of Wickets: 4-1 (Jason Roy, 0.5 ov), 13-2 (Shreyas Iyer, 1.5 ov), 24-3 (Gautam Gambhir, 2.6 ov), 86-4 (Rishabh Pant, 8.3 ov), 97-5 (Rahul Tewatia, 9.3 ov), 113-6 (Glenn Maxwell, 10.5 ov), 116-7 (Chris Morris, 11.3 ov), 117-8 (Vijay Shankar, 11.5 ov), 128-9 (Mohammed Shami, 13.5 ov), 129-10 (Trent Boult, 14.2 ov)
+
+============================================================
+  MATCH 20073 - INNINGS 1
+============================================================
+  Score: 200/9 in 20 overs  |  Run Rate: 10
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  •  •  •  •  •                +0 runs  (Total: 0)  [over-break,MAIDEN_OVER]
+  Over  2:  1  •  •  6  •  •                +7 runs  (Total: 7)  [SIX]
+  Over  3:  •  •  W  •  1  4                +5 runs  (Total: 12)  [WICKET, over-break,FOUR]
+  Over  4:  1  •  4  1  1  •                +7 runs  (Total: 19)  [FOUR]
+  Over  5:  •  •  4  1  4  4                +13 runs  (Total: 32)  [FOUR, FOUR, over-break,FOUR]
+  Over  6:  •  6  2  6  4  •                +18 runs  (Total: 50)  [SIX, SIX, FOUR, over-break,HIGHSCORING_OVER]
+  Over  7:  1  6  1  1  1  •                +10 runs  (Total: 60)  [SIX,PARTNERSHIP]
+  Over  8:  1  1  W  •  1  1                +4 runs  (Total: 64)  [WICKET]
+  Over  9:  •  •  •  6  •  1                +7 runs  (Total: 71)  [SIX]
+  Over 10:  2  6  4  1  1  •                +14 runs  (Total: 85)  [SIX, FOUR, over-break,UDRS,HIGHSCORING_OVER]
+  Over 11:  1  1  2  •  W  •  Wd            +5 runs  (Total: 90)  [WICKET]
+  Over 12:  •  4  1  6  1  •                +12 runs  (Total: 102)  [FOUR, SIX]
+  Over 13:  •  2  1  1  1  1                +6 runs  (Total: 108)  [UDRS]
+  Over 14:  1  4  4  W  6  •                +15 runs  (Total: 123)  [FOUR, FOUR, WICKET, SIX, over-break,HIGHSCORING_OVER]
+  Over 15:  1  1  6  2  6  6                +22 runs  (Total: 145)  [SIX, DROPPED, SIX, over-break,SIX,HIGHSCORING_OVER]
+  Over 16:  6  •  4  1  •  1                +12 runs  (Total: 157)  [SIX, FOUR]
+  Over 17:  6  1  •  1  6  6                +20 runs  (Total: 177)  [SIX, SIX,PARTNERSHIP, over-break,SIX,HIGHSCORING_OVER]
+  Over 18:  1  W  4  1  4  1                +11 runs  (Total: 188)  [FIFTY, WICKET, FOUR, FOUR]
+  Over 19:  4  Wd  •  W  1  1  L4           +11 runs  (Total: 199)  [FOUR, WICKET, over-break,FOUR]
+  Over 20:  1  W  •  •  W  W                +1 runs  (Total: 200)  [WICKET, WICKET, over-break,WICKET]
+
+BATTERS
+------------------------------------------------------------
+  Chris Lynn                  31 runs   29 balls  4s:0  6s:0  SR:106.9
+  Shivam Mavi                  0 runs    0 balls  4s:0  6s:0  SR:0
+  Narine                       1 runs    4 balls  4s:0  6s:0  SR:25
+  Uthappa                     35 runs   19 balls  4s:0  6s:0  SR:184.21
+  Nitish Rana                 59 runs   35 balls  4s:0  6s:0  SR:168.57
+  Karthik                     19 runs   10 balls  4s:0  6s:0  SR:190
+  A Russell                   41 runs   12 balls  4s:0  6s:0  SR:341.67
+  Shubman Gill                 6 runs    5 balls  4s:0  6s:0  SR:120
+  Tom Curran                   2 runs    3 balls  4s:0  6s:0  SR:66.67
+  Chawla                       0 runs    3 balls  4s:0  6s:0  SR:0
+
+BOWLERS
+------------------------------------------------------------
+  Boult                      4 ov   29 runs  2 wkts  Econ:7.2
+  Chris Morris               4 ov   41 runs  2 wkts  Econ:10.2
+  Nadeem                     4 ov   43 runs  1 wkts  Econ:10.8
+  Rahul Tewatia              3 ov   18 runs  3 wkts  Econ:6
+  Shami                      4 ov   53 runs  1 wkts  Econ:13.2
+  Vijay Shankar              1 ov   12 runs  0 wkts  Econ:12
+
+============================================================
+  MATCH 20073 - INNINGS 2
+============================================================
+  Score: 129/10 in 14.2 overs  |  Run Rate: 9
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  1  •  1  1  •  •  WWd           +4 runs  (Total: 4)  [WICKET]
+  Over  2:  •  4  1  4  W  •  Wd  Wd        +11 runs  (Total: 15)  [FOUR, FOUR, WICKET]
+  Over  3:  1  •  2  Wd  4  1  W            +9 runs  (Total: 24)  [FOUR, over-break,WICKET]
+  Over  4:  •  4  4  Wd  1  •  4            +14 runs  (Total: 38)  [FOUR, FOUR, over-break,FOUR,HIGHSCORING_OVER]
+  Over  5:  •  L1  L1  1  4  •              +7 runs  (Total: 45)  [FOUR]
+  Over  6:  1  1  4  4  •  1                +11 runs  (Total: 56)  [FOUR, FOUR]
+  Over  7:  6  4  •  1  1  L1               +13 runs  (Total: 69)  [SIX, FOUR]
+  Over  8:  4  1  6  •  1  •                +12 runs  (Total: 81)  [FOUR, PARTNERSHIP, SIX]
+  Over  9:  4  1  W  1  2  1                +9 runs  (Total: 90)  [FOUR, WICKET]
+  Over 10:  6  1  W  1  1  •                +9 runs  (Total: 99)  [SIX, WICKET]
+  Over 11:  2  •  6  6  W  1                +15 runs  (Total: 114)  [SIX,DROPPED, SIX, WICKET, over-break,HIGHSCORING_OVER]
+  Over 12:  1  1  W  1  W  1                +4 runs  (Total: 118)  [WICKET, WICKET,UDRS]
+  Over 13:  1  1  •  1  •  4                +7 runs  (Total: 125)  [over-break,FOUR]
+  Over 14:  •  1  1  1  W  •                +3 runs  (Total: 128)  [WICKET]
+  Over 15:  1  W                            +1 runs  (Total: 129)  [WICKET]
+
+BATTERS
+------------------------------------------------------------
+  Gautam Gambhir               8 runs    7 balls  4s:1  6s:0  SR:114.29
+  Shahbaz Nadeem               6 runs    8 balls  4s:0  6s:0  SR:75
+  Trent Boult                  0 runs    2 balls  4s:0  6s:0  SR:0
+  Jason Roy                    1 runs    3 balls  4s:0  6s:0  SR:33.33
+  Shreyas Iyer                 4 runs    3 balls  4s:1  6s:0  SR:133.33
+  Rishabh Pant                43 runs   26 balls  4s:7  6s:1  SR:165.38
+  Glenn Maxwell               47 runs   22 balls  4s:3  6s:4  SR:213.64
+  Rahul Tewatia                1 runs    2 balls  4s:0  6s:0  SR:50
+  Vijay Shankar                2 runs    4 balls  4s:0  6s:0  SR:50
+  Chris Morris                 2 runs    3 balls  4s:0  6s:0  SR:66.67
+  Mohammed Shami               7 runs    6 balls  4s:1  6s:0  SR:116.67
+
+BOWLERS
+------------------------------------------------------------
+  Piyush Chawla              2 ov   16 runs  1 wkts  Econ:8
+  Andre Russell              2 ov   25 runs  1 wkts  Econ:12.5
+  Shivam Mavi                2 ov   14 runs  1 wkts  Econ:7
+  Sunil Narine               3 ov   18 runs  3 wkts  Econ:6
+  Tom Curran                 2 ov   21 runs  1 wkts  Econ:10.5
+  Kuldeep Yadav              3.2 ov   32 runs  3 wkts  Econ:9.6
+
+  [Win probability not available for this match]

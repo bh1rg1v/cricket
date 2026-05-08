@@ -1,0 +1,168 @@
+SCORECARD
+============================================================
+
+============================================================
+  Kolkata Knight Riders  169/10 (19.5 ov)  RR: 8.52
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Salt                         5    3   1   0  166.67  c Tilak Varma b N Thushara
+  Narine                       8    8   0   1     100  b Hardik Pandya
+  Angkrish Raghuvanshi        13    6   0   2  216.67  c Suryakumar Yadav b N Thushara
+  Shreyas Iyer                 6    4   1   0     150  c Tim David b N Thushara
+  Venkatesh Iyer              70   52   6   3  134.62  b Bumrah
+  Rinku Singh                  9    8   2   0   112.5  c and b Chawla
+  Manish Pandey               42   31   2   2  135.48  c (sub)Dewald Brevis b Hardik Pandya
+  Russell                      7    2   0   1     350  run out (N Thushara/Hardik Pandya)
+  Ramandeep Singh              2    4   0   0      50  c Gerald Coetzee b Bumrah
+  Starc                        0    2   0   0       0  b Bumrah
+  Extras: 7 (b 0, lb 1, w 5, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  N Thushara                    4   0   42   3   10.5
+  Bumrah                      3.5   0   18   3    4.7
+  Gerald Coetzee                2   0   24   0     12
+  Hardik Pandya                 4   0   44   2     11
+  Naman Dhir                    3   0   25   0    8.3
+  Chawla                        3   0   15   1      5
+
+  Fall of Wickets: 7-1 (Salt, 0.4 ov), 22-2 (Angkrish Raghuvanshi, 2.2 ov), 28-3 (Shreyas Iyer, 2.6 ov), 43-4 (Narine, 4.2 ov), 57-5 (Rinku Singh, 6.1 ov), 140-6 (Manish Pandey, 16.2 ov), 153-7 (Russell, 17 ov), 155-8 (Ramandeep Singh , 17.4 ov), 155-9 (Starc, 17.6 ov), 169-10 (Venkatesh Iyer, 19.5 ov)
+
+============================================================
+  Mumbai Indians  145/10 (18.5 ov)  RR: 7.7
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Ishan Kishan                13    7   1   1  185.71  b Starc
+  Rohit Sharma                11   12   0   1   91.67  c Manish Pandey b Narine
+  Naman Dhir                  11   11   2   0     100  b Chakaravarthy
+  Suryakumar Yadav            56   35   6   2     160  c Salt b Russell
+  Tilak Varma                  4    6   0   0   66.67  c Narine b Chakaravarthy
+  Nehal Wadhera                6   11   1   0   54.55  b Narine
+  Hardik Pandya                1    3   0   0   33.33  c Manish Pandey b Russell
+  Tim David                   24   20   1   1     120  c Shreyas Iyer b Starc
+  Gerald Coetzee               8    7   0   1  114.29  b Starc
+  Piyush Chawla                0    1   0   0       0  c Narine b Starc
+  Jasprit Bumrah               1    1   0   0     100  not out
+  Extras: 10 (b 0, lb 3, w 6, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Vaibhav Arora                 3   0   35   0   11.7
+  Mitchell Starc              3.5   0   33   4    8.6
+  Varun Chakaravarthy           4   0   22   2    5.5
+  Sunil Narine                  4   0   22   2    5.5
+  Andre Russell                 4   0   30   2    7.5
+
+  Fall of Wickets: 16-1 (Ishan Kishan, 1.4 ov), 38-2 (Naman Dhir, 4.1 ov), 46-3 (Rohit Sharma, 5.5 ov), 61-4 (Tilak Varma, 8.4 ov), 70-5 (Nehal Wadhera, 10.5 ov), 71-6 (Hardik Pandya, 11.2 ov), 120-7 (Suryakumar Yadav, 15.3 ov), 144-8 (Tim David, 18.2 ov), 144-9 (Piyush Chawla, 18.3 ov), 145-10 (Gerald Coetzee, 18.5 ov)
+
+============================================================
+  MATCH 91596 - INNINGS 1
+============================================================
+  Score: 169/10 in 19.5 overs  |  Run Rate: 8.52
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  1  L1  4  W  Wd  •  Wd  6       +14 runs  (Total: 14)  [FOUR, WICKET, over-break,SIX,HIGHSCORING_OVER]
+  Over  2:  •  1  •  1  •  •                +2 runs  (Total: 16)
+  Over  3:  6  W  4  2  •  W                +12 runs  (Total: 28)  [SIX, WICKET, FOUR, over-break,WICKET]
+  Over  4:  1  •  4  •  4  •                +9 runs  (Total: 37)  [FOUR, FOUR]
+  Over  5:  6  W  •  4  •  4                +14 runs  (Total: 51)  [SIX, WICKET, FOUR, over-break,TEAM_FIFTY,FOUR,HIGHSCORING_OVER]
+  Over  6:  1  •  •  1  4  •                +6 runs  (Total: 57)  [FOUR]
+  Over  7:  W  1  •  •  2  •                +3 runs  (Total: 60)  [WICKET]
+  Over  8:  1  1  2  1  1  2                +8 runs  (Total: 68)
+  Over  9:  1  1  •  1  •  1                +4 runs  (Total: 72)
+  Over 10:  4  1  Wd  2  1  1  1            +11 runs  (Total: 83)  [FOUR]
+  Over 11:  2  4  •  •  1  1                +8 runs  (Total: 91)  [FOUR]
+  Over 12:  1  4  2  1  1  6                +15 runs  (Total: 106)  [FOUR, TEAM_HUNDRED, over-break,SIX,HIGHSCORING_OVER]
+  Over 13:  •  •  1  •  1  1                +3 runs  (Total: 109)  [UDRS, PARTNERSHIP]
+  Over 14:  4  •  6  1  1  •                +12 runs  (Total: 121)  [FOUR, SIX]
+  Over 15:  2  1  •  2  1  1                +7 runs  (Total: 128)
+  Over 16:  1  1  N  1  1  •  •             +5 runs  (Total: 133)  [FIFTY]
+  Over 17:  6  W  Wd  6  1  6  W            +20 runs  (Total: 153)  [SIX, WICKET, UDRS, SIX, TEAM_HUNDRED,SIX, over-break,WICKET,HIGHSCORING_OVER]
+  Over 18:  2  •  •  W  •  W                +2 runs  (Total: 155)  [WICKET, over-break,WICKET]
+  Over 19:  •  Wd  •  •  6  4  1            +12 runs  (Total: 167)  [SIX, FOUR]
+  Over 20:  •  •  2  •  W                   +2 runs  (Total: 169)  [WICKET]
+
+BATTERS
+------------------------------------------------------------
+  Salt                         5 runs    3 balls  4s:0  6s:0  SR:166.67
+  Starc                        0 runs    2 balls  4s:0  6s:0  SR:0
+  Vaibhav Arora                0 runs    0 balls  4s:0  6s:0  SR:0
+  Narine                       8 runs    8 balls  4s:0  6s:0  SR:100
+  Angkrish Raghuvanshi        13 runs    6 balls  4s:0  6s:0  SR:216.67
+  Shreyas Iyer                 6 runs    4 balls  4s:0  6s:0  SR:150
+  Venkatesh Iyer              70 runs   52 balls  4s:0  6s:0  SR:134.62
+  Rinku Singh                  9 runs    8 balls  4s:0  6s:0  SR:112.5
+  Manish Pandey               42 runs   31 balls  4s:0  6s:0  SR:135.48
+  Russell                      7 runs    2 balls  4s:0  6s:0  SR:350
+  Ramandeep Singh              2 runs    4 balls  4s:0  6s:0  SR:50
+
+BOWLERS
+------------------------------------------------------------
+  N Thushara                 4 ov   42 runs  3 wkts  Econ:10.5
+  Bumrah                     3.5 ov   18 runs  3 wkts  Econ:4.7
+  Gerald Coetzee             2 ov   24 runs  0 wkts  Econ:12
+  Hardik Pandya              4 ov   44 runs  2 wkts  Econ:11
+  Naman Dhir                 3 ov   25 runs  0 wkts  Econ:8.3
+  Chawla                     3 ov   15 runs  1 wkts  Econ:5
+
+============================================================
+  MATCH 91596 - INNINGS 2
+============================================================
+  Score: 145/10 in 18.5 overs  |  Run Rate: 7.7
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  1  1  Wd  1  •  1  1            +6 runs  (Total: 6)
+  Over  2:  •  4  6  W  •  •                +10 runs  (Total: 16)  [FOUR, SIX, WICKET]
+  Over  3:  1  •  •  4  •  4                +9 runs  (Total: 25)  [FOUR, over-break,FOUR]
+  Over  4:  •  Wd3  6  1  2  •  1           +13 runs  (Total: 38)  [SIX, OTHER]
+  Over  5:  W  1  •  1  •  1                +3 runs  (Total: 41)  [WICKET]
+  Over  6:  4  1  •  •  W  •                +5 runs  (Total: 46)  [FOUR, WICKET]
+  Over  7:  1  1  •  •  •  1                +3 runs  (Total: 49)
+  Over  8:  •  2  1  •  1  1                +5 runs  (Total: 54)  [TEAM_FIFTY]
+  Over  9:  4  1  2  W  •  •                +7 runs  (Total: 61)  [FOUR, WICKET]
+  Over 10:  1  4  •  •  •  1                +6 runs  (Total: 67)  [FOUR, UDRS]
+  Over 11:  •  1  1  0  W  Wd  1            +4 runs  (Total: 71)  [WICKET]
+  Over 12:  0  W  L1  Wd  6  2  1           +11 runs  (Total: 82)  [WICKET, UDRS, SIX]
+  Over 13:  2  0  1  0  1  4                +8 runs  (Total: 90)  [over-break,FOUR]
+  Over 14:  1  0  4  6  N  4  4             +20 runs  (Total: 110)  [FOUR, TEAM_HUNDRED,SIX, FIFTY,FOUR, over-break,FOUR,HIGHSCORING_OVER]
+  Over 15:  4  0  2  1  2  •                +9 runs  (Total: 119)  [FOUR]
+  Over 16:  1  •  W  1  2  1                +5 runs  (Total: 124)  [WICKET]
+  Over 17:  1  1  •  1  •  •                +3 runs  (Total: 127)
+  Over 18:  •  L2  1  1  6  0               +11 runs  (Total: 138)  [UDRS, SIX]
+  Over 19:  6  W  W  1  W                   +7 runs  (Total: 145)  [SIX, WICKET, WICKET, WICKET]
+
+BATTERS
+------------------------------------------------------------
+  Ishan Kishan                13 runs    7 balls  4s:1  6s:1  SR:185.71
+  Piyush Chawla                0 runs    1 balls  4s:0  6s:0  SR:0
+  Jasprit Bumrah               1 runs    1 balls  4s:0  6s:0  SR:100
+  Rohit Sharma                11 runs   12 balls  4s:0  6s:1  SR:91.67
+  Naman Dhir                  11 runs   11 balls  4s:2  6s:0  SR:100
+  Suryakumar Yadav            56 runs   35 balls  4s:6  6s:2  SR:160
+  Tilak Varma                  4 runs    6 balls  4s:0  6s:0  SR:66.67
+  Nehal Wadhera                6 runs   11 balls  4s:1  6s:0  SR:54.55
+  Hardik Pandya                1 runs    3 balls  4s:0  6s:0  SR:33.33
+  Tim David                   24 runs   20 balls  4s:1  6s:1  SR:120
+  Gerald Coetzee               8 runs    7 balls  4s:0  6s:1  SR:114.29
+
+BOWLERS
+------------------------------------------------------------
+  Vaibhav Arora              3 ov   35 runs  0 wkts  Econ:11.7
+  Mitchell Starc             3.5 ov   33 runs  4 wkts  Econ:8.6
+  Varun Chakaravarthy        4 ov   22 runs  2 wkts  Econ:5.5
+  Sunil Narine               4 ov   22 runs  2 wkts  Econ:5.5
+  Andre Russell              4 ov   30 runs  2 wkts  Econ:7.5
+
+  [Win probability not available for this match]

@@ -1,0 +1,65 @@
+SCORECARD
+============================================================
+
+============================================================
+  Chennai Super Kings  223/3 (20 ov)  RR: 11.15
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  MS Dhoni                     4    3   0   0  133.33  c Karan Sharma b T Perera
+  Suresh Raina                99   52  11   3  190.38  not out
+  Ravindra Jadeja             14    6   3   0  233.33  not out
+  Murali Vijay                29   20   2   3     145  c P Patel b T Perera
+  Michael Hussey              67   42   5   4  159.52  b T Perera
+  Extras: 10 (b 0, lb 2, w 5, nb 3)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Dale Steyn                    4   1   17   0   4.25
+  Ishant Sharma                 4   0   66   0   16.5
+  Thisara Perera                4   0   45   3  11.25
+  Karn Sharma                   2   0   19   0    9.5
+  Amit Mishra                   4   0   41   0  10.25
+  Daren Sammy                   2   0   33   0   16.5
+
+  Fall of Wickets: 45-1 (Vijay, 5.2 ov), 178-2 (M Hussey, 17.2 ov), 183-3 (MS Dhoni, 17.4 ov)
+
+============================================================
+  Sunrisers Hyderabad  146/8 (20 ov)  RR: 7.3
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Parthiv Patel               44   30   6   1  146.67  c M Vijay b Mohit Sharma
+  Kumar Sangakkara             3    9   0   0   33.33  c C Morris b R Ashwin
+  Daren Sammy                  7    3   0   1  233.33  c C Morris b Mohit Sharma
+  Dale Steyn                  14   13   1   1  107.69  c J Holder b C Morris
+  Shikhar Dhawan               3    3   0   0     100  run out (M Dhoni)
+  Amit Mishra                  6    8   0   0      75  run out (R Jadeja)
+  Karn Sharma                 39   33   3   1  118.18  not out
+  Thisara Perera              23   13   1   2  176.92  c S Badrinath b DJ Bravo
+  Hanuma Vihari                3    8   0   0    37.5  c M Vijay b S Raina
+  Extras: 4 (b 0, lb 0, w 4, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Mohit Sharma                  4   0   28   2      7
+  Jason Holder                  3   0   28   0   9.33
+  Ravichandran Ashwin           4   0   23   1   5.75
+  Suresh Raina                  1   0    4   1      4
+  Chris Morris                  2   0   24   1     12
+  Dwayne Bravo                  4   0   25   1   6.25
+  Ravindra Jadeja               2   0   14   0      7
+
+  Fall of Wickets: 11-1 (Dhawan, 1.5 ov), 46-2 (Sangakkara, 5.3 ov), 55-3 (Hanuma Vihari, 7.5 ov), 62-4 (Sammy, 8.2 ov), 64-5 (Parthiv Patel, 8.6 ov), 99-6 (Thisara Perera, 12.5 ov), 110-7 (Amit Mishra, 15.2 ov), 143-8 (Steyn, 19.5 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

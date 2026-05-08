@@ -1,0 +1,63 @@
+SCORECARD
+============================================================
+
+============================================================
+  Royal Challengers Bangalore  227/4 (20 ov)  RR: 11.35
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Shane Watson                19    8   0   3   237.5  c N Ojha b Mustafizur
+  Chris Gayle                  1    4   0   0      25  b Bhuvneshwar
+  AB de Villiers              82   42   7   6  195.24  c E Morgan b Mustafizur
+  Virat Kohli                 75   51   7   3  147.06  b Bhuvneshwar
+  Kedar Jadhav                 8    6   1   0  133.33  not out
+  Sarfaraz Khan               35   10   5   2     350  not out
+  Extras: 7 (b 0, lb 2, w 4, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Ashish Nehra                2.1   0   21   0     10
+  Bhuvneshwar Kumar             4   0   55   2  13.75
+  Mustafizur Rahman             4   0   26   2    6.5
+  Moises Henriques              4   0   41   0  10.25
+  Karn Sharma                   4   0   57   0  14.25
+  Ashish Reddy                1.5   0   25   0  16.67
+
+  Fall of Wickets: 6-1 (Gayle, 1.2 ov), 163-2 (Virat Kohli, 15.5 ov), 183-3 (de Villiers, 17.2 ov), 183-4 (Shane Watson, 17.3 ov)
+
+============================================================
+  Sunrisers Hyderabad  182/6 (20 ov)  RR: 9.1
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Eoin Morgan                 22   18   2   0  122.22  not out
+  Moises Henriques            19   23   2   0   82.61  c P Rasool b Milne
+  Shikhar Dhawan               8    9   1   0   88.89  b P Rasool
+  Naman Ojha                   0    4   0   0       0  c de Villiers b Chahal
+  David Warner                58   25   4   5     232  c Milne b Watson
+  Karn Sharma                 26   17   3   1  152.94  not out
+  Ashish Reddy                32   18   2   3  177.78  b Watson
+  Deepak Hooda                 6    6   1   0     100  c de Villiers b Chahal
+  Extras: 11 (b 1, lb 1, w 9, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Adam Milne                    4   0   43   1  10.75
+  Shane Watson                  4   0   30   2    7.5
+  Parvez Rasool                 4   0   31   1   7.75
+  Harshal Patel                 4   0   33   0   8.25
+  Yuzvendra Chahal              4   0   43   2  10.75
+
+  Fall of Wickets: 35-1 (Dhawan, 3.1 ov), 86-2 (David Warner, 8.4 ov), 88-3 (Naman Ojha, 9.3 ov), 93-4 (Moises Henriques, 10.3 ov), 101-5 (Deepak Hooda, 11.3 ov), 147-6 (Ashish Reddy, 15.6 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

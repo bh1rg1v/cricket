@@ -1,0 +1,155 @@
+SCORECARD
+============================================================
+
+============================================================
+  Mumbai Indians  217/2 (20 ov)  RR: 10.85
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Rickelton                   61   38   7   3  160.53  b M Theekshana
+  Rohit                       53   36   9   0  147.22  c Yashasvi Jaiswal b Riyan Parag
+  Suryakumar Yadav            48   23   4   3   208.7  not out
+  Hardik Pandya               48   23   6   1   208.7  not out
+  Extras: 7 (b 0, lb 1, w 6, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Jofra Archer                  4   0   42   0   10.5
+  Fazalhaq Farooqi              4   0   54   0   13.5
+  M Theekshana                  4   0   47   1   11.8
+  Kumar Kartikeya               2   0   22   0     11
+  Akash Madhwal                 4   0   39   0    9.8
+  Riyan Parag                   2   0   12   1      6
+
+  Fall of Wickets: 116-1 (Rickelton, 11.5 ov), 123-2 (Rohit, 12.4 ov)
+
+============================================================
+  Rajasthan Royals  117/10 (16.1 ov)  RR: 7.24
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Yashasvi Jaiswal            13    6   0   2  216.67  b Boult
+  Vaibhav Suryavanshi          0    2   0   0       0  c Will Jacks b D Chahar
+  Nitish Rana                  9   11   2   0   81.82  c Tilak Varma b Boult
+  Riyan Parag                 16    8   3   0     200  c Rohit b Bumrah
+  Dhruv Jurel                 11   11   0   1     100  c and b Karn Sharma
+  Shimron Hetmyer              0    1   0   0       0  c Suryakumar Yadav b Bumrah
+  Shubham Dubey               15    9   2   1  166.67  c Boult b Hardik Pandya
+  Jofra Archer                30   27   2   2  111.11  c Bumrah b Boult
+  Maheesh Theekshana           2    9   0   0   22.22  c Suryakumar Yadav b Karn Sharma
+  Kumar Kartikeya              2    4   0   0      50  c D Chahar b Karn Sharma
+  Akash Madhwal                4    9   0   0   44.44  not out
+  Extras: 15 (b 0, lb 7, w 8, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Deepak Chahar                 2   0   13   1    6.5
+  Trent Boult                 2.1   0   28   3   12.9
+  Jasprit Bumrah                4   0   15   2    3.8
+  Corbin Bosch                  3   0   29   0    9.7
+  Hardik Pandya                 1   0    2   1      2
+  Karn Sharma                   4   0   23   3    5.8
+
+  Fall of Wickets: 1-1 (Vaibhav Suryavanshi, 0.4 ov), 18-2 (Yashasvi Jaiswal, 1.4 ov), 41-3 (Nitish Rana, 3.6 ov), 47-4 (Riyan Parag, 4.4 ov), 47-5 (Shimron Hetmyer, 4.5 ov), 64-6 (Shubham Dubey, 7.1 ov), 76-7 (Dhruv Jurel, 8.6 ov), 87-8 (Maheesh Theekshana, 11.1 ov), 91-9 (Kumar Kartikeya, 11.5 ov), 117-10 (Jofra Archer, 16.1 ov)
+
+============================================================
+  MATCH 115291 - INNINGS 1
+============================================================
+  Score: 217/2 in 20 overs  |  Run Rate: 10.85
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  1  •  •  1  •                +2 runs  (Total: 2)
+  Over  2:  •  Wd  2  •  4  0  •            +7 runs  (Total: 9)  [FOUR, UDRS]
+  Over  3:  1  1  •  •  1  4                +7 runs  (Total: 16)  [over-break,FOUR]
+  Over  4:  •  6  4  1  •  •                +11 runs  (Total: 27)  [SIX, FOUR]
+  Over  5:  1  4  1  2  4  6                +18 runs  (Total: 45)  [FOUR, FOUR, over-break,SIX,HIGHSCORING_OVER]
+  Over  6:  4  4  1  4  •  •                +13 runs  (Total: 58)  [FOUR, TEAM_FIFTY,PARTNERSHIP,FOUR, FOUR]
+  Over  7:  •  1  •  4  •  1                +6 runs  (Total: 64)  [FOUR]
+  Over  8:  1  1  4  4  •  •                +10 runs  (Total: 74)  [FOUR, FOUR]
+  Over  9:  4  4  1  •  6  1                +16 runs  (Total: 90)  [FOUR, FOUR, FIFTY,SIX, over-break,HIGHSCORING_OVER]
+  Over 10:  •  Wd  2  1  •  4  1            +9 runs  (Total: 99)  [FOUR]
+  Over 11:  1  1  2  1  •  4                +9 runs  (Total: 108)  [TEAM_HUNDRED,PARTNERSHIP, over-break,FOUR]
+  Over 12:  4  1  1  Wd  1  W  4            +12 runs  (Total: 120)  [FIFTY,FOUR, WICKET, over-break,FOUR]
+  Over 13:  1  1  Wd  •  W  •  •            +3 runs  (Total: 123)  [WICKET]
+  Over 14:  2  1  4  1  4  4                +16 runs  (Total: 139)  [FOUR, FOUR, over-break,FOUR,HIGHSCORING_OVER]
+  Over 15:  1  1  2  1  1  1                +7 runs  (Total: 146)
+  Over 16:  4  1  Wd  •  1  1  Wd  6        +15 runs  (Total: 161)  [TEAM_HUNDRED,FOUR, over-break,SIX,HIGHSCORING_OVER]
+  Over 17:  2  2  1  2  6  1                +14 runs  (Total: 175)  [SIX,PARTNERSHIP, over-break,HIGHSCORING_OVER]
+  Over 18:  L1  4  6  2  4  4               +21 runs  (Total: 196)  [FOUR, SIX, FOUR, over-break,FOUR,HIGHSCORING_OVER]
+  Over 19:  •  4  2  •  1  1                +8 runs  (Total: 204)  [TEAM_HUNDRED,FOUR]
+  Over 20:  1  •  1  4  1  6                +13 runs  (Total: 217)  [FOUR, over-break,SIX]
+
+BATTERS
+------------------------------------------------------------
+  Rickelton                   61 runs   38 balls  4s:0  6s:0  SR:160.53
+  Rohit                       53 runs   36 balls  4s:0  6s:0  SR:147.22
+  Suryakumar Yadav            48 runs   23 balls  4s:0  6s:0  SR:208.7
+  Hardik Pandya               48 runs   23 balls  4s:0  6s:0  SR:208.7
+
+BOWLERS
+------------------------------------------------------------
+  Jofra Archer               4 ov   42 runs  0 wkts  Econ:10.5
+  Fazalhaq Farooqi           4 ov   54 runs  0 wkts  Econ:13.5
+  M Theekshana               4 ov   47 runs  1 wkts  Econ:11.8
+  Kumar Kartikeya            2 ov   22 runs  0 wkts  Econ:11
+  Akash Madhwal              4 ov   39 runs  0 wkts  Econ:9.8
+  Riyan Parag                2 ov   12 runs  1 wkts  Econ:6
+
+============================================================
+  MATCH 115291 - INNINGS 2
+============================================================
+  Score: 117/10 in 16.1 overs  |  Run Rate: 7.24
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  1  •  W  •  Wd5  •           +6 runs  (Total: 6)  [WICKET]
+  Over  2:  6  •  6  W  1  1                +14 runs  (Total: 20)  [SIX, SIX, WICKET, over-break,HIGHSCORING_OVER]
+  Over  3:  •  1  Wd2  •  •  •  4           +7 runs  (Total: 27)  [DROPPED, over-break,FOUR]
+  Over  4:  4  4  1  •  4  W  Wd            +14 runs  (Total: 41)  [FOUR, FOUR, FOUR, over-break,WICKET,HIGHSCORING_OVER]
+  Over  5:  1  1  4  W  W  4                +10 runs  (Total: 51)  [FOUR, WICKET, WICKET, over-break,TEAM_FIFTY,FOUR]
+  Over  6:  L1  4  •  •  6  •               +11 runs  (Total: 62)  [FOUR, SIX]
+  Over  7:  •  1  •  1  •  •                +2 runs  (Total: 64)  [over-break,UDRS]
+  Over  8:  W  •  •  •  1  1                +2 runs  (Total: 66)  [WICKET]
+  Over  9:  1  1  6  1  1  W                +10 runs  (Total: 76)  [SIX, over-break,WICKET]
+  Over 10:  •  •  4  1  •  1                +6 runs  (Total: 82)  [UDRS, FOUR]
+  Over 11:  •  •  •  L4  •  1               +5 runs  (Total: 87)  [FOUR, over-break,DROPPED]
+  Over 12:  W  •  2  L2  W  •               +4 runs  (Total: 91)  [WICKET, WICKET]
+  Over 13:  •  6  6  •  1  •                +13 runs  (Total: 104)  [SIX, TEAM_HUNDRED,SIX]
+  Over 14:  •  1  1  4  1  •                +7 runs  (Total: 111)  [DROPPED, FOUR]
+  Over 15:  1  1  •  •  •  •                +2 runs  (Total: 113)
+  Over 16:  •  •  1  1  1  1                +4 runs  (Total: 117)
+  Over 17:  W                               +0 runs  (Total: 117)  [WICKET]
+
+BATTERS
+------------------------------------------------------------
+  Yashasvi Jaiswal            13 runs    6 balls  4s:0  6s:2  SR:216.67
+  Kumar Kartikeya              2 runs    4 balls  4s:0  6s:0  SR:50
+  Akash Madhwal                4 runs    9 balls  4s:0  6s:0  SR:44.44
+  Vaibhav Suryavanshi          0 runs    2 balls  4s:0  6s:0  SR:0
+  Nitish Rana                  9 runs   11 balls  4s:2  6s:0  SR:81.82
+  Riyan Parag                 16 runs    8 balls  4s:3  6s:0  SR:200
+  Dhruv Jurel                 11 runs   11 balls  4s:0  6s:1  SR:100
+  Shimron Hetmyer              0 runs    1 balls  4s:0  6s:0  SR:0
+  Shubham Dubey               15 runs    9 balls  4s:2  6s:1  SR:166.67
+  Jofra Archer                30 runs   27 balls  4s:2  6s:2  SR:111.11
+  Maheesh Theekshana           2 runs    9 balls  4s:0  6s:0  SR:22.22
+
+BOWLERS
+------------------------------------------------------------
+  Deepak Chahar              2 ov   13 runs  1 wkts  Econ:6.5
+  Trent Boult                2.1 ov   28 runs  3 wkts  Econ:12.9
+  Jasprit Bumrah             4 ov   15 runs  2 wkts  Econ:3.8
+  Corbin Bosch               3 ov   29 runs  0 wkts  Econ:9.7
+  Hardik Pandya              1 ov    2 runs  1 wkts  Econ:2
+  Karn Sharma                4 ov   23 runs  3 wkts  Econ:5.8
+
+  [Win probability not available for this match]

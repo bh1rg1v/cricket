@@ -1,0 +1,159 @@
+SCORECARD
+============================================================
+
+============================================================
+  Royal Challengers Bangalore  138/7 (20 ov)  RR: 6.9
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Devdutt Padikkal            21   18   2   0  116.67  b Lockie Ferguson
+  Kohli                       39   33   5   0  118.18  b Narine
+  Srikar Bharat                9   16   0   0   56.25  c Venkatesh Iyer b Narine
+  Maxwell                     15   18   1   0   83.33  c Lockie Ferguson b Narine
+  de Villiers                 11    9   1   0  122.22  b Narine
+  Shahbaz Ahmed               13   14   1   0   92.86  c Shivam Mavi b Lockie Ferguson
+  Christian                    9    8   1   0   112.5  run out (Lockie Ferguson/Shivam Mavi)
+  Harshal Patel                8    6   1   0  133.33  not out
+  Extras: 13 (b 1, lb 6, w 4, nb 2)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Shakib                        4   0   24   0      6
+  Shivam Mavi                   4   0   36   0      9
+  Chakaravarthy                 4   0   20   0      5
+  Lockie Ferguson               4   0   30   2    7.5
+  Narine                        4   0   21   4    5.2
+
+  Fall of Wickets: 49-1 (Devdutt Padikkal, 5.1 ov), 69-2 (Srikar Bharat, 9.4 ov), 88-3 (Kohli, 12.2 ov), 102-4 (de Villiers, 14.2 ov), 112-5 (Maxwell, 16.4 ov), 126-6 (Shahbaz Ahmed, 18.6 ov), 134-7 (Christian, 19.4 ov)
+
+============================================================
+  Kolkata Knight Riders  139/6 (19.4 ov)  RR: 7.07
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Shubman Gill                29   18   4   0  161.11  c de Villiers b Harshal Patel
+  Venkatesh Iyer              26   30   0   1   86.67  c Srikar Bharat b Harshal Patel
+  Rahul Tripathi               6    5   1   0     120  lbw b Chahal
+  Nitish Rana                 23   25   1   1      92  c de Villiers b Chahal
+  Sunil Narine                26   15   0   3  173.33  b Siraj
+  Dinesh Karthik              10   12   1   0   83.33  c Srikar Bharat b Siraj
+  Eoin Morgan                  5    7   0   0   71.43  not out
+  Shakib Al Hasan              9    6   1   0     150  not out
+  Extras: 5 (b 0, lb 2, w 3, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Mohammed Siraj                4   0   19   2    4.8
+  George Garton                 3   0   29   0    9.7
+  Harshal Patel                 4   0   19   2    4.8
+  Yuzvendra Chahal              4   0   16   2      4
+  Glenn Maxwell                 3   0   25   0    8.3
+  Daniel Christian            1.4   0   29   0   17.4
+
+  Fall of Wickets: 41-1 (Shubman Gill, 5.2 ov), 53-2 (Rahul Tripathi, 6.6 ov), 79-3 (Venkatesh Iyer, 10.6 ov), 110-4 (Nitish Rana, 14.2 ov), 125-5 (Sunil Narine, 17.2 ov), 126-6 (Dinesh Karthik, 17.4 ov)
+
+============================================================
+  MATCH 37671 - INNINGS 1
+============================================================
+  Score: 138/7 in 20 overs  |  Run Rate: 6.9
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  1  1  1  •  •  4                +7 runs  (Total: 7)  [over-break,FOUR]
+  Over  2:  •  •  1  •  •  4  N4            +10 runs  (Total: 17)  [over-break,FOUR, FOUR]
+  Over  3:  1  1  2  1  1  1                +7 runs  (Total: 24)
+  Over  4:  4  •  1  1  4  2                +12 runs  (Total: 36)  [FOUR, FOUR]
+  Over  5:  4  1  L4  1  Wd  1  1           +13 runs  (Total: 49)  [FOUR, FOUR]
+  Over  6:  W  •  1  1  1  1                +4 runs  (Total: 53)  [WICKET, TEAM_FIFTY]
+  Over  7:  1  1  •  1  •  1                +4 runs  (Total: 57)
+  Over  8:  1  1  L1  1  •  1               +5 runs  (Total: 62)
+  Over  9:  •  1  1  •  1  1                +4 runs  (Total: 66)
+  Over 10:  1  1  1  W  1  •                +4 runs  (Total: 70)  [WICKET]
+  Over 11:  1  1  4  1  1  1                +9 runs  (Total: 79)  [FOUR]
+  Over 12:  L1  Wd  •  1  1  •  4           +8 runs  (Total: 87)  [over-break,FOUR]
+  Over 13:  1  W  1  1  •  4                +7 runs  (Total: 94)  [WICKET, over-break,FOUR]
+  Over 14:  1  1  1  2  •  1                +6 runs  (Total: 100)  [over-break,TEAM_HUNDRED]
+  Over 15:  2  W  4  Wd  1  •  •            +8 runs  (Total: 108)  [WICKET, FOUR]
+  Over 16:  •  •  •  1  •  2                +3 runs  (Total: 111)  [UDRS]
+  Over 17:  1  •  •  W  •  1                +2 runs  (Total: 113)  [DROPPED, WICKET]
+  Over 18:  1  •  1  1  1  2                +6 runs  (Total: 119)
+  Over 19:  •  4  1  1  1  W                +7 runs  (Total: 126)  [FOUR, over-break,WICKET]
+  Over 20:  1  4  N1  •  W1  2  Wd  B1      +12 runs  (Total: 138)  [FOUR, UDRS, WICKET]
+
+BATTERS
+------------------------------------------------------------
+  Devdutt Padikkal            21 runs   18 balls  4s:0  6s:0  SR:116.67
+  Kohli                       39 runs   33 balls  4s:0  6s:0  SR:118.18
+  Srikar Bharat                9 runs   16 balls  4s:0  6s:0  SR:56.25
+  Maxwell                     15 runs   18 balls  4s:0  6s:0  SR:83.33
+  de Villiers                 11 runs    9 balls  4s:0  6s:0  SR:122.22
+  Shahbaz Ahmed               13 runs   14 balls  4s:0  6s:0  SR:92.86
+  Christian                    9 runs    8 balls  4s:0  6s:0  SR:112.5
+  Harshal Patel                8 runs    6 balls  4s:0  6s:0  SR:133.33
+  George Garton                0 runs    0 balls  4s:0  6s:0  SR:0
+
+BOWLERS
+------------------------------------------------------------
+  Shakib                     4 ov   24 runs  0 wkts  Econ:6
+  Shivam Mavi                4 ov   36 runs  0 wkts  Econ:9
+  Chakaravarthy              4 ov   20 runs  0 wkts  Econ:5
+  Lockie Ferguson            4 ov   30 runs  2 wkts  Econ:7.5
+  Narine                     4 ov   21 runs  4 wkts  Econ:5.2
+
+============================================================
+  MATCH 37671 - INNINGS 2
+============================================================
+  Score: 139/6 in 19.4 overs  |  Run Rate: 7.07
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  1  1  4  •  1  •                +7 runs  (Total: 7)  [FOUR]
+  Over  2:  1  1  1  •  •  6                +9 runs  (Total: 16)  [over-break,SIX]
+  Over  3:  •  1  1  1  •  •                +3 runs  (Total: 19)
+  Over  4:  4  4  4  1  1  1                +15 runs  (Total: 34)  [FOUR, FOUR, FOUR, over-break,HIGHSCORING_OVER]
+  Over  5:  2  1  •  •  1  2                +6 runs  (Total: 40)
+  Over  6:  1  W  2  1  •  4                +8 runs  (Total: 48)  [WICKET, over-break,FOUR]
+  Over  7:  1  1  1  1  1  W                +5 runs  (Total: 53)  [TEAM_FIFTY, over-break,WICKET,UDRS]
+  Over  8:  1  •  1  •  1  1                +4 runs  (Total: 57)
+  Over  9:  1  1  1  1  •  •                +4 runs  (Total: 61)
+  Over 10:  1  6  1  1  •  4                +13 runs  (Total: 74)  [SIX, DROPPED, over-break,FOUR]
+  Over 11:  1  1  1  1  Wd  •  W            +5 runs  (Total: 79)  [over-break,WICKET]
+  Over 12:  •  1  6  6  6  Wd  1  Wd        +22 runs  (Total: 101)  [SIX, SIX, SIX, over-break,HIGHSCORING_OVER, TEAM_HUNDRED]
+  Over 13:  L1  1  1  1  1  1               +6 runs  (Total: 107)
+  Over 14:  •  •  1  1  •  1                +3 runs  (Total: 110)
+  Over 15:  •  W  1  •  •  1                +2 runs  (Total: 112)  [WICKET]
+  Over 16:  4  •  1  1  1  1                +8 runs  (Total: 120)  [FOUR]
+  Over 17:  1  1  •  L1  •  1               +4 runs  (Total: 124)  [DROPPED]
+  Over 18:  1  W  1  W  1  •                +3 runs  (Total: 127)  [WICKET, WICKET]
+  Over 19:  1  2  •  1  1  •                +5 runs  (Total: 132)
+  Over 20:  4  1  1  1                      +7 runs  (Total: 139)  [FOUR]
+
+BATTERS
+------------------------------------------------------------
+  Shubman Gill                29 runs   18 balls  4s:4  6s:0  SR:161.11
+  Venkatesh Iyer              26 runs   30 balls  4s:0  6s:1  SR:86.67
+  Rahul Tripathi               6 runs    5 balls  4s:1  6s:0  SR:120
+  Nitish Rana                 23 runs   25 balls  4s:1  6s:1  SR:92
+  Sunil Narine                26 runs   15 balls  4s:0  6s:3  SR:173.33
+  Dinesh Karthik              10 runs   12 balls  4s:1  6s:0  SR:83.33
+  Eoin Morgan                  5 runs    7 balls  4s:0  6s:0  SR:71.43
+  Shakib Al Hasan              9 runs    6 balls  4s:1  6s:0  SR:150
+
+BOWLERS
+------------------------------------------------------------
+  Mohammed Siraj             4 ov   19 runs  2 wkts  Econ:4.8
+  George Garton              3 ov   29 runs  0 wkts  Econ:9.7
+  Harshal Patel              4 ov   19 runs  2 wkts  Econ:4.8
+  Yuzvendra Chahal           4 ov   16 runs  2 wkts  Econ:4
+  Glenn Maxwell              3 ov   25 runs  0 wkts  Econ:8.3
+  Daniel Christian           1.4 ov   29 runs  0 wkts  Econ:17.4
+
+  [Win probability not available for this match]

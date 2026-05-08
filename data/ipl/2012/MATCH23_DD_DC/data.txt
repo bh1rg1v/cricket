@@ -1,0 +1,67 @@
+SCORECARD
+============================================================
+
+============================================================
+  Deccan Chargers  157/8 (20 ov)  RR: 7.85
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Parthiv Patel               45   27   5   1  166.67  c M Jayawardene b S Nadeem
+  Kumar Sangakkara             1    7   0   0   14.29  c Y Nagar b M Morkel
+  Jean-Paul Duminy             4    5   0   0      80  c V Sehwag b S Nadeem
+  Dale Steyn                   2    3   0   0   66.67  c V Sehwag b M Morkel
+  Shikhar Dhawan              44   29   5   1  151.72  lbw b S Nadeem
+  Amit Mishra                  6    6   0   0     100  run out (K Pietersen/N Ojha)
+  Bharath Chipli              25   17   3   1  147.06  not out
+  Daniel Christian            19   21   1   0   90.48  c S Nadeem b U Yadav
+  Abhishek Jhunjhunwala        4    5   1   0      80  c N Ojha b M Morkel
+  Ankit Sharma                 1    1   0   0     100  not out
+  Extras: 6 (b 0, lb 0, w 5, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Irfan Pathan                  4   0   27   0   6.75
+  Kevin Pietersen               2   0   16   0      8
+  Morne Morkel                  4   0   23   3   5.75
+  Ajit Agarkar                  3   0   42   0     14
+  Umesh Yadav                   3   0   33   1     11
+  Shahbaz Nadeem                4   0   16   3      4
+
+  Fall of Wickets: 10-1 (Sangakkara, 2.2 ov), 81-2 (Dhawan, 9.1 ov), 106-3 (Parthiv Patel, 11.6 ov), 113-4 (Duminy, 13.4 ov), 125-5 (Christian, 16.1 ov), 132-6 (A Jhunjhunwala, 17.2 ov), 134-7 (Steyn, 17.5 ov), 156-8 (Amit Mishra, 19.5 ov)
+
+============================================================
+  Delhi Daredevils  162/5 (19.1 ov)  RR: 8.48
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Virender Sehwag              7    5   1   0     140  c D Christian b D Steyn
+  Irfan Pathan                 5   11   0   0   45.45  c P Patel b D Steyn
+  Mahela Jayawardene           6    5   1   0     120  c K Sangakkara b D Christian
+  Kevin Pietersen            103   64   6   9  160.94  not out
+  Ross Taylor                 13   11   1   0  118.18  run out (S Dhawan)
+  Naman Ojha                   1    4   0   0      25  c J Duminy b Pratap Singh
+  Yogesh Nagar                23   15   3   0  153.33  not out
+  Extras: 4 (b 0, lb 0, w 4, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Veer Pratap Singh             4   0   31   1   7.75
+  Dale Steyn                    4   0   19   2   4.75
+  Daniel Christian              4   0   35   1   8.75
+  Jean-Paul Duminy              3   0   33   0     11
+  Amit Mishra                   2   0   26   0     13
+  Ankit Sharma                2.1   0   18   0   8.57
+
+  Fall of Wickets: 2-1 (Naman Ojha, 0.5 ov), 15-2 (Sehwag, 3.2 ov), 23-3 (Mahela, 4.3 ov), 65-4 (Ross Taylor, 9.4 ov), 114-5 (Irfan Pathan, 14.4 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

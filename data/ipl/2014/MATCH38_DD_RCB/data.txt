@@ -1,0 +1,63 @@
+SCORECARD
+============================================================
+
+============================================================
+  Royal Challengers Bangalore  186/4 (20 ov)  RR: 9.3
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Yuvraj Singh                68   29   1   9  234.48  not out
+  Parthiv Patel               29   28   4   0  103.57  c D Karthik b Shami
+  Chris Gayle                 22   23   1   2   95.65  b Rahul Shukla
+  AB de Villiers              33   17   4   1  194.12  b S Kaul
+  Virat Kohli                 10   11   0   0   90.91  run out (Rahul Shukla/de Kock)
+  Sachin Rana                 15   14   1   0  107.14  not out
+  Extras: 9 (b 0, lb 4, w 3, nb 2)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Jean-Paul Duminy              4   0   25   0   6.25
+  Mohammed Shami                4   0   31   1   7.75
+  Siddarth Kaul                 4   0   37   1   9.25
+  Rahul Shukla                  4   0   41   1  10.25
+  Imran Tahir                   4   0   48   0     12
+
+  Fall of Wickets: 33-1 (Gayle, 5.3 ov), 45-2 (Virat Kohli, 8.1 ov), 94-3 (Parthiv Patel, 12.3 ov), 107-4 (de Villiers, 14.2 ov)
+
+============================================================
+  Delhi Daredevils  170/7 (20 ov)  RR: 8.5
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Dinesh Karthik               1    2   0   0      50  c Chahal b Muralitharan
+  Jean-Paul Duminy            48   30   3   3     160  b M Starc
+  Kevin Pietersen             33   29   2   1  113.79  st Parthiv Patel b Chahal
+  Murali Vijay                 1    3   0   0   33.33  lbw b Muralitharan
+  Kedar Jadhav                37   20   3   2     185  run out (Parthiv Patel)
+  Mayank Agarwal              31   25   2   2     124  c Sachin Rana b Abu Nechim
+  Mohammed Shami               1    1   0   0     100  not out
+  Rahul Shukla                 2    6   0   0   33.33  not out
+  Quinton de Kock              6    6   1   0     100  b M Starc
+  Extras: 10 (b 4, lb 2, w 2, nb 2)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Muthiah Muralidaran           4   0   25   2   6.25
+  Mitchell Starc                4   0   26   2    6.5
+  Abu Nechim                    4   0   40   1     10
+  Yuzvendra Chahal              4   0   45   1  11.25
+  Yuvraj Singh                  4   0   28   0      7
+
+  Fall of Wickets: 2-1 (Vijay, 0.4 ov), 10-2 (Quinton de Kock, 1.6 ov), 73-3 (Mayank Agarwal, 9.2 ov), 97-4 (Pietersen, 11.6 ov), 102-5 (Karthik, 12.6 ov), 147-6 (Duminy, 17.4 ov), 168-7 (Kedar Jadhav, 19.4 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

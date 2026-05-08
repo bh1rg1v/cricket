@@ -1,0 +1,155 @@
+SCORECARD
+============================================================
+
+============================================================
+  Sunrisers Hyderabad  152/8 (20 ov)  RR: 7.6
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Abhishek Sharma             18   16   4   0   112.5  c Rahul Tewatia b Siraj
+  Head                         8    5   2   0     160  c Sai Sudharsan b Siraj
+  Ishan Kishan                17   14   2   0  121.43  c Ishant b Prasidh
+  Nitish Reddy                31   34   3   0   91.18  c Rashid Khan b Sai Kishore
+  Klaasen                     27   19   2   1  142.11  b Sai Kishore
+  Aniket Verma                18   14   2   0  128.57  lbw b Siraj
+  Kamindu Mendis               1    5   0   0      20  c Sai Sudharsan b Prasidh
+  Cummins                     22    9   3   1  244.44  not out
+  Simarjeet Singh              0    2   0   0       0  b Siraj
+  Shami                        6    2   1   0     300  not out
+  Extras: 4 (b 0, lb 2, w 2, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Siraj                         4   0   17   4    4.2
+  Ishant                        4   0   53   0   13.2
+  Prasidh                       4   0   25   2    6.2
+  Rashid Khan                   4   0   31   0    7.8
+  Sai Kishore                   4   0   24   2      6
+
+  Fall of Wickets: 9-1 (Head, 0.6 ov), 38-2 (Abhishek Sharma, 4.4 ov), 50-3 (Ishan Kishan, 7.2 ov), 100-4 (Klaasen, 13.5 ov), 105-5 (Nitish Reddy, 15.1 ov), 120-6 (Kamindu Mendis, 16.6 ov), 135-7 (Aniket Verma, 18.4 ov), 135-8 (Simarjeet Singh, 18.6 ov)
+
+============================================================
+  Gujarat Titans  153/3 (16.4 ov)  RR: 9.18
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Sai Sudharsan                5    9   0   0   55.56  c Aniket Verma b Shami
+  Shubman Gill                61   43   9   0  141.86  not out
+  Jos Buttler                  0    3   0   0       0  c Klaasen b Cummins
+  Washington Sundar           49   29   5   2  168.97  c Aniket Verma b Shami
+  Sherfane Rutherford         35   16   6   1  218.75  not out
+  Extras: 3 (b 0, lb 0, w 3, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Mohammed Shami                4   0   28   2      7
+  Pat Cummins                 3.4   0   26   1    7.1
+  Simarjeet Singh               1   0   20   0     20
+  Jaydev Unadkat                2   0   16   0      8
+  Zeeshan Ansari                4   0   33   0    8.2
+  Kamindu Mendis                1   0   12   0     12
+  Abhishek Sharma               1   0   18   0     18
+
+  Fall of Wickets: 15-1 (Sai Sudharsan, 2.5 ov), 16-2 (Jos Buttler, 3.5 ov), 106-3 (Washington Sundar, 13.1 ov)
+
+============================================================
+  MATCH 115093 - INNINGS 1
+============================================================
+  Score: 152/8 in 20 overs  |  Run Rate: 7.6
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  1  4  •  4  •  W                +9 runs  (Total: 9)  [FOUR, FOUR, over-break,WICKET]
+  Over  2:  •  4  4  •  1  2                +11 runs  (Total: 20)  [FOUR, FOUR]
+  Over  3:  •  •  •  •  •  4                +4 runs  (Total: 24)  [over-break,FOUR]
+  Over  4:  •  •  4  4  1  4                +13 runs  (Total: 37)  [FOUR, FOUR, over-break,FOUR]
+  Over  5:  1  •  •  W  •  0                +1 runs  (Total: 38)  [WICKET]
+  Over  6:  1  •  Wd  1  1  1  1  Wd        +7 runs  (Total: 45)  [UDRS]
+  Over  7:  •  1  1  1  •  1                +4 runs  (Total: 49)
+  Over  8:  1  W  1  1  •  •                +3 runs  (Total: 52)  [TEAM_FIFTY, WICKET]
+  Over  9:  1  3  1  •  1  •                +6 runs  (Total: 58)
+  Over 10:  1  1  1  1  1  1                +6 runs  (Total: 64)
+  Over 11:  4  •  4  •  •  1                +9 runs  (Total: 73)  [FOUR, FOUR]
+  Over 12:  1  1  •  1  1  •                +4 runs  (Total: 77)
+  Over 13:  4  1  1  6  •  •                +12 runs  (Total: 89)  [FOUR, SIX]
+  Over 14:  4  1  4  2  W  1                +12 runs  (Total: 101)  [FOUR, FOUR, TEAM_HUNDRED,PARTNERSHIP, WICKET]
+  Over 15:  1  2  •  •  1  •                +4 runs  (Total: 105)
+  Over 16:  W  L1  •  1  •  1               +3 runs  (Total: 108)  [WICKET]
+  Over 17:  4  4  4  4  1  W                +12 runs  (Total: 120)  [FOUR, FOUR, over-break,WICKET]
+  Over 18:  1  4  1  1  4  1                +12 runs  (Total: 132)  [FOUR, FOUR]
+  Over 19:  1  2  •  W  •  W                +3 runs  (Total: 135)  [UDRS, WICKET,UDRS, over-break,WICKET]
+  Over 20:  4  6  •  1  4  2                +17 runs  (Total: 152)  [FOUR, SIX, TEAM_HUNDRED,FOUR, over-break,HIGHSCORING_OVER]
+
+BATTERS
+------------------------------------------------------------
+  Abhishek Sharma             18 runs   16 balls  4s:0  6s:0  SR:112.5
+  Shami                        6 runs    2 balls  4s:0  6s:0  SR:300
+  Head                         8 runs    5 balls  4s:0  6s:0  SR:160
+  Ishan Kishan                17 runs   14 balls  4s:0  6s:0  SR:121.43
+  Nitish Reddy                31 runs   34 balls  4s:0  6s:0  SR:91.18
+  Klaasen                     27 runs   19 balls  4s:0  6s:0  SR:142.11
+  Aniket Verma                18 runs   14 balls  4s:0  6s:0  SR:128.57
+  Kamindu Mendis               1 runs    5 balls  4s:0  6s:0  SR:20
+  Cummins                     22 runs    9 balls  4s:0  6s:0  SR:244.44
+  Simarjeet Singh              0 runs    2 balls  4s:0  6s:0  SR:0
+
+BOWLERS
+------------------------------------------------------------
+  Siraj                      4 ov   17 runs  4 wkts  Econ:4.2
+  Ishant                     4 ov   53 runs  0 wkts  Econ:13.2
+  Prasidh                    4 ov   25 runs  2 wkts  Econ:6.2
+  Rashid Khan                4 ov   31 runs  0 wkts  Econ:7.8
+  Sai Kishore                4 ov   24 runs  2 wkts  Econ:6
+
+============================================================
+  MATCH 115093 - INNINGS 2
+============================================================
+  Score: 153/3 in 16.4 overs  |  Run Rate: 9.18
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  1  •  •  1  •  Wd  1            +4 runs  (Total: 4)
+  Over  2:  •  1  1  •  1  1                +4 runs  (Total: 8)
+  Over  3:  1  1  4  1  W  •                +7 runs  (Total: 15)  [FOUR, WICKET]
+  Over  4:  •  •  1  •  W  1                +2 runs  (Total: 17)  [WICKET]
+  Over  5:  1  •  1  1  4  4                +11 runs  (Total: 28)  [FOUR, over-break,FOUR]
+  Over  6:  4  4  •  6  •  6                +20 runs  (Total: 48)  [FOUR, FOUR, SIX, over-break,SIX,HIGHSCORING_OVER]
+  Over  7:  •  1  4  1  1  1                +8 runs  (Total: 56)  [TEAM_FIFTY,FOUR]
+  Over  8:  1  4  1  •  1  1                +8 runs  (Total: 64)  [FOUR]
+  Over  9:  •  4  2  1  4  1                +12 runs  (Total: 76)  [FOUR,PARTNERSHIP, FOUR]
+  Over 10:  1  •  1  2  1  1                +6 runs  (Total: 82)
+  Over 11:  2  •  1  •  1  4                +8 runs  (Total: 90)  [over-break,FOUR]
+  Over 12:  1  1  1  1  •  4                +8 runs  (Total: 98)  [over-break,FOUR]
+  Over 13:  1  1  4  •  1  1                +8 runs  (Total: 106)  [TEAM_HUNDRED, FIFTY,FOUR]
+  Over 14:  W  •  4  Wd  •  •  1            +6 runs  (Total: 112)  [WICKET, FOUR]
+  Over 15:  4  4  4  4  Wd  •  1            +18 runs  (Total: 130)  [FOUR, FOUR, FOUR, FOUR, over-break,HIGHSCORING_OVER]
+  Over 16:  1  •  4  4  1  1                +11 runs  (Total: 141)  [FOUR, FOUR]
+  Over 17:  6  4  1  1                      +12 runs  (Total: 153)  [SIX, TEAM_HUNDRED,FOUR]
+
+BATTERS
+------------------------------------------------------------
+  Sai Sudharsan                5 runs    9 balls  4s:0  6s:0  SR:55.56
+  Shubman Gill                61 runs   43 balls  4s:9  6s:0  SR:141.86
+  Jos Buttler                  0 runs    3 balls  4s:0  6s:0  SR:0
+  Washington Sundar           49 runs   29 balls  4s:5  6s:2  SR:168.97
+  Sherfane Rutherford         35 runs   16 balls  4s:6  6s:1  SR:218.75
+
+BOWLERS
+------------------------------------------------------------
+  Mohammed Shami             4 ov   28 runs  2 wkts  Econ:7
+  Pat Cummins                3.4 ov   26 runs  1 wkts  Econ:7.1
+  Simarjeet Singh            1 ov   20 runs  0 wkts  Econ:20
+  Jaydev Unadkat             2 ov   16 runs  0 wkts  Econ:8
+  Zeeshan Ansari             4 ov   33 runs  0 wkts  Econ:8.2
+  Kamindu Mendis             1 ov   12 runs  0 wkts  Econ:12
+  Abhishek Sharma            1 ov   18 runs  0 wkts  Econ:18
+
+  [Win probability not available for this match]

@@ -1,0 +1,65 @@
+SCORECARD
+============================================================
+
+============================================================
+  Kolkata Knight Riders  183/5 (20 ov)  RR: 9.15
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Sourav Ganguly              50   40   6   1     125  c Chawla b Pathan
+  Chris Gayle                 14   12   3   0  116.67  c Bisla b Srivastava
+  David Hussey                 3    5   0   0      60  b Chawla
+  Manoj Tiwary                75   47   8   2  159.57  not out
+  Angelo Mathews              19   11   2   0  172.73  c Lee b Pathan
+  Mandeep Singh                4    7   1   0   57.14  c Lee b Srivastava
+  Extras: 18 (b 8, lb 0, w 8, nb 2)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Brett Lee                     4   0   39   0   9.75
+  Irfan Pathan                  4   0   42   2   10.5
+  Shalabh Srivastava            3   0   23   2   7.67
+  Vikramjeet Singh Malik        3   0   18   0      6
+  Piyush Chawla                 4   0   35   1   8.75
+  Ravi Bopara                   2   0   18   0      9
+
+  Fall of Wickets: 28-1 (Gayle, 2.5 ov), 45-2 (Mandeep, 4.6 ov), 124-3 (S Ganguly, 14.3 ov), 130-4 (David Hussey, 15.6 ov), 163-5 (Mathews, 19.2 ov)
+
+============================================================
+  Kings XI Punjab  144/6 (20 ov)  RR: 7.2
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Brett Lee                    7    5   1   0     140  not out
+  Yuvraj Singh                24   16   3   1     150  c Tiwary b Agarkar
+  Irfan Pathan                22   14   1   1  157.14  c &amp; b Bond
+  Mahela Jayawardene          16   15   1   0  106.67  b Mathews
+  Kumar Sangakkara            30   27   3   0  111.11  st Saha b Gayle
+  Ravi Bopara                  0    2   0   0       0  lbw b Bond
+  Karan Goel                  17   17   1   1     100  not out
+  Manvinder Bisla             22   24   3   0   91.67  c Hussey b Agarkar
+  Extras: 6 (b 1, lb 0, w 5, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Shane Bond                    4   0   24   2      6
+  Ashok Dinda                   2   0   19   0    9.5
+  Chris Gayle                   3   0   23   1   7.67
+  Ajit Agarkar                  4   0   32   2      8
+  Iqbal Abdulla                 2   0   12   0      6
+  Angelo Mathews                4   0   26   1    6.5
+  David Hussey                  1   0    7   0      7
+
+  Fall of Wickets: 0-1 (Bopara, 0.2 ov), 41-2 (Yuvraj, 5.4 ov), 54-3 (Bisla, 7.3 ov), 92-4 (Mahela, 13.4 ov), 98-5 (Sangakkara, 14.2 ov), 135-6 (Irfan Pathan, 18.5 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

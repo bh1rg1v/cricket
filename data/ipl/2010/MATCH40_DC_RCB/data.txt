@@ -1,0 +1,61 @@
+SCORECARD
+============================================================
+
+============================================================
+  Royal Challengers Bangalore  184/6 (20 ov)  RR: 9.2
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Rahul Dravid                26   25   2   1     104  c Sharma b Ojha
+  Jacques Kallis              68   44   9   1  154.55  c Harris b Marsh
+  Cameron White               13    3   0   2  433.33  not out
+  Ross Taylor                  1    2   0   0      50  lbw b Ojha
+  Robin Uthappa                2    5   0   0      40  c Gilchrist b Symonds
+  Virat Kohli                 58   35   4   4  165.71  c Symonds b Harris
+  Manish Pandey                1    6   0   0   16.67  b Harris
+  Extras: 15 (b 0, lb 1, w 14, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Ryan Harris                   4   0   37   2   9.25
+  Harmeet Singh Bansal          1   0   13   0     13
+  RP Singh                      4   0   38   0    9.5
+  Mitchell Marsh                4   0   37   1   9.25
+  Pragyan Ojha                  4   0   24   2      6
+  Andrew Symonds                3   0   34   1  11.33
+
+  Fall of Wickets: 18-1 (Manish Pandey, 2.3 ov), 60-2 (Dravid, 8.4 ov), 63-3 (Uthappa, 9.4 ov), 68-4 (Ross Taylor, 10.1 ov), 163-5 (Kallis, 18.5 ov), 172-6 (Virat Kohli, 19.4 ov)
+
+============================================================
+  Deccan Chargers  186/3 (19.2 ov)  RR: 9.62
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Adam Gilchrist              32   19   3   2  168.42  st Uthappa b Kumble
+  Andrew Symonds              53   24   5   3  220.83  not out
+  Rohit Sharma                 6    5   1   0     120  c Steyn b Vinay Kumar
+  Tirumalsetti Suman          78   57   6   3  136.84  not out
+  Mohnish Mishra               9   11   2   0   81.82  c Uthappa b Kumar
+  Extras: 8 (b 0, lb 2, w 6, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Praveen Kumar                 4   0   37   1   9.25
+  Anil Kumble                   4   0   38   1    9.5
+  Dale Steyn                    4   0   38   0    9.5
+  Jacques Kallis                4   0   32   0      8
+  Vinay Kumar                 3.2   0   39   1  12.19
+
+  Fall of Wickets: 11-1 (M Mishra, 2.1 ov), 88-2 (Adam Gilchrist, 10.4 ov), 95-3 (Rohit Sharma, 11.4 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

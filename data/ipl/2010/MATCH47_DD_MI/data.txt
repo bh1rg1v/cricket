@@ -1,0 +1,65 @@
+SCORECARD
+============================================================
+
+============================================================
+  Mumbai Indians  183/4 (20 ov)  RR: 9.15
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Sachin Tendulkar            30   27   3   0  111.11  c de Villiers b Sangwan
+  Jean-Paul Duminy            21   14   3   0     150  not out
+  Kieron Pollard              45   13   2   5  346.15  not out
+  Saurabh Tiwary              38   28   1   2  135.71  b Sangwan
+  Chandan Madan               15   19   3   0   78.95  c Mishra b McDonald
+  Ambati Rayudu               24   21   2   0  114.29  c de Villiers b Nehra
+  Extras: 10 (b 0, lb 5, w 3, nb 2)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Ashish Nehra                  4   0   30   1    7.5
+  Pradeep Sangwan               4   0   35   2   8.75
+  Amit Mishra                   3   0   30   0     10
+  Andrew McDonald               4   0   42   1   10.5
+  Paul Collingwood              4   0   27   0   6.75
+  Sarabjit Ladda                1   0   14   0     14
+
+  Fall of Wickets: 41-1 (C Madan, 5.3 ov), 65-2 (Tendulkar, 9.3 ov), 104-3 (Saurabh Tiwary, 13.5 ov), 133-4 (Rayudu, 16.6 ov)
+
+============================================================
+  Delhi Daredevils  144/7 (20 ov)  RR: 7.2
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Virender Sehwag             20   18   3   0  111.11  run out (Pollard/Madan)
+  Paul Collingwood             2    5   0   0      40  run out (Pollard)
+  Dinesh Karthik              11   14   0   0   78.57  b Murtaza
+  Gautam Gambhir              17    9   3   0  188.89  c &amp; b Harbhajan Singh
+  AB de Villiers               4    7   0   0   57.14  lbw b Murtaza
+  Amit Mishra                 12   17   0   0   70.59  b Fernando
+  Pradeep Sangwan              6    5   0   0     120  not out
+  Andrew McDonald             33   31   0   1  106.45  not out
+  David Warner                31   15   5   1  206.67  c Murtaza b Fernando
+  Extras: 8 (b 0, lb 6, w 1, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Zaheer Khan                   2   0   23   0   11.5
+  Dilhara Fernando              4   0   32   2      8
+  Harbhajan Singh               4   0   24   1      6
+  Dwayne Bravo                  2   0   26   0     13
+  Ali Murtaza                   4   0   18   2    4.5
+  Kieron Pollard                4   0   15   0   3.75
+
+  Fall of Wickets: 39-1 (David Warner, 3.4 ov), 72-2 (Gambhir, 6.4 ov), 75-3 (Sehwag, 7.3 ov), 85-4 (de Villiers, 9.3 ov), 90-5 (P Collingwood, 10.5 ov), 94-6 (Karthik, 11.6 ov), 120-7 (Amit Mishra, 16.6 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

@@ -1,0 +1,150 @@
+SCORECARD
+============================================================
+
+============================================================
+  Rajasthan Royals  177/6 (20 ov)  RR: 8.85
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Uthappa                     41   22   7   1  186.36  c Finch b Chahal
+  Stokes                      15   19   2   0   78.95  c de Villiers b Chris Morris
+  Samson                       9    6   0   1     150  c Chris Morris b Chahal
+  Steven Smith                57   36   6   1  158.33  c Shahbaz Ahmed b Chris Morris
+  Jos Buttler                 24   25   1   1      96  c Navdeep Saini b Chris Morris
+  Rahul Tewatia               19   11   1   1  172.73  not out
+  Jofra Archer                 2    3   0   0   66.67  lbw b Chris Morris
+  Extras: 10 (b 1, lb 0, w 7, nb 2)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Washington Sundar             3   0   25   0    8.3
+  Chris Morris                  4   0   26   4    6.5
+  Udana                         3   0   43   0   14.3
+  Navdeep Saini                 4   0   30   0    7.5
+  Chahal                        4   0   34   2    8.5
+  Shahbaz Ahmed                 2   0   18   0      9
+
+  Fall of Wickets: 50-1 (Stokes, 5.4 ov), 69-2 (Uthappa, 7.4 ov), 69-3 (Samson, 7.5 ov), 127-4 (Jos Buttler, 15.3 ov), 173-5 (Steven Smith, 19.2 ov), 177-6 (Jofra Archer, 19.6 ov)
+
+============================================================
+  Royal Challengers Bangalore  179/3 (19.4 ov)  RR: 9.1
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Devdutt Padikkal            35   37   2   0   94.59  c Stokes b Rahul Tewatia
+  Aaron Finch                 14   11   0   2  127.27  c Uthappa b Shreyas Gopal
+  Virat Kohli                 43   32   1   2  134.38  c Rahul Tewatia b Kartik Tyagi
+  AB de Villiers              55   22   1   6     250  not out
+  Gurkeerat Singh Mann        19   17   1   0  111.76  not out
+  Extras: 13 (b 0, lb 1, w 11, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Jofra Archer                3.4   0   38   0   10.4
+  Shreyas Gopal                 4   0   32   1      8
+  Kartik Tyagi                  4   0   32   1      8
+  Jaydev Unadkat                4   0   46   0   11.5
+  Rahul Tewatia                 4   0   30   1    7.5
+
+  Fall of Wickets: 23-1 (Aaron Finch, 3.3 ov), 102-2 (Devdutt Padikkal, 12.6 ov), 102-3 (Virat Kohli, 13.1 ov)
+
+============================================================
+  MATCH 30454 - INNINGS 1
+============================================================
+  Score: 177/6 in 20 overs  |  Run Rate: 8.85
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  1  •  •  •  1  •                +2 runs  (Total: 2)
+  Over  2:  •  1  •  •  1  •  Wd            +3 runs  (Total: 5)
+  Over  3:  4  4  •  4  •  4                +16 runs  (Total: 21)  [FOUR, FOUR, FOUR, over-break,FOUR,HIGHSCORING_OVER]
+  Over  4:  4  •  •  1  4  Wd  Wd  6        +17 runs  (Total: 38)  [FOUR, FOUR, over-break,SIX,HIGHSCORING_OVER]
+  Over  5:  •  4  1  1  1  2                +9 runs  (Total: 47)  [FOUR]
+  Over  6:  •  Wd  2  •  W  1  1            +5 runs  (Total: 52)  [TEAM_FIFTY,PARTNERSHIP, WICKET]
+  Over  7:  •  4  4  1  1  •                +10 runs  (Total: 62)  [FOUR, FOUR]
+  Over  8:  6  •  1  W  W  •                +7 runs  (Total: 69)  [SIX, WICKET, WICKET]
+  Over  9:  1  2  •  4  •  •                +7 runs  (Total: 76)  [FOUR]
+  Over 10:  1  •  1  1  1  •                +4 runs  (Total: 80)
+  Over 11:  1  1  6  1  1  1                +11 runs  (Total: 91)  [SIX]
+  Over 12:  1  1  •  •  Wd  1  1            +5 runs  (Total: 96)
+  Over 13:  1  •  1  2  2  1                +7 runs  (Total: 103)  [TEAM_HUNDRED]
+  Over 14:  1  2  •  •  1  1                +5 runs  (Total: 108)
+  Over 15:  1  1  4  4  •  1                +11 runs  (Total: 119)  [FOUR, FOUR, over-break,PARTNERSHIP]
+  Over 16:  6  1  W  Wd  4  1  1            +14 runs  (Total: 133)  [SIX, WICKET, FOUR, over-break,HIGHSCORING_OVER]
+  Over 17:  1  2  1  1  •  1                +6 runs  (Total: 139)
+  Over 18:  4  1  1  1  N4  B1  1  N4       +19 runs  (Total: 158)  [FOUR, TEAM_HUNDRED,FIFTY,FOUR, over-break,HIGHSCORING_OVER, FOUR]
+  Over 19:  1  6  2  •  2  4                +15 runs  (Total: 173)  [SIX, over-break,FOUR,HIGHSCORING_OVER]
+  Over 20:  •  W  1  •  2  Wd  W            +4 runs  (Total: 177)  [WICKET, over-break,WICKET,UDRS]
+
+BATTERS
+------------------------------------------------------------
+  Uthappa                     41 runs   22 balls  4s:0  6s:0  SR:186.36
+  Stokes                      15 runs   19 balls  4s:0  6s:0  SR:78.95
+  Samson                       9 runs    6 balls  4s:0  6s:0  SR:150
+  Steven Smith                57 runs   36 balls  4s:0  6s:0  SR:158.33
+  Jos Buttler                 24 runs   25 balls  4s:0  6s:0  SR:96
+  Rahul Tewatia               19 runs   11 balls  4s:0  6s:0  SR:172.73
+  Jofra Archer                 2 runs    3 balls  4s:0  6s:0  SR:66.67
+
+BOWLERS
+------------------------------------------------------------
+  Washington Sundar          3 ov   25 runs  0 wkts  Econ:8.3
+  Chris Morris               4 ov   26 runs  4 wkts  Econ:6.5
+  Udana                      3 ov   43 runs  0 wkts  Econ:14.3
+  Navdeep Saini              4 ov   30 runs  0 wkts  Econ:7.5
+  Chahal                     4 ov   34 runs  2 wkts  Econ:8.5
+  Shahbaz Ahmed              2 ov   18 runs  0 wkts  Econ:9
+
+============================================================
+  MATCH 30454 - INNINGS 2
+============================================================
+  Score: 179/3 in 19.4 overs  |  Run Rate: 9.1
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  •  1  •  •  2  Wd            +4 runs  (Total: 4)
+  Over  2:  2  •  1  •  L1  1               +5 runs  (Total: 9)
+  Over  3:  1  6  •  •  •  6                +13 runs  (Total: 22)  [SIX, over-break,SIX]
+  Over  4:  •  1  W  1  1  2                +5 runs  (Total: 27)  [WICKET]
+  Over  5:  1  •  Wd  4  4  1  1            +12 runs  (Total: 39)  [FOUR, FOUR]
+  Over  6:  2  •  •  4  •  2                +8 runs  (Total: 47)  [FOUR]
+  Over  7:  1  •  1  1  1  •                +4 runs  (Total: 51)  [TEAM_FIFTY]
+  Over  8:  1  •  1  1  1  •                +4 runs  (Total: 55)
+  Over  9:  •  •  1  N1  2  1  Wd  Wd  Wd  •  +9 runs  (Total: 64)
+  Over 10:  1  1  1  2  2  6                +13 runs  (Total: 77)  [over-break,SIX,PARTNERSHIP]
+  Over 11:  2  1  •  1  1  1  Wd            +7 runs  (Total: 84)
+  Over 12:  2  2  1  1  Wd  1  •            +8 runs  (Total: 92)
+  Over 13:  1  1  6  1  Wd  •  W            +10 runs  (Total: 102)  [TEAM_HUNDRED,SIX, over-break,WICKET]
+  Over 14:  W  •  •  Wd  •  1  •            +2 runs  (Total: 104)  [WICKET, RUNOUT_MISS, RUNOUT_MISS]
+  Over 15:  1  1  1  1  Wd  3  2            +10 runs  (Total: 114)
+  Over 16:  1  1  1  1  6  •                +10 runs  (Total: 124)  [SIX]
+  Over 17:  •  •  •  1  6  2                +9 runs  (Total: 133)  [SIX]
+  Over 18:  1  4  1  •  3  1                +10 runs  (Total: 143)  [FOUR]
+  Over 19:  6  6  6  1  4  Wd  1            +25 runs  (Total: 168)  [SIX, SIX, SIX, FOUR, over-break,HIGHSCORING_OVER]
+  Over 20:  2  1  2  6                      +11 runs  (Total: 179)  [FIFTY,SIX]
+
+BATTERS
+------------------------------------------------------------
+  Devdutt Padikkal            35 runs   37 balls  4s:2  6s:0  SR:94.59
+  Aaron Finch                 14 runs   11 balls  4s:0  6s:2  SR:127.27
+  Virat Kohli                 43 runs   32 balls  4s:1  6s:2  SR:134.38
+  AB de Villiers              55 runs   22 balls  4s:1  6s:6  SR:250
+  Gurkeerat Singh Mann        19 runs   17 balls  4s:1  6s:0  SR:111.76
+
+BOWLERS
+------------------------------------------------------------
+  Jofra Archer               3.4 ov   38 runs  0 wkts  Econ:10.4
+  Shreyas Gopal              4 ov   32 runs  1 wkts  Econ:8
+  Kartik Tyagi               4 ov   32 runs  1 wkts  Econ:8
+  Jaydev Unadkat             4 ov   46 runs  0 wkts  Econ:11.5
+  Rahul Tewatia              4 ov   30 runs  1 wkts  Econ:7.5
+
+  [Win probability not available for this match]

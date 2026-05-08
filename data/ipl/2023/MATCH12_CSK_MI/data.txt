@@ -1,0 +1,157 @@
+SCORECARD
+============================================================
+
+============================================================
+  Mumbai Indians  157/8 (20 ov)  RR: 7.85
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Rohit                       21   13   3   1  161.54  b Tushar Deshpande
+  Ishan Kishan                32   21   5   0  152.38  c Pretorius b Ravindra Jadeja
+  Green                       12   11   1   0  109.09  c and b Ravindra Jadeja
+  Suryakumar Yadav             1    2   0   0      50  c Dhoni b Santner
+  Tilak Varma                 22   18   2   1  122.22  lbw b Ravindra Jadeja
+  Arshad Khan                  2    4   0   0      50  lbw b Santner
+  Tim David                   31   22   1   2  140.91  c Ajinkya Rahane b Tushar Deshpande
+  Tristan Stubbs               5   10   0   0      50  c Ruturaj Gaikwad b Magala
+  Hrithik Shokeen             18   13   3   0  138.46  not out
+  Chawla                       5    6   0   0   83.33  not out
+  Extras: 8 (b 1, lb 2, w 5, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  D Chahar                      1   0   10   0     10
+  Tushar Deshpande              3   0   31   2   10.3
+  Magala                        4   0   37   1    9.2
+  Santner                       4   0   28   2      7
+  Ravindra Jadeja               4   0   20   3      5
+  Pretorius                     4   0   28   0      7
+
+  Fall of Wickets: 38-1 (Rohit, 3.6 ov), 64-2 (Ishan Kishan, 6.4 ov), 67-3 (Suryakumar Yadav, 7.2 ov), 73-4 (Green, 8.2 ov), 76-5 (Arshad Khan, 9.1 ov), 102-6 (Tilak Varma, 12.6 ov), 113-7 (Tristan Stubbs, 15.6 ov), 131-8 (Tim David, 16.6 ov)
+
+============================================================
+  Chennai Super Kings  159/3 (18.1 ov)  RR: 8.75
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Devon Conway                 0    4   0   0       0  b Behrendorff
+  Ruturaj Gaikwad             40   36   2   1  111.11  not out
+  Ajinkya Rahane              61   27   7   3  225.93  c Suryakumar Yadav b Chawla
+  Shivam Dube                 28   26   2   1  107.69  b Kumar Kartikeya
+  Ambati Rayudu               20   16   3   0     125  not out
+  Extras: 10 (b 0, lb 4, w 6, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Jason Behrendorff             3   0   24   1      8
+  Arshad Khan                 2.1   0   35   0   16.2
+  Cameron Green                 3   0   20   0    6.7
+  Piyush Chawla                 4   0   33   1    8.2
+  Kumar Kartikeya               4   0   24   1      6
+  Hrithik Shokeen               2   0   19   0    9.5
+
+  Fall of Wickets: 0-1 (Devon Conway, 0.4 ov), 82-2 (Ajinkya Rahane, 7.6 ov), 125-3 (Shivam Dube, 14.2 ov)
+
+============================================================
+  MATCH 66225 - INNINGS 1
+============================================================
+  Score: 157/8 in 20 overs  |  Run Rate: 7.85
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  •  4  1  1  4                +10 runs  (Total: 10)  [FOUR, over-break,FOUR]
+  Over  2:  •  L1  Wd  •  4  •  •           +6 runs  (Total: 16)  [FOUR]
+  Over  3:  4  •  4  4  1  1                +14 runs  (Total: 30)  [FOUR, FOUR, FOUR, over-break,HIGHSCORING_OVER]
+  Over  4:  6  1  •  •  1  W                +8 runs  (Total: 38)  [SIX, over-break,WICKET]
+  Over  5:  1  1  1  4  1  1                +9 runs  (Total: 47)  [FOUR]
+  Over  6:  2  4  4  2  1  1                +14 runs  (Total: 61)  [TEAM_FIFTY,FOUR, FOUR, over-break,HIGHSCORING_OVER]
+  Over  7:  1  1  1  W  1  1                +5 runs  (Total: 66)  [WICKET]
+  Over  8:  1  W  1  1  4  •                +7 runs  (Total: 73)  [WICKET,UDRS, FOUR]
+  Over  9:  •  W  1  1  •  1                +3 runs  (Total: 76)  [WICKET]
+  Over 10:  W  2  1  4  1  •                +8 runs  (Total: 84)  [WICKET, FOUR]
+  Over 11:  •  •  1  1  •  1                +3 runs  (Total: 87)
+  Over 12:  1  •  1  •  Wd  1  Wd  1        +6 runs  (Total: 93)
+  Over 13:  1  1  1  •  6  W                +9 runs  (Total: 102)  [TEAM_HUNDRED,SIX, over-break,WICKET,UDRS]
+  Over 14:  1  1  •  1  •  •                +3 runs  (Total: 105)
+  Over 15:  1  •  1  •  1  1                +4 runs  (Total: 109)
+  Over 16:  •  1  1  1  1  W                +4 runs  (Total: 113)  [over-break,WICKET]
+  Over 17:  1  1  6  4  6  W                +18 runs  (Total: 131)  [SIX, FOUR, SIX, over-break,WICKET,HIGHSCORING_OVER]
+  Over 18:  •  1  1  •  1  1                +4 runs  (Total: 135)
+  Over 19:  1  1  1  1  L1  1               +6 runs  (Total: 141)
+  Over 20:  4  B1  Wd  1  4  4  Wd  •       +16 runs  (Total: 157)  [FOUR, TEAM_HUNDRED,FOUR, FOUR, over-break,UDRS,HIGHSCORING_OVER]
+
+BATTERS
+------------------------------------------------------------
+  Rohit                       21 runs   13 balls  4s:0  6s:0  SR:161.54
+  Chawla                       5 runs    6 balls  4s:0  6s:0  SR:83.33
+  Ishan Kishan                32 runs   21 balls  4s:0  6s:0  SR:152.38
+  Green                       12 runs   11 balls  4s:0  6s:0  SR:109.09
+  Suryakumar Yadav             1 runs    2 balls  4s:0  6s:0  SR:50
+  Tilak Varma                 22 runs   18 balls  4s:0  6s:0  SR:122.22
+  Arshad Khan                  2 runs    4 balls  4s:0  6s:0  SR:50
+  Tim David                   31 runs   22 balls  4s:0  6s:0  SR:140.91
+  Tristan Stubbs               5 runs   10 balls  4s:0  6s:0  SR:50
+  Hrithik Shokeen             18 runs   13 balls  4s:0  6s:0  SR:138.46
+
+BOWLERS
+------------------------------------------------------------
+  D Chahar                   1 ov   10 runs  0 wkts  Econ:10
+  Tushar Deshpande           3 ov   31 runs  2 wkts  Econ:10.3
+  Magala                     4 ov   37 runs  1 wkts  Econ:9.2
+  Santner                    4 ov   28 runs  2 wkts  Econ:7
+  Ravindra Jadeja            4 ov   20 runs  3 wkts  Econ:5
+  Pretorius                  4 ov   28 runs  0 wkts  Econ:7
+
+============================================================
+  MATCH 66225 - INNINGS 2
+============================================================
+  Score: 159/3 in 18.1 overs  |  Run Rate: 8.75
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  •  •  W  2  L4               +6 runs  (Total: 6)  [WICKET, over-break,FOUR]
+  Over  2:  1  Wd  1  •  Wd  1  1  •        +6 runs  (Total: 12)
+  Over  3:  2  •  6  1  •  •                +9 runs  (Total: 21)  [SIX]
+  Over  4:  6  4  4  4  4  1                +23 runs  (Total: 44)  [SIX, FOUR, FOUR, FOUR, FOUR, over-break,HIGHSCORING_OVER]
+  Over  5:  1  1  6  1  •  Wd  1            +11 runs  (Total: 55)  [TEAM_FIFTY,PARTNERSHIP,SIX]
+  Over  6:  1  4  4  1  2  1                +13 runs  (Total: 68)  [FOUR, MILESTONE,FIFTY,FOUR]
+  Over  7:  1  1  1  1  1  1                +6 runs  (Total: 74)
+  Over  8:  1  2  1  4  •  W                +8 runs  (Total: 82)  [FOUR, over-break,WICKET]
+  Over  9:  •  1  •  2  •  1                +4 runs  (Total: 86)
+  Over 10:  4  •  1  4  1  1                +11 runs  (Total: 97)  [FOUR, FOUR]
+  Over 11:  2  •  •  1  1  1                +5 runs  (Total: 102)  [TEAM_HUNDRED]
+  Over 12:  1  1  •  4  •  •                +6 runs  (Total: 108)  [FOUR]
+  Over 13:  •  1  1  1  •  1                +4 runs  (Total: 112)
+  Over 14:  6  1  1  1  4  •                +13 runs  (Total: 125)  [SIX, FOUR]
+  Over 15:  •  W  1  6  2  2                +9 runs  (Total: 134)  [WICKET, SIX]
+  Over 16:  •  •  •  •  1  0                +1 runs  (Total: 135)
+  Over 17:  •  1  1  1  1  1                +5 runs  (Total: 140)
+  Over 18:  4  4  Wd  2  •  1  1            +13 runs  (Total: 153)  [FOUR, FOUR, TEAM_HUNDRED]
+  Over 19:  4  Wd2                          +6 runs  (Total: 159)  [FOUR]
+
+BATTERS
+------------------------------------------------------------
+  Devon Conway                 0 runs    4 balls  4s:0  6s:0  SR:0
+  Ruturaj Gaikwad             40 runs   36 balls  4s:2  6s:1  SR:111.11
+  Ajinkya Rahane              61 runs   27 balls  4s:7  6s:3  SR:225.93
+  Shivam Dube                 28 runs   26 balls  4s:2  6s:1  SR:107.69
+  Ambati Rayudu               20 runs   16 balls  4s:3  6s:0  SR:125
+
+BOWLERS
+------------------------------------------------------------
+  Jason Behrendorff          3 ov   24 runs  1 wkts  Econ:8
+  Arshad Khan                2.1 ov   35 runs  0 wkts  Econ:16.2
+  Cameron Green              3 ov   20 runs  0 wkts  Econ:6.7
+  Piyush Chawla              4 ov   33 runs  1 wkts  Econ:8.2
+  Kumar Kartikeya            4 ov   24 runs  1 wkts  Econ:6
+  Hrithik Shokeen            2 ov   19 runs  0 wkts  Econ:9.5
+
+  [Win probability not available for this match]

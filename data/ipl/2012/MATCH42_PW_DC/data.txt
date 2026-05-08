@@ -1,0 +1,64 @@
+SCORECARD
+============================================================
+
+============================================================
+  Deccan Chargers  186/4 (20 ov)  RR: 9.3
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Parthiv Patel                0    1   0   0       0  b Marlon Samuels
+  Kumar Sangakkara            82   52  10   2  157.69  b A Nehra
+  Jean-Paul Duminy             4    3   0   0  133.33  not out
+  Cameron White               74   45   4   4  164.44  c S Smith b W Parnell
+  Shikhar Dhawan              13   18   2   0   72.22  b B Kumar
+  Biplab Samantray             2    2   0   0     100  not out
+  Extras: 11 (b 2, lb 8, w 0, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Marlon Samuels                3   0   33   1     11
+  Wayne Parnell                 4   1   25   1   6.25
+  Ashish Nehra                  4   0   41   1  10.25
+  Bhuvneshwar Kumar             4   0   22   1    5.5
+  Murali Kartik                 2   0   16   0      8
+  Sourav Ganguly                3   0   39   0     13
+
+  Fall of Wickets: 0-1 (Parthiv Patel, 0.1 ov), 23-2 (Dhawan, 4.4 ov), 180-3 (Sangakkara, 18.6 ov), 180-4 (Cameron White, 19.1 ov)
+
+============================================================
+  Pune Warriors  173/5 (20 ov)  RR: 8.65
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Sourav Ganguly              45   40   5   1   112.5  c Cameron White b S Dhawan
+  Michael Clarke              41   31   7   0  132.26  run out (A Mishra/P Patel)
+  Marlon Samuels               1    1   0   0     100  not out
+  Robin Uthappa               26   18   1   1  144.44  c (sub)D Harris b A Reddy
+  Mithun Manhas                7    4   0   1     175  c K Sangakkara b Pratap Singh
+  Manish Pandey                0    1   0   0       0  c K Sangakkara b Ankit Sharma
+  Steven Smith                47   27   3   2  174.07  not out
+  Extras: 6 (b 0, lb 1, w 3, nb 2)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Ankit Sharma                  2   0    9   1    4.5
+  Jean-Paul Duminy              3   0   25   0   8.33
+  Veer Pratap Singh             4   0   31   1   7.75
+  Dale Steyn                    4   0   46   0   11.5
+  Amit Mishra                   3   0   20   0   6.67
+  Ashish Reddy                  3   0   32   1  10.67
+  Shikhar Dhawan                1   0    9   1      9
+
+  Fall of Wickets: 0-1 (Manish Pandey, 0.1 ov), 90-2 (Clarke, 11.4 ov), 96-3 (S Ganguly, 12.4 ov), 158-4 (Uthappa, 18.5 ov), 172-5 (Manhas, 19.5 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

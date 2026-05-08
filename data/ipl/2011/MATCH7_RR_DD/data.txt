@@ -1,0 +1,62 @@
+SCORECARD
+============================================================
+
+============================================================
+  Delhi Daredevils  151/6 (20 ov)  RR: 7.55
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Virender Sehwag              4    2   1   0     200  c R Dravid b S Tait
+  Irfan Pathan                 9    6   2   0     150  not out
+  Venugopal Rao               60   40   4   4     150  c S Warne b S Trivedi
+  Naman Ojha                   0    2   0   0       0  c S Tait b S Warne
+  Aaron Finch                 11   14   1   1   78.57  c J Botha b S Tait
+  Roelof van der Merwe         2    3   0   0   66.67  not out
+  David Warner                54   44   6   1  122.73  c A Raut b A Singh
+  Unmukt Chand                 2   10   0   0      20  c R Dravid b S Warne
+  Extras: 9 (b 0, lb 4, w 3, nb 2)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Shaun Tait                    4   0   40   2     10
+  Amit Singh                    4   1   18   1    4.5
+  Johan Botha                   4   0   36   0      9
+  Siddharth Trivedi             4   0   36   1      9
+  Shane Warne                   4   0   17   2   4.25
+
+  Fall of Wickets: 5-1 (Sehwag, 0.3 ov), 29-2 (Aaron Finch, 4.5 ov), 36-3 (Chand, 7.1 ov), 36-4 (Naman Ojha, 7.3 ov), 119-5 (David Warner, 17.4 ov), 139-6 (V Rao, 18.6 ov)
+
+============================================================
+  Rajasthan Royals  152/4 (18.3 ov)  RR: 8.22
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Rahul Dravid                38   31   6   1  122.58  c N Ojha b R Merwe
+  Johan Botha                 39   32   4   0  121.88  not out
+  Ross Taylor                 18   10   1   1     180  not out
+  Ajinkya Rahane              18   17   1   1  105.88  b M Morkel
+  Amit Paunikar                5    8   1   0    62.5  b A Dinda
+  Ashok Menaria               22   15   0   3  146.67  c V Sehwag b I Pathan
+  Extras: 12 (b 4, lb 5, w 1, nb 2)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Ashok Dinda                 3.3   0   34   1   10.3
+  Morne Morkel                  4   0   11   1   2.75
+  Irfan Pathan                  3   0   32   1  10.67
+  Roelof van der Merwe          4   0   41   1  10.25
+  Shahbaz Nadeem                4   0   25   0   6.25
+
+  Fall of Wickets: 26-1 (A Paunikar, 2.6 ov), 61-2 (Dravid, 7.3 ov), 92-3 (Menaria, 10.5 ov), 121-4 (Ajinkya Rahane, 15.1 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

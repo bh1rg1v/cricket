@@ -1,0 +1,64 @@
+SCORECARD
+============================================================
+
+============================================================
+  Deccan Chargers  137/8 (20 ov)  RR: 6.85
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Kumar Sangakkara             0    3   0   0       0  c A Paunikar b S Trivedi
+  Jean-Paul Duminy            14   17   0   1   82.35  c J Botha b S Warne
+  Dale Steyn                   7    6   1   0  116.67  c J Botha b A Singh
+  Ishant Sharma                1    1   0   0     100  not out
+  Shikhar Dhawan              24   15   2   1     160  c A Raut b A Singh
+  Amit Mishra                  2    2   0   0     100  not out
+  Dwaraka Ravi Teja           28   20   2   1     140  c A Menaria b A Singh
+  Bharath Chipli               6    9   1   0   66.67  b S Trivedi
+  Ishank Jaggi                25   28   3   0   89.29  c J Botha b S Warne
+  Daniel Christian            26   19   1   2  136.84  c (sub)A Rahane b S Trivedi
+  Extras: 4 (b 0, lb 0, w 4, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Jacob Oram                    2   0   13   0    6.5
+  Amit Singh                    4   0   35   3   8.75
+  Johan Botha                   4   0   31   0   7.75
+  Siddharth Trivedi             4   0   15   3   3.75
+  Shane Warne                   4   0   21   2   5.25
+  Ashok Menaria                 1   0    8   0      8
+  Stuart Binny                  1   0   14   0     14
+
+  Fall of Wickets: 40-1 (Dhawan, 4.5 ov), 40-2 (Sangakkara, 5.3 ov), 53-3 (Chipli, 7.5 ov), 69-4 (Jaggi, 10.1 ov), 77-5 (Duminy, 12.6 ov), 114-6 (Christian, 17.3 ov), 130-7 (Ravi Teja, 19.1 ov), 134-8 (Steyn, 19.3 ov)
+
+============================================================
+  Rajasthan Royals  141/2 (18.5 ov)  RR: 7.49
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Rahul Dravid                28   35   2   0      80  b D Steyn
+  Johan Botha                 67   47   8   1  142.55  not out
+  Ross Taylor                 21   14   1   2     150  not out
+  Amit Paunikar               20   19   4   0  105.26  c K Sangakkara b D Steyn
+  Extras: 5 (b 0, lb 2, w 1, nb 2)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Pragyan Ojha                3.5   0   44   0  12.57
+  Dale Steyn                    4   0   18   2    4.5
+  Ishant Sharma                 4   0   24   0      6
+  Daniel Christian              3   0   25   0   8.33
+  Amit Mishra                   4   0   28   0      7
+
+  Fall of Wickets: 31-1 (A Paunikar, 5.4 ov), 83-2 (Dravid, 12.5 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

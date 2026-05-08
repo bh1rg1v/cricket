@@ -1,0 +1,65 @@
+SCORECARD
+============================================================
+
+============================================================
+  Deccan Chargers  165/8 (20 ov)  RR: 8.25
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Kumar Sangakkara            35   28   5   0     125  c R McLaren b P Chawla
+  Jean-Paul Duminy            18   16   1   0   112.5  c P Chawla b R McLaren
+  Dale Steyn                   1    2   0   0      50  not out
+  Manpreet Gony                0    1   0   0       0  b R McLaren
+  Shikhar Dhawan              45   36   5   1     125  c S Singh b P Valthaty
+  Amit Mishra                  0    1   0   0       0  lbw b P Valthaty
+  Dwaraka Ravi Teja           10    6   1   0  166.67  not out
+  Bharath Chipli              14   12   2   0  116.67  c S Marsh b P Valthaty
+  Sunny Sohal                  7    5   1   0     140  c D Karthik b R Harris
+  Daniel Christian            30   14   2   2  214.29  b P Valthaty
+  Extras: 5 (b 0, lb 3, w 1, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Praveen Kumar                 4   0   29   0   7.25
+  Ryan Harris                   4   0   31   1   7.75
+  Ryan McLaren                  3   0   33   2     11
+  Vikramjeet Singh Malik        2   0   13   0    6.5
+  Abhishek Nayar                1   0   10   0     10
+  Piyush Chawla                 2   0   17   1    8.5
+  Paul Valthaty                 4   0   29   4   7.25
+
+  Fall of Wickets: 13-1 (Sohal, 1.6 ov), 88-2 (Sangakkara, 10.6 ov), 92-3 (Dhawan, 11.5 ov), 113-4 (Chipli, 14.5 ov), 129-5 (Duminy, 17.1 ov), 137-6 (Gony, 17.3 ov), 156-7 (Christian, 18.5 ov), 156-8 (Amit Mishra, 18.6 ov)
+
+============================================================
+  Kings XI Punjab  166/2 (17.4 ov)  RR: 9.4
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Adam Gilchrist              61   46   5   3  132.61  c D Ravi Teja b A Mishra
+  Dinesh Karthik               3    5   0   0      60  not out
+  Abhishek Nayar              13   10   2   0     130  not out
+  Paul Valthaty               75   47   8   5  159.57  c I Sharma b A Mishra
+  Extras: 14 (b 0, lb 7, w 5, nb 2)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Dale Steyn                    3   0   24   0      8
+  Ishant Sharma                 4   0   23   0   5.75
+  Manpreet Gony                 2   0   35   0   17.5
+  Amit Mishra                   4   0   28   2      7
+  Daniel Christian            2.4   0   28   0  11.67
+  Jean-Paul Duminy              2   0   21   0   10.5
+
+  Fall of Wickets: 136-1 (Adam Gilchrist, 13.6 ov), 151-2 (Valthaty, 15.6 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

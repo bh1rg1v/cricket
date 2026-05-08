@@ -1,0 +1,67 @@
+SCORECARD
+============================================================
+
+============================================================
+  Royal Challengers Bangalore  211/3 (15 ov)  RR: 14.07
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Shane Watson                 1    2   0   0      50  not out
+  Chris Gayle                 73   32   4   8  228.13  c D Miller b Axar
+  AB de Villiers               0    2   0   0       0  b Kyle Abbott
+  Virat Kohli                113   50  12   8     226  c D Miller b Sandeep Sharma
+  KL Rahul                    16    6   3   0  266.67  not out
+  Extras: 8 (b 0, lb 0, w 6, nb 2)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Sandeep Sharma                3   0   29   1   9.67
+  Mohit Sharma                  3   0   33   0     11
+  Kyle Abbott                   3   0   48   1     16
+  KC Cariappa                   3   0   55   0  18.33
+  Axar Patel                    3   0   46   1  15.33
+
+  Fall of Wickets: 147-1 (Gayle, 10.6 ov), 154-2 (de Villiers, 11.4 ov), 199-3 (Virat Kohli, 13.6 ov)
+
+============================================================
+  Kings XI Punjab  120/9 (14 ov)  RR: 8.57
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Hashim Amla                  9    6   0   1     150  c C Jordan b Aravind
+  Wriddhiman Saha             24   10   5   0     240  lbw b Chahal
+  Murali Vijay                16    8   2   1     200  b Aravind
+  David Miller                 3    6   0   0      50  c de Villiers b Watson
+  Mohit Sharma                14   12   2   0  116.67  run out (Watson/Sachin Baby)
+  Farhaan Behardien            0    1   0   0       0  c de Villiers b Chahal
+  Gurkeerat Singh Mann        18   18   2   0     100  c Gayle b Chahal
+  Sandeep Sharma               5    5   0   0     100  not out
+  Axar Patel                  13    9   1   1  144.44  c Kohli b Watson
+  Kyle Abbott                  0    1   0   0       0  c de Villiers b Chahal
+  KC Cariappa                 12    8   0   1     150  not out
+  Extras: 6 (b 0, lb 1, w 5, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Stuart Binny                  1   0   11   0     11
+  Sreenath Aravind              2   0   18   2      9
+  Chris Jordan                  1   0   12   0     12
+  Yuzvendra Chahal              3   0   25   4   8.33
+  Shane Watson                  2   0    7   2    3.5
+  Varun Aaron                   1   0   17   0     17
+  Chris Gayle                   3   0   25   0   8.33
+  Sachin Baby                   1   0    4   0      4
+
+  Fall of Wickets: 17-1 (Vijay, 1.4 ov), 43-2 (W Saha, 3.4 ov), 53-3 (Amla, 4.4 ov), 54-4 (David Miller, 5.1 ov), 77-5 (Axar Patel, 7.3 ov), 79-6 (Behardien, 8.2 ov), 80-7 (Kyle Abbott, 8.5 ov), 96-8 (Gurkeerat Singh, 10.5 ov), 105-9 (Mohit Sharma, 12.2 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

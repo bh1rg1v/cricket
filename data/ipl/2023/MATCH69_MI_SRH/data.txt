@@ -1,0 +1,150 @@
+SCORECARD
+============================================================
+
+============================================================
+  Sunrisers Hyderabad  200/5 (20 ov)  RR: 10
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Vivrant Sharma              69   47   9   2  146.81  c (sub)Ramandeep Singh b Akash Madhwal
+  Mayank Agarwal              83   46   8   4  180.43  c Ishan Kishan b Akash Madhwal
+  Klaasen                     18   13   2   0  138.46  b Akash Madhwal
+  Glenn Phillips               1    4   0   0      25  c Kumar Kartikeya b Chris Jordan
+  Markram                     13    7   0   1  185.71  not out
+  Harry Brook                  0    1   0   0       0  b Akash Madhwal
+  Sanvir Singh                 4    3   1   0  133.33  not out
+  Extras: 12 (b 0, lb 5, w 6, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Behrendorff                   3   0   36   0     12
+  Green                         1   0    2   0      2
+  Chris Jordan                  4   0   42   1   10.5
+  Akash Madhwal                 4   0   37   4    9.2
+  Chawla                        4   0   39   0    9.8
+  Kumar Kartikeya               4   0   39   0    9.8
+
+  Fall of Wickets: 140-1 (Vivrant Sharma, 13.5 ov), 174-2 (Mayank Agarwal, 16.4 ov), 177-3 (Glenn Phillips, 17.4 ov), 186-4 (Klaasen, 18.5 ov), 186-5 (Harry Brook, 18.6 ov)
+
+============================================================
+  Mumbai Indians  201/2 (18 ov)  RR: 11.17
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Ishan Kishan                14   12   1   1  116.67  c Harry Brook b Bhuvneshwar
+  Rohit Sharma                56   37   8   1  151.35  c Nitish Reddy b Mayank Dagar
+  Cameron Green              100   47   8   8  212.77  not out
+  Suryakumar Yadav            25   16   4   0  156.25  not out
+  Extras: 6 (b 0, lb 1, w 1, nb 4)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Bhuvneshwar Kumar             4   0   26   1    6.5
+  Nitish Reddy                  3   0   35   0   11.7
+  Mayank Dagar                  4   0   37   1    9.2
+  Kartik Tyagi                2.5   0   41   0   14.5
+  Umran Malik                   3   0   41   0   13.7
+  Vivrant Sharma                1   0   19   0     19
+  Aiden Markram               0.1   0    1   0      6
+
+  Fall of Wickets: 20-1 (Ishan Kishan, 2.5 ov), 148-2 (Rohit Sharma, 13.1 ov)
+
+============================================================
+  MATCH 66495 - INNINGS 1
+============================================================
+  Score: 200/5 in 20 overs  |  Run Rate: 10
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  •  4  •  •  1                +5 runs  (Total: 5)  [FOUR]
+  Over  2:  1  1  1  1  •  L1               +5 runs  (Total: 10)
+  Over  3:  1  •  Wd  Wd  4  4  1  •        +12 runs  (Total: 22)  [FOUR, FOUR]
+  Over  4:  1  4  4  •  1  •                +10 runs  (Total: 32)  [FOUR, FOUR]
+  Over  5:  1  4  1  •  1  4                +11 runs  (Total: 43)  [FOUR, over-break,FOUR]
+  Over  6:  4  •  1  1  •  4                +10 runs  (Total: 53)  [FOUR, over-break,TEAM_FIFTY,PARTNERSHIP,FOUR]
+  Over  7:  1  Wd2  0  4  1  1  2           +11 runs  (Total: 64)  [FOUR]
+  Over  8:  6  •  1  1  1  1                +10 runs  (Total: 74)  [SIX]
+  Over  9:  •  1  1  1  1  1                +5 runs  (Total: 79)
+  Over 10:  1  4  4  2  Wd  1  1            +14 runs  (Total: 93)  [FOUR, FOUR, MILESTONE,FIFTY, over-break,HIGHSCORING_OVER]
+  Over 11:  •  1  4  1  •  4                +10 runs  (Total: 103)  [FOUR, over-break,TEAM_HUNDRED,PARTNERSHIP,FOUR]
+  Over 12:  1  1  •  4  1  1                +8 runs  (Total: 111)  [FOUR]
+  Over 13:  6  4  1  •  6  1  Wd            +19 runs  (Total: 130)  [SIX, MILESTONE,FIFTY,FOUR, SIX, over-break,HIGHSCORING_OVER]
+  Over 14:  1  6  2  1  W  4                +14 runs  (Total: 144)  [SIX, WICKET, over-break,FOUR,HIGHSCORING_OVER]
+  Over 15:  •  4  6  1  •  2                +13 runs  (Total: 157)  [FOUR, TEAM_HUNDRED,SIX]
+  Over 16:  1  1  6  1  1  1                +11 runs  (Total: 168)  [SIX]
+  Over 17:  1  4  1  W  •  •                +6 runs  (Total: 174)  [FOUR, WICKET]
+  Over 18:  1  1  L1  W  1  2               +6 runs  (Total: 180)  [WICKET]
+  Over 19:  1  1  1  1  N1  W  W            +6 runs  (Total: 186)  [WICKET, over-break,WICKET]
+  Over 20:  2  1  4  •  L1  6               +14 runs  (Total: 200)  [FOUR, over-break,TEAM_HUNDRED,SIX,HIGHSCORING_OVER]
+
+BATTERS
+------------------------------------------------------------
+  Vivrant Sharma              69 runs   47 balls  4s:0  6s:0  SR:146.81
+  Mayank Agarwal              83 runs   46 balls  4s:0  6s:0  SR:180.43
+  Klaasen                     18 runs   13 balls  4s:0  6s:0  SR:138.46
+  Glenn Phillips               1 runs    4 balls  4s:0  6s:0  SR:25
+  Markram                     13 runs    7 balls  4s:0  6s:0  SR:185.71
+  Harry Brook                  0 runs    1 balls  4s:0  6s:0  SR:0
+  Sanvir Singh                 4 runs    3 balls  4s:0  6s:0  SR:133.33
+
+BOWLERS
+------------------------------------------------------------
+  Behrendorff                3 ov   36 runs  0 wkts  Econ:12
+  Green                      1 ov    2 runs  0 wkts  Econ:2
+  Chris Jordan               4 ov   42 runs  1 wkts  Econ:10.5
+  Akash Madhwal              4 ov   37 runs  4 wkts  Econ:9.2
+  Chawla                     4 ov   39 runs  0 wkts  Econ:9.8
+  Kumar Kartikeya            4 ov   39 runs  0 wkts  Econ:9.8
+
+============================================================
+  MATCH 66495 - INNINGS 2
+============================================================
+  Score: 201/2 in 18 overs  |  Run Rate: 11.17
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  •  2  1  •  4                +7 runs  (Total: 7)  [over-break,FOUR]
+  Over  2:  6  4  •  •  •  •                +10 runs  (Total: 17)  [SIX, FOUR]
+  Over  3:  1  1  •  1  W  4                +7 runs  (Total: 24)  [WICKET, over-break,FOUR]
+  Over  4:  •  4  •  •  1  4                +9 runs  (Total: 33)  [FOUR, over-break,FOUR]
+  Over  5:  1  •  •  1  1  6                +9 runs  (Total: 42)  [DROPPED, over-break,SIX]
+  Over  6:  0  1  1  N6  1  4  4            +18 runs  (Total: 60)  [TEAM_FIFTY,SIX, FOUR, over-break,FOUR,HIGHSCORING_OVER]
+  Over  7:  1  •  6  •  6  •                +13 runs  (Total: 73)  [SIX, SIX,PARTNERSHIP]
+  Over  8:  4  1  1  1  •  L1               +8 runs  (Total: 81)  [FOUR]
+  Over  9:  1  •  2  1  Wd  N6  6  1        +19 runs  (Total: 100)  [SIX, MILESTONE,FIFTY,SIX, over-break,TEAM_HUNDRED,HIGHSCORING_OVER]
+  Over 10:  1  4  4  4  1  •                +14 runs  (Total: 114)  [FOUR, FOUR, MILESTONE,FOUR, over-break,HIGHSCORING_OVER]
+  Over 11:  1  •  •  4  1  1                +7 runs  (Total: 121)  [FOUR, PARTNERSHIP]
+  Over 12:  •  4  1  1  •  4  N             +11 runs  (Total: 132)  [MILESTONE,FIFTY,FOUR, over-break,FOUR]
+  Over 13:  •  6  1  1  2  6                +16 runs  (Total: 148)  [SIX, over-break,SIX,HIGHSCORING_OVER]
+  Over 14:  W  4  1  1  1  1                +8 runs  (Total: 156)  [WICKET, TEAM_HUNDRED,FOUR]
+  Over 15:  1  •  1  1  •  1                +4 runs  (Total: 160)
+  Over 16:  1  4  6  1  4  4                +20 runs  (Total: 180)  [FOUR, SIX, FOUR, over-break,FOUR,HIGHSCORING_OVER]
+  Over 17:  1  •  4  1  4  1  N1            +13 runs  (Total: 193)  [FOUR, FOUR]
+  Over 18:  1  4  1  1  •  1                +8 runs  (Total: 201)  [FOUR,PARTNERSHIP, TEAM_HUNDRED, over-break,HUNDRED]
+
+BATTERS
+------------------------------------------------------------
+  Ishan Kishan                14 runs   12 balls  4s:1  6s:1  SR:116.67
+  Rohit Sharma                56 runs   37 balls  4s:8  6s:1  SR:151.35
+  Cameron Green              100 runs   47 balls  4s:8  6s:8  SR:212.77
+  Suryakumar Yadav            25 runs   16 balls  4s:4  6s:0  SR:156.25
+
+BOWLERS
+------------------------------------------------------------
+  Bhuvneshwar Kumar          4 ov   26 runs  1 wkts  Econ:6.5
+  Nitish Reddy               3 ov   35 runs  0 wkts  Econ:11.7
+  Mayank Dagar               4 ov   37 runs  1 wkts  Econ:9.2
+  Kartik Tyagi               2.5 ov   41 runs  0 wkts  Econ:14.5
+  Umran Malik                3 ov   41 runs  0 wkts  Econ:13.7
+  Vivrant Sharma             1 ov   19 runs  0 wkts  Econ:19
+  Aiden Markram              0.1 ov    1 runs  0 wkts  Econ:6
+
+  [Win probability not available for this match]

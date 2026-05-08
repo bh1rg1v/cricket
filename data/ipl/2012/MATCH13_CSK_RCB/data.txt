@@ -1,0 +1,67 @@
+SCORECARD
+============================================================
+
+============================================================
+  Royal Challengers Bangalore  205/8 (20 ov)  RR: 10.25
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Daniel Vettori               1    1   0   0     100  run out (D Bollinger)
+  Chris Gayle                 68   35   2   6  194.29  c DJ Bravo b R Jadeja
+  AB de Villiers               4    2   1   0     200  c S Jakati b A Morkel
+  Virat Kohli                 57   46   5   2  123.91  c F du Plessis b D Bollinger
+  Cheteshwar Pujara            0    1   0   0       0  b D Bollinger
+  Vinay Kumar                  6    1   0   1     600  not out
+  Saurabh Tiwary               8    6   1   0  133.33  c S Raina b R Jadeja
+  Raju Bhatkal                 0    2   0   0       0  c S Raina b D Bollinger
+  Mayank Agarwal              45   26   5   3  173.08  c DJ Bravo b A Morkel
+  Extras: 16 (b 2, lb 0, w 14, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Ravichandran Ashwin           4   0   46   0   11.5
+  Doug Bollinger                3   0   24   3      8
+  Albie Morkel                  4   0   37   2   9.25
+  Dwayne Bravo                  4   0   30   0    7.5
+  Suresh Raina                  1   0   21   0     21
+  Shadab Jakati                 2   0   27   0   13.5
+  Ravindra Jadeja               2   0   18   2      9
+
+  Fall of Wickets: 53-1 (Mayank Agarwal, 5.2 ov), 162-2 (Gayle, 16.2 ov), 174-3 (de Villiers, 17.2 ov), 198-4 (Saurabh Tiwary, 18.6 ov), 198-5 (Virat Kohli, 19.1 ov), 198-6 (Pujara, 19.2 ov), 199-7 (Vettori, 19.4 ov), 199-8 (Bhatkal, 19.5 ov)
+
+============================================================
+  Chennai Super Kings  208/5 (20 ov)  RR: 10.4
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Dwayne Bravo                25   15   2   1  166.67  not out
+  MS Dhoni                    41   24   1   2  170.83  c (sub)T Dilshan b Z Khan
+  Suresh Raina                23   14   3   1  164.29  c R Bhatkal b M Muralitharan
+  Albie Morkel                28    7   2   3     400  c M Agarwal b V Kumar
+  Ravindra Jadeja              4    1   1   0     400  not out
+  Murali Vijay                11   15   1   0   73.33  c & b M Muralitharan
+  Faf du Plessis              71   46   5   4  154.35  c V Kohli b M Muralitharan
+  Extras: 5 (b 0, lb 1, w 2, nb 2)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Daniel Vettori                4   0   30   0    7.5
+  Zaheer Khan                   4   0   32   1      8
+  Vinay Kumar                   4   0   53   1  13.25
+  Raju Bhatkal                  2   0   35   0   17.5
+  Muthiah Muralidaran           4   0   21   3   5.25
+  Virat Kohli                   2   0   36   0     18
+
+  Fall of Wickets: 56-1 (Vijay, 6.5 ov), 88-2 (Raina, 10.3 ov), 128-3 (du Plessis, 14.3 ov), 163-4 (MS Dhoni, 17.6 ov), 192-5 (Albie Morkel, 19.2 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

@@ -1,0 +1,162 @@
+SCORECARD
+============================================================
+
+============================================================
+  Delhi Daredevils  168/7 (20 ov)  RR: 8.4
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Samson                      39   25   7   0     156  c Uthappa b Umesh
+  Billings                    21   17   2   0  123.53  c Uthappa b Coulter-Nile
+  Nair                        21   27   1   0   77.78  b Coulter-Nile
+  Shreyas Iyer                26   17   4   0  152.94  run out (de Grandhomme/Uthappa)
+  Pant                        38   16   2   4   237.5  c Gambhir b Coulter-Nile
+  Mathews                      1    4   0   0      25  b Narine
+  Chris Morris                16    9   3   0  177.78  c Umesh b C Woakes
+  Pat Cummins                  3    4   0   0      75  not out
+  Shami                        0    1   0   0       0  not out
+  Extras: 3 (b 1, lb 0, w 2, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Coulter-Nile                  4   0   22   3    5.5
+  C Woakes                      4   0   31   1    7.8
+  Umesh                         4   0   53   1   13.2
+  Narine                        4   0   20   1      5
+  Kuldeep Yadav                 3   0   29   0    9.7
+  de Grandhomme                 1   0   12   0     12
+
+  Fall of Wickets: 53-1 (Billings, 6.1 ov), 63-2 (Samson, 7.5 ov), 106-3 (Shreyas Iyer, 13.2 ov), 110-4 (Nair, 14.6 ov), 145-5 (Mathews, 17.2 ov), 153-6 (Pant, 18.1 ov), 167-7 (Chris Morris, 19.5 ov)
+
+============================================================
+  Kolkata Knight Riders  169/6 (19.5 ov)  RR: 8.52
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Gautam Gambhir              14   12   2   0  116.67  c Mathews b Zaheer
+  Colin de Grandhomme          1    2   0   0      50  c Billings b Zaheer
+  Robin Uthappa                4    2   1   0     200  c Pant b Pat Cummins
+  Manish Pandey               69   49   4   3  140.82  not out
+  Yusuf Pathan                59   39   6   2  151.28  c and b Chris Morris
+  Suryakumar Yadav             7    9   0   0   77.78  c Zaheer b Pat Cummins
+  Chris Woakes                 3    5   0   0      60  st Pant b A Mishra
+  Sunil Narine                 1    1   0   0     100  not out
+  Extras: 11 (b 0, lb 3, w 8, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Zaheer Khan                   4   0   28   2      7
+  Pat Cummins                   4   0   39   2    9.8
+  Chris Morris                  4   0   30   1    7.5
+  Amit Mishra                 2.5   0   26   1    9.2
+  Mohammed Shami                3   0   28   0    9.3
+  Angelo Mathews                2   0   15   0    7.5
+
+  Fall of Wickets: 5-1 (Colin de Grandhomme, 0.5 ov), 19-2 (Robin Uthappa, 1.6 ov), 21-3 (Gautam Gambhir, 2.5 ov), 131-4 (Yusuf Pathan, 14.5 ov), 152-5 (Suryakumar Yadav, 17.5 ov), 160-6 (Chris Woakes, 19.2 ov)
+
+============================================================
+  MATCH 18138 - INNINGS 1
+============================================================
+  Score: 168/7 in 20 overs  |  Run Rate: 8.4
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  4  4  1  1  •                +10 runs  (Total: 10)  [FOUR, FOUR]
+  Over  2:  1  1  1  4  1  1                +9 runs  (Total: 19)  [FOUR]
+  Over  3:  4  1  4  4  •  4                +17 runs  (Total: 36)  [FOUR, FOUR, FOUR, over-break,FOUR,HIGHSCORING_OVER]
+  Over  4:  1  1  1  1  •  1                +5 runs  (Total: 41)
+  Over  5:  4  2  1  2  •  •                +9 runs  (Total: 50)  [FOUR, PARTNERSHIP]
+  Over  6:  1  •  •  1  •  1                +3 runs  (Total: 53)
+  Over  7:  W  •  •  1  4  1                +6 runs  (Total: 59)  [WICKET, FOUR]
+  Over  8:  1  1  1  1  W  •                +4 runs  (Total: 63)  [WICKET]
+  Over  9:  •  1  1  1  4  1                +8 runs  (Total: 71)  [FOUR]
+  Over 10:  4  1  1  1  1  4                +12 runs  (Total: 83)  [FOUR, over-break,FOUR]
+  Over 11:  1  1  1  •  •  1                +4 runs  (Total: 87)
+  Over 12:  1  1  1  4  2  2                +11 runs  (Total: 98)  [FOUR]
+  Over 13:  1  •  •  •  1  4                +6 runs  (Total: 104)  [over-break,FOUR]
+  Over 14:  1  W1  1  •  1  1               +5 runs  (Total: 109)  [WICKET, DROPPED]
+  Over 15:  •  1  •  •  •  W                +1 runs  (Total: 110)  [over-break,WICKET]
+  Over 16:  •  1  1  6  1  •                +9 runs  (Total: 119)  [SIX]
+  Over 17:  •  6  4  6  6  4                +26 runs  (Total: 145)  [SIX, FOUR, SIX, SIX, over-break,FOUR,HIGHSCORING_OVER]
+  Over 18:  •  W  •  4  1  Wd  1            +7 runs  (Total: 152)  [WICKET, FOUR]
+  Over 19:  W  Wd  1  1  1  1  •            +5 runs  (Total: 157)  [WICKET, DROPPED, DROPPED]
+  Over 20:  1  1  4  4  W  B1               +11 runs  (Total: 168)  [FOUR, FOUR, WICKET]
+
+BATTERS
+------------------------------------------------------------
+  Samson                      39 runs   25 balls  4s:0  6s:0  SR:156
+  Billings                    21 runs   17 balls  4s:0  6s:0  SR:123.53
+  Nair                        21 runs   27 balls  4s:0  6s:0  SR:77.78
+  Shreyas Iyer                26 runs   17 balls  4s:0  6s:0  SR:152.94
+  Pant                        38 runs   16 balls  4s:0  6s:0  SR:237.5
+  Mathews                      1 runs    4 balls  4s:0  6s:0  SR:25
+  Chris Morris                16 runs    9 balls  4s:0  6s:0  SR:177.78
+  Pat Cummins                  3 runs    4 balls  4s:0  6s:0  SR:75
+  Shami                        0 runs    1 balls  4s:0  6s:0  SR:0
+
+BOWLERS
+------------------------------------------------------------
+  Coulter-Nile               4 ov   22 runs  3 wkts  Econ:5.5
+  C Woakes                   4 ov   31 runs  1 wkts  Econ:7.8
+  Umesh                      4 ov   53 runs  1 wkts  Econ:13.2
+  Narine                     4 ov   20 runs  1 wkts  Econ:5
+  Kuldeep Yadav              3 ov   29 runs  0 wkts  Econ:9.7
+  de Grandhomme              1 ov   12 runs  0 wkts  Econ:12
+
+============================================================
+  MATCH 18138 - INNINGS 2
+============================================================
+  Score: 169/6 in 19.5 overs  |  Run Rate: 8.52
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  2  1  1  1  W  1                +6 runs  (Total: 6)  [WICKET]
+  Over  2:  •  4  4  1  4  W                +13 runs  (Total: 19)  [FOUR, FOUR, FOUR, over-break,WICKET]
+  Over  3:  L1  1  •  •  W  •               +2 runs  (Total: 21)  [WICKET, over-break,RUNOUT_MISS]
+  Over  4:  •  2  4  •  1  •                +7 runs  (Total: 28)  [FOUR]
+  Over  5:  •  4  1  •  •  1                +6 runs  (Total: 34)  [FOUR]
+  Over  6:  1  4  4  4  4  1                +15 runs  (Total: 49)  [FOUR, FOUR, FOUR, over-break,HIGHSCORING_OVER]
+  Over  7:  1  1  •  •  1  •                +3 runs  (Total: 52)
+  Over  8:  2  •  1  •  •  6                +9 runs  (Total: 61)  [over-break,SIX]
+  Over  9:  1  1  6  1  Wd  •  4            +14 runs  (Total: 75)  [SIX, PARTNERSHIP, over-break,FOUR,HIGHSCORING_OVER]
+  Over 10:  1  1  1  1  •  Wd5  4           +13 runs  (Total: 88)  [over-break,FOUR]
+  Over 11:  •  1  1  1  •  1                +5 runs  (Total: 93)
+  Over 12:  1  1  1  1  1  Wd  •            +6 runs  (Total: 99)
+  Over 13:  1  6  1  •  2  1                +11 runs  (Total: 110)  [SIX]
+  Over 14:  1  •  1  6  3  4                +15 runs  (Total: 125)  [FIFTY,SIX, PARTNERSHIP, over-break,FOUR,HIGHSCORING_OVER]
+  Over 15:  1  1  •  4  W  4                +10 runs  (Total: 135)  [FOUR, WICKET, over-break,FOUR]
+  Over 16:  1  1  2  L1  1  •               +6 runs  (Total: 141)  [FIFTY]
+  Over 17:  1  1  1  1  1  1                +6 runs  (Total: 147)
+  Over 18:  1  •  2  Wd  1  W  1            +6 runs  (Total: 153)  [WICKET]
+  Over 19:  1  2  2  1  1  •                +7 runs  (Total: 160)
+  Over 20:  •  W  1  6  2                   +9 runs  (Total: 169)  [WICKET, SIX]
+
+BATTERS
+------------------------------------------------------------
+  Gautam Gambhir              14 runs   12 balls  4s:2  6s:0  SR:116.67
+  Colin de Grandhomme          1 runs    2 balls  4s:0  6s:0  SR:50
+  Robin Uthappa                4 runs    2 balls  4s:1  6s:0  SR:200
+  Manish Pandey               69 runs   49 balls  4s:4  6s:3  SR:140.82
+  Yusuf Pathan                59 runs   39 balls  4s:6  6s:2  SR:151.28
+  Suryakumar Yadav             7 runs    9 balls  4s:0  6s:0  SR:77.78
+  Chris Woakes                 3 runs    5 balls  4s:0  6s:0  SR:60
+  Sunil Narine                 1 runs    1 balls  4s:0  6s:0  SR:100
+
+BOWLERS
+------------------------------------------------------------
+  Zaheer Khan                4 ov   28 runs  2 wkts  Econ:7
+  Pat Cummins                4 ov   39 runs  2 wkts  Econ:9.8
+  Chris Morris               4 ov   30 runs  1 wkts  Econ:7.5
+  Amit Mishra                2.5 ov   26 runs  1 wkts  Econ:9.2
+  Mohammed Shami             3 ov   28 runs  0 wkts  Econ:9.3
+  Angelo Mathews             2 ov   15 runs  0 wkts  Econ:7.5
+
+  [Win probability not available for this match]

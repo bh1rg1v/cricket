@@ -1,0 +1,174 @@
+SCORECARD
+============================================================
+
+============================================================
+  Gujarat Titans  188/9 (20 ov)  RR: 9.4
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  W Saha                       0    3   0   0       0  c Abhishek Sharma b Bhuvneshwar
+  Shubman Gill               101   58  13   1  174.14  c Abdul Samad b Bhuvneshwar
+  Sai Sudharsan               47   36   6   1  130.56  c T Natarajan b Marco Jansen
+  Hardik Pandya                8    6   1   0  133.33  c Tripathi b Bhuvneshwar
+  Miller                       7    5   1   0     140  c Markram b T Natarajan
+  Rahul Tewatia                3    3   0   0     100  c Marco Jansen b Fazalhaq Farooqi
+  Shanaka                      9    7   1   0  128.57  not out
+  Rashid Khan                  0    1   0   0       0  c Klaasen b Bhuvneshwar
+  Noor Ahmad                   0    1   0   0       0  run out (Klaasen/Bhuvneshwar)
+  Shami                        0    1   0   0       0  c Marco Jansen b Bhuvneshwar
+  Mohit Sharma                 0    1   0   0       0  not out
+  Extras: 13 (b 1, lb 0, w 10, nb 2)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Bhuvneshwar                   4   0   30   5    7.5
+  Marco Jansen                  4   0   39   1    9.8
+  Fazalhaq Farooqi              3   0   31   1   10.3
+  T Natarajan                   4   0   34   1    8.5
+  Markram                       1   0   13   0     13
+  Markande                      3   0   27   0      9
+  Abhishek Sharma               1   0   13   0     13
+
+  Fall of Wickets: 0-1 (W Saha, 0.3 ov), 147-2 (Sai Sudharsan, 14.1 ov), 156-3 (Hardik Pandya, 15.2 ov), 169-4 (Miller, 16.4 ov), 175-5 (Rahul Tewatia, 17.3 ov), 186-6 (Shubman Gill, 19.1 ov), 186-7 (Rashid Khan, 19.2 ov), 186-8 (Noor Ahmad, 19.3 ov), 187-9 (Shami, 19.5 ov)
+
+============================================================
+  Sunrisers Hyderabad  154/9 (20 ov)  RR: 7.7
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Anmolpreet Singh             5    4   1   0     125  c Rashid Khan b Shami
+  Abhishek Sharma              4    5   1   0      80  c W Saha b Yash Dayal
+  Aiden Markram               10   10   1   0     100  c Shanaka b Shami
+  Rahul Tripathi               1    2   0   0      50  c Rahul Tewatia b Shami
+  Heinrich Klaasen            64   44   4   3  145.45  c Miller b Shami
+  Sanvir Singh                 7    6   0   1  116.67  c Sai Sudharsan b Mohit Sharma
+  Abdul Samad                  4    3   1   0  133.33  c (sub)Shivam Mavi b Mohit Sharma
+  Marco Jansen                 3    6   0   0      50  c Hardik Pandya b Mohit Sharma
+  Bhuvneshwar Kumar           27   26   3   0  103.85  c Rashid Khan b Mohit Sharma
+  Mayank Markande             18    9   2   1     200  not out
+  Fazalhaq Farooqi             1    5   0   0      20  not out
+  Extras: 10 (b 0, lb 5, w 5, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Mohammed Shami                4   0   20   4      5
+  Yash Dayal                    4   0   31   1    7.8
+  Rashid Khan                   4   0   28   0      7
+  Mohit Sharma                  4   0   28   4      7
+  Noor Ahmad                  2.5   0   35   0   12.4
+  Rahul Tewatia               1.1   0    7   0      6
+
+  Fall of Wickets: 6-1 (Anmolpreet Singh, 0.5 ov), 11-2 (Abhishek Sharma, 1.4 ov), 12-3 (Rahul Tripathi, 2.1 ov), 29-4 (Aiden Markram, 4.2 ov), 45-5 (Sanvir Singh, 6.1 ov), 49-6 (Abdul Samad, 6.4 ov), 59-7 (Marco Jansen, 8.6 ov), 127-8 (Heinrich Klaasen, 16.5 ov), 147-9 (Bhuvneshwar Kumar, 18.4 ov)
+
+============================================================
+  MATCH 66446 - INNINGS 1
+============================================================
+  Score: 188/9 in 20 overs  |  Run Rate: 9.4
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  •  W  1  3  1                +5 runs  (Total: 5)  [WICKET, RUNOUT_MISS]
+  Over  2:  •  4  Wd  •  •  •  N  •  Wd5  Wd  +12 runs  (Total: 17)  [FOUR]
+  Over  3:  4  3  4  •  •  4                +15 runs  (Total: 32)  [FOUR, FOUR, over-break,FOUR,HIGHSCORING_OVER]
+  Over  4:  •  2  4  4  4  4                +18 runs  (Total: 50)  [FOUR, FOUR, FOUR, over-break,TEAM_FIFTY,PARTNERSHIP,FOUR,HIGHSCORING_OVER]
+  Over  5:  1  1  1  •  •  2                +5 runs  (Total: 55)
+  Over  6:  •  4  1  •  4  1                +10 runs  (Total: 65)  [FOUR, FOUR]
+  Over  7:  1  1  2  4  4  1                +13 runs  (Total: 78)  [FOUR, FOUR]
+  Over  8:  4  4  1  1  •  1                +11 runs  (Total: 89)  [MILESTONE,FIFTY,FOUR, FOUR]
+  Over  9:  •  1  1  2  1  1                +6 runs  (Total: 95)
+  Over 10:  1  1  •  1  1  4                +8 runs  (Total: 103)  [over-break,TEAM_HUNDRED,PARTNERSHIP,FOUR]
+  Over 11:  •  1  4  Wd  N6  1  1  •        +15 runs  (Total: 118)  [FOUR, SIX, over-break,HIGHSCORING_OVER]
+  Over 12:  1  1  6  Wd  •  4  •            +13 runs  (Total: 131)  [SIX, FOUR]
+  Over 13:  1  2  1  1  2  1                +8 runs  (Total: 139)
+  Over 14:  1  1  •  4  1  1                +8 runs  (Total: 147)  [FOUR]
+  Over 15:  W  •  1  1  4  1                +7 runs  (Total: 154)  [WICKET, TEAM_HUNDRED,FOUR]
+  Over 16:  2  W  1  4  1  1                +9 runs  (Total: 163)  [WICKET, FOUR]
+  Over 17:  1  1  4  W  1  1                +8 runs  (Total: 171)  [FOUR, WICKET]
+  Over 18:  1  2  Wd  W  1  1  1            +7 runs  (Total: 178)  [WICKET]
+  Over 19:  1  1  •  4  1  1                +8 runs  (Total: 186)  [MILESTONE,HUNDRED, FOUR]
+  Over 20:  W  W  W  1  W  B1               +2 runs  (Total: 188)  [WICKET, WICKET, WICKET, WICKET]
+
+BATTERS
+------------------------------------------------------------
+  W Saha                       0 runs    3 balls  4s:0  6s:0  SR:0
+  Shami                        0 runs    1 balls  4s:0  6s:0  SR:0
+  Mohit Sharma                 0 runs    1 balls  4s:0  6s:0  SR:0
+  Shubman Gill               101 runs   58 balls  4s:0  6s:0  SR:174.14
+  Sai Sudharsan               47 runs   36 balls  4s:0  6s:0  SR:130.56
+  Hardik Pandya                8 runs    6 balls  4s:0  6s:0  SR:133.33
+  Miller                       7 runs    5 balls  4s:0  6s:0  SR:140
+  Rahul Tewatia                3 runs    3 balls  4s:0  6s:0  SR:100
+  Shanaka                      9 runs    7 balls  4s:0  6s:0  SR:128.57
+  Rashid Khan                  0 runs    1 balls  4s:0  6s:0  SR:0
+  Noor Ahmad                   0 runs    1 balls  4s:0  6s:0  SR:0
+
+BOWLERS
+------------------------------------------------------------
+  Bhuvneshwar                4 ov   30 runs  5 wkts  Econ:7.5
+  Marco Jansen               4 ov   39 runs  1 wkts  Econ:9.8
+  Fazalhaq Farooqi           3 ov   31 runs  1 wkts  Econ:10.3
+  T Natarajan                4 ov   34 runs  1 wkts  Econ:8.5
+  Markram                    1 ov   13 runs  0 wkts  Econ:13
+  Markande                   3 ov   27 runs  0 wkts  Econ:9
+  Abhishek Sharma            1 ov   13 runs  0 wkts  Econ:13
+
+============================================================
+  MATCH 66446 - INNINGS 2
+============================================================
+  Score: 154/9 in 20 overs  |  Run Rate: 7.7
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  1  L1  4  W  •               +6 runs  (Total: 6)  [DROPPED, FOUR, WICKET]
+  Over  2:  4  •  •  Wd  W  1  •            +6 runs  (Total: 12)  [FOUR, WICKET]
+  Over  3:  W  •  1  •  3  1                +5 runs  (Total: 17)  [WICKET]
+  Over  4:  4  1  •  2  4  1                +12 runs  (Total: 29)  [FOUR, FOUR]
+  Over  5:  •  W  •  •  •  6                +6 runs  (Total: 35)  [WICKET, over-break,SIX]
+  Over  6:  •  •  2  6  1  1                +10 runs  (Total: 45)  [SIX]
+  Over  7:  W  •  4  W  1  •                +5 runs  (Total: 50)  [WICKET, FOUR, WICKET, TEAM_FIFTY]
+  Over  8:  1  •  1  •  1  1                +4 runs  (Total: 54)
+  Over  9:  2  •  2  1  •  W                +5 runs  (Total: 59)  [over-break,WICKET]
+  Over 10:  1  1  2  1  1  1                +7 runs  (Total: 66)
+  Over 11:  6  4  1  2  •  1                +14 runs  (Total: 80)  [SIX,DROPPED, FOUR, over-break,HIGHSCORING_OVER]
+  Over 12:  •  1  •  •  Wd  Wd  •  1        +4 runs  (Total: 84)
+  Over 13:  6  1  4  •  1  1                +13 runs  (Total: 97)  [SIX, FOUR]
+  Over 14:  1  4  •  1  •  1                +7 runs  (Total: 104)  [TEAM_HUNDRED,FOUR, over-break,MILESTONE,FIFTY]
+  Over 15:  1  •  1  4  1  •                +7 runs  (Total: 111)  [FOUR,PARTNERSHIP]
+  Over 16:  1  L4  1  Wd  4  1  •           +12 runs  (Total: 123)  [FOUR, FOUR]
+  Over 17:  1  1  1  1  W  •                +4 runs  (Total: 127)  [WICKET]
+  Over 18:  •  2  4  Wd  1  •  1            +9 runs  (Total: 136)  [FOUR]
+  Over 19:  6  4  1  W  •  •                +11 runs  (Total: 147)  [SIX, FOUR, WICKET]
+  Over 20:  1  •  1  4  1  •                +7 runs  (Total: 154)  [TEAM_HUNDRED,FOUR]
+
+BATTERS
+------------------------------------------------------------
+  Anmolpreet Singh             5 runs    4 balls  4s:1  6s:0  SR:125
+  Mayank Markande             18 runs    9 balls  4s:2  6s:1  SR:200
+  Fazalhaq Farooqi             1 runs    5 balls  4s:0  6s:0  SR:20
+  Abhishek Sharma              4 runs    5 balls  4s:1  6s:0  SR:80
+  Aiden Markram               10 runs   10 balls  4s:1  6s:0  SR:100
+  Rahul Tripathi               1 runs    2 balls  4s:0  6s:0  SR:50
+  Heinrich Klaasen            64 runs   44 balls  4s:4  6s:3  SR:145.45
+  Sanvir Singh                 7 runs    6 balls  4s:0  6s:1  SR:116.67
+  Abdul Samad                  4 runs    3 balls  4s:1  6s:0  SR:133.33
+  Marco Jansen                 3 runs    6 balls  4s:0  6s:0  SR:50
+  Bhuvneshwar Kumar           27 runs   26 balls  4s:3  6s:0  SR:103.85
+
+BOWLERS
+------------------------------------------------------------
+  Mohammed Shami             4 ov   20 runs  4 wkts  Econ:5
+  Yash Dayal                 4 ov   31 runs  1 wkts  Econ:7.8
+  Rashid Khan                4 ov   28 runs  0 wkts  Econ:7
+  Mohit Sharma               4 ov   28 runs  4 wkts  Econ:7
+  Noor Ahmad                 2.5 ov   35 runs  0 wkts  Econ:12.4
+  Rahul Tewatia              1.1 ov    7 runs  0 wkts  Econ:6
+
+  [Win probability not available for this match]

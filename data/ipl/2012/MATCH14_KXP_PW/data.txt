@@ -1,0 +1,65 @@
+SCORECARD
+============================================================
+
+============================================================
+  Pune Warriors  115/10 (19 ov)  RR: 6.05
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Sourav Ganguly              16    9   3   0  177.78  c S Marsh b D Mascarenhas
+  Ashish Nehra                 2    4   0   0      50  not out
+  Marlon Samuels               2   12   0   0   16.67  b D Mascarenhas
+  Robin Uthappa               17   16   0   1  106.25  c B Sharma b D Mascarenhas
+  Jesse Ryder                  7   11   1   0   63.64  run out (D Hussey/A Gilchrist)
+  Mithun Manhas               31   28   3   1  110.71  b D Mascarenhas
+  Ashok Dinda                  2    5   0   0      40  run out (Awana)
+  Angelo Mathews              11    9   2   0  122.22  lbw b H Singh
+  Manish Pandey                0    3   0   0       0  c D Hussey b H Singh
+  Steven Smith                13   13   1   0     100  b P Chawla
+  Rahul Sharma                 2    4   0   0      50  c M Singh b D Mascarenhas
+  Extras: 12 (b 4, lb 3, w 5, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Praveen Kumar                 4   0   19   0   4.75
+  Parvinder Awana               4   0   18   0    4.5
+  Dimitri Mascarenhas           4   0   25   5   6.25
+  Harmeet Singh Bansal          3   0   23   2   7.67
+  Piyush Chawla                 4   0   23   1   5.75
+
+  Fall of Wickets: 13-1 (Ryder, 2.2 ov), 28-2 (S Ganguly, 5.1 ov), 29-3 (Samuels, 5.4 ov), 51-4 (Mathews, 8.3 ov), 77-5 (Uthappa, 12.1 ov), 99-6 (Steven Smith, 15.4 ov), 100-7 (Manish Pandey, 16.3 ov), 108-8 (Manhas, 17.2 ov), 110-9 (Rahul Sharma, 17.4 ov), 115-10 (Dinda, 19 ov)
+
+============================================================
+  Kings XI Punjab  116/3 (17.4 ov)  RR: 6.67
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Adam Gilchrist              21   17   3   0  123.53  c S Smith b A Mathews
+  Piyush Chawla               21   24   3   0    87.5  not out
+  Shaun Marsh                 64   54   7   1  118.52  not out
+  Paul Valthaty                0    1   0   0       0  b A Dinda
+  Mandeep Singh               10   10   1   0     100  c S Smith b R Sharma
+  Extras: 0 (b 0, lb 0, w 0, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Ashok Dinda                   3   0   18   1      6
+  Ashish Nehra                  3   0   22   0   7.33
+  Marlon Samuels              3.4   0   27   0   7.94
+  Angelo Mathews                3   0   20   1   6.67
+  Jesse Ryder                   2   0   12   0      6
+  Rahul Sharma                  3   0   17   1   5.67
+
+  Fall of Wickets: 0-1 (Valthaty, 0.1 ov), 50-2 (Adam Gilchrist, 7.6 ov), 70-3 (Mandeep, 11.4 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

@@ -1,0 +1,162 @@
+SCORECARD
+============================================================
+
+============================================================
+  Delhi Capitals  157/8 (20 ov)  RR: 7.85
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Prithvi Shaw                 5    9   1   0   55.56  c Chris Jordan b Shami
+  Dhawan                       0    2   0   0       0  run out (Rahul/K Gowtham)
+  Hetmyer                      7   13   1   0   53.85  c Mayank Agarwal b Shami
+  Shreyas Iyer                39   32   0   3  121.88  c Chris Jordan b Shami
+  Pant                        31   29   4   0   106.9  b Ravi Bishnoi
+  Stoinis                     53   21   7   3  252.38  run out (Pooran/Rahul)
+  Axar                         6    9   0   0   66.67  c Rahul b Cottrell
+  Ashwin                       4    6   0   0   66.67  c Shami b Cottrell
+  Nortje                       3    1   0   0     300  not out
+  Extras: 9 (b 1, lb 0, w 6, nb 2)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Cottrell                      4   0   24   2      6
+  Shami                         4   0   15   3    3.8
+  Chris Jordan                  4   0   56   0     14
+  K Gowtham                     4   0   39   0    9.8
+  Ravi Bishnoi                  4   0   22   1    5.5
+
+  Fall of Wickets: 6-1 (Dhawan, 1.4 ov), 9-2 (Prithvi Shaw, 3.3 ov), 13-3 (Hetmyer, 3.6 ov), 86-4 (Pant, 13.6 ov), 87-5 (Shreyas Iyer, 14.1 ov), 96-6 (Axar, 16.1 ov), 127-7 (Ashwin, 18.6 ov), 154-8 (Stoinis, 19.5 ov)
+
+============================================================
+  Kings XI Punjab  157/8 (20 ov)  RR: 7.85
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Lokesh Rahul                21   19   2   1  110.53  b Mohit Sharma
+  Mayank Agarwal              89   60   7   4  148.33  c Hetmyer b Stoinis
+  Karun Nair                   1    3   0   0   33.33  c Prithvi Shaw b Ashwin
+  Nicholas Pooran              0    3   0   0       0  b Ashwin
+  Glenn Maxwell                1    4   0   0      25  c Shreyas Iyer b Rabada
+  Sarfaraz Khan               12   12   2   0     100  c Prithvi Shaw b Axar
+  Krishnappa Gowtham          20   14   1   1  142.86  c Pant b Rabada
+  Chris Jordan                 5    6   0   0   83.33  c Rabada b Stoinis
+  Extras: 8 (b 0, lb 6, w 1, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Anrich Nortje                 4   0   33   0    8.2
+  Mohit Sharma                  4   0   45   1   11.2
+  Kagiso Rabada                 4   0   28   2      7
+  Ravichandran Ashwin           1   0    2   2      2
+  Axar Patel                    4   0   14   1    3.5
+  Marcus Stoinis                3   0   29   2    9.7
+
+  Fall of Wickets: 30-1 (Lokesh Rahul, 4.3 ov), 33-2 (Karun Nair, 5.1 ov), 34-3 (Nicholas Pooran, 5.5 ov), 35-4 (Glenn Maxwell, 6.3 ov), 55-5 (Sarfaraz Khan, 9.6 ov), 101-6 (Krishnappa Gowtham, 15.3 ov), 157-7 (Mayank Agarwal, 19.5 ov), 157-8 (Chris Jordan, 19.6 ov)
+
+============================================================
+  MATCH 30340 - INNINGS 1
+============================================================
+  Score: 157/8 in 20 overs  |  Run Rate: 7.85
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  •  •  4  1  •                +5 runs  (Total: 5)  [FOUR]
+  Over  2:  •  •  B1  W  •  1               +2 runs  (Total: 7)  [WICKET, over-break,DROPPED]
+  Over  3:  •  •  •  •  •  1                +1 runs  (Total: 8)
+  Over  4:  •  1  W  4  •  W                +5 runs  (Total: 13)  [WICKET, FOUR, over-break,WICKET]
+  Over  5:  •  •  3  4  Wd  •  •            +8 runs  (Total: 21)  [FOUR]
+  Over  6:  •  1  •  1  •  •                +2 runs  (Total: 23)
+  Over  7:  1  •  •  1  1  1                +4 runs  (Total: 27)
+  Over  8:  1  •  Wd  1  •  1  1            +5 runs  (Total: 32)
+  Over  9:  4  1  •  6  1  1                +13 runs  (Total: 45)  [FOUR, SIX]
+  Over 10:  •  Wd  •  1  •  1  1            +4 runs  (Total: 49)
+  Over 11:  1  2  2  •  1  1                +7 runs  (Total: 56)  [TEAM_FIFTY]
+  Over 12:  4  •  1  1  1  1                +8 runs  (Total: 64)  [FOUR, PARTNERSHIP]
+  Over 13:  1  •  1  6  6  1                +15 runs  (Total: 79)  [SIX, SIX, over-break,HIGHSCORING_OVER]
+  Over 14:  1  1  1  •  4  W                +7 runs  (Total: 86)  [FOUR, over-break,WICKET]
+  Over 15:  W  Wd  •  2  N  1  1  1         +7 runs  (Total: 93)  [WICKET]
+  Over 16:  •  1  •  1  1  •                +3 runs  (Total: 96)
+  Over 17:  W  1  1  1  •  1                +4 runs  (Total: 100)  [WICKET, over-break,TEAM_HUNDRED]
+  Over 18:  6  4  1  •  •  2                +13 runs  (Total: 113)  [SIX, FOUR]
+  Over 19:  4  4  4  Wd  •  1  W            +14 runs  (Total: 127)  [FOUR, FOUR, FOUR, over-break,WICKET,HIGHSCORING_OVER]
+  Over 20:  6  4  Wd  4  4  6  3  WN1       +30 runs  (Total: 157)  [SIX, FOUR, FOUR, FOUR, TEAM_HUNDRED,FIFTY,SIX, over-break,HIGHSCORING_OVER, WICKET]
+
+BATTERS
+------------------------------------------------------------
+  Prithvi Shaw                 5 runs    9 balls  4s:0  6s:0  SR:55.56
+  Nortje                       3 runs    1 balls  4s:0  6s:0  SR:300
+  Dhawan                       0 runs    2 balls  4s:0  6s:0  SR:0
+  Hetmyer                      7 runs   13 balls  4s:0  6s:0  SR:53.85
+  Shreyas Iyer                39 runs   32 balls  4s:0  6s:0  SR:121.88
+  Pant                        31 runs   29 balls  4s:0  6s:0  SR:106.9
+  Stoinis                     53 runs   21 balls  4s:0  6s:0  SR:252.38
+  Axar                         6 runs    9 balls  4s:0  6s:0  SR:66.67
+  Ashwin                       4 runs    6 balls  4s:0  6s:0  SR:66.67
+  Rabada                       0 runs    0 balls  4s:0  6s:0  SR:0
+
+BOWLERS
+------------------------------------------------------------
+  Cottrell                   4 ov   24 runs  2 wkts  Econ:6
+  Shami                      4 ov   15 runs  3 wkts  Econ:3.8
+  Chris Jordan               4 ov   56 runs  0 wkts  Econ:14
+  K Gowtham                  4 ov   39 runs  0 wkts  Econ:9.8
+  Ravi Bishnoi               4 ov   22 runs  1 wkts  Econ:5.5
+
+============================================================
+  MATCH 30340 - INNINGS 2
+============================================================
+  Score: 157/8 in 20 overs  |  Run Rate: 7.85
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  •  1  L4  •  •               +5 runs  (Total: 5)  [FOUR]
+  Over  2:  •  2  6  N  •  •  •             +9 runs  (Total: 14)  [SIX]
+  Over  3:  L1  Wd  1  •  1  1  •           +5 runs  (Total: 19)
+  Over  4:  •  4  •  4  1  •                +9 runs  (Total: 28)  [FOUR, FOUR]
+  Over  5:  1  1  W  •  1  2                +5 runs  (Total: 33)  [WICKET]
+  Over  6:  W  1  •  •  W  1                +2 runs  (Total: 35)  [WICKET, WICKET]
+  Over  7:  •  •  W  1  4  •                +5 runs  (Total: 40)  [WICKET, FOUR]
+  Over  8:  1  •  •  •  1  1                +3 runs  (Total: 43)
+  Over  9:  1  1  1  1  1  4                +9 runs  (Total: 52)  [over-break,TEAM_FIFTY,FOUR]
+  Over 10:  •  1  1  1  •  W                +3 runs  (Total: 55)  [over-break,WICKET]
+  Over 11:  •  •  1  L1  6  1               +9 runs  (Total: 64)  [SIX]
+  Over 12:  1  •  •  •  2  1                +4 runs  (Total: 68)
+  Over 13:  3  •  4  •  4  1                +12 runs  (Total: 80)  [FOUR, FOUR]
+  Over 14:  1  1  •  1  1  •                +4 runs  (Total: 84)
+  Over 15:  6  4  1  1  1  1                +14 runs  (Total: 98)  [SIX, FOUR, over-break,HIGHSCORING_OVER]
+  Over 16:  2  1  W  2  •  2                +7 runs  (Total: 105)  [TEAM_HUNDRED,DROPPED, WICKET]
+  Over 17:  4  •  4  1  1  1                +11 runs  (Total: 116)  [FOUR, FOUR]
+  Over 18:  6  2  6  2  1  •                +17 runs  (Total: 133)  [FIFTY,SIX, SIX, over-break,HIGHSCORING_OVER]
+  Over 19:  •  4  1  4  2  1                +12 runs  (Total: 145)  [FOUR, FOUR]
+  Over 20:  6  2  4  •  W  W                +12 runs  (Total: 157)  [TEAM_HUNDRED,PARTNERSHIP,SIX, FOUR, WICKET, over-break,WICKET]
+
+BATTERS
+------------------------------------------------------------
+  Lokesh Rahul                21 runs   19 balls  4s:2  6s:1  SR:110.53
+  Mayank Agarwal              89 runs   60 balls  4s:7  6s:4  SR:148.33
+  Karun Nair                   1 runs    3 balls  4s:0  6s:0  SR:33.33
+  Nicholas Pooran              0 runs    3 balls  4s:0  6s:0  SR:0
+  Glenn Maxwell                1 runs    4 balls  4s:0  6s:0  SR:25
+  Sarfaraz Khan               12 runs   12 balls  4s:2  6s:0  SR:100
+  Krishnappa Gowtham          20 runs   14 balls  4s:1  6s:1  SR:142.86
+  Chris Jordan                 5 runs    6 balls  4s:0  6s:0  SR:83.33
+  Mohammed Shami               0 runs    0 balls  4s:0  6s:0  SR:0
+
+BOWLERS
+------------------------------------------------------------
+  Anrich Nortje              4 ov   33 runs  0 wkts  Econ:8.2
+  Mohit Sharma               4 ov   45 runs  1 wkts  Econ:11.2
+  Kagiso Rabada              4 ov   28 runs  2 wkts  Econ:7
+  Ravichandran Ashwin        1 ov    2 runs  2 wkts  Econ:2
+  Axar Patel                 4 ov   14 runs  1 wkts  Econ:3.5
+  Marcus Stoinis             3 ov   29 runs  2 wkts  Econ:9.7
+
+  [Win probability not available for this match]

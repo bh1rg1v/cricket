@@ -1,0 +1,62 @@
+SCORECARD
+============================================================
+
+============================================================
+  Royal Challengers Bangalore  154/6 (20 ov)  RR: 7.7
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Yuvraj Singh                25   24   2   0  104.17  c Raina b R Jadeja
+  AB de Villiers              10    6   2   0  166.67  b Nehra
+  Virat Kohli                 73   49   2   5  148.98  b Nehra
+  Yogesh Takawale             19   17   4   0  111.76  lbw b Ashwin
+  Sachin Rana                  5    6   0   0   83.33  not out
+  Rilee Rossouw                1    4   0   0      25  b Nehra
+  Mitchell Starc               2    2   0   0     100  not out
+  Vijay Zol                   13   12   0   1  108.33  b Mohit Sharma
+  Extras: 6 (b 0, lb 2, w 4, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Ashish Nehra                  4   0   33   3   8.25
+  Samuel Badree                 3   0   29   0   9.67
+  Ravichandran Ashwin           4   0   33   1   8.25
+  Mohit Sharma                  3   0   16   1   5.33
+  Suresh Raina                  4   0   27   0   6.75
+  Ravindra Jadeja               2   0   14   1      7
+
+  Fall of Wickets: 2-1 (Rilee Rossouw, 0.5 ov), 31-2 (Y Takawale, 4.5 ov), 33-3 (Zol, 5.4 ov), 88-4 (Yuvraj, 13.6 ov), 130-5 (de Villiers, 17.4 ov), 150-6 (Virat Kohli, 19.2 ov)
+
+============================================================
+  Chennai Super Kings  160/2 (17.4 ov)  RR: 9.2
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Dwayne Smith                34   17   4   1     200  c Kohli b Rampaul
+  MS Dhoni                    49   28   4   3     175  not out
+  Suresh Raina                18   18   2   0     100  st Y Takawale b Yuvraj
+  Faf du Plessis              54   43   3   3  125.58  not out
+  Extras: 5 (b 4, lb 0, w 1, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Shadab Jakati               3.4   0   41   0  12.06
+  Ravi Rampaul                  2   0   21   1   10.5
+  Mitchell Starc                3   0   33   0     11
+  Yuzvendra Chahal              4   0   24   0      6
+  Sachin Rana                   1   0    7   0      7
+  Yuvraj Singh                  4   0   30   1    7.5
+
+  Fall of Wickets: 57-1 (Dwayne Smith, 4.2 ov), 85-2 (Raina, 9.3 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

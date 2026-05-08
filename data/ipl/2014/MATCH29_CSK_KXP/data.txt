@@ -1,0 +1,64 @@
+SCORECARD
+============================================================
+
+============================================================
+  Kings XI Punjab  231/4 (20 ov)  RR: 11.55
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Virender Sehwag             30   23   5   1  130.43  b Hilfenhaus
+  Mitchell Johnson            11    6   2   0  183.33  not out
+  George Bailey               40   13   6   2  307.69  not out
+  Mandeep Singh                3    8   0   0    37.5  c I Pandey b Mohit Sharma
+  David Miller                47   32   5   2  146.88  b Dwayne Smith
+  Glenn Maxwell               90   38   6   8  236.84  c R Jadeja b Mohit Sharma
+  Extras: 10 (b 0, lb 5, w 5, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Ben Hilfenhaus                4   0   36   1      9
+  Ishwar Pandey                 4   0   41   0  10.25
+  Mohit Sharma                  4   0   38   2    9.5
+  Dwayne Smith                  3   0   36   1     12
+  Ravindra Jadeja               3   0   37   0  12.33
+  Ravichandran Ashwin           2   0   38   0     19
+
+  Fall of Wickets: 33-1 (Mandeep, 4.3 ov), 38-2 (Sehwag, 5.2 ov), 173-3 (David Miller, 15.6 ov), 182-4 (Glenn Maxwell, 17.2 ov)
+
+============================================================
+  Chennai Super Kings  187/6 (20 ov)  RR: 9.35
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Brendon McCullum            33   29   3   0  113.79  run out (Johnson)
+  Dwayne Smith                 4    4   1   0     100  c Johnson b Sandeep Sharma
+  MS Dhoni                    23   20   0   1     115  c Bailey b Johnson
+  Suresh Raina                35   27   3   1  129.63  c D Miller b Maxwell
+  Ravindra Jadeja             17    8   3   0   212.5  b R Dhawan
+  Mithun Manhas                8    3   0   1  266.67  not out
+  Ravichandran Ashwin         11    4   2   0     275  not out
+  Faf du Plessis              52   25   7   1     208  c M Kartik b Johnson
+  Extras: 4 (b 0, lb 1, w 3, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Sandeep Sharma                4   0   37   1   9.25
+  Mitchell Johnson              4   0   37   2   9.25
+  Murali Kartik                 4   0   40   0     10
+  Axar Patel                    4   0   28   0      7
+  Glenn Maxwell                 2   0   21   1   10.5
+  Rishi Dhawan                  2   0   23   1   11.5
+
+  Fall of Wickets: 5-1 (Dwayne Smith, 0.4 ov), 56-2 (Raina, 7.3 ov), 88-3 (Ravindra Jadeja, 10.5 ov), 98-4 (Brendon McCullum, 12 ov), 159-5 (du Plessis, 18.1 ov), 167-6 (MS Dhoni, 18.5 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

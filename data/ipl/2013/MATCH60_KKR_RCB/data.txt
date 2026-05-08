@@ -1,0 +1,68 @@
+SCORECARD
+============================================================
+
+============================================================
+  Royal Challengers Bangalore  115/9 (20 ov)  RR: 5.75
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Chris Gayle                 33   36   1   1   91.67  st M Bisla b S Narine
+  Murali Kartik                0    1   0   0       0  b L Balaji
+  AB de Villiers              28   22   1   1  127.27  c M Bisla b L Balaji
+  Virat Kohli                 17   14   2   0  121.43  b J Kallis
+  Moises Henriques            11   11   0   0     100  c Manoj Tiwary b J Kallis
+  Cheteshwar Pujara            5   14   0   0   35.71  c L Balaji b S Senanayake
+  Vinay Kumar                 14   13   1   0  107.69  not out
+  Saurabh Tiwary               1    3   0   0   33.33  lbw b S Narine
+  Abhimanyu Mithun             2    2   0   0     100  c Manoj Tiwary b S Narine
+  Ravi Rampaul                 0    3   0   0       0  lbw b S Narine
+  Jaydev Unadkat               1    1   0   0     100  not out
+  Extras: 3 (b 1, lb 1, w 1, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Sachithra Senanayake          4   0   18   1    4.5
+  Lakshmipathy Balaji           4   0   22   2    5.5
+  Sunil Narine                  4   0   22   4    5.5
+  Jacques Kallis                4   0   17   2   4.25
+  Ryan ten Doeschate            1   0   14   0     14
+  Yusuf Pathan                  1   0    6   0      6
+  Rajat Bhatia                  2   0   14   0      7
+
+  Fall of Wickets: 15-1 (Pujara, 4.3 ov), 46-2 (Virat Kohli, 8.4 ov), 70-3 (Gayle, 13.1 ov), 95-4 (de Villiers, 15.5 ov), 96-5 (Saurabh Tiwary, 16.2 ov), 102-6 (Moises Henriques, 17.1 ov), 106-7 (Rampaul, 18.2 ov), 108-8 (Mithun, 18.4 ov), 112-9 (M Kartik, 19.4 ov)
+
+============================================================
+  Kolkata Knight Riders  116/5 (19.2 ov)  RR: 6.04
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Jacques Kallis              41   45   4   0   91.11  c M Henriques b A Mithun
+  Gautam Gambhir              15   15   3   0     100  c C Gayle b V Kumar
+  Ryan ten Doeschate          11    7   2   0  157.14  not out
+  Manoj Tiwary                24   27   3   0   88.89  c V Kohli b V Kumar
+  Yusuf Pathan                18   16   1   1   112.5  lbw b M Kartik
+  Rajat Bhatia                 3    4   0   0      75  not out
+  Manvinder Bisla              0    2   0   0       0  c M Henriques b R Rampaul
+  Extras: 4 (b 0, lb 0, w 4, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Ravi Rampaul                  4   1   17   1   4.25
+  Abhimanyu Mithun              4   0   37   1   9.25
+  Jaydev Unadkat                4   0   27   0   6.75
+  Vinay Kumar                 3.2   0   17   2   5.31
+  Murali Kartik                 4   0   17   1   4.25
+
+  Fall of Wickets: 0-1 (Bisla, 0.2 ov), 31-2 (Gambhir, 5.5 ov), 61-3 (Yusuf Pathan, 10.3 ov), 96-4 (Kallis, 16.4 ov), 103-5 (Manoj Tiwary, 17.4 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

@@ -1,0 +1,61 @@
+SCORECARD
+============================================================
+
+============================================================
+  Rajasthan Royals  191/5 (20 ov)  RR: 9.55
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Shane Watson                50   29   5   3  172.41  b A Patel
+  Ajinkya Rahane              13    8   2   0   162.5  run out (Bailey)
+  Abhishek Nayar              23   20   2   1     115  lbw b M Kartik
+  Stuart Binny                12    8   0   1     150  c D Miller b Johnson
+  Steven Smith                27   15   5   0     180  not out
+  James Faulkner               8    7   0   1  114.29  not out
+  Sanju Samson                52   34   3   4  152.94  b Awana
+  Extras: 6 (b 2, lb 1, w 2, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Axar Patel                    4   0   22   1    5.5
+  Mitchell Johnson              4   0   29   1   7.25
+  Parvinder Awana               4   0   40   1     10
+  Lakshmipathy Balaji           4   0   46   0   11.5
+  Murali Kartik                 4   0   51   1  12.75
+
+  Fall of Wickets: 22-1 (Ajinkya Rahane, 3 ov), 54-2 (Nayar, 6.1 ov), 128-3 (Shane Watson, 13.1 ov), 144-4 (Binny, 15.3 ov), 159-5 (Sanju Samson, 16.5 ov)
+
+============================================================
+  Kings XI Punjab  193/3 (18.4 ov)  RR: 10.49
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Virender Sehwag              2    7   0   0   28.57  c Binny b D Kulkarni
+  Cheteshwar Pujara           40   38   3   0  105.26  not out
+  Wriddhiman Saha              2    3   0   0   66.67  c D Kulkarni b Faulkner
+  David Miller                51   19   0   6  268.42  not out
+  Glenn Maxwell               89   45   8   6  197.78  c S Smith b Kane Richardson
+  Extras: 9 (b 0, lb 5, w 4, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Kane Richardson               3   0   25   1   8.33
+  Dhawal Kulkarni               4   0   50   1   12.5
+  James Faulkner              3.4   0   45   1  13.24
+  Pravin Tambe                  4   0   26   0    6.5
+  Rajat Bhatia                  3   0   38   0  12.67
+  Stuart Binny                  1   0    4   0      4
+
+  Fall of Wickets: 5-1 (Sehwag, 1.4 ov), 10-2 (W Saha, 2.4 ov), 126-3 (Glenn Maxwell, 13.5 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

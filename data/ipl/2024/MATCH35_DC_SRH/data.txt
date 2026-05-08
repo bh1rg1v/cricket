@@ -1,0 +1,169 @@
+SCORECARD
+============================================================
+
+============================================================
+  Sunrisers Hyderabad  266/7 (20 ov)  RR: 13.3
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Head                        89   32  11   6  278.12  c Tristan Stubbs b Kuldeep Yadav
+  Abhishek Sharma             46   12   2   6  383.33  c Axar b Kuldeep Yadav
+  Markram                      1    3   0   0   33.33  c Axar b Kuldeep Yadav
+  Klaasen                     15    8   0   2   187.5  b Axar
+  Nitish Reddy                37   27   2   2  137.04  c Warner b Kuldeep Yadav
+  Shahbaz Ahmed               59   29   2   5  203.45  not out
+  Abdul Samad                 13    8   1   1   162.5  c Nortje b Mukesh Kumar
+  Cummins                      1    1   0   0     100  run out (Tristan Stubbs/Mukesh Kumar)
+  Extras: 5 (b 1, lb 1, w 3, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Khaleel Ahmed                 3   0   51   0     17
+  Lalit Yadav                   2   0   41   0   20.5
+  Nortje                        3   0   31   0   10.3
+  Kuldeep Yadav                 4   0   55   4   13.8
+  Mukesh Kumar                  4   0   57   1   14.2
+  Axar                          4   0   29   1    7.2
+
+  Fall of Wickets: 131-1 (Abhishek Sharma, 6.2 ov), 133-2 (Markram, 6.6 ov), 154-3 (Head, 8.6 ov), 154-4 (Klaasen, 9.1 ov), 221-5 (Nitish Reddy, 16.6 ov), 250-6 (Abdul Samad, 19.1 ov), 256-7 (Cummins, 19.4 ov)
+
+============================================================
+  Delhi Capitals  199/10 (19.1 ov)  RR: 10.38
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Prithvi Shaw                16    5   4   0     320  c Abdul Samad b Washington Sundar
+  David Warner                 1    3   0   0   33.33  c Cummins b Bhuvneshwar
+  Jake Fraser-McGurk          65   18   5   7  361.11  c Klaasen b Markande
+  Abishek Porel               42   22   7   1  190.91  st Klaasen b Markande
+  Tristan Stubbs              10   11   0   0   90.91  c Shahbaz Ahmed b Nitish Reddy
+  Rishabh Pant                44   35   5   1  125.71  c T Natarajan b Nitish Reddy
+  Lalit Yadav                  7    8   1   0    87.5  b T Natarajan
+  Axar Patel                   6    8   0   0      75  c Cummins b T Natarajan
+  Anrich Nortje                0    2   0   0       0  b T Natarajan
+  Kuldeep Yadav                0    1   0   0       0  lbw b T Natarajan
+  Mukesh Kumar                 0    2   0   0       0  not out
+  Extras: 8 (b 0, lb 1, w 7, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Washington Sundar             2   0   46   1     23
+  Bhuvneshwar Kumar             4   0   33   1    8.2
+  Pat Cummins                   4   0   35   0    8.8
+  T Natarajan                   4   1   19   4    4.8
+  Mayank Markande               2   0   26   2     13
+  Shahbaz Ahmed                 1   0   22   0     22
+  Nitish Reddy                2.1   0   17   2    7.8
+
+  Fall of Wickets: 16-1 (Prithvi Shaw, 0.5 ov), 25-2 (David Warner, 1.6 ov), 109-3 (Jake Fraser-McGurk, 6.6 ov), 135-4 (Abishek Porel, 8.4 ov), 154-5 (Tristan Stubbs, 12.2 ov), 166-6 (Lalit Yadav, 14.6 ov), 199-7 (Axar Patel, 18.1 ov), 199-8 (Anrich Nortje, 18.3 ov), 199-9 (Kuldeep Yadav, 18.4 ov), 199-10 (Rishabh Pant, 19.1 ov)
+
+============================================================
+  MATCH 91474 - INNINGS 1
+============================================================
+  Score: 266/7 in 20 overs  |  Run Rate: 13.3
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  6  4  4  1  4                +19 runs  (Total: 19)  [SIX, FOUR, FOUR, over-break,FOUR,HIGHSCORING_OVER]
+  Over  2:  6  6  •  4  1  4                +21 runs  (Total: 40)  [SIX, SIX, FOUR, over-break,FOUR,HIGHSCORING_OVER]
+  Over  3:  4  4  •  4  4  6                +22 runs  (Total: 62)  [FOUR, FOUR, TEAM_FIFTY,PARTNERSHIP,FOUR, FOUR, over-break,FIFTY,SIX,HIGHSCORING_OVER]
+  Over  4:  6  L1  1  6  1  6               +21 runs  (Total: 83)  [SIX, SIX, over-break,SIX,HIGHSCORING_OVER]
+  Over  5:  6  6  1  •  1  6                +20 runs  (Total: 103)  [SIX, SIX, over-break,TEAM_HUNDRED,PARTNERSHIP,SIX,HIGHSCORING_OVER]
+  Over  6:  4  4  4  4  •  6                +22 runs  (Total: 125)  [FOUR, FOUR, FOUR, FOUR, over-break,SIX,HIGHSCORING_OVER]
+  Over  7:  6  W  1  1  •  W                +8 runs  (Total: 133)  [SIX, WICKET, over-break,WICKET]
+  Over  8:  1  1  1  1  1  •                +5 runs  (Total: 138)
+  Over  9:  1  6  •  6  1  Wd  W  Wd        +16 runs  (Total: 154)  [SIX, UDRS, TEAM_HUNDRED,SIX, over-break,WICKET,HIGHSCORING_OVER]
+  Over 10:  W  •  2  1  •  1                +4 runs  (Total: 158)  [WICKET]
+  Over 11:  •  •  1  Wd  1  1  •            +4 runs  (Total: 162)  [RUNOUT_MISS]
+  Over 12:  4  1  6  1  •  1                +13 runs  (Total: 175)  [FOUR, SIX]
+  Over 13:  1  1  1  1  4  1                +9 runs  (Total: 184)  [FOUR]
+  Over 14:  1  1  6  1  1  •                +10 runs  (Total: 194)  [SIX]
+  Over 15:  1  1  1  1  6  1                +11 runs  (Total: 205)  [TEAM_HUNDRED,PARTNERSHIP,SIX]
+  Over 16:  1  •  1  •  2  1                +5 runs  (Total: 210)  [INJURY, UDRS]
+  Over 17:  1  •  2  6  2  W                +11 runs  (Total: 221)  [SIX, over-break,WICKET]
+  Over 18:  1  4  2  1  1  •                +9 runs  (Total: 230)  [FOUR, over-break,UDRS]
+  Over 19:  1  •  6  B1  6  6               +20 runs  (Total: 250)  [SIX, SIX, over-break,TEAM_HUNDRED,SIX,HIGHSCORING_OVER]
+  Over 20:  W  1  4  W1  4  6               +16 runs  (Total: 266)  [WICKET, FOUR, WICKET, FIFTY,FOUR, over-break,SIX,HIGHSCORING_OVER]
+
+BATTERS
+------------------------------------------------------------
+  Head                        89 runs   32 balls  4s:0  6s:0  SR:278.12
+  Abhishek Sharma             46 runs   12 balls  4s:0  6s:0  SR:383.33
+  Markram                      1 runs    3 balls  4s:0  6s:0  SR:33.33
+  Klaasen                     15 runs    8 balls  4s:0  6s:0  SR:187.5
+  Nitish Reddy                37 runs   27 balls  4s:0  6s:0  SR:137.04
+  Shahbaz Ahmed               59 runs   29 balls  4s:0  6s:0  SR:203.45
+  Abdul Samad                 13 runs    8 balls  4s:0  6s:0  SR:162.5
+  Cummins                      1 runs    1 balls  4s:0  6s:0  SR:100
+  Washington Sundar            0 runs    0 balls  4s:0  6s:0  SR:0
+
+BOWLERS
+------------------------------------------------------------
+  Khaleel Ahmed              3 ov   51 runs  0 wkts  Econ:17
+  Lalit Yadav                2 ov   41 runs  0 wkts  Econ:20.5
+  Nortje                     3 ov   31 runs  0 wkts  Econ:10.3
+  Kuldeep Yadav              4 ov   55 runs  4 wkts  Econ:13.8
+  Mukesh Kumar               4 ov   57 runs  1 wkts  Econ:14.2
+  Axar                       4 ov   29 runs  1 wkts  Econ:7.2
+
+============================================================
+  MATCH 91474 - INNINGS 2
+============================================================
+  Score: 199/10 in 19.1 overs  |  Run Rate: 10.38
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  4  4  4  4  W  •                +16 runs  (Total: 16)  [FOUR, FOUR, FOUR, FOUR, WICKET, over-break,HIGHSCORING_OVER]
+  Over  2:  1  Wd  Wd  Wd  •  4  1  •  W    +9 runs  (Total: 25)  [FOUR, over-break,WICKET]
+  Over  3:  4  4  6  4  6  6                +30 runs  (Total: 55)  [FOUR, FOUR, SIX, FOUR, SIX, over-break,TEAM_FIFTY,SIX,HIGHSCORING_OVER]
+  Over  4:  •  2  4  •  •  •                +6 runs  (Total: 61)  [FOUR]
+  Over  5:  1  4  4  1  4  6                +20 runs  (Total: 81)  [FOUR, FOUR, FOUR,PARTNERSHIP, over-break,SIX,HIGHSCORING_OVER]
+  Over  6:  •  •  4  Wd  •  •  2            +7 runs  (Total: 88)  [FOUR]
+  Over  7:  1  1  6  6  6  Wd  W            +21 runs  (Total: 109)  [FIFTY,SIX, TEAM_HUNDRED,SIX, SIX, over-break,WICKET,HIGHSCORING_OVER]
+  Over  8:  4  4  6  1  3  4                +22 runs  (Total: 131)  [FOUR, FOUR, SIX, over-break,FOUR,HIGHSCORING_OVER]
+  Over  9:  •  1  1  1  •  WWd  1           +5 runs  (Total: 136)  [WICKET]
+  Over 10:  •  •  1  •  1  •                +2 runs  (Total: 138)
+  Over 11:  1  •  1  1  1  1                +5 runs  (Total: 143)
+  Over 12:  4  4  •  •  4  1                +10 runs  (Total: 153)  [FOUR, TEAM_HUNDRED,FOUR]
+  Over 13:  1  W  1  1  •  1                +4 runs  (Total: 157)  [WICKET]
+  Over 14:  1  •  •  •  1  •                +2 runs  (Total: 159)  [over-break,UDRS]
+  Over 15:  •  2  1  4  •  W                +7 runs  (Total: 166)  [FOUR, over-break,WICKET]
+  Over 16:  1  1  2  Wd  6  1  1            +13 runs  (Total: 179)  [SIX]
+  Over 17:  1  4  1  L1  1  1               +9 runs  (Total: 188)  [FOUR]
+  Over 18:  1  •  1  1  4  4                +11 runs  (Total: 199)  [FOUR, over-break,FOUR]
+  Over 19:  W  •  W  W  •  •                +0 runs  (Total: 199)  [WICKET, WICKET, WICKET,UDRS, over-break,MAIDEN_OVER]
+  Over 20:  W                               +0 runs  (Total: 199)  [WICKET]
+
+BATTERS
+------------------------------------------------------------
+  Prithvi Shaw                16 runs    5 balls  4s:4  6s:0  SR:320
+  Kuldeep Yadav                0 runs    1 balls  4s:0  6s:0  SR:0
+  Mukesh Kumar                 0 runs    2 balls  4s:0  6s:0  SR:0
+  David Warner                 1 runs    3 balls  4s:0  6s:0  SR:33.33
+  Jake Fraser-McGurk          65 runs   18 balls  4s:5  6s:7  SR:361.11
+  Abishek Porel               42 runs   22 balls  4s:7  6s:1  SR:190.91
+  Tristan Stubbs              10 runs   11 balls  4s:0  6s:0  SR:90.91
+  Rishabh Pant                44 runs   35 balls  4s:5  6s:1  SR:125.71
+  Lalit Yadav                  7 runs    8 balls  4s:1  6s:0  SR:87.5
+  Axar Patel                   6 runs    8 balls  4s:0  6s:0  SR:75
+  Anrich Nortje                0 runs    2 balls  4s:0  6s:0  SR:0
+
+BOWLERS
+------------------------------------------------------------
+  Washington Sundar          2 ov   46 runs  1 wkts  Econ:23
+  Bhuvneshwar Kumar          4 ov   33 runs  1 wkts  Econ:8.2
+  Pat Cummins                4 ov   35 runs  0 wkts  Econ:8.8
+  T Natarajan                4 ov   19 runs  4 wkts  Econ:4.8
+  Mayank Markande            2 ov   26 runs  2 wkts  Econ:13
+  Shahbaz Ahmed              1 ov   22 runs  0 wkts  Econ:22
+  Nitish Reddy               2.1 ov   17 runs  2 wkts  Econ:7.8
+
+  [Win probability not available for this match]

@@ -1,0 +1,67 @@
+SCORECARD
+============================================================
+
+============================================================
+  Sunrisers Hyderabad  137/8 (20 ov)  RR: 6.85
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Yuvraj Singh                23   21   1   2  109.52  c S Tiwary b A Zampa
+  Moises Henriques            10    8   1   0     125  c R Bhatia b A Zampa
+  Shikhar Dhawan              33   27   2   2  122.22  c S Tiwary b Ashwin
+  Naman Ojha                   7    5   1   0     140  b A Zampa
+  Bhuvneshwar Kumar            1    2   0   0      50  c S Tiwary b A Zampa
+  David Warner                11   14   0   1   78.57  c Dhoni b RP Singh
+  Kane Williamson             32   37   3   0   86.49  c R Bhatia b A Zampa
+  Barinder Sran                1    1   0   0     100  not out
+  Deepak Hooda                14    5   0   2     280  st Dhoni b A Zampa
+  Extras: 5 (b 0, lb 1, w 4, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Ashok Dinda                   4   0   26   0    6.5
+  RP Singh                      3   0   23   1   7.67
+  Ravichandran Ashwin           4   0   16   1      4
+  Adam Zampa                    4   0   19   6   4.75
+  Rajat Bhatia                  3   0   26   0   8.67
+  Thisara Perera                2   0   26   0     13
+
+  Fall of Wickets: 18-1 (David Warner, 3.2 ov), 64-2 (Dhawan, 10.2 ov), 96-3 (Yuvraj, 15.2 ov), 114-4 (Williamson, 17.4 ov), 114-5 (Moises Henriques, 17.5 ov), 135-6 (Deepak Hooda, 19.2 ov), 136-7 (Naman Ojha, 19.4 ov), 137-8 (Bhuvneshwar Kumar, 19.6 ov)
+
+============================================================
+  Rising Pune Supergiants  133/8 (20 ov)  RR: 6.65
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  MS Dhoni                    30   20   1   2     150  run out (Barinder/Yuvraj)
+  George Bailey               34   40   3   1      85  c Nehra b Henriques
+  Ajinkya Rahane               0    3   0   0       0  c N Ojha b Bhuvneshwar
+  Ravichandran Ashwin         29   25   3   0     116  c N Ojha b Barinder
+  Saurabh Tiwary               9   10   1   0      90  c Dhawan b Nehra
+  Thisara Perera              17   13   0   1  130.77  c Henriques b Nehra
+  Usman Khawaja               11    8   2   0   137.5  run out (Deepak Hooda/N Ojha)
+  Adam Zampa                   0    1   0   0       0  c N Ojha b Nehra
+  Extras: 3 (b 0, lb 2, w 1, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Bhuvneshwar Kumar             4   1   20   1      5
+  Ashish Nehra                  4   0   29   3   7.25
+  Barinder Sran                 4   0   26   1    6.5
+  Moises Henriques              3   0   20   1   6.67
+  Yuvraj Singh                  1   0   10   0     10
+  Mustafizur Rahman             4   0   26   0    6.5
+
+  Fall of Wickets: 0-1 (Ajinkya Rahane, 0.3 ov), 19-2 (Usman Khawaja, 4 ov), 68-3 (George Bailey, 11.6 ov), 78-4 (Ashwin, 13.2 ov), 86-5 (Saurabh Tiwary, 14.6 ov), 126-6 (Thisara Perera, 19.3 ov), 133-7 (MS Dhoni, 19.5 ov), 133-8 (Adam Zampa, 19.6 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

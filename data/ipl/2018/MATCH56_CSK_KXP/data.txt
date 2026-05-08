@@ -1,0 +1,162 @@
+SCORECARD
+============================================================
+
+============================================================
+  Kings XI Punjab  153/10 (19.4 ov)  RR: 7.78
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Rahul                        7   11   1   0   63.64  b Lungi Ngidi
+  Gayle                        0    2   0   0       0  c Dhoni b Lungi Ngidi
+  Finch                        4    6   1   0   66.67  c Raina b D Chahar
+  Manoj Tiwary                35   30   3   1  116.67  c Dhoni b Ravindra Jadeja
+  Miller                      24   22   1   1  109.09  b DJ Bravo
+  Nair                        54   26   3   5  207.69  c D Chahar b DJ Bravo
+  Axar                        14   12   0   1  116.67  c Billings b SN Thakur
+  Ashwin                       0    1   0   0       0  c Dhoni b Lungi Ngidi
+  Andrew Tye                   0    2   0   0       0  c Raina b Lungi Ngidi
+  Mohit Sharma                 2    3   0   0   66.67  not out
+  Rajpoot                      2    4   0   0      50  c du Plessis b SN Thakur
+  Extras: 11 (b 1, lb 4, w 5, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  D Chahar                      4   0   30   1    7.5
+  Lungi Ngidi                   4   1   10   4    2.5
+  Harbhajan                     1   0   13   0     13
+  SN Thakur                   3.4   0   33   2      9
+  DJ Bravo                      4   0   39   2    9.8
+  Ravindra Jadeja               3   0   23   1    7.7
+
+  Fall of Wickets: 7-1 (Gayle, 1.2 ov), 14-2 (Finch, 2.5 ov), 16-3 (Rahul, 3.6 ov), 76-4 (Manoj Tiwary, 11.1 ov), 80-5 (Miller, 12.1 ov), 116-6 (Axar, 16.3 ov), 132-7 (Ashwin, 17.1 ov), 132-8 (Andrew Tye, 17.3 ov), 150-9 (Nair, 18.5 ov), 153-10 (Rajpoot, 19.4 ov)
+
+============================================================
+  Chennai Super Kings  159/5 (19.1 ov)  RR: 8.3
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Ambati Rayudu                1    3   0   0   33.33  c Rahul b Mohit Sharma
+  Faf du Plessis              14   15   3   0   93.33  c Gayle b Rajpoot
+  Suresh Raina                61   48   4   2  127.08  not out
+  Sam Billings                 0    1   0   0       0  b Rajpoot
+  Harbhajan Singh             19   22   2   1   86.36  lbw b Ashwin
+  Deepak Chahar               39   20   1   3     195  c Mohit Sharma b Ashwin
+  MS Dhoni                    16    7   1   1  228.57  not out
+  Extras: 9 (b 1, lb 0, w 7, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Ankit Rajpoot                 4   1   19   2    4.8
+  Mohit Sharma                3.1   0   28   1    8.8
+  Andrew Tye                    4   0   47   0   11.8
+  Axar Patel                    4   0   28   0      7
+  Ravichandran Ashwin           4   0   36   2      9
+
+  Fall of Wickets: 3-1 (Ambati Rayudu, 1.2 ov), 27-2 (Faf du Plessis, 4.3 ov), 27-3 (Sam Billings, 4.4 ov), 58-4 (Harbhajan Singh, 10.1 ov), 114-5 (Deepak Chahar, 16.1 ov)
+
+============================================================
+  MATCH 20116 - INNINGS 1
+============================================================
+  Score: 153/10 in 19.4 overs  |  Run Rate: 7.78
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  2  •  •  4  •  Wd            +7 runs  (Total: 7)  [FOUR]
+  Over  2:  •  W  •  B1  •  •               +1 runs  (Total: 8)  [WICKET]
+  Over  3:  4  •  L1  1  W  1               +7 runs  (Total: 15)  [FOUR, WICKET]
+  Over  4:  •  •  •  1  •  W                +1 runs  (Total: 16)  [over-break,WICKET]
+  Over  5:  1  •  4  •  1  1                +7 runs  (Total: 23)  [FOUR]
+  Over  6:  •  2  1  1  1  1                +6 runs  (Total: 29)
+  Over  7:  1  •  1  •  •  Wd  6  N         +10 runs  (Total: 39)  [over-break,SIX]
+  Over  8:  4  •  6  1  1  1                +13 runs  (Total: 52)  [FOUR, SIX,DROPPED]
+  Over  9:  •  4  •  •  Wd  3  1            +9 runs  (Total: 61)  [FOUR]
+  Over 10:  2  1  L1  1  4  1               +10 runs  (Total: 71)  [PARTNERSHIP, FOUR]
+  Over 11:  1  1  •  1  2  •                +5 runs  (Total: 76)
+  Over 12:  W  1  L1  •  1  1               +4 runs  (Total: 80)  [WICKET]
+  Over 13:  W  1  •  1  •  •                +2 runs  (Total: 82)  [WICKET]
+  Over 14:  •  6  1  1  1  •                +9 runs  (Total: 91)  [SIX]
+  Over 15:  6  1  1  1  1  1                +11 runs  (Total: 102)  [SIX]
+  Over 16:  1  1  1  6  1  1                +11 runs  (Total: 113)  [SIX]
+  Over 17:  L1  2  W  4  6  4  Wd           +18 runs  (Total: 131)  [WICKET, FOUR, SIX, over-break,FOUR,HIGHSCORING_OVER]
+  Over 18:  W  Wd  •  W  •  1  1            +3 runs  (Total: 134)  [WICKET,UDRS, WICKET]
+  Over 19:  •  4  6  6  W  1                +17 runs  (Total: 151)  [FOUR, SIX, FIFTY,SIX, WICKET, over-break,HIGHSCORING_OVER]
+  Over 20:  •  1  1  W                      +2 runs  (Total: 153)  [WICKET]
+
+BATTERS
+------------------------------------------------------------
+  Rahul                        7 runs   11 balls  4s:0  6s:0  SR:63.64
+  Mohit Sharma                 2 runs    3 balls  4s:0  6s:0  SR:66.67
+  Rajpoot                      2 runs    4 balls  4s:0  6s:0  SR:50
+  Gayle                        0 runs    2 balls  4s:0  6s:0  SR:0
+  Finch                        4 runs    6 balls  4s:0  6s:0  SR:66.67
+  Manoj Tiwary                35 runs   30 balls  4s:0  6s:0  SR:116.67
+  Miller                      24 runs   22 balls  4s:0  6s:0  SR:109.09
+  Nair                        54 runs   26 balls  4s:0  6s:0  SR:207.69
+  Axar                        14 runs   12 balls  4s:0  6s:0  SR:116.67
+  Ashwin                       0 runs    1 balls  4s:0  6s:0  SR:0
+  Andrew Tye                   0 runs    2 balls  4s:0  6s:0  SR:0
+
+BOWLERS
+------------------------------------------------------------
+  D Chahar                   4 ov   30 runs  1 wkts  Econ:7.5
+  Lungi Ngidi                4 ov   10 runs  4 wkts  Econ:2.5
+  Harbhajan                  1 ov   13 runs  0 wkts  Econ:13
+  SN Thakur                  3.4 ov   33 runs  2 wkts  Econ:9
+  DJ Bravo                   4 ov   39 runs  2 wkts  Econ:9.8
+  Ravindra Jadeja            3 ov   23 runs  1 wkts  Econ:7.7
+
+============================================================
+  MATCH 20116 - INNINGS 2
+============================================================
+  Score: 159/5 in 19.1 overs  |  Run Rate: 8.3
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  1  •  2  •  •  •                +3 runs  (Total: 3)
+  Over  2:  •  W  •  1  •  4                +5 runs  (Total: 8)  [WICKET, over-break,FOUR]
+  Over  3:  1  •  •  4  •  4                +9 runs  (Total: 17)  [FOUR, over-break,FOUR]
+  Over  4:  •  •  4  4  •  Wd  Wd  •        +10 runs  (Total: 27)  [FOUR, FOUR]
+  Over  5:  •  •  W  W  •  •                +0 runs  (Total: 27)  [WICKET, WICKET, over-break,DROPPED,MAIDEN_OVER]
+  Over  6:  •  •  1  •  4  1                +6 runs  (Total: 33)  [RUNOUT_MISS, FOUR]
+  Over  7:  •  •  •  N  6  •  •             +7 runs  (Total: 40)  [SIX]
+  Over  8:  •  1  •  4  •  •                +5 runs  (Total: 45)  [FOUR]
+  Over  9:  1  1  Wd  1  Wd  1  •  1        +7 runs  (Total: 52)
+  Over 10:  1  1  1  B1  1  1               +6 runs  (Total: 58)
+  Over 11:  W  1  1  1  1  2                +6 runs  (Total: 64)  [WICKET]
+  Over 12:  1  Wd  1  1  1  1  2            +8 runs  (Total: 72)
+  Over 13:  1  1  •  •  •  1                +3 runs  (Total: 75)
+  Over 14:  2  1  •  2  •  1                +6 runs  (Total: 81)
+  Over 15:  6  6  1  Wd  1  4  2            +21 runs  (Total: 102)  [SIX, SIX, FOUR, over-break,HIGHSCORING_OVER]
+  Over 16:  1  6  1  1  1  2                +12 runs  (Total: 114)  [SIX,PARTNERSHIP]
+  Over 17:  W  1  1  1  2  1                +6 runs  (Total: 120)  [WICKET]
+  Over 18:  1  2  Wd  1  1  1  4            +11 runs  (Total: 131)  [over-break,FOUR]
+  Over 19:  6  2  6  4  4  •                +22 runs  (Total: 153)  [SIX, FIFTY,SIX, FOUR, FOUR, over-break,HIGHSCORING_OVER]
+  Over 20:  6                               +6 runs  (Total: 159)  [SIX]
+
+BATTERS
+------------------------------------------------------------
+  Ambati Rayudu                1 runs    3 balls  4s:0  6s:0  SR:33.33
+  Faf du Plessis              14 runs   15 balls  4s:3  6s:0  SR:93.33
+  Suresh Raina                61 runs   48 balls  4s:4  6s:2  SR:127.08
+  Sam Billings                 0 runs    1 balls  4s:0  6s:0  SR:0
+  Harbhajan Singh             19 runs   22 balls  4s:2  6s:1  SR:86.36
+  Deepak Chahar               39 runs   20 balls  4s:1  6s:3  SR:195
+  MS Dhoni                    16 runs    7 balls  4s:1  6s:1  SR:228.57
+
+BOWLERS
+------------------------------------------------------------
+  Ankit Rajpoot              4 ov   19 runs  2 wkts  Econ:4.8
+  Mohit Sharma               3.1 ov   28 runs  1 wkts  Econ:8.8
+  Andrew Tye                 4 ov   47 runs  0 wkts  Econ:11.8
+  Axar Patel                 4 ov   28 runs  0 wkts  Econ:7
+  Ravichandran Ashwin        4 ov   36 runs  2 wkts  Econ:9
+
+  [Win probability not available for this match]

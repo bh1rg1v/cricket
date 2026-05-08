@@ -1,0 +1,160 @@
+SCORECARD
+============================================================
+
+============================================================
+  Mumbai Indians  234/5 (20 ov)  RR: 11.7
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Rohit                       49   27   6   3  181.48  b Axar
+  Ishan Kishan                42   23   4   2  182.61  c and b Axar
+  Suryakumar Yadav             0    2   0   0       0  c (sub)Jake Fraser-McGurk b Nortje
+  Hardik Pandya               39   33   3   1  118.18  c (sub)Jake Fraser-McGurk b Nortje
+  Tilak Varma                  6    5   1   0     120  c Axar b Khaleel Ahmed
+  Tim David                   45   21   2   4  214.29  not out
+  Romario Shepherd            39   10   3   4     390  not out
+  Extras: 14 (b 0, lb 0, w 13, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Khaleel Ahmed                 4   0   39   1    9.8
+  Ishant                        3   0   40   0   13.3
+  Jhye Richardson               4   0   40   0     10
+  Axar                          4   0   35   2    8.8
+  Lalit Yadav                   1   0   15   0     15
+  Nortje                        4   0   65   2   16.2
+
+  Fall of Wickets: 80-1 (Rohit, 6.6 ov), 81-2 (Suryakumar Yadav, 7.3 ov), 111-3 (Ishan Kishan, 10.2 ov), 121-4 (Tilak Varma, 12.4 ov), 181-5 (Hardik Pandya, 17.5 ov)
+
+============================================================
+  Delhi Capitals  205/8 (20 ov)  RR: 10.25
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Prithvi Shaw                66   40   8   3     165  b Bumrah
+  David Warner                10    8   1   1     125  c Hardik Pandya b Romario Shepherd
+  Abishek Porel               41   31   5   0  132.26  c Tim David b Bumrah
+  Tristan Stubbs              71   25   3   7     284  not out
+  Rishabh Pant                 1    3   0   0   33.33  c Hardik Pandya b Gerald Coetzee
+  Axar Patel                   8    7   1   0  114.29  run out (Nabi/Ishan Kishan)
+  Lalit Yadav                  3    4   0   0      75  c Ishan Kishan b Gerald Coetzee
+  Kumar Kushagra               0    1   0   0       0  c Tilak Varma b Gerald Coetzee
+  Jhye Richardson              2    2   0   0     100  c Rohit b Gerald Coetzee
+  Extras: 3 (b 0, lb 1, w 1, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Gerald Coetzee                4   0   34   4    8.5
+  Jasprit Bumrah                4   0   22   2    5.5
+  Akash Madhwal                 4   0   45   0   11.2
+  Romario Shepherd              4   0   54   1   13.5
+  Mohammad Nabi                 2   0   17   0    8.5
+  Piyush Chawla                 2   0   32   0     16
+
+  Fall of Wickets: 22-1 (David Warner, 3.4 ov), 110-2 (Prithvi Shaw, 11.5 ov), 144-3 (Abishek Porel, 14.6 ov), 153-4 (Rishabh Pant, 15.6 ov), 194-5 (Axar Patel, 18.4 ov), 203-6 (Lalit Yadav, 19.3 ov), 203-7 (Kumar Kushagra, 19.4 ov), 205-8 (Jhye Richardson, 19.6 ov)
+
+============================================================
+  MATCH 89763 - INNINGS 1
+============================================================
+  Score: 234/5 in 20 overs  |  Run Rate: 11.7
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  1  1  1  4  •                +7 runs  (Total: 7)  [FOUR]
+  Over  2:  4  Wd  4  •  Wd5  •  •  •       +14 runs  (Total: 21)  [FOUR, FOUR, over-break,HIGHSCORING_OVER]
+  Over  3:  2  •  •  4  2  4                +12 runs  (Total: 33)  [FOUR, over-break,FOUR]
+  Over  4:  •  6  6  •  1  •                +13 runs  (Total: 46)  [SIX, SIX]
+  Over  5:  6  1  1  4  1  1                +14 runs  (Total: 60)  [TEAM_FIFTY,PARTNERSHIP,SIX, FOUR, over-break,HIGHSCORING_OVER]
+  Over  6:  1  4  4  2  •  4                +15 runs  (Total: 75)  [FOUR, FOUR, over-break,FOUR,HIGHSCORING_OVER]
+  Over  7:  4  1  •  •  •  W                +5 runs  (Total: 80)  [FOUR, over-break,WICKET]
+  Over  8:  1  •  W  •  2  1                +4 runs  (Total: 84)  [WICKET]
+  Over  9:  1  1  4  1  1  •                +8 runs  (Total: 92)  [FOUR]
+  Over 10:  1  •  4  1  6  1                +13 runs  (Total: 105)  [FOUR, TEAM_HUNDRED,SIX]
+  Over 11:  6  W  1  •  •  1                +8 runs  (Total: 113)  [SIX, WICKET]
+  Over 12:  •  •  1  4  1  1                +7 runs  (Total: 120)  [FOUR]
+  Over 13:  •  1  •  W  1  1                +3 runs  (Total: 123)  [WICKET]
+  Over 14:  2  4  1  •  •  1                +8 runs  (Total: 131)  [FOUR]
+  Over 15:  1  1  1  •  2  2                +7 runs  (Total: 138)
+  Over 16:  6  •  1  1  1  1  Wd2           +12 runs  (Total: 150)  [SIX, over-break,TEAM_HUNDRED]
+  Over 17:  3  1  •  6  1  6                +17 runs  (Total: 167)  [SIX, over-break,SIX,HIGHSCORING_OVER]
+  Over 18:  4  1  Wd  N6  •  Wd  •  W  1  Wd  +16 runs  (Total: 183)  [FOUR,PARTNERSHIP, SIX, WICKET, over-break,HIGHSCORING_OVER, UDRS]
+  Over 19:  4  Wd  1  1  Wd  1  6  4        +19 runs  (Total: 202)  [FOUR, SIX,UDRS, over-break,TEAM_HUNDRED,FOUR,HIGHSCORING_OVER]
+  Over 20:  4  6  6  6  4  6                +32 runs  (Total: 234)  [FOUR, SIX, SIX, SIX, FOUR, over-break,SIX,PARTNERSHIP,HIGHSCORING_OVER]
+
+BATTERS
+------------------------------------------------------------
+  Rohit                       49 runs   27 balls  4s:0  6s:0  SR:181.48
+  Ishan Kishan                42 runs   23 balls  4s:0  6s:0  SR:182.61
+  Suryakumar Yadav             0 runs    2 balls  4s:0  6s:0  SR:0
+  Hardik Pandya               39 runs   33 balls  4s:0  6s:0  SR:118.18
+  Tilak Varma                  6 runs    5 balls  4s:0  6s:0  SR:120
+  Tim David                   45 runs   21 balls  4s:0  6s:0  SR:214.29
+  Romario Shepherd            39 runs   10 balls  4s:0  6s:0  SR:390
+
+BOWLERS
+------------------------------------------------------------
+  Khaleel Ahmed              4 ov   39 runs  1 wkts  Econ:9.8
+  Ishant                     3 ov   40 runs  0 wkts  Econ:13.3
+  Jhye Richardson            4 ov   40 runs  0 wkts  Econ:10
+  Axar                       4 ov   35 runs  2 wkts  Econ:8.8
+  Lalit Yadav                1 ov   15 runs  0 wkts  Econ:15
+  Nortje                     4 ov   65 runs  2 wkts  Econ:16.2
+
+============================================================
+  MATCH 89763 - INNINGS 2
+============================================================
+  Score: 205/8 in 20 overs  |  Run Rate: 10.25
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  6  •  •  •  1                +7 runs  (Total: 7)  [SIX]
+  Over  2:  •  •  •  4  •  •                +4 runs  (Total: 11)  [FOUR]
+  Over  3:  •  •  •  •  4  •                +4 runs  (Total: 15)  [FOUR]
+  Over  4:  •  1  6  W  1  1                +9 runs  (Total: 24)  [SIX, WICKET]
+  Over  5:  •  4  4  1  •  •                +9 runs  (Total: 33)  [FOUR, FOUR]
+  Over  6:  4  •  1  Wd  •  4  3            +13 runs  (Total: 46)  [FOUR, UDRS, FOUR]
+  Over  7:  1  1  1  1  1  2                +7 runs  (Total: 53)  [TEAM_FIFTY]
+  Over  8:  •  1  6  4  4  1                +16 runs  (Total: 69)  [SIX, FOUR, FOUR, over-break,HIGHSCORING_OVER]
+  Over  9:  1  1  4  4  1  4                +15 runs  (Total: 84)  [FIFTY,PARTNERSHIP,FOUR, FOUR, over-break,FOUR,HIGHSCORING_OVER]
+  Over 10:  1  1  1  1  •  6                +10 runs  (Total: 94)  [over-break,SIX]
+  Over 11:  4  2  1  1  4  1                +13 runs  (Total: 107)  [FOUR, TEAM_HUNDRED, FOUR, over-break,DROPPED]
+  Over 12:  1  1  •  1  W  1                +4 runs  (Total: 111)  [WICKET]
+  Over 13:  2  6  1  1  6  •                +16 runs  (Total: 127)  [SIX, SIX, over-break,HIGHSCORING_OVER]
+  Over 14:  1  2  1  1  4  2                +11 runs  (Total: 138)  [FOUR]
+  Over 15:  •  1  1  4  •  W                +6 runs  (Total: 144)  [FOUR, over-break,WICKET]
+  Over 16:  L1  1  6  1  •  W               +9 runs  (Total: 153)  [UDRS, TEAM_HUNDRED,SIX, over-break,WICKET]
+  Over 17:  4  4  N6  1  •  1  2            +19 runs  (Total: 172)  [FOUR, FOUR, SIX, over-break,FIFTY,HIGHSCORING_OVER]
+  Over 18:  •  1  1  4  1  1                +8 runs  (Total: 180)  [FOUR]
+  Over 19:  6  6  1  W1  1  6               +21 runs  (Total: 201)  [SIX, SIX, WICKET, over-break,TEAM_HUNDRED,SIX,HIGHSCORING_OVER]
+  Over 20:  2  •  W  W  2  W                +4 runs  (Total: 205)  [WICKET, WICKET, over-break,WICKET]
+
+BATTERS
+------------------------------------------------------------
+  Prithvi Shaw                66 runs   40 balls  4s:8  6s:3  SR:165
+  David Warner                10 runs    8 balls  4s:1  6s:1  SR:125
+  Abishek Porel               41 runs   31 balls  4s:5  6s:0  SR:132.26
+  Tristan Stubbs              71 runs   25 balls  4s:3  6s:7  SR:284
+  Rishabh Pant                 1 runs    3 balls  4s:0  6s:0  SR:33.33
+  Axar Patel                   8 runs    7 balls  4s:1  6s:0  SR:114.29
+  Lalit Yadav                  3 runs    4 balls  4s:0  6s:0  SR:75
+  Kumar Kushagra               0 runs    1 balls  4s:0  6s:0  SR:0
+  Jhye Richardson              2 runs    2 balls  4s:0  6s:0  SR:100
+
+BOWLERS
+------------------------------------------------------------
+  Gerald Coetzee             4 ov   34 runs  4 wkts  Econ:8.5
+  Jasprit Bumrah             4 ov   22 runs  2 wkts  Econ:5.5
+  Akash Madhwal              4 ov   45 runs  0 wkts  Econ:11.2
+  Romario Shepherd           4 ov   54 runs  1 wkts  Econ:13.5
+  Mohammad Nabi              2 ov   17 runs  0 wkts  Econ:8.5
+  Piyush Chawla              2 ov   32 runs  0 wkts  Econ:16
+
+  [Win probability not available for this match]

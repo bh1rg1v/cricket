@@ -1,0 +1,64 @@
+SCORECARD
+============================================================
+
+============================================================
+  Delhi Daredevils  184/3 (20 ov)  RR: 9.2
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Yuvraj Singh                27   17   0   2  158.82  c Nair b C Morris
+  Jean-Paul Duminy            44   38   0   3  115.79  not out
+  Angelo Mathews              27   14   3   1  192.86  not out
+  Mayank Agarwal              37   21   6   1  176.19  c & b Tambe
+  Shreyas Iyer                40   30   3   3  133.33  c Southee b C Morris
+  Extras: 9 (b 0, lb 2, w 7, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Tim Southee                   4   0   36   0      9
+  Chris Morris                  4   0   35   2   8.75
+  Dhawal Kulkarni               1   0   18   0     18
+  Pravin Tambe                  3   0   18   1      6
+  Deepak Hooda                  4   0   20   0      5
+  James Faulkner                4   0   55   0  13.75
+
+  Fall of Wickets: 45-1 (Mayank Agarwal, 4.4 ov), 93-2 (Shreyas Iyer, 10.6 ov), 138-3 (Yuvraj, 16.3 ov)
+
+============================================================
+  Rajasthan Royals  186/7 (20 ov)  RR: 9.3
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Tim Southee                  7    4   1   0     175  not out
+  Ajinkya Rahane              47   39   2   3  120.51  b Tahir
+  Stuart Binny                 1    2   0   0      50  lbw b Tahir
+  Steven Smith                10    9   2   0  111.11  c M Agarwal b A Mishra
+  James Faulkner              17   11   2   0  154.55  b Tahir
+  Karun Nair                  20   12   3   0  166.67  st K Jadhav b A Mishra
+  Sanju Samson                11   12   1   0   91.67  c Yuvraj b Mathews
+  Chris Morris                13    6   1   1  216.67  not out
+  Deepak Hooda                54   25   3   4     216  c Mathews b Tahir
+  Extras: 6 (b 0, lb 1, w 5, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Jaydev Unadkat                3   0   30   0     10
+  Nathan Coulter-Nile           4   0   42   0   10.5
+  Angelo Mathews                4   0   42   1   10.5
+  Amit Mishra                   4   0   32   2      8
+  Imran Tahir                   4   0   28   4      7
+  Yuvraj Singh                  1   0   11   0     11
+
+  Fall of Wickets: 37-1 (Sanju Samson, 4.6 ov), 50-2 (Steven Smith, 7.2 ov), 74-3 (Karun Nair, 9.6 ov), 78-4 (Binny, 10.4 ov), 130-5 (Ajinkya Rahane, 15.1 ov), 166-6 (Deepak Hooda, 18.1 ov), 173-7 (Faulkner, 18.5 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

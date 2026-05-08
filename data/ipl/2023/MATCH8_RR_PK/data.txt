@@ -1,0 +1,158 @@
+SCORECARD
+============================================================
+
+============================================================
+  Punjab Kings  197/4 (20 ov)  RR: 9.85
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Prabhsimran                 60   34   7   3  176.47  c Jos Buttler b Holder
+  Dhawan                      86   56   9   3  153.57  not out
+  B Rajapaksa                  1    1   0   0     100  retd hurt
+  Jitesh Sharma               27   16   2   1  168.75  c Riyan Parag b Chahal
+  Raza                         1    2   0   0      50  b Ashwin
+  Shahrukh Khan               11   10   1   0     110  c Jos Buttler b Holder
+  Sam Curran                   1    2   0   0      50  not out
+  Extras: 10 (b 1, lb 0, w 8, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Boult                         4   0   38   0    9.5
+  KM Asif                       4   0   54   0   13.5
+  Ashwin                        4   0   25   1    6.2
+  Holder                        4   0   29   2    7.2
+  Chahal                        4   0   50   1   12.5
+
+  Fall of Wickets: 90-1 (Prabhsimran, 9.4 ov), 158-2 (Jitesh Sharma, 15.4 ov), 159-3 (Raza, 16.1 ov), 196-4 (Shahrukh Khan, 19.4 ov)
+
+============================================================
+  Rajasthan Royals  192/7 (20 ov)  RR: 9.6
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Yashasvi Jaiswal            11    8   1   1   137.5  c (sub)Matthew Short b Arshdeep Singh
+  Ravichandran Ashwin          0    4   0   0       0  c Dhawan b Arshdeep Singh
+  Jos Buttler                 19   11   1   1  172.73  c and b Nathan Ellis
+  Sanju Samson                42   25   5   1     168  c (sub)Matthew Short b Nathan Ellis
+  Devdutt Padikkal            21   26   1   0   80.77  b Nathan Ellis
+  Riyan Parag                 20   12   1   2  166.67  c Shahrukh Khan b Nathan Ellis
+  Shimron Hetmyer             36   18   1   3     200  run out (Shahrukh Khan/Sam Curran)
+  Dhruv Jurel                 32   15   3   2  213.33  not out
+  Jason Holder                 1    1   0   0     100  not out
+  Extras: 10 (b 1, lb 0, w 9, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Sam Curran                    4   0   44   0     11
+  Arshdeep Singh                4   0   47   2   11.8
+  Harpreet Brar                 2   0   15   0    7.5
+  Nathan Ellis                  4   0   30   4    7.5
+  Rahul Chahar                  4   0   31   0    7.8
+  Sikandar Raza                 2   0   24   0     12
+
+  Fall of Wickets: 13-1 (Yashasvi Jaiswal, 1.3 ov), 26-2 (Ravichandran Ashwin, 3.2 ov), 57-3 (Jos Buttler, 5.4 ov), 91-4 (Sanju Samson, 10.6 ov), 121-5 (Riyan Parag, 14.1 ov), 124-6 (Devdutt Padikkal, 14.6 ov), 186-7 (Shimron Hetmyer, 19.3 ov)
+
+============================================================
+  MATCH 66208 - INNINGS 1
+============================================================
+  Score: 197/4 in 20 overs  |  Run Rate: 9.85
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  1  •  Wd2  4  •  •  •           +7 runs  (Total: 7)  [FOUR]
+  Over  2:  •  2  •  1  6  •                +9 runs  (Total: 16)  [SIX]
+  Over  3:  •  4  4  •  1  1                +10 runs  (Total: 26)  [FOUR, FOUR]
+  Over  4:  4  •  4  6  •  4  Wd            +19 runs  (Total: 45)  [FOUR, FOUR, SIX, over-break,FOUR,HIGHSCORING_OVER]
+  Over  5:  1  4  4  1  Wd  •  •            +11 runs  (Total: 56)  [TEAM_FIFTY,PARTNERSHIP,FOUR, FOUR]
+  Over  6:  •  4  •  1  1  1                +7 runs  (Total: 63)  [FOUR, over-break,DROPPED]
+  Over  7:  1  •  1  1  1  1                +5 runs  (Total: 68)
+  Over  8:  •  2  1  •  4  2                +9 runs  (Total: 77)  [MILESTONE,FIFTY, FOUR]
+  Over  9:  6  1  1  1  •  •                +9 runs  (Total: 86)  [SIX]
+  Over 10:  1  2  1  W  1  1                +6 runs  (Total: 92)  [WICKET]
+  Over 11:  •  1  1  •  1  •                +3 runs  (Total: 95)  [INJURY]
+  Over 12:  1  2  4  4  1  6                +18 runs  (Total: 113)  [TEAM_HUNDRED,FOUR, FOUR, over-break,SIX,HIGHSCORING_OVER]
+  Over 13:  •  1  1  1  4  2  Wd2           +11 runs  (Total: 124)  [FOUR]
+  Over 14:  1  1  4  4  2  4                +16 runs  (Total: 140)  [FOUR, MILESTONE,FIFTY,FOUR, over-break,FOUR,HIGHSCORING_OVER]
+  Over 15:  1  1  6  2  1  1                +12 runs  (Total: 152)  [PARTNERSHIP, SIX, TEAM_HUNDRED]
+  Over 16:  •  4  1  W  Wd  1  •            +7 runs  (Total: 159)  [FOUR, WICKET]
+  Over 17:  W  1  1  1  1  2                +6 runs  (Total: 165)  [WICKET]
+  Over 18:  1  •  1  •  6  1                +9 runs  (Total: 174)  [RUNOUT_MISS, SIX]
+  Over 19:  6  Wd  1  4  NB1  1  1  •       +16 runs  (Total: 190)  [SIX, UDRS, FOUR, over-break,HIGHSCORING_OVER]
+  Over 20:  1  1  4  W  •  1                +7 runs  (Total: 197)  [FOUR, WICKET]
+
+BATTERS
+------------------------------------------------------------
+  Prabhsimran                 60 runs   34 balls  4s:0  6s:0  SR:176.47
+  Dhawan                      86 runs   56 balls  4s:0  6s:0  SR:153.57
+  B Rajapaksa                  1 runs    1 balls  4s:0  6s:0  SR:100
+  Jitesh Sharma               27 runs   16 balls  4s:0  6s:0  SR:168.75
+  Raza                         1 runs    2 balls  4s:0  6s:0  SR:50
+  Shahrukh Khan               11 runs   10 balls  4s:0  6s:0  SR:110
+  Sam Curran                   1 runs    2 balls  4s:0  6s:0  SR:50
+
+BOWLERS
+------------------------------------------------------------
+  Boult                      4 ov   38 runs  0 wkts  Econ:9.5
+  KM Asif                    4 ov   54 runs  0 wkts  Econ:13.5
+  Ashwin                     4 ov   25 runs  1 wkts  Econ:6.2
+  Holder                     4 ov   29 runs  2 wkts  Econ:7.2
+  Chahal                     4 ov   50 runs  1 wkts  Econ:12.5
+
+============================================================
+  MATCH 66208 - INNINGS 2
+============================================================
+  Score: 192/7 in 20 overs  |  Run Rate: 9.6
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  6  •  •  •  1  •                +7 runs  (Total: 7)  [SIX]
+  Over  2:  4  •  Wd  W  Wd  3  •  •        +9 runs  (Total: 16)  [FOUR, WICKET]
+  Over  3:  2  2  4  •  •  1                +9 runs  (Total: 25)  [DROPPED, FOUR]
+  Over  4:  1  W  •  6  1  6                +14 runs  (Total: 39)  [WICKET, SIX, over-break,SIX,HIGHSCORING_OVER]
+  Over  5:  •  4  4  •  1  •                +9 runs  (Total: 48)  [FOUR, FOUR]
+  Over  6:  4  4  1  W  •  •                +9 runs  (Total: 57)  [TEAM_FIFTY,FOUR, FOUR, WICKET, over-break,UDRS]
+  Over  7:  1  •  2  1  •  2                +6 runs  (Total: 63)
+  Over  8:  •  1  4  1  •  1                +7 runs  (Total: 70)  [FOUR]
+  Over  9:  1  1  •  Wd  1  1  Wd5  1       +11 runs  (Total: 81)
+  Over 10:  1  2  1  1  2  1                +8 runs  (Total: 89)
+  Over 11:  1  •  •  1  •  W                +2 runs  (Total: 91)  [over-break,WICKET]
+  Over 12:  2  1  •  •  6  2                +11 runs  (Total: 102)  [TEAM_HUNDRED,SIX]
+  Over 13:  1  1  4  1  •  6                +13 runs  (Total: 115)  [FOUR, over-break,SIX]
+  Over 14:  1  •  •  4  1  •                +6 runs  (Total: 121)  [FOUR]
+  Over 15:  W  •  2  •  1  W                +3 runs  (Total: 124)  [WICKET, over-break,WICKET]
+  Over 16:  1  1  1  1  •  1                +5 runs  (Total: 129)
+  Over 17:  6  1  1  1  6  1                +16 runs  (Total: 145)  [SIX, SIX, over-break,HIGHSCORING_OVER]
+  Over 18:  1  6  4  1  1  6                +19 runs  (Total: 164)  [TEAM_HUNDRED,UDRS,SIX, FOUR, over-break,SIX,HIGHSCORING_OVER]
+  Over 19:  •  4  Wd  6  4  1  2            +18 runs  (Total: 182)  [FOUR, SIX,PARTNERSHIP, FOUR, over-break,DROPPED,HIGHSCORING_OVER]
+  Over 20:  1  2  W1  B1  1  4              +10 runs  (Total: 192)  [RUNOUT_MISS, WICKET, over-break,FOUR]
+
+BATTERS
+------------------------------------------------------------
+  Yashasvi Jaiswal            11 runs    8 balls  4s:1  6s:1  SR:137.5
+  Ravichandran Ashwin          0 runs    4 balls  4s:0  6s:0  SR:0
+  Jos Buttler                 19 runs   11 balls  4s:1  6s:1  SR:172.73
+  Sanju Samson                42 runs   25 balls  4s:5  6s:1  SR:168
+  Devdutt Padikkal            21 runs   26 balls  4s:1  6s:0  SR:80.77
+  Riyan Parag                 20 runs   12 balls  4s:1  6s:2  SR:166.67
+  Shimron Hetmyer             36 runs   18 balls  4s:1  6s:3  SR:200
+  Dhruv Jurel                 32 runs   15 balls  4s:3  6s:2  SR:213.33
+  Jason Holder                 1 runs    1 balls  4s:0  6s:0  SR:100
+
+BOWLERS
+------------------------------------------------------------
+  Sam Curran                 4 ov   44 runs  0 wkts  Econ:11
+  Arshdeep Singh             4 ov   47 runs  2 wkts  Econ:11.8
+  Harpreet Brar              2 ov   15 runs  0 wkts  Econ:7.5
+  Nathan Ellis               4 ov   30 runs  4 wkts  Econ:7.5
+  Rahul Chahar               4 ov   31 runs  0 wkts  Econ:7.8
+  Sikandar Raza              2 ov   24 runs  0 wkts  Econ:12
+
+  [Win probability not available for this match]

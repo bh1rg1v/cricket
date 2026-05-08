@@ -1,0 +1,155 @@
+SCORECARD
+============================================================
+
+============================================================
+  Delhi Capitals  135/5 (20 ov)  RR: 6.75
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Prithvi Shaw                18   12   2   1     150  lbw b Chakaravarthy
+  Dhawan                      36   39   1   2   92.31  c Shakib b Chakaravarthy
+  Stoinis                     18   23   1   0   78.26  b Shivam Mavi
+  Shreyas Iyer                30   27   1   1  111.11  not out
+  Pant                         6    6   1   0     100  c Tripathi b Lockie Ferguson
+  Hetmyer                     17   10   0   2     170  run out (Venkatesh Iyer/Karthik)
+  Axar                         4    4   0   0     100  not out
+  Extras: 6 (b 0, lb 1, w 4, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Shakib                        4   0   28   0      7
+  Lockie Ferguson               4   0   26   1    6.5
+  Narine                        4   0   27   0    6.8
+  Chakaravarthy                 4   0   26   2    6.5
+  Shivam Mavi                   4   0   27   1    6.8
+
+  Fall of Wickets: 32-1 (Prithvi Shaw, 4.1 ov), 71-2 (Stoinis, 11.3 ov), 83-3 (Dhawan, 14.1 ov), 90-4 (Pant, 15.2 ov), 117-5 (Hetmyer, 18.3 ov)
+
+============================================================
+  Kolkata Knight Riders  136/7 (19.5 ov)  RR: 6.86
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Shubman Gill                46   46   1   1     100  c Pant b Avesh Khan
+  Venkatesh Iyer              55   41   4   3  134.15  c (sub)Steven Smith b Rabada
+  Nitish Rana                 13   12   0   1  108.33  c Hetmyer b Nortje
+  Rahul Tripathi              12   11   0   1  109.09  not out
+  Dinesh Karthik               0    3   0   0       0  b Rabada
+  Eoin Morgan                  0    3   0   0       0  b Nortje
+  Shakib Al Hasan              0    2   0   0       0  lbw b Ashwin
+  Sunil Narine                 0    1   0   0       0  c Axar b Ashwin
+  Extras: 10 (b 0, lb 1, w 9, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Anrich Nortje                 4   0   31   2    7.8
+  Ravichandran Ashwin         3.5   0   27   2      7
+  Avesh Khan                    4   0   22   1    5.5
+  Axar Patel                    4   0   32   0      8
+  Kagiso Rabada                 4   0   23   2    5.8
+
+  Fall of Wickets: 96-1 (Venkatesh Iyer, 12.2 ov), 123-2 (Nitish Rana, 15.6 ov), 125-3 (Shubman Gill, 16.4 ov), 126-4 (Dinesh Karthik, 17.6 ov), 129-5 (Eoin Morgan, 18.6 ov), 130-6 (Shakib Al Hasan, 19.3 ov), 130-7 (Sunil Narine, 19.4 ov)
+
+============================================================
+  MATCH 37672 - INNINGS 1
+============================================================
+  Score: 135/5 in 20 overs  |  Run Rate: 6.75
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  1  •  •  •  •                +1 runs  (Total: 1)
+  Over  2:  4  •  1  •  •  •                +5 runs  (Total: 6)  [FOUR]
+  Over  3:  6  4  •  1  1  •                +12 runs  (Total: 18)  [SIX, FOUR]
+  Over  4:  •  6  6  1  1  •                +14 runs  (Total: 32)  [SIX, SIX, over-break,HIGHSCORING_OVER]
+  Over  5:  W  •  •  1  •  1                +2 runs  (Total: 34)  [WICKET]
+  Over  6:  1  1  •  •  1  1                +4 runs  (Total: 38)
+  Over  7:  1  4  Wd2  1  1  1  1           +11 runs  (Total: 49)  [FOUR, OTHER]
+  Over  8:  1  •  •  •  •  Wd  1            +3 runs  (Total: 52)  [TEAM_FIFTY]
+  Over  9:  1  •  •  •  1  1                +3 runs  (Total: 55)
+  Over 10:  1  2  4  1  1  1                +10 runs  (Total: 65)  [FOUR]
+  Over 11:  1  2  •  •  1  1                +5 runs  (Total: 70)  [OTHER]
+  Over 12:  •  1  W  2  •  •                +3 runs  (Total: 73)  [WICKET]
+  Over 13:  1  •  •  1  1  1                +4 runs  (Total: 77)
+  Over 14:  1  1  2  •  1  1                +6 runs  (Total: 83)  [OTHER]
+  Over 15:  W  •  4  1  1  1                +7 runs  (Total: 90)  [WICKET, FOUR]
+  Over 16:  •  W  1  1  •  •                +2 runs  (Total: 92)  [WICKET]
+  Over 17:  •  1  2  1  N  1  1             +7 runs  (Total: 99)  [OTHER]
+  Over 18:  1  6  1  •  1  6                +15 runs  (Total: 114)  [TEAM_HUNDRED, SIX, over-break,SIX,HIGHSCORING_OVER]
+  Over 19:  1  Wd  L1  W  1  1  1           +6 runs  (Total: 120)  [WICKET]
+  Over 20:  1  4  2  1  1  6                +15 runs  (Total: 135)  [FOUR, over-break,SIX,HIGHSCORING_OVER]
+
+BATTERS
+------------------------------------------------------------
+  Prithvi Shaw                18 runs   12 balls  4s:0  6s:0  SR:150
+  Dhawan                      36 runs   39 balls  4s:0  6s:0  SR:92.31
+  Stoinis                     18 runs   23 balls  4s:0  6s:0  SR:78.26
+  Shreyas Iyer                30 runs   27 balls  4s:0  6s:0  SR:111.11
+  Pant                         6 runs    6 balls  4s:0  6s:0  SR:100
+  Hetmyer                     17 runs   10 balls  4s:0  6s:0  SR:170
+  Axar                         4 runs    4 balls  4s:0  6s:0  SR:100
+
+BOWLERS
+------------------------------------------------------------
+  Shakib                     4 ov   28 runs  0 wkts  Econ:7
+  Lockie Ferguson            4 ov   26 runs  1 wkts  Econ:6.5
+  Narine                     4 ov   27 runs  0 wkts  Econ:6.8
+  Chakaravarthy              4 ov   26 runs  2 wkts  Econ:6.5
+  Shivam Mavi                4 ov   27 runs  1 wkts  Econ:6.8
+
+============================================================
+  MATCH 37672 - INNINGS 2
+============================================================
+  Score: 136/7 in 19.5 overs  |  Run Rate: 6.86
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  4  1  •  •  •  1                +6 runs  (Total: 6)  [FOUR]
+  Over  2:  1  1  4  1  1  1                +9 runs  (Total: 15)  [FOUR]
+  Over  3:  1  •  3  1  •  1                +6 runs  (Total: 21)
+  Over  4:  •  1  6  •  1  1                +9 runs  (Total: 30)  [SIX]
+  Over  5:  •  1  6  •  Wd  1  2  Wd        +12 runs  (Total: 42)  [SIX, DROPPED]
+  Over  6:  4  1  1  2  1  •                +9 runs  (Total: 51)  [FOUR, TEAM_FIFTY,PARTNERSHIP]
+  Over  7:  •  •  1  1  1  2                +5 runs  (Total: 56)
+  Over  8:  1  2  •  1  1  •                +5 runs  (Total: 61)
+  Over  9:  1  1  Wd  •  1  •  2            +6 runs  (Total: 67)
+  Over 10:  6  •  Wd  •  1  •  1            +9 runs  (Total: 76)  [SIX]
+  Over 11:  1  •  4  1  Wd5  1  •           +12 runs  (Total: 88)  [FOUR]
+  Over 12:  1  1  •  1  1  •                +4 runs  (Total: 92)  [FIFTY]
+  Over 13:  4  W  •  1  1  •                +6 runs  (Total: 98)  [FOUR, WICKET]
+  Over 14:  1  1  1  6  1  •                +10 runs  (Total: 108)  [TEAM_HUNDRED, SIX]
+  Over 15:  1  1  •  1  •  2                +5 runs  (Total: 113)  [DROPPED, over-break,RUNOUT_MISS]
+  Over 16:  1  1  1  6  1  W                +10 runs  (Total: 123)  [SIX, over-break,WICKET]
+  Over 17:  •  1  1  W  •  •                +2 runs  (Total: 125)  [WICKET]
+  Over 18:  •  •  •  •  1  W                +1 runs  (Total: 126)  [over-break,WICKET]
+  Over 19:  2  •  1  •  •  W                +3 runs  (Total: 129)  [over-break,WICKET]
+  Over 20:  1  •  W  W  6                   +7 runs  (Total: 136)  [WICKET, WICKET, SIX]
+
+BATTERS
+------------------------------------------------------------
+  Shubman Gill                46 runs   46 balls  4s:1  6s:1  SR:100
+  Venkatesh Iyer              55 runs   41 balls  4s:4  6s:3  SR:134.15
+  Nitish Rana                 13 runs   12 balls  4s:0  6s:1  SR:108.33
+  Rahul Tripathi              12 runs   11 balls  4s:0  6s:1  SR:109.09
+  Dinesh Karthik               0 runs    3 balls  4s:0  6s:0  SR:0
+  Eoin Morgan                  0 runs    3 balls  4s:0  6s:0  SR:0
+  Shakib Al Hasan              0 runs    2 balls  4s:0  6s:0  SR:0
+  Sunil Narine                 0 runs    1 balls  4s:0  6s:0  SR:0
+  Lockie Ferguson              0 runs    0 balls  4s:0  6s:0  SR:0
+
+BOWLERS
+------------------------------------------------------------
+  Anrich Nortje              4 ov   31 runs  2 wkts  Econ:7.8
+  Ravichandran Ashwin        3.5 ov   27 runs  2 wkts  Econ:7
+  Avesh Khan                 4 ov   22 runs  1 wkts  Econ:5.5
+  Axar Patel                 4 ov   32 runs  0 wkts  Econ:8
+  Kagiso Rabada              4 ov   23 runs  2 wkts  Econ:5.8
+
+  [Win probability not available for this match]

@@ -1,0 +1,69 @@
+SCORECARD
+============================================================
+
+============================================================
+  Royal Challengers Bangalore  248/3 (20 ov)  RR: 12.4
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Shane Watson                 0    1   0   0       0  c D Karthik b P Kumar
+  Chris Gayle                  6   13   1   0   46.15  b D Kulkarni
+  AB de Villiers             129   52  10  12  248.08  not out
+  Virat Kohli                109   55   5   8  198.18  c DJ Bravo b P Kumar
+  Extras: 4 (b 1, lb 1, w 1, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Praveen Kumar                 4   1   45   2  11.25
+  Dhawal Kulkarni               3   0   33   1     11
+  Shivil Koushik                3   0   50   0  16.67
+  Pravin Tambe                  2   0   25   0   12.5
+  Dwayne Bravo                  3   0   46   0  15.33
+  Ravindra Jadeja               4   0   34   0    8.5
+  Dwayne Smith                  1   0   13   0     13
+
+  Fall of Wickets: 19-1 (Gayle, 3.5 ov), 248-2 (Virat Kohli, 19.5 ov), 248-3 (Shane Watson, 19.6 ov)
+
+============================================================
+  Gujarat Lions  104/10 (18.4 ov)  RR: 5.65
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Dinesh Karthik               2    4   0   0      50  c de Villiers b C Jordan
+  Brendon McCullum            11   13   2   0   84.62  c de Villiers b Chahal
+  Dwayne Bravo                 1    2   0   0      50  lbw b Chahal
+  Dwayne Smith                 7    6   1   0  116.67  b Aravind
+  Ravindra Jadeja             21   19   2   1  110.53  c & b C Jordan
+  Praveen Kumar                1    4   0   0      25  b C Jordan
+  Dhawal Kulkarni              2    3   0   0   66.67  b C Jordan
+  Aaron Finch                 37   38   3   1   97.37  c Aravind b Sachin Baby
+  Akshdeep Nath                3    6   0   0      50  b Chahal
+  Pravin Tambe                 7   19   1   0   36.84  not out
+  Shivil Koushik               0    1   0   0       0  c Aravind b Sachin Baby
+  Extras: 12 (b 1, lb 3, w 5, nb 3)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Stuart Binny                  2   0   13   0    6.5
+  Sreenath Aravind              3   0   15   1      5
+  Yuzvendra Chahal              4   0   19   3   4.75
+  Shane Watson                  1   0    3   0      3
+  Chris Jordan                  3   0   11   4   3.67
+  Varun Aaron                   2   0   19   0    9.5
+  Virat Kohli                   1   0   13   0     13
+  Chris Gayle                   2   0    3   0    1.5
+  Sachin Baby                 0.4   0    4   2     10
+
+  Fall of Wickets: 9-1 (Dwayne Smith, 1.5 ov), 37-2 (Brendon McCullum, 4.6 ov), 44-3 (Karthik, 6.5 ov), 44-4 (Ravindra Jadeja, 6.6 ov), 47-5 (DJ Bravo, 7.5 ov), 68-6 (Akshdeep Nath, 11.2 ov), 69-7 (P Kumar, 12.1 ov), 74-8 (D Kulkarni, 12.5 ov), 104-9 (Aaron Finch, 18.3 ov), 104-10 (Shivil, 18.4 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

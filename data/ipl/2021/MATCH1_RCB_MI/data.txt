@@ -1,0 +1,167 @@
+SCORECARD
+============================================================
+
+============================================================
+  Mumbai Indians  159/9 (20 ov)  RR: 7.95
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Rohit                       19   15   1   1  126.67  run out (Kohli/Chahal)
+  Chris Lynn                  49   35   4   3     140  c and b Washington Sundar
+  Suryakumar Yadav            31   23   4   1  134.78  c de Villiers b Jamieson
+  Ishan Kishan                28   19   2   1  147.37  lbw b Harshal Patel
+  Hardik Pandya               13   10   2   0     130  lbw b Harshal Patel
+  Pollard                      7    9   1   0   77.78  c Washington Sundar b Harshal Patel
+  Krunal Pandya                7    7   1   0     100  c Christian b Harshal Patel
+  Marco Jansen                 0    2   0   0       0  b Harshal Patel
+  Bumrah                       1    2   0   0      50  not out
+  Extras: 4 (b 0, lb 0, w 2, nb 2)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Siraj                         4   0   22   0    5.5
+  Jamieson                      4   0   27   1    6.8
+  Chahal                        4   0   41   0   10.2
+  Shahbaz Ahmed                 1   0   14   0     14
+  Harshal Patel                 4   0   27   5    6.8
+  Christian                     2   0   21   0   10.5
+  Washington Sundar             1   0    7   1      7
+
+  Fall of Wickets: 24-1 (Rohit, 4 ov), 94-2 (Suryakumar Yadav, 10.6 ov), 105-3 (Chris Lynn, 12.5 ov), 135-4 (Hardik Pandya, 15.6 ov), 145-5 (Ishan Kishan, 17.4 ov), 158-6 (Krunal Pandya, 19.1 ov), 158-7 (Pollard, 19.2 ov), 158-8 (Marco Jansen, 19.4 ov), 159-9 (Rahul Chahar, 20 ov)
+
+============================================================
+  Royal Challengers Bangalore  160/8 (20 ov)  RR: 8
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Washington Sundar           10   16   0   0    62.5  c Chris Lynn b Krunal Pandya
+  Virat Kohli                 33   29   4   0  113.79  lbw b Bumrah
+  Rajat Patidar                8    8   1   0     100  b Boult
+  Glenn Maxwell               39   28   3   2  139.29  c Chris Lynn b Marco Jansen
+  AB de Villiers              48   27   4   2  177.78  run out (Krunal Pandya/Ishan Kishan)
+  Shahbaz Ahmed                1    2   0   0      50  c Krunal Pandya b Marco Jansen
+  Daniel Christian             1    3   0   0   33.33  c Rahul Chahar b Bumrah
+  Kyle Jamieson                4    4   0   0     100  run out (Bumrah)
+  Harshal Patel                4    3   0   0  133.33  not out
+  Mohammed Siraj               0    1   0   0       0  not out
+  Extras: 12 (b 0, lb 2, w 9, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Trent Boult                   4   0   36   1      9
+  Jasprit  Bumrah               4   0   26   2    6.5
+  Marco Jansen                  4   0   28   2      7
+  Krunal Pandya                 4   0   25   1    6.2
+  Rahul Chahar                  4   0   43   0   10.8
+
+  Fall of Wickets: 36-1 (Washington Sundar, 4.2 ov), 46-2 (Rajat Patidar, 5.5 ov), 98-3 (Virat Kohli, 12.3 ov), 103-4 (Glenn Maxwell, 14.1 ov), 106-5 (Shahbaz Ahmed, 14.6 ov), 122-6 (Daniel Christian, 16.3 ov), 152-7 (Kyle Jamieson, 18.5 ov), 158-8 (AB de Villiers, 19.4 ov)
+
+============================================================
+  MATCH 35612 - INNINGS 1
+============================================================
+  Score: 159/9 in 20 overs  |  Run Rate: 7.95
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  2  •  •  2  •  1                +5 runs  (Total: 5)
+  Over  2:  1  •  •  •  •  •                +1 runs  (Total: 6)
+  Over  3:  •  •  •  •  4  2                +6 runs  (Total: 12)  [FOUR]
+  Over  4:  •  4  1  6  1  W                +12 runs  (Total: 24)  [FOUR, SIX, over-break,WICKET]
+  Over  5:  4  •  1  1  •  •                +6 runs  (Total: 30)  [FOUR]
+  Over  6:  •  6  •  1  •  4                +11 runs  (Total: 41)  [SIX, over-break,FOUR]
+  Over  7:  1  1  4  6  1  1                +14 runs  (Total: 55)  [FOUR, TEAM_FIFTY,SIX, over-break,HIGHSCORING_OVER]
+  Over  8:  6  N1  1  •  4  1  1            +15 runs  (Total: 70)  [SIX, FOUR, over-break,HIGHSCORING_OVER]
+  Over  9:  1  4  1  2  4  Wd  •            +13 runs  (Total: 83)  [FOUR,PARTNERSHIP, FOUR]
+  Over 10:  •  1  1  1  •  •                +3 runs  (Total: 86)
+  Over 11:  1  1  •  6  •  W                +8 runs  (Total: 94)  [SIX, over-break,WICKET]
+  Over 12:  1  •  1  •  1  1                +4 runs  (Total: 98)
+  Over 13:  1  4  1  1  W  •                +7 runs  (Total: 105)  [TEAM_HUNDRED,FOUR, WICKET]
+  Over 14:  1  2  6  4  1  1                +15 runs  (Total: 120)  [SIX, FOUR, over-break,HIGHSCORING_OVER]
+  Over 15:  •  4  •  1  2  1                +8 runs  (Total: 128)  [FOUR]
+  Over 16:  •  1  2  4  •  W                +7 runs  (Total: 135)  [FOUR, over-break,WICKET,UDRS]
+  Over 17:  4  Wd  1  •  •  1  •            +7 runs  (Total: 142)  [FOUR]
+  Over 18:  •  1  2  W  •  1                +4 runs  (Total: 146)  [DROPPED, WICKET,UDRS]
+  Over 19:  1  1  •  N4  1  4  •            +12 runs  (Total: 158)  [DROPPED, TEAM_HUNDRED,FOUR, FOUR]
+  Over 20:  W  W  •  W  •  W1               +1 runs  (Total: 159)  [WICKET, WICKET, WICKET, over-break,WICKET]
+
+BATTERS
+------------------------------------------------------------
+  Rohit                       19 runs   15 balls  4s:0  6s:0  SR:126.67
+  Bumrah                       1 runs    2 balls  4s:0  6s:0  SR:50
+  Chris Lynn                  49 runs   35 balls  4s:0  6s:0  SR:140
+  Suryakumar Yadav            31 runs   23 balls  4s:0  6s:0  SR:134.78
+  Ishan Kishan                28 runs   19 balls  4s:0  6s:0  SR:147.37
+  Hardik Pandya               13 runs   10 balls  4s:0  6s:0  SR:130
+  Pollard                      7 runs    9 balls  4s:0  6s:0  SR:77.78
+  Krunal Pandya                7 runs    7 balls  4s:0  6s:0  SR:100
+  Marco Jansen                 0 runs    2 balls  4s:0  6s:0  SR:0
+  Rahul Chahar                 0 runs    0 balls  4s:0  6s:0  SR:0
+
+BOWLERS
+------------------------------------------------------------
+  Siraj                      4 ov   22 runs  0 wkts  Econ:5.5
+  Jamieson                   4 ov   27 runs  1 wkts  Econ:6.8
+  Chahal                     4 ov   41 runs  0 wkts  Econ:10.2
+  Shahbaz Ahmed              1 ov   14 runs  0 wkts  Econ:14
+  Harshal Patel              4 ov   27 runs  5 wkts  Econ:6.8
+  Christian                  2 ov   21 runs  0 wkts  Econ:10.5
+  Washington Sundar          1 ov    7 runs  1 wkts  Econ:7
+
+============================================================
+  MATCH 35612 - INNINGS 2
+============================================================
+  Score: 160/8 in 20 overs  |  Run Rate: 8
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  •  •  Wd5  1  4  •           +10 runs  (Total: 10)  [DROPPED, FOUR]
+  Over  2:  2  •  •  2  1  •                +5 runs  (Total: 15)
+  Over  3:  1  4  •  1  •  •                +6 runs  (Total: 21)  [FOUR]
+  Over  4:  4  •  •  4  N1  1  2            +14 runs  (Total: 35)  [FOUR, FOUR, over-break,HIGHSCORING_OVER]
+  Over  5:  1  W  1  1  2  1                +6 runs  (Total: 41)  [WICKET]
+  Over  6:  4  •  •  •  Wd  W  •            +5 runs  (Total: 46)  [FOUR, WICKET]
+  Over  7:  •  •  2  •  1  1                +4 runs  (Total: 50)  [RUNOUT_MISS, over-break,TEAM_FIFTY]
+  Over  8:  4  1  3  •  4  1                +13 runs  (Total: 63)  [FOUR, FOUR]
+  Over  9:  •  •  •  1  1  4                +6 runs  (Total: 69)  [over-break,FOUR]
+  Over 10:  •  1  1  1  •  Wd  1  Wd        +6 runs  (Total: 75)
+  Over 11:  6  1  •  •  1  1                +9 runs  (Total: 84)  [SIX]
+  Over 12:  6  1  2  •  1  1                +11 runs  (Total: 95)  [SIX]
+  Over 13:  2  1  W  •  1  •                +4 runs  (Total: 99)  [PARTNERSHIP, WICKET]
+  Over 14:  •  1  1  1  •  1                +4 runs  (Total: 103)  [TEAM_HUNDRED]
+  Over 15:  W  1  Wd  •  •  1  W            +3 runs  (Total: 106)  [WICKET, over-break,WICKET]
+  Over 16:  4  6  1  1  2  1                +15 runs  (Total: 121)  [FOUR, SIX, over-break,HIGHSCORING_OVER]
+  Over 17:  1  •  W  •  3  1                +5 runs  (Total: 126)  [WICKET]
+  Over 18:  6  1  1  4  2  1                +15 runs  (Total: 141)  [SIX, FOUR, over-break,HIGHSCORING_OVER]
+  Over 19:  4  2  4  1  W  1                +12 runs  (Total: 153)  [FOUR, TEAM_HUNDRED,FOUR, WICKET]
+  Over 20:  1  2  1  W1  L1  1              +7 runs  (Total: 160)  [WICKET]
+
+BATTERS
+------------------------------------------------------------
+  Washington Sundar           10 runs   16 balls  4s:0  6s:0  SR:62.5
+  Mohammed Siraj               0 runs    1 balls  4s:0  6s:0  SR:0
+  Virat Kohli                 33 runs   29 balls  4s:4  6s:0  SR:113.79
+  Rajat Patidar                8 runs    8 balls  4s:1  6s:0  SR:100
+  Glenn Maxwell               39 runs   28 balls  4s:3  6s:2  SR:139.29
+  AB de Villiers              48 runs   27 balls  4s:4  6s:2  SR:177.78
+  Shahbaz Ahmed                1 runs    2 balls  4s:0  6s:0  SR:50
+  Daniel Christian             1 runs    3 balls  4s:0  6s:0  SR:33.33
+  Kyle Jamieson                4 runs    4 balls  4s:0  6s:0  SR:100
+  Harshal Patel                4 runs    3 balls  4s:0  6s:0  SR:133.33
+
+BOWLERS
+------------------------------------------------------------
+  Trent Boult                4 ov   36 runs  1 wkts  Econ:9
+  Jasprit  Bumrah            4 ov   26 runs  2 wkts  Econ:6.5
+  Marco Jansen               4 ov   28 runs  2 wkts  Econ:7
+  Krunal Pandya              4 ov   25 runs  1 wkts  Econ:6.2
+  Rahul Chahar               4 ov   43 runs  0 wkts  Econ:10.8
+
+  [Win probability not available for this match]

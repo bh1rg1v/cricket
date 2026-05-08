@@ -1,0 +1,60 @@
+SCORECARD
+============================================================
+
+============================================================
+  Rajasthan Royals  146/4 (20 ov)  RR: 7.3
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Rahul Dravid                26   28   3   1   92.86  c D Bollinger b S Jakati
+  Brad Hodge                   3    5   0   0      60  not out
+  Owais Shah                  52   43   4   3  120.93  c M Dhoni b N Kulasekara
+  Ajinkya Rahane              15   10   3   0     150  c N Kulasekara b R Ashwin
+  Ashok Menaria               36   34   2   1  105.88  c S Jakati b D Bollinger
+  Extras: 14 (b 1, lb 2, w 11, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Nuwan Kulasekara              4   0   17   1   4.25
+  Doug Bollinger                4   0   31   1   7.75
+  Dwayne Bravo                  3   0   32   0  10.67
+  Ravichandran Ashwin           4   0   19   1   4.75
+  Shadab Jakati                 2   0   12   1      6
+  Ravindra Jadeja               3   0   32   0  10.67
+
+  Fall of Wickets: 36-1 (Ajinkya Rahane, 4.4 ov), 50-2 (Dravid, 7.6 ov), 142-3 (Menaria, 18.5 ov), 146-4 (Owais Shah, 19.6 ov)
+
+============================================================
+  Chennai Super Kings  147/3 (20 ov)  RR: 7.35
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Dwayne Bravo                16   10   1   0     160  not out
+  MS Dhoni                    15   12   1   0     125  not out
+  Suresh Raina                26   24   3   0  108.33  c A Rahane b K Cooper
+  S Badrinath                 15   22   1   0   68.18  st S Goswami b B Hogg
+  Faf du Plessis              73   52   6   2  140.38  c S Goswami b K Cooper
+  Extras: 2 (b 0, lb 1, w 1, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Ashok Menaria                 2   0   10   0      5
+  Stuart Binny                  2   0   20   0     10
+  Amit Singh                    4   0   45   0  11.25
+  Kevon Cooper                  4   0   23   2   5.75
+  Brad Hogg                     4   0   18   1    4.5
+  Siddharth Trivedi             4   0   30   0    7.5
+
+  Fall of Wickets: 55-1 (Badrinath, 7.3 ov), 116-2 (du Plessis, 16.1 ov), 117-3 (Raina, 16.3 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

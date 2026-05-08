@@ -1,0 +1,162 @@
+SCORECARD
+============================================================
+
+============================================================
+  Rajasthan Royals  199/4 (20 ov)  RR: 9.95
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Yashasvi Jaiswal            60   31  11   1  193.55  c and b Mukesh Kumar
+  Jos Buttler                 79   51  11   1   154.9  c and b Mukesh Kumar
+  Samson                       0    4   0   0       0  c Nortje b Kuldeep Yadav
+  Riyan Parag                  7   11   0   0   63.64  b Rovman Powell
+  Hetmyer                     39   21   1   4  185.71  not out
+  Dhruv Jurel                  8    3   0   1  266.67  not out
+  Extras: 6 (b 0, lb 1, w 4, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Khaleel Ahmed                 2   0   31   0   15.5
+  Nortje                        4   0   44   0     11
+  Mukesh Kumar                  4   0   36   2      9
+  Axar                          4   0   38   0    9.5
+  Kuldeep Yadav                 4   0   31   1    7.8
+  Rovman Powell                 2   0   18   1      9
+
+  Fall of Wickets: 98-1 (Yashasvi Jaiswal, 8.3 ov), 103-2 (Samson, 9.5 ov), 126-3 (Riyan Parag, 13.5 ov), 175-4 (Jos Buttler, 18.3 ov)
+
+============================================================
+  Delhi Capitals  142/9 (20 ov)  RR: 7.1
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Prithvi Shaw                 0    3   0   0       0  c Samson b Boult
+  David Warner                65   55   7   0  118.18  lbw b Chahal
+  Manish Pandey                0    1   0   0       0  lbw b Boult
+  Rilee Rossouw               14   12   2   0  116.67  c Yashasvi Jaiswal b Ashwin
+  Lalit Yadav                 38   24   5   0  158.33  b Boult
+  Axar Patel                   2    6   0   0   33.33  st Samson b Chahal
+  Rovman Powell                2    2   0   0     100  c Hetmyer b Ashwin
+  Abishek Porel                7    9   1   0   77.78  c Hetmyer b Chahal
+  Kuldeep Yadav                3    7   0   0   42.86  not out
+  Anrich Nortje                0    1   0   0       0  b Sandeep Sharma
+  Mukesh Kumar                 1    1   0   0     100  not out
+  Extras: 10 (b 0, lb 2, w 7, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Trent Boult                   4   1   29   3    7.2
+  Sandeep Sharma                4   0   20   1      5
+  Ravichandran Ashwin           4   0   25   2    6.2
+  Jason Holder                  3   0   28   0    9.3
+  Yuzvendra Chahal              4   0   27   3    6.8
+  Murugan Ashwin                1   0   11   0     11
+
+  Fall of Wickets: 0-1 (Prithvi Shaw, 0.3 ov), 0-2 (Manish Pandey, 0.4 ov), 36-3 (Rilee Rossouw, 5.4 ov), 100-4 (Lalit Yadav, 12.6 ov), 111-5 (Axar Patel, 14.5 ov), 118-6 (Rovman Powell, 15.3 ov), 138-7 (Abishek Porel, 18.2 ov), 139-8 (David Warner, 18.6 ov), 140-9 (Anrich Nortje, 19.2 ov)
+
+============================================================
+  MATCH 66218 - INNINGS 1
+============================================================
+  Score: 199/4 in 20 overs  |  Run Rate: 9.95
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  4  4  4  •  4  4                +20 runs  (Total: 20)  [FOUR, FOUR, FOUR, FOUR, over-break,FOUR,HIGHSCORING_OVER]
+  Over  2:  •  •  4  •  4  4                +12 runs  (Total: 32)  [FOUR, FOUR, over-break,FOUR]
+  Over  3:  •  1  •  4  1  1                +7 runs  (Total: 39)  [FOUR]
+  Over  4:  4  •  Wd  1  •  1  2  Wd2       +11 runs  (Total: 50)  [FOUR, over-break,TEAM_FIFTY,DROPPED,PARTNERSHIP]
+  Over  5:  •  •  4  4  4  1                +13 runs  (Total: 63)  [FOUR, FOUR, FOUR]
+  Over  6:  •  •  1  4  •  •                +5 runs  (Total: 68)  [FOUR]
+  Over  7:  1  1  •  4  4  1                +11 runs  (Total: 79)  [FOUR, FIFTY,FOUR]
+  Over  8:  1  4  1  6  1  4                +17 runs  (Total: 96)  [FOUR, SIX, over-break,FOUR,HIGHSCORING_OVER]
+  Over  9:  1  1  W  •  •  •                +2 runs  (Total: 98)  [WICKET]
+  Over 10:  2  •  2  1  W  •                +5 runs  (Total: 103)  [TEAM_HUNDRED, WICKET]
+  Over 11:  •  1  •  1  1  1                +4 runs  (Total: 107)
+  Over 12:  1  1  1  •  •  2                +5 runs  (Total: 112)
+  Over 13:  1  6  •  1  1  1                +10 runs  (Total: 122)  [FIFTY,SIX]
+  Over 14:  1  •  Wd  1  1  W  •            +4 runs  (Total: 126)  [WICKET]
+  Over 15:  •  2  •  1  •  1                +4 runs  (Total: 130)
+  Over 16:  1  L1  1  2  4  4               +13 runs  (Total: 143)  [FOUR, over-break,FOUR]
+  Over 17:  1  N  1  6  4  •  1             +14 runs  (Total: 157)  [TEAM_HUNDRED,SIX, FOUR, over-break,HIGHSCORING_OVER]
+  Over 18:  •  1  4  2  •  4                +11 runs  (Total: 168)  [FOUR, over-break,FOUR]
+  Over 19:  6  1  W  6  1  1                +15 runs  (Total: 183)  [SIX, WICKET, SIX, over-break,HIGHSCORING_OVER]
+  Over 20:  6  1  1  6  2  •                +16 runs  (Total: 199)  [SIX, SIX, over-break,HIGHSCORING_OVER]
+
+BATTERS
+------------------------------------------------------------
+  Yashasvi Jaiswal            60 runs   31 balls  4s:0  6s:0  SR:193.55
+  Jos Buttler                 79 runs   51 balls  4s:0  6s:0  SR:154.9
+  Samson                       0 runs    4 balls  4s:0  6s:0  SR:0
+  Riyan Parag                  7 runs   11 balls  4s:0  6s:0  SR:63.64
+  Hetmyer                     39 runs   21 balls  4s:0  6s:0  SR:185.71
+  Dhruv Jurel                  8 runs    3 balls  4s:0  6s:0  SR:266.67
+
+BOWLERS
+------------------------------------------------------------
+  Khaleel Ahmed              2 ov   31 runs  0 wkts  Econ:15.5
+  Nortje                     4 ov   44 runs  0 wkts  Econ:11
+  Mukesh Kumar               4 ov   36 runs  2 wkts  Econ:9
+  Axar                       4 ov   38 runs  0 wkts  Econ:9.5
+  Kuldeep Yadav              4 ov   31 runs  1 wkts  Econ:7.8
+  Rovman Powell              2 ov   18 runs  1 wkts  Econ:9
+
+============================================================
+  MATCH 66218 - INNINGS 2
+============================================================
+  Score: 142/9 in 20 overs  |  Run Rate: 7.1
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  •  W  W  •  •                +0 runs  (Total: 0)  [WICKET, WICKET,UDRS, over-break,MAIDEN_OVER]
+  Over  2:  •  Wd  •  •  •  4  •            +5 runs  (Total: 5)  [FOUR]
+  Over  3:  4  1  4  •  •  •                +9 runs  (Total: 14)  [FOUR, FOUR]
+  Over  4:  •  •  1  4  1  1                +7 runs  (Total: 21)  [FOUR]
+  Over  5:  1  4  •  •  1  4  Wd            +11 runs  (Total: 32)  [FOUR, over-break,FOUR]
+  Over  6:  •  1  Wd  2  W  •  2            +6 runs  (Total: 38)  [WICKET]
+  Over  7:  1  •  •  1  1  1                +4 runs  (Total: 42)
+  Over  8:  1  1  1  1  1  1                +6 runs  (Total: 48)
+  Over  9:  1  1  4  1  4  2                +13 runs  (Total: 61)  [TEAM_FIFTY, FOUR, FOUR]
+  Over 10:  1  1  1  1  •  Wd  1  Wd        +7 runs  (Total: 68)
+  Over 11:  2  1  4  4  Wd  1  2            +15 runs  (Total: 83)  [FOUR, FOUR, over-break,HIGHSCORING_OVER]
+  Over 12:  4  1  1  2  1  1                +10 runs  (Total: 93)  [FOUR,PARTNERSHIP]
+  Over 13:  1  1  •  1  4  W                +7 runs  (Total: 100)  [TEAM_HUNDRED,FOUR, over-break,WICKET]
+  Over 14:  1  •  •  1  •  4                +6 runs  (Total: 106)  [over-break,FOUR]
+  Over 15:  L1  1  1  1  W  Wd  2           +7 runs  (Total: 113)  [WICKET]
+  Over 16:  4  1  W  •  •  •                +5 runs  (Total: 118)  [FIFTY,FOUR, WICKET]
+  Over 17:  1  1  2  2  1  N  1             +11 runs  (Total: 129)
+  Over 18:  L1  1  1  •  1  4               +8 runs  (Total: 137)  [over-break,FOUR]
+  Over 19:  1  W  •  •  1  W                +2 runs  (Total: 139)  [WICKET, over-break,WICKET,UDRS]
+  Over 20:  1  W  1  •  •  1                +3 runs  (Total: 142)  [WICKET]
+
+BATTERS
+------------------------------------------------------------
+  Prithvi Shaw                 0 runs    3 balls  4s:0  6s:0  SR:0
+  Anrich Nortje                0 runs    1 balls  4s:0  6s:0  SR:0
+  Mukesh Kumar                 1 runs    1 balls  4s:0  6s:0  SR:100
+  David Warner                65 runs   55 balls  4s:7  6s:0  SR:118.18
+  Manish Pandey                0 runs    1 balls  4s:0  6s:0  SR:0
+  Rilee Rossouw               14 runs   12 balls  4s:2  6s:0  SR:116.67
+  Lalit Yadav                 38 runs   24 balls  4s:5  6s:0  SR:158.33
+  Axar Patel                   2 runs    6 balls  4s:0  6s:0  SR:33.33
+  Rovman Powell                2 runs    2 balls  4s:0  6s:0  SR:100
+  Abishek Porel                7 runs    9 balls  4s:1  6s:0  SR:77.78
+  Kuldeep Yadav                3 runs    7 balls  4s:0  6s:0  SR:42.86
+
+BOWLERS
+------------------------------------------------------------
+  Trent Boult                4 ov   29 runs  3 wkts  Econ:7.2
+  Sandeep Sharma             4 ov   20 runs  1 wkts  Econ:5
+  Ravichandran Ashwin        4 ov   25 runs  2 wkts  Econ:6.2
+  Jason Holder               3 ov   28 runs  0 wkts  Econ:9.3
+  Yuzvendra Chahal           4 ov   27 runs  3 wkts  Econ:6.8
+  Murugan Ashwin             1 ov   11 runs  0 wkts  Econ:11
+
+  [Win probability not available for this match]

@@ -1,0 +1,65 @@
+SCORECARD
+============================================================
+
+============================================================
+  Mumbai Indians  172/8 (20 ov)  RR: 8.6
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Harbhajan Singh              3    5   0   0      60  c Raina b P Kumar
+  Rohit Sharma                30   17   4   2  176.47  c Jakati b D Kulkarni
+  Kieron Pollard               9   11   0   1   81.82  c Dwayne Smith b D Kulkarni
+  Vinay Kumar                  1    1   0   0     100  not out
+  Martin Guptill               7    9   1   0   77.78  c DJ Bravo b Dwayne Smith
+  Jos Buttler                 33   31   3   0  106.45  c & b DJ Bravo
+  Nitish Rana                 70   36   7   4  194.44  c D Kulkarni b DJ Bravo
+  Hardik Pandya                7    8   1   0    87.5  c R Jadeja b P Kumar
+  Krunal Pandya                4    3   1   0  133.33  c Finch b Dwayne Smith
+  Extras: 8 (b 0, lb 3, w 4, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Praveen Kumar                 4   0   24   2      6
+  Dhawal Kulkarni               4   0   41   2  10.25
+  Dwayne Smith                  4   0   37   2   9.25
+  Shadab Jakati                 3   0   30   0     10
+  Dwayne Bravo                  4   0   22   2    5.5
+  Ravindra Jadeja               1   0   15   0     15
+
+  Fall of Wickets: 33-1 (Rohit Sharma, 3.5 ov), 41-2 (Martin Guptill, 4.3 ov), 45-3 (Krunal Pandya, 4.6 ov), 120-4 (Jos Buttler, 13.5 ov), 153-5 (Nitish Rana, 16.6 ov), 160-6 (Pollard, 17.5 ov), 166-7 (Harbhajan, 19.2 ov), 172-8 (Hardik Pandya, 19.6 ov)
+
+============================================================
+  Gujarat Lions  173/4 (17.5 ov)  RR: 9.89
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Dinesh Karthik               3    4   0   0      75  c J Buttler b Vinay
+  Brendon McCullum            48   27   8   1  177.78  b Harbhajan
+  Dwayne Smith                37   23   4   2  160.87  not out
+  Suresh Raina                58   36   8   2  161.11  c J Buttler b Bumrah
+  Ravindra Jadeja             21   15   4   0     140  not out
+  Aaron Finch                  0    2   0   0       0  lbw b Vinay
+  Extras: 6 (b 0, lb 2, w 4, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Vinay Kumar                   3   1   17   2   5.67
+  Jasprit Bumrah                4   0   42   1   10.5
+  Mitchell McClenaghan        3.5   0   38   0  10.86
+  Krunal Pandya                 2   0   28   0     14
+  Harbhajan Singh               4   0   36   1      9
+  Hardik Pandya                 1   0   10   0     10
+
+  Fall of Wickets: 0-1 (Aaron Finch, 0.2 ov), 96-2 (Brendon McCullum, 9.2 ov), 111-3 (Karthik, 10.6 ov), 122-4 (Raina, 12.2 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

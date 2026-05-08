@@ -1,0 +1,64 @@
+SCORECARD
+============================================================
+
+============================================================
+  Kochi Tuskers Kerala  109/10 (20 ov)  RR: 5.45
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  VVS Laxman                   8   10   1   0      80  run out (R Dravid)
+  Parthiv Patel               32   34   2   0   94.12  st D Yagnik b S Warne
+  Mahela Jayawardene          13   13   2   0     100  b J Botha
+  Muthiah Muralidaran          5    8   0   0    62.5  not out
+  Brad Hodge                   8   14   0   0   57.14  b S Warne
+  RP Singh                     1    1   0   0     100  run out (J Botha/D Yagnik)
+  Ravindra Jadeja             22   23   2   0   95.65  c & b S Warne
+  Vinay Kumar                  5    4   1   0     125  c S Watson b A Singh
+  Kedar Jadhav                 5    9   0   0   55.56  c D Yagnik b S Trivedi
+  Raiphi Gomez                 0    1   0   0       0  c S Watson b S Trivedi
+  Thisara Perera               1    4   0   0      25  c S Binny b S Trivedi
+  Extras: 9 (b 2, lb 4, w 2, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Amit Singh                    4   0   26   1    6.5
+  Shane Watson                  4   0   23   0   5.75
+  Johan Botha                   4   0   19   1   4.75
+  Shane Warne                   4   0   16   3      4
+  Siddharth Trivedi             4   0   19   3   4.75
+
+  Fall of Wickets: 26-1 (V Laxman, 3.3 ov), 28-2 (Mahela, 4.1 ov), 42-3 (Hodge, 7.4 ov), 90-4 (Ravindra Jadeja, 15.3 ov), 90-5 (Parthiv Patel, 15.4 ov), 90-6 (Gomez, 16.1 ov), 92-7 (Thisara Perera, 16.6 ov), 98-8 (Vinay Kumar, 17.5 ov), 108-9 (Kedar Jadhav, 19.5 ov), 109-10 (RP Singh, 20 ov)
+
+============================================================
+  Rajasthan Royals  111/2 (14.1 ov)  RR: 7.84
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Rahul Dravid                44   37   4   1  118.92  run out (K Jadhav/P Patel)
+  Shane Watson                49   40   4   2   122.5  b R Jadeja
+  Johan Botha                 14    7   3   0     200  not out
+  Ross Taylor                  2    1   0   0     200  not out
+  Extras: 2 (b 0, lb 1, w 1, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  RP Singh                      2   0   11   0    5.5
+  Vinay Kumar                   3   0   27   0      9
+  Muthiah Muralidaran         3.1   0   28   0   9.03
+  Thisara Perera                2   0   11   0    5.5
+  Ravindra Jadeja               3   0   24   1      8
+  Raiphi Gomez                  1   0    9   0      9
+
+  Fall of Wickets: 71-1 (Dravid, 10.4 ov), 105-2 (Shane Watson, 13.5 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

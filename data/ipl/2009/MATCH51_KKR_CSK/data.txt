@@ -1,0 +1,61 @@
+SCORECARD
+============================================================
+
+============================================================
+  Chennai Super Kings  188/3 (20 ov)  RR: 9.4
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Parthiv Patel               25   19   4   0  131.58  run out (Shukla)
+  MS Dhoni                    40   28   4   1  142.86  not out
+  Suresh Raina                52   36   3   3  144.44  c Shukla b Dinda
+  Albie Morkel                21   10   1   2     210  not out
+  George Bailey               30   27   4   0  111.11  run out (Hodge)
+  Extras: 20 (b 4, lb 3, w 13, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Ashok Dinda                   4   0   29   1   7.25
+  Anureet Singh                 1   0   12   0     12
+  Ajit Agarkar                  4   0   45   0  11.25
+  Murali Kartik                 3   0   27   0      9
+  Brad Hodge                    2   0   12   0      6
+  Ajantha Mendis                4   0   38   0    9.5
+  David Hussey                  2   0   18   0      9
+
+  Fall of Wickets: 59-1 (Parthiv Patel, 6.1 ov), 78-2 (George Bailey, 9.1 ov), 152-3 (Raina, 16.6 ov)
+
+============================================================
+  Kolkata Knight Riders  189/3 (20 ov)  RR: 9.45
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Sourav Ganguly               4   14   0   0   28.57  b Muralitharan
+  Brendon McCullum            81   48  11   3  168.75  b Jakati
+  Brad Hodge                  71   44   4   4  161.36  not out
+  David Hussey                 3    2   0   0     150  run out (Muralitharan/Dhoni)
+  Wriddhiman Saha             25   13   2   1  192.31  not out
+  Extras: 5 (b 0, lb 4, w 0, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Albie Morkel                  3   0   39   0     13
+  Sudeep Tyagi                  3   0   29   0   9.67
+  Shadab Jakati                 4   0   36   1      9
+  Muthiah Muralidaran           4   0   16   1      4
+  Suresh Raina                  3   0   25   0   8.33
+  Lakshmipathy Balaji           3   0   40   0  13.33
+
+  Fall of Wickets: 34-1 (S Ganguly, 4.4 ov), 124-2 (Brendon McCullum, 13.6 ov), 133-3 (David Hussey, 15.2 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

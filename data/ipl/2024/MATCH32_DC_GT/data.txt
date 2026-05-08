@@ -1,0 +1,145 @@
+SCORECARD
+============================================================
+
+============================================================
+  Gujarat Titans  89/10 (17.3 ov)  RR: 5.09
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  W Saha                       2   10   0   0      20  b Mukesh Kumar
+  Shubman Gill                 8    6   2   0  133.33  c Prithvi Shaw b Ishant
+  Sai Sudharsan               12    9   2   0  133.33  run out (Sumit Kumar)
+  David Miller                 2    6   0   0   33.33  c Pant b Ishant
+  Abhinav Manohar              8   14   1   0   57.14  st Pant b Tristan Stubbs
+  Rahul Tewatia               10   15   1   0   66.67  lbw b Axar
+  Shahrukh Khan                0    1   0   0       0  st Pant b Tristan Stubbs
+  Rashid Khan                 31   24   2   1  129.17  c Pant b Mukesh Kumar
+  Mohit Sharma                 2   14   0   0   14.29  c Sumit Kumar b Khaleel Ahmed
+  Noor Ahmad                   1    7   0   0   14.29  b Mukesh Kumar
+  Spencer Johnson              1    1   0   0     100  not out
+  Extras: 12 (b 0, lb 5, w 5, nb 2)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Khaleel Ahmed                 4   1   18   1    4.5
+  Ishant                        2   0    8   2      4
+  Mukesh Kumar                2.3   0   14   3    5.6
+  Kuldeep Yadav                 4   0   16   0      4
+  Tristan Stubbs                1   0   11   2     11
+  Axar                          4   0   17   1    4.2
+
+  Fall of Wickets: 11-1 (Shubman Gill, 1.5 ov), 28-2 (W Saha, 3.5 ov), 28-3 (Sai Sudharsan, 4.1 ov), 30-4 (David Miller, 4.6 ov), 47-5 (Abhinav Manohar, 8.3 ov), 48-6 (Shahrukh Khan, 8.4 ov), 66-7 (Rahul Tewatia, 11.2 ov), 78-8 (Mohit Sharma, 14.6 ov), 88-9 (Rashid Khan, 17.1 ov), 89-10 (Noor Ahmad, 17.3 ov)
+
+============================================================
+  Delhi Capitals  92/4 (8.5 ov)  RR: 10.42
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Prithvi Shaw                 7    6   1   0  116.67  c Spencer Johnson b Warrier
+  Jake Fraser-McGurk          20   10   2   2     200  c Abhinav Manohar b Spencer Johnson
+  Abishek Porel               15    7   2   1  214.29  b Warrier
+  Shai Hope                   19   10   1   2     190  c Mohit Sharma b Rashid Khan
+  Rishabh Pant                16   11   1   1  145.45  not out
+  Sumit Kumar                  9    9   2   0     100  not out
+  Extras: 6 (b 0, lb 4, w 2, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Sandeep Warrier               3   0   40   2   13.3
+  Spencer Johnson               2   0   22   1     11
+  Rashid Khan                   2   0   12   1      6
+  Noor Ahmad                  1.5   0   14   0    7.6
+
+  Fall of Wickets: 25-1 (Jake Fraser-McGurk, 1.6 ov), 31-2 (Prithvi Shaw, 2.4 ov), 65-3 (Abishek Porel, 4.6 ov), 67-4 (Shai Hope, 5.4 ov)
+
+============================================================
+  MATCH 91452 - INNINGS 1
+============================================================
+  Score: 89/10 in 17.3 overs  |  Run Rate: 5.09
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  Wd  •  •  L1  4  •           +6 runs  (Total: 6)  [FOUR]
+  Over  2:  1  •  •  4  W  •  Wd            +6 runs  (Total: 12)  [FOUR, WICKET]
+  Over  3:  1  1  L1  •  4  4               +11 runs  (Total: 23)  [FOUR, over-break,FOUR]
+  Over  4:  •  L1  2  1  N  W  •            +5 runs  (Total: 28)  [WICKET]
+  Over  5:  W  •  2  •  •  W                +2 runs  (Total: 30)  [WICKET, over-break,WICKET,UDRS]
+  Over  6:  •  •  •  •  •  •                +0 runs  (Total: 30)  [over-break,MAIDEN_OVER]
+  Over  7:  4  N  Wd  •  1  •  •  2         +9 runs  (Total: 39)  [FOUR, UDRS]
+  Over  8:  1  1  1  1  •  •                +4 runs  (Total: 43)
+  Over  9:  •  4  W  •  4  WWd  2           +11 runs  (Total: 54)  [FOUR, WICKET, TEAM_FIFTY,FOUR, WICKET]
+  Over 10:  •  1  •  2  4  •                +7 runs  (Total: 61)  [FOUR]
+  Over 11:  •  •  1  1  1  1                +4 runs  (Total: 65)
+  Over 12:  1  W  1  1  •  •                +3 runs  (Total: 68)  [WICKET,UDRS]
+  Over 13:  1  •  •  •  •  0                +3 runs  (Total: 71)
+  Over 14:  2  1  •  Wd  •  •  •            +4 runs  (Total: 75)
+  Over 15:  1  1  •  •  1  W                +3 runs  (Total: 78)  [over-break,WICKET]
+  Over 16:  1  •  •  •  1  1                +3 runs  (Total: 81)
+  Over 17:  •  6  •  1  •  •                +7 runs  (Total: 88)  [SIX]
+  Over 18:  W  1  W                         +1 runs  (Total: 89)  [WICKET, WICKET]
+
+BATTERS
+------------------------------------------------------------
+  W Saha                       2 runs   10 balls  4s:0  6s:0  SR:20
+  Noor Ahmad                   1 runs    7 balls  4s:0  6s:0  SR:14.29
+  Spencer Johnson              1 runs    1 balls  4s:0  6s:0  SR:100
+  Shubman Gill                 8 runs    6 balls  4s:0  6s:0  SR:133.33
+  Sai Sudharsan               12 runs    9 balls  4s:0  6s:0  SR:133.33
+  David Miller                 2 runs    6 balls  4s:0  6s:0  SR:33.33
+  Abhinav Manohar              8 runs   14 balls  4s:0  6s:0  SR:57.14
+  Rahul Tewatia               10 runs   15 balls  4s:0  6s:0  SR:66.67
+  Shahrukh Khan                0 runs    1 balls  4s:0  6s:0  SR:0
+  Rashid Khan                 31 runs   24 balls  4s:0  6s:0  SR:129.17
+  Mohit Sharma                 2 runs   14 balls  4s:0  6s:0  SR:14.29
+
+BOWLERS
+------------------------------------------------------------
+  Khaleel Ahmed              4 ov   18 runs  1 wkts  Econ:4.5
+  Ishant                     2 ov    8 runs  2 wkts  Econ:4
+  Mukesh Kumar               2.3 ov   14 runs  3 wkts  Econ:5.6
+  Kuldeep Yadav              4 ov   16 runs  0 wkts  Econ:4
+  Tristan Stubbs             1 ov   11 runs  2 wkts  Econ:11
+  Axar                       4 ov   17 runs  1 wkts  Econ:4.2
+
+============================================================
+  MATCH 91452 - INNINGS 2
+============================================================
+  Score: 92/4 in 8.5 overs  |  Run Rate: 10.42
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  1  6  •  4  L1  L2              +14 runs  (Total: 14)  [SIX, FOUR, over-break,UDRS,HIGHSCORING_OVER]
+  Over  2:  6  Wd  •  •  •  4  W            +11 runs  (Total: 25)  [SIX, FOUR, over-break,WICKET]
+  Over  3:  •  4  2  W  •  •                +6 runs  (Total: 31)  [UDRS, FOUR, WICKET]
+  Over  4:  1  1  •  •  4  Wd  4            +11 runs  (Total: 42)  [FOUR, over-break,FOUR]
+  Over  5:  4  6  6  1  6  W                +23 runs  (Total: 65)  [FOUR, TEAM_FIFTY,SIX, SIX, SIX, over-break,WICKET,HIGHSCORING_OVER]
+  Over  6:  1  1  •  W  •  •                +2 runs  (Total: 67)  [WICKET]
+  Over  7:  •  4  •  1  L1  1               +7 runs  (Total: 74)  [FOUR]
+  Over  8:  1  1  6  2  •  •                +10 runs  (Total: 84)  [SIX]
+  Over  9:  •  4  •  •  4                   +8 runs  (Total: 92)  [FOUR, FOUR]
+
+BATTERS
+------------------------------------------------------------
+  Prithvi Shaw                 7 runs    6 balls  4s:1  6s:0  SR:116.67
+  Jake Fraser-McGurk          20 runs   10 balls  4s:2  6s:2  SR:200
+  Abishek Porel               15 runs    7 balls  4s:2  6s:1  SR:214.29
+  Shai Hope                   19 runs   10 balls  4s:1  6s:2  SR:190
+  Rishabh Pant                16 runs   11 balls  4s:1  6s:1  SR:145.45
+  Sumit Kumar                  9 runs    9 balls  4s:2  6s:0  SR:100
+
+BOWLERS
+------------------------------------------------------------
+  Sandeep Warrier            3 ov   40 runs  2 wkts  Econ:13.3
+  Spencer Johnson            2 ov   22 runs  1 wkts  Econ:11
+  Rashid Khan                2 ov   12 runs  1 wkts  Econ:6
+  Noor Ahmad                 1.5 ov   14 runs  0 wkts  Econ:7.6
+
+  [Win probability not available for this match]

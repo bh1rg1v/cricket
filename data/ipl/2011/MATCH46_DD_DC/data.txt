@@ -1,0 +1,67 @@
+SCORECARD
+============================================================
+
+============================================================
+  Deccan Chargers  175/5 (20 ov)  RR: 8.75
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Kumar Sangakkara            44   36   8   0  122.22  c V Sehwag b J Hopes
+  Jean-Paul Duminy            55   31   2   4  177.42  run out (A Agarkar/N Ojha)
+  Shikhar Dhawan              29   18   5   0  161.11  c A Salvi b A Agarkar
+  Dwaraka Ravi Teja            2    9   0   0   22.22  c N Ojha b A Salvi
+  Bharath Chipli               1    2   0   0      50  c A Finch b A Agarkar
+  Daniel Christian            27   22   2   0  122.73  not out
+  Ishan Malhotra               7    4   1   0     175  not out
+  Extras: 10 (b 0, lb 4, w 4, nb 2)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Morne Morkel                  4   0   37   0   9.25
+  Irfan Pathan                  3   0   18   0      6
+  Aavishkar Salvi               4   0   26   1    6.5
+  Ajit Agarkar                  4   0   29   2   7.25
+  James Hopes                   3   0   29   1   9.67
+  Venugopal Rao                 1   0   12   0     12
+  Yogesh Nagar                  1   0   20   0     20
+
+  Fall of Wickets: 19-1 (Ravi Teja, 2.5 ov), 58-2 (Dhawan, 8.5 ov), 85-3 (Sangakkara, 11.6 ov), 158-4 (Duminy, 17.3 ov), 161-5 (Chipli, 18.2 ov)
+
+============================================================
+  Delhi Daredevils  179/6 (19 ov)  RR: 9.42
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Virender Sehwag            119   56  13   6   212.5  c K Sangakkara b D Steyn
+  Irfan Pathan                12   15   1   0      80  st K Sangakkara b A Mishra
+  James Hopes                 17   10   2   0     170  not out
+  Venugopal Rao                3   11   0   0   27.27  c J Duminy b I Sharma
+  Naman Ojha                   7   10   1   0      70  c K Sangakkara b I Sharma
+  Aaron Finch                  0    2   0   0       0  c D Christian b D Steyn
+  Yogesh Nagar                 7    3   0   1  233.33  not out
+  Travis Birt                  4    8   0   0      50  b D Christian
+  Extras: 10 (b 0, lb 1, w 8, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Dale Steyn                    4   0   24   2      6
+  Ishant Sharma                 4   0   16   2      4
+  Daniel Christian              4   0   31   1   7.75
+  Ishan Malhotra                1   0   23   0     23
+  Amit Mishra                   4   0   53   1  13.25
+  Bharath Chipli                1   0   20   0     20
+  Jean-Paul Duminy              1   0   11   0     11
+
+  Fall of Wickets: 0-1 (Aaron Finch, 0.2 ov), 15-2 (Naman Ojha, 3.2 ov), 25-3 (V Rao, 5.4 ov), 86-4 (T Birt, 10.2 ov), 153-5 (Sehwag, 16.2 ov), 168-6 (Irfan Pathan, 17.5 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

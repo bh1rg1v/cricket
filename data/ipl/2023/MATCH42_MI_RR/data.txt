@@ -1,0 +1,157 @@
+SCORECARD
+============================================================
+
+============================================================
+  Rajasthan Royals  212/7 (20 ov)  RR: 10.6
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Yashasvi Jaiswal           124   62  16   8     200  c and b Arshad Khan
+  Jos Buttler                 18   19   2   1   94.74  c (sub)Ramandeep Singh b Chawla
+  Samson                      14   10   1   1     140  c Tilak Varma b Arshad Khan
+  Padikkal                     2    4   0   0      50  b Chawla
+  Holder                      11    9   0   1  122.22  c Tim David b Jofra Archer
+  Hetmyer                      8    9   0   1   88.89  c Suryakumar Yadav b Arshad Khan
+  Dhruv Jurel                  2    3   0   0   66.67  c Tilak Varma b Riley Meredith
+  Ashwin                       8    5   1   0     160  not out
+  Extras: 25 (b 1, lb 7, w 16, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Green                         3   0   31   0   10.3
+  Jofra Archer                  4   0   35   1    8.8
+  Riley Meredith                4   0   51   1   12.8
+  Chawla                        4   0   34   2    8.5
+  Kumar Kartikeya               2   0   14   0      7
+  Arshad Khan                   3   0   39   3     13
+
+  Fall of Wickets: 72-1 (Jos Buttler, 7.1 ov), 95-2 (Samson, 9.5 ov), 103-3 (Padikkal, 10.5 ov), 143-4 (Holder, 14.1 ov), 159-5 (Hetmyer, 16.2 ov), 168-6 (Dhruv Jurel, 17.1 ov), 205-7 (Yashasvi Jaiswal, 19.4 ov)
+
+============================================================
+  Mumbai Indians  214/4 (19.3 ov)  RR: 10.97
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Rohit Sharma                 3    5   0   0      60  b Sandeep Sharma
+  Ishan Kishan                28   23   4   0  121.74  c Boult b Ashwin
+  Cameron Green               44   26   4   2  169.23  c Boult b Ashwin
+  Suryakumar Yadav            55   29   8   2  189.66  c Sandeep Sharma b Boult
+  Tilak Varma                 29   21   3   1   138.1  not out
+  Tim David                   45   14   2   5  321.43  not out
+  Extras: 10 (b 0, lb 2, w 7, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Trent Boult                   4   0   43   1   10.8
+  Sandeep Sharma                4   0   35   1    8.8
+  Ravichandran Ashwin           4   0   27   2    6.8
+  Yuzvendra Chahal              3   0   32   0   10.7
+  Jason Holder                3.3   0   55   0   15.7
+  Kuldeep Sen                   1   0   20   0     20
+
+  Fall of Wickets: 14-1 (Rohit Sharma, 1.6 ov), 76-2 (Ishan Kishan, 8.2 ov), 101-3 (Cameron Green, 10.4 ov), 152-4 (Suryakumar Yadav, 15.4 ov)
+
+============================================================
+  MATCH 66299 - INNINGS 1
+============================================================
+  Score: 212/7 in 20 overs  |  Run Rate: 10.6
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  •  •  6  •  •  Wd2           +8 runs  (Total: 8)  [SIX, UDRS]
+  Over  2:  2  L1  N6  •  L1  •  •          +11 runs  (Total: 19)  [SIX]
+  Over  3:  •  •  •  Wd  Wd  •  1  4        +7 runs  (Total: 26)  [UDRS, over-break,FOUR]
+  Over  4:  4  •  L4  Wd  4  Wd  1  1       +16 runs  (Total: 42)  [FOUR, FOUR, FOUR, over-break,HIGHSCORING_OVER]
+  Over  5:  4  •  •  4  4  4                +16 runs  (Total: 58)  [FOUR, TEAM_FIFTY,PARTNERSHIP,FOUR, FOUR, over-break,FOUR,HIGHSCORING_OVER]
+  Over  6:  1  •  •  •  •  6                +7 runs  (Total: 65)  [over-break,SIX]
+  Over  7:  •  6  •  1  •  •                +7 runs  (Total: 72)  [SIX]
+  Over  8:  W  6  •  1  1  •                +8 runs  (Total: 80)  [WICKET, SIX, UDRS]
+  Over  9:  B1  •  1  1  4  1               +8 runs  (Total: 88)  [FOUR]
+  Over 10:  1  Wd  4  •  L1  W  1  Wd       +9 runs  (Total: 97)  [FOUR, WICKET]
+  Over 11:  1  4  1  •  W  •                +6 runs  (Total: 103)  [TEAM_HUNDRED,FIFTY,FOUR, WICKET]
+  Over 12:  •  •  4  4  1  1                +10 runs  (Total: 113)  [FOUR, FOUR]
+  Over 13:  1  6  4  1  •  1                +13 runs  (Total: 126)  [SIX, FOUR]
+  Over 14:  1  •  1  6  1  4  Wd3           +16 runs  (Total: 142)  [SIX, over-break,FOUR,HIGHSCORING_OVER]
+  Over 15:  W  Wd  •  •  •  •  •            +1 runs  (Total: 143)  [WICKET]
+  Over 16:  1  1  1  1  6  •                +10 runs  (Total: 153)  [TEAM_HUNDRED,SIX]
+  Over 17:  6  W  1  1  1  6                +15 runs  (Total: 168)  [SIX, WICKET, over-break,SIX,HIGHSCORING_OVER]
+  Over 18:  W  1  Wd  •  Wd  4  4  4        +15 runs  (Total: 183)  [WICKET, FOUR, MILESTONE,HUNDRED,FOUR, over-break,FOUR,HIGHSCORING_OVER]
+  Over 19:  1  •  •  6  6  •                +13 runs  (Total: 196)  [SIX, SIX]
+  Over 20:  1  4  4  W  4  Wd2  1           +16 runs  (Total: 212)  [TEAM_HUNDRED,FOUR, FOUR, WICKET, FOUR, UDRS, over-break,HIGHSCORING_OVER]
+
+BATTERS
+------------------------------------------------------------
+  Yashasvi Jaiswal           124 runs   62 balls  4s:0  6s:0  SR:200
+  Jos Buttler                 18 runs   19 balls  4s:0  6s:0  SR:94.74
+  Samson                      14 runs   10 balls  4s:0  6s:0  SR:140
+  Padikkal                     2 runs    4 balls  4s:0  6s:0  SR:50
+  Holder                      11 runs    9 balls  4s:0  6s:0  SR:122.22
+  Hetmyer                      8 runs    9 balls  4s:0  6s:0  SR:88.89
+  Dhruv Jurel                  2 runs    3 balls  4s:0  6s:0  SR:66.67
+  Ashwin                       8 runs    5 balls  4s:0  6s:0  SR:160
+  Boult                        0 runs    0 balls  4s:0  6s:0  SR:0
+
+BOWLERS
+------------------------------------------------------------
+  Green                      3 ov   31 runs  0 wkts  Econ:10.3
+  Jofra Archer               4 ov   35 runs  1 wkts  Econ:8.8
+  Riley Meredith             4 ov   51 runs  1 wkts  Econ:12.8
+  Chawla                     4 ov   34 runs  2 wkts  Econ:8.5
+  Kumar Kartikeya            2 ov   14 runs  0 wkts  Econ:7
+  Arshad Khan                3 ov   39 runs  3 wkts  Econ:13
+
+============================================================
+  MATCH 66299 - INNINGS 2
+============================================================
+  Score: 214/4 in 19.3 overs  |  Run Rate: 10.97
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  Wd  1  4  L1  1  4           +12 runs  (Total: 12)  [FOUR, over-break,FOUR]
+  Over  2:  1  •  •  •  1  W                +2 runs  (Total: 14)  [over-break,WICKET]
+  Over  3:  1  2  4  4  4  •                +15 runs  (Total: 29)  [FOUR, FOUR, FOUR, over-break,HIGHSCORING_OVER]
+  Over  4:  1  1  Wd  1  1  1  1            +7 runs  (Total: 36)
+  Over  5:  1  1  Wd  1  1  •  6            +11 runs  (Total: 47)  [over-break,SIX]
+  Over  6:  4  1  •  4  1  1                +11 runs  (Total: 58)  [TEAM_FIFTY,FOUR, FOUR]
+  Over  7:  1  •  1  •  1  1                +4 runs  (Total: 62)  [UDRS]
+  Over  8:  1  1  6  1  •  4                +13 runs  (Total: 75)  [PARTNERSHIP, SIX, over-break,FOUR]
+  Over  9:  1  W  6  1  1  •                +9 runs  (Total: 84)  [WICKET, SIX]
+  Over 10:  1  •  4  4  4  1                +14 runs  (Total: 98)  [FOUR, FOUR, FOUR, over-break,HIGHSCORING_OVER]
+  Over 11:  1  1  1  W  •  •                +3 runs  (Total: 101)  [TEAM_HUNDRED, WICKET]
+  Over 12:  •  1  1  •  •  1                +3 runs  (Total: 104)
+  Over 13:  6  4  4  1  N4  0  •            +20 runs  (Total: 124)  [SIX, FOUR, FOUR, FOUR, UDRS, over-break,HIGHSCORING_OVER]
+  Over 14:  4  1  4  1  L1  6               +17 runs  (Total: 141)  [FOUR, FOUR, over-break,SIX,HIGHSCORING_OVER]
+  Over 15:  2  •  1  •  Wd  1  4            +9 runs  (Total: 150)  [FIFTY,UDRS, over-break,TEAM_HUNDRED,FOUR]
+  Over 16:  •  Wd  1  •  W  2  2            +6 runs  (Total: 156)  [UDRS, PARTNERSHIP, WICKET]
+  Over 17:  4  1  Wd  •  6  1  1            +14 runs  (Total: 170)  [FOUR, SIX, over-break,HIGHSCORING_OVER]
+  Over 18:  4  2  •  1  •  4                +11 runs  (Total: 181)  [FOUR, over-break,FOUR]
+  Over 19:  1  6  1  Wd  1  4  1            +15 runs  (Total: 196)  [SIX, FOUR, over-break,HIGHSCORING_OVER]
+  Over 20:  6  6  6                         +18 runs  (Total: 214)  [TEAM_HUNDRED,PARTNERSHIP,SIX, SIX, SIX]
+
+BATTERS
+------------------------------------------------------------
+  Rohit Sharma                 3 runs    5 balls  4s:0  6s:0  SR:60
+  Ishan Kishan                28 runs   23 balls  4s:4  6s:0  SR:121.74
+  Cameron Green               44 runs   26 balls  4s:4  6s:2  SR:169.23
+  Suryakumar Yadav            55 runs   29 balls  4s:8  6s:2  SR:189.66
+  Tilak Varma                 29 runs   21 balls  4s:3  6s:1  SR:138.1
+  Tim David                   45 runs   14 balls  4s:2  6s:5  SR:321.43
+
+BOWLERS
+------------------------------------------------------------
+  Trent Boult                4 ov   43 runs  1 wkts  Econ:10.8
+  Sandeep Sharma             4 ov   35 runs  1 wkts  Econ:8.8
+  Ravichandran Ashwin        4 ov   27 runs  2 wkts  Econ:6.8
+  Yuzvendra Chahal           3 ov   32 runs  0 wkts  Econ:10.7
+  Jason Holder               3.3 ov   55 runs  0 wkts  Econ:15.7
+  Kuldeep Sen                1 ov   20 runs  0 wkts  Econ:20
+
+  [Win probability not available for this match]

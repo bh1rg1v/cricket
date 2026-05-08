@@ -1,0 +1,68 @@
+SCORECARD
+============================================================
+
+============================================================
+  Delhi Daredevils  157/7 (20 ov)  RR: 7.85
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Virender Sehwag             80   47   8   5  170.21  c B Hodge b V Kumar
+  Irfan Pathan                13    7   1   1  185.71  run out (RP Singh)
+  Venugopal Rao                1   10   0   0      10  lbw b R Jadeja
+  Naman Ojha                   0    3   0   0       0  lbw b S Sreesanth
+  Roelof van der Merwe         2    4   0   0      50  not out
+  David Warner                 3    7   0   0   42.86  b S Sreesanth
+  Yogesh Nagar                22   30   1   0   73.33  run out (R Jadeja/P Patel)
+  Travis Birt                 20   13   2   1  153.85  c V Kumar b R Powar
+  Extras: 16 (b 0, lb 8, w 6, nb 2)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  RP Singh                      4   0   29   0   7.25
+  S Sreesanth                   4   1   10   2    2.5
+  Ravindra Jadeja               4   0   27   1   6.75
+  Vinay Kumar                   4   0   41   1  10.25
+  Balachandra Akhil             2   0   22   0     11
+  Ramesh Powar                  2   0   20   1     10
+
+  Fall of Wickets: 4-1 (David Warner, 1.1 ov), 4-2 (Naman Ojha, 1.4 ov), 35-3 (V Rao, 6.2 ov), 91-4 (Nagar, 14.4 ov), 132-5 (Sehwag, 17.5 ov), 145-6 (T Birt, 18.4 ov), 157-7 (Irfan Pathan, 20 ov)
+
+============================================================
+  Kochi Tuskers Kerala  119/10 (18.5 ov)  RR: 6.32
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Parthiv Patel                1    3   0   0   33.33  b I Pathan
+  Mahela Jayawardene          18   28   2   0   64.29  c V Sehwag b A Agarkar
+  Brendon McCullum             7    7   1   0     100  b I Pathan
+  Brad Hodge                  27   25   3   0     108  c N Ojha b M Morkel
+  RP Singh                     1    1   0   0     100  not out
+  S Sreesanth                  0    2   0   0       0  b R Merwe
+  Ramesh Powar                 0    1   0   0       0  b R Merwe
+  Ravindra Jadeja             31   22   3   1  140.91  c R Merwe b A Agarkar
+  Vinay Kumar                 11    9   0   1  122.22  c U Yadav b R Merwe
+  Balachandra Akhil           13    9   0   1  144.44  c N Ojha b M Morkel
+  Michael Klinger              2    6   0   0   33.33  c R Merwe b M Morkel
+  Extras: 8 (b 2, lb 1, w 5, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Irfan Pathan                  4   0   27   2   6.75
+  Morne Morkel                  4   0   18   3    4.5
+  Umesh Yadav                   3   0   28   0   9.33
+  Ajit Agarkar                  4   0   23   2   5.75
+  Roelof van der Merwe        3.5   0   20   3   5.71
+
+  Fall of Wickets: 10-1 (Klinger, 1.6 ov), 15-2 (Brendon McCullum, 2.1 ov), 28-3 (Parthiv Patel, 4.3 ov), 50-4 (Mahela, 9.4 ov), 77-5 (Hodge, 13.1 ov), 93-6 (B Akhil, 15.2 ov), 118-7 (Ravindra Jadeja, 17.6 ov), 118-8 (R Powar, 18.1 ov), 118-9 (S Sreesanth, 18.3 ov), 119-10 (Vinay Kumar, 18.5 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

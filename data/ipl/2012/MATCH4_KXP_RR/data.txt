@@ -1,0 +1,67 @@
+SCORECARD
+============================================================
+
+============================================================
+  Rajasthan Royals  191/4 (20 ov)  RR: 9.55
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Rahul Dravid                28   24   3   0  116.67  c J Faulkner b H Singh
+  Brad Hodge                  21   16   1   1  131.25  b J Faulkner
+  Owais Shah                  14    8   2   0     175  not out
+  Ajinkya Rahane              98   66  16   1  148.48  b J Faulkner
+  Kevon Cooper                11    3   1   1  366.67  not out
+  Ashok Menaria                0    3   0   0       0  b P Chawla
+  Extras: 19 (b 0, lb 8, w 11, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Praveen Kumar                 4   0   42   0   10.5
+  James Faulkner                4   0   41   2  10.25
+  Piyush Chawla                 4   0   33   1   8.25
+  Bipul Sharma                  4   0   28   0      7
+  Harmeet Singh Bansal          3   0   23   1   7.67
+  Paul Valthaty                 1   0   16   0     16
+
+  Fall of Wickets: 77-1 (Dravid, 9.3 ov), 87-2 (Menaria, 10.5 ov), 162-3 (Hodge, 17.2 ov), 180-4 (Ajinkya Rahane, 19.3 ov)
+
+============================================================
+  Kings XI Punjab  160/9 (20 ov)  RR: 8
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Adam Gilchrist              27   18   3   1     150  c K Cooper b A Singh
+  Piyush Chawla               10    8   0   1     125  b K Cooper
+  David Hussey                13   10   1   0     130  c K Cooper b S Trivedi
+  Shaun Marsh                  7    6   1   0  116.67  c R Dravid b K Cooper
+  Praveen Kumar               10    6   0   1  166.67  run out (K Cooper/S Goswami)
+  Abhishek Nayar              10   10   0   1     100  c S Goswami b K Cooper
+  Paul Valthaty               13   15   2   0   86.67  c A Singh b K Cooper
+  Harmeet Singh Bansal         1    1   0   0     100  not out
+  Bipul Sharma                18   13   2   0  138.46  c A Rahane b A Chavan
+  Mandeep Singh               34   25   5   0     136  b A Chavan
+  James Faulkner              11    9   0   0  122.22  not out
+  Extras: 6 (b 0, lb 4, w 1, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Siddharth Trivedi             4   0   32   1      8
+  Johan Botha                   4   0   36   0      9
+  Amit Singh                    4   0   26   1    6.5
+  Kevon Cooper                  4   0   26   4    6.5
+  Brad Hodge                    1   0    8   0      8
+  Ankeet Chavan                 3   0   28   2   9.33
+
+  Fall of Wickets: 36-1 (Adam Gilchrist, 4.1 ov), 44-2 (Valthaty, 5.5 ov), 55-3 (Shaun Marsh, 7.2 ov), 61-4 (Nayar, 7.6 ov), 86-5 (David Hussey, 11.2 ov), 123-6 (Bipul Sharma, 15.4 ov), 127-7 (Mandeep, 15.6 ov), 143-8 (Chawla, 18.2 ov), 155-9 (P Kumar, 19.3 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

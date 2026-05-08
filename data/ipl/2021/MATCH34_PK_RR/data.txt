@@ -1,0 +1,163 @@
+SCORECARD
+============================================================
+
+============================================================
+  Rajasthan Royals  185/10 (20 ov)  RR: 9.25
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Lewis                       36   21   7   1  171.43  c Mayank Agarwal b Arshdeep Singh
+  Jaiswal                     49   36   6   2  136.11  c Mayank Agarwal b Harpreet Brar
+  Samson                       4    5   0   0      80  c Rahul b Ishan Porel
+  Livingstone                 25   17   2   1  147.06  c Fabian Allen b Arshdeep Singh
+  Lomror                      43   17   2   4  252.94  c Markram b Arshdeep Singh
+  Riyan Parag                  4    5   0   0      80  c Markram b Shami
+  Rahul Tewatia                2    5   0   0      40  b Shami
+  Chris Morris                 5    5   0   0     100  c Markram b Shami
+  Chetan Sakariya              7    6   1   0  116.67  c and b Arshdeep Singh
+  Kartik Tyagi                 1    3   0   0   33.33  b Arshdeep Singh
+  Extras: 9 (b 0, lb 4, w 5, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Shami                         4   0   21   3    5.2
+  Ishan Porel                   4   0   39   1    9.8
+  Deepak Hooda                  2   0   37   0   18.5
+  Arshdeep Singh                4   0   32   5      8
+  Adil Rashid                   3   0   35   0   11.7
+  Harpreet Brar                 3   0   17   1    5.7
+
+  Fall of Wickets: 54-1 (Lewis, 5.3 ov), 68-2 (Samson, 7.1 ov), 116-3 (Livingstone, 11.5 ov), 136-4 (Jaiswal, 14.2 ov), 166-5 (Riyan Parag, 16.3 ov), 169-6 (Lomror, 17.1 ov), 175-7 (Rahul Tewatia, 18.1 ov), 178-8 (Chris Morris, 18.5 ov), 185-9 (Chetan Sakariya, 19.5 ov), 185-10 (Kartik Tyagi, 19.6 ov)
+
+============================================================
+  Punjab Kings  183/4 (20 ov)  RR: 9.15
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  KL Rahul                    49   33   4   2  148.48  c Kartik Tyagi b Chetan Sakariya
+  Mayank Agarwal              67   43   7   2  155.81  c Livingstone b Rahul Tewatia
+  Aiden Markram               26   20   2   1     130  not out
+  Nicholas Pooran             32   22   1   2  145.45  c Samson b Kartik Tyagi
+  Deepak Hooda                 0    2   0   0       0  c Samson b Kartik Tyagi
+  Fabian Allen                 0    1   0   0       0  not out
+  Extras: 9 (b 0, lb 0, w 8, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Mustafizur Rahman             4   0   30   0    7.5
+  Chetan Sakariya               3   0   31   1   10.3
+  Kartik Tyagi                  4   0   29   2    7.2
+  Chris Morris                  4   0   47   0   11.8
+  Rahul Tewatia                 3   0   23   1    7.7
+  Mahipal Lomror                1   0    7   0      7
+  Riyan Parag                   1   0   16   0     16
+
+  Fall of Wickets: 120-1 (KL Rahul, 11.5 ov), 126-2 (Mayank Agarwal, 12.6 ov), 183-3 (Nicholas Pooran, 19.3 ov), 183-4 (Deepak Hooda, 19.5 ov)
+
+============================================================
+  MATCH 37562 - INNINGS 1
+============================================================
+  Score: 185/10 in 20 overs  |  Run Rate: 9.25
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  1  •  •  •  4  4                +9 runs  (Total: 9)  [FOUR, over-break,FOUR]
+  Over  2:  •  •  Wd  1  L1  •  6           +9 runs  (Total: 18)  [over-break,SIX]
+  Over  3:  1  •  •  •  4  •                +5 runs  (Total: 23)  [FOUR]
+  Over  4:  1  4  4  •  4  4                +17 runs  (Total: 40)  [FOUR, FOUR, FOUR, over-break,FOUR,HIGHSCORING_OVER]
+  Over  5:  4  1  •  •  4  4                +13 runs  (Total: 53)  [FOUR, FOUR, over-break,TEAM_FIFTY,PARTNERSHIP,FOUR]
+  Over  6:  •  1  W  2  •  1                +4 runs  (Total: 57)  [WICKET]
+  Over  7:  1  4  •  6  •  •                +11 runs  (Total: 68)  [FOUR, SIX]
+  Over  8:  W  1  •  L1  4  L1  Wd          +8 runs  (Total: 76)  [WICKET, FOUR]
+  Over  9:  •  1  6  1  1  1                +10 runs  (Total: 86)  [SIX]
+  Over 10:  1  1  1  1  4  •                +8 runs  (Total: 94)  [FOUR]
+  Over 11:  •  1  1  •  1  4                +7 runs  (Total: 101)  [over-break,TEAM_HUNDRED,FOUR]
+  Over 12:  2  4  2  6  W  Wd  •            +15 runs  (Total: 116)  [FOUR, SIX, WICKET, over-break,HIGHSCORING_OVER]
+  Over 13:  1  1  1  1  1  1                +6 runs  (Total: 122)
+  Over 14:  1  •  •  1  6  6                +14 runs  (Total: 136)  [SIX, over-break,SIX,HIGHSCORING_OVER]
+  Over 15:  •  W  1  1  1  1                +4 runs  (Total: 140)  [WICKET]
+  Over 16:  6  6  4  2  2  4                +24 runs  (Total: 164)  [SIX, TEAM_HUNDRED,SIX, FOUR, over-break,FOUR,HIGHSCORING_OVER]
+  Over 17:  •  2  W  •  1  1                +4 runs  (Total: 168)  [WICKET]
+  Over 18:  W  Wd  •  Wd  1  •  2  2        +7 runs  (Total: 175)  [WICKET]
+  Over 19:  W  1  1  1  W  •                +3 runs  (Total: 178)  [WICKET, WICKET]
+  Over 20:  L1  1  1  4  W  W               +7 runs  (Total: 185)  [FOUR, WICKET, over-break,WICKET]
+
+BATTERS
+------------------------------------------------------------
+  Lewis                       36 runs   21 balls  4s:0  6s:0  SR:171.43
+  Kartik Tyagi                 1 runs    3 balls  4s:0  6s:0  SR:33.33
+  Mustafizur                   0 runs    0 balls  4s:0  6s:0  SR:0
+  Jaiswal                     49 runs   36 balls  4s:0  6s:0  SR:136.11
+  Samson                       4 runs    5 balls  4s:0  6s:0  SR:80
+  Livingstone                 25 runs   17 balls  4s:0  6s:0  SR:147.06
+  Lomror                      43 runs   17 balls  4s:0  6s:0  SR:252.94
+  Riyan Parag                  4 runs    5 balls  4s:0  6s:0  SR:80
+  Rahul Tewatia                2 runs    5 balls  4s:0  6s:0  SR:40
+  Chris Morris                 5 runs    5 balls  4s:0  6s:0  SR:100
+  Chetan Sakariya              7 runs    6 balls  4s:0  6s:0  SR:116.67
+
+BOWLERS
+------------------------------------------------------------
+  Shami                      4 ov   21 runs  3 wkts  Econ:5.2
+  Ishan Porel                4 ov   39 runs  1 wkts  Econ:9.8
+  Deepak Hooda               2 ov   37 runs  0 wkts  Econ:18.5
+  Arshdeep Singh             4 ov   32 runs  5 wkts  Econ:8
+  Adil Rashid                3 ov   35 runs  0 wkts  Econ:11.7
+  Harpreet Brar              3 ov   17 runs  1 wkts  Econ:5.7
+
+============================================================
+  MATCH 37562 - INNINGS 2
+============================================================
+  Score: 183/4 in 20 overs  |  Run Rate: 9.15
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  1  1  •  1  1                +4 runs  (Total: 4)
+  Over  2:  •  •  1  1  2  1                +5 runs  (Total: 9)  [DROPPED]
+  Over  3:  •  •  •  4  N1  •  1            +7 runs  (Total: 16)  [UDRS, FOUR]
+  Over  4:  4  6  6  1  1  1                +19 runs  (Total: 35)  [FOUR, SIX, SIX, over-break,HIGHSCORING_OVER]
+  Over  5:  2  Wd  1  •  1  •  1            +6 runs  (Total: 41)  [over-break,DROPPED]
+  Over  6:  1  •  4  1  1  1                +8 runs  (Total: 49)  [FOUR, DROPPED]
+  Over  7:  1  Wd  •  1  4  •  1            +8 runs  (Total: 57)  [TEAM_FIFTY,PARTNERSHIP, FOUR]
+  Over  8:  4  4  4  1  1  1                +15 runs  (Total: 72)  [FOUR, FOUR, FOUR, over-break,HIGHSCORING_OVER]
+  Over  9:  1  1  4  1  1  1                +9 runs  (Total: 81)  [FOUR]
+  Over 10:  6  •  Wd  6  4  Wd  Wd2  1  4   +25 runs  (Total: 106)  [SIX, FIFTY,SIX, TEAM_HUNDRED,PARTNERSHIP,FOUR, over-break,FOUR,HIGHSCORING_OVER]
+  Over 11:  1  1  1  1  1  2                +7 runs  (Total: 113)
+  Over 12:  4  •  Wd  1  1  W  •            +7 runs  (Total: 120)  [FOUR, WICKET]
+  Over 13:  2  1  1  1  1  W                +6 runs  (Total: 126)  [over-break,WICKET]
+  Over 14:  2  2  1  4  1  6                +16 runs  (Total: 142)  [FOUR, over-break,SIX,HIGHSCORING_OVER]
+  Over 15:  1  •  •  •  1  4                +6 runs  (Total: 148)  [over-break,FOUR]
+  Over 16:  1  1  1  •  1  Wd  1            +6 runs  (Total: 154)  [TEAM_HUNDRED]
+  Over 17:  4  •  6  3  •  1                +14 runs  (Total: 168)  [FOUR, SIX, over-break,HIGHSCORING_OVER]
+  Over 18:  6  1  1  •  1  1                +10 runs  (Total: 178)  [SIX, PARTNERSHIP]
+  Over 19:  •  •  1  1  1  1                +4 runs  (Total: 182)  [DROPPED]
+  Over 20:  •  1  W  •  W  •                +1 runs  (Total: 183)  [WICKET, WICKET]
+
+BATTERS
+------------------------------------------------------------
+  KL Rahul                    49 runs   33 balls  4s:4  6s:2  SR:148.48
+  Mayank Agarwal              67 runs   43 balls  4s:7  6s:2  SR:155.81
+  Aiden Markram               26 runs   20 balls  4s:2  6s:1  SR:130
+  Nicholas Pooran             32 runs   22 balls  4s:1  6s:2  SR:145.45
+  Deepak Hooda                 0 runs    2 balls  4s:0  6s:0  SR:0
+  Fabian Allen                 0 runs    1 balls  4s:0  6s:0  SR:0
+
+BOWLERS
+------------------------------------------------------------
+  Mustafizur Rahman          4 ov   30 runs  0 wkts  Econ:7.5
+  Chetan Sakariya            3 ov   31 runs  1 wkts  Econ:10.3
+  Kartik Tyagi               4 ov   29 runs  2 wkts  Econ:7.2
+  Chris Morris               4 ov   47 runs  0 wkts  Econ:11.8
+  Rahul Tewatia              3 ov   23 runs  1 wkts  Econ:7.7
+  Mahipal Lomror             1 ov    7 runs  0 wkts  Econ:7
+  Riyan Parag                1 ov   16 runs  0 wkts  Econ:16
+
+  [Win probability not available for this match]

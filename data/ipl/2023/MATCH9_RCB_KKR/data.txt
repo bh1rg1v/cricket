@@ -1,0 +1,168 @@
+SCORECARD
+============================================================
+
+============================================================
+  Kolkata Knight Riders  204/7 (20 ov)  RR: 10.2
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Gurbaz                      57   44   6   3  129.55  c Akash Deep b Karn Sharma
+  Venkatesh Iyer               3    7   0   0   42.86  b Willey
+  Mandeep                      0    1   0   0       0  b Willey
+  Nitish Rana                  1    5   0   0      20  c Karthik b M Bracewell
+  Rinku Singh                 46   33   2   3  139.39  c Karthik b Harshal Patel
+  Russell                      0    1   0   0       0  c Kohli b Karn Sharma
+  Thakur                      68   29   9   3  234.48  c Maxwell b Siraj
+  Narine                       0    1   0   0       0  not out
+  Umesh                        6    2   1   0     300  not out
+  Extras: 23 (b 4, lb 6, w 10, nb 3)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Siraj                         4   0   44   1     11
+  Willey                        4   1   16   2      4
+  Akash Deep                    2   0   30   0     15
+  M Bracewell                   3   0   34   1   11.3
+  Shahbaz Ahmed                 1   0    6   0      6
+  Karn Sharma                   3   0   26   2    8.7
+  Harshal Patel                 3   0   38   1   12.7
+
+  Fall of Wickets: 26-1 (Venkatesh Iyer, 3.2 ov), 26-2 (Mandeep, 3.3 ov), 47-3 (Nitish Rana, 6.1 ov), 89-4 (Gurbaz, 11.2 ov), 89-5 (Russell, 11.3 ov), 192-6 (Rinku Singh, 18.6 ov), 198-7 (Thakur, 19.4 ov)
+
+============================================================
+  Royal Challengers Bangalore  123/10 (17.4 ov)  RR: 6.96
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Virat Kohli                 21   18   3   0  116.67  b Narine
+  Faf du Plessis              23   12   2   2  191.67  b Chakaravarthy
+  Michael Bracewell           19   18   1   1  105.56  c Nitish Rana b Thakur
+  Glenn Maxwell                5    7   1   0   71.43  b Chakaravarthy
+  Harshal Patel                0    2   0   0       0  b Chakaravarthy
+  Shahbaz Ahmed                1    5   0   0      20  c Thakur b Narine
+  Dinesh Karthik               9    8   1   0   112.5  c Chakaravarthy b Suyash Sharma
+  Anuj Rawat                   1    5   0   0      20  c Narine b Suyash Sharma
+  David Willey                20   20   2   0     100  not out
+  Karn Sharma                  1    3   0   0   33.33  c Nitish Rana b Suyash Sharma
+  Akash Deep                  17    8   2   1   212.5  c and b Chakaravarthy
+  Extras: 6 (b 4, lb 1, w 1, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Umesh Yadav                   2   0   17   0    8.5
+  Tim Southee                   2   0   25   0   12.5
+  Sunil Narine                  4   0   16   2      4
+  Varun Chakaravarthy         3.4   0   15   4    4.1
+  Suyash Sharma                 4   0   30   3    7.5
+  Shardul Thakur                2   0   15   1    7.5
+
+  Fall of Wickets: 44-1 (Virat Kohli, 4.5 ov), 46-2 (Faf du Plessis, 5.2 ov), 54-3 (Glenn Maxwell, 7.2 ov), 54-4 (Harshal Patel, 7.4 ov), 61-5 (Shahbaz Ahmed, 8.5 ov), 83-6 (Michael Bracewell, 11.3 ov), 84-7 (Anuj Rawat, 12.2 ov), 86-8 (Dinesh Karthik, 12.5 ov), 96-9 (Karn Sharma, 14.3 ov), 123-10 (Akash Deep, 17.4 ov)
+
+============================================================
+  MATCH 66211 - INNINGS 1
+============================================================
+  Score: 204/7 in 20 overs  |  Run Rate: 10.2
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  •  •  Wd5  •  4  •           +9 runs  (Total: 9)  [FOUR]
+  Over  2:  •  1  •  1  1  •                +3 runs  (Total: 12)
+  Over  3:  •  1  4  B4  4  •  Wd           +14 runs  (Total: 26)  [FOUR, FOUR, FOUR, over-break,HIGHSCORING_OVER]
+  Over  4:  •  W  W  •  •  •                +0 runs  (Total: 26)  [WICKET, WICKET, over-break,MAIDEN_OVER]
+  Over  5:  •  2  N6  •  •  L4  1  Wd       +15 runs  (Total: 41)  [SIX, FOUR, over-break,HIGHSCORING_OVER]
+  Over  6:  •  •  4  1  1  •                +6 runs  (Total: 47)  [FOUR]
+  Over  7:  W  •  •  1  2  1                +4 runs  (Total: 51)  [WICKET,UDRS, TEAM_FIFTY]
+  Over  8:  •  1  1  •  4  •                +6 runs  (Total: 57)  [UDRS, FOUR]
+  Over  9:  1  6  1  1  4  1                +14 runs  (Total: 71)  [SIX, FOUR, over-break,HIGHSCORING_OVER]
+  Over 10:  •  6  •  1  1  •                +8 runs  (Total: 79)  [MILESTONE,FIFTY,SIX]
+  Over 11:  •  2  •  1  1  4                +8 runs  (Total: 87)  [over-break,FOUR]
+  Over 12:  2  W  W  4  •  1                +7 runs  (Total: 94)  [WICKET, WICKET, FOUR]
+  Over 13:  4  4  1  1  1  6  N1            +19 runs  (Total: 113)  [FOUR, TEAM_HUNDRED,FOUR, over-break,SIX,HIGHSCORING_OVER]
+  Over 14:  2  1  2  1  1  4                +11 runs  (Total: 124)  [over-break,FOUR]
+  Over 15:  1  1  1  6  6  1                +16 runs  (Total: 140)  [SIX, SIX,PARTNERSHIP, over-break,HIGHSCORING_OVER]
+  Over 16:  •  4  •  1  •  1  Wd            +7 runs  (Total: 147)  [FOUR]
+  Over 17:  1  4  1  1  4  2                +13 runs  (Total: 160)  [TEAM_HUNDRED,MILESTONE,FIFTY,FOUR, FOUR, over-break,RUNOUT_MISS]
+  Over 18:  L1  4  Wd  1  •  1  N6  •       +15 runs  (Total: 175)  [FOUR, SIX,UDRS, over-break,HIGHSCORING_OVER]
+  Over 19:  •  4  6  6  Wd  •  W            +17 runs  (Total: 192)  [RUNOUT_MISS, FOUR, SIX, SIX,PARTNERSHIP, over-break,WICKET,HIGHSCORING_OVER]
+  Over 20:  4  1  L1  W  4  2               +12 runs  (Total: 204)  [FOUR, WICKET, TEAM_HUNDRED,FOUR]
+
+BATTERS
+------------------------------------------------------------
+  Gurbaz                      57 runs   44 balls  4s:0  6s:0  SR:129.55
+  Venkatesh Iyer               3 runs    7 balls  4s:0  6s:0  SR:42.86
+  Mandeep                      0 runs    1 balls  4s:0  6s:0  SR:0
+  Nitish Rana                  1 runs    5 balls  4s:0  6s:0  SR:20
+  Rinku Singh                 46 runs   33 balls  4s:0  6s:0  SR:139.39
+  Russell                      0 runs    1 balls  4s:0  6s:0  SR:0
+  Thakur                      68 runs   29 balls  4s:0  6s:0  SR:234.48
+  Narine                       0 runs    1 balls  4s:0  6s:0  SR:0
+  Umesh                        6 runs    2 balls  4s:0  6s:0  SR:300
+
+BOWLERS
+------------------------------------------------------------
+  Siraj                      4 ov   44 runs  1 wkts  Econ:11
+  Willey                     4 ov   16 runs  2 wkts  Econ:4
+  Akash Deep                 2 ov   30 runs  0 wkts  Econ:15
+  M Bracewell                3 ov   34 runs  1 wkts  Econ:11.3
+  Shahbaz Ahmed              1 ov    6 runs  0 wkts  Econ:6
+  Karn Sharma                3 ov   26 runs  2 wkts  Econ:8.7
+  Harshal Patel              3 ov   38 runs  1 wkts  Econ:12.7
+
+============================================================
+  MATCH 66211 - INNINGS 2
+============================================================
+  Score: 123/10 in 17.4 overs  |  Run Rate: 6.96
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  4  •  1  •  1  4                +10 runs  (Total: 10)  [FOUR, over-break,FOUR]
+  Over  2:  •  1  •  •  •  1                +2 runs  (Total: 12)
+  Over  3:  2  •  •  1  4  •                +7 runs  (Total: 19)  [FOUR]
+  Over  4:  4  3  6  4  6  •                +23 runs  (Total: 42)  [FOUR, SIX, FOUR, SIX, over-break,HIGHSCORING_OVER]
+  Over  5:  •  1  1  •  W  1                +3 runs  (Total: 45)  [WICKET]
+  Over  6:  1  W  •  •  4  •                +5 runs  (Total: 50)  [WICKET, TEAM_FIFTY,FOUR]
+  Over  7:  1  1  •  •  1  •                +3 runs  (Total: 53)
+  Over  8:  1  W  •  W  •  •                +1 runs  (Total: 54)  [WICKET, WICKET]
+  Over  9:  1  B4  1  1  W  •               +7 runs  (Total: 61)  [FOUR, WICKET]
+  Over 10:  L1  1  4  •  1  1               +8 runs  (Total: 69)  [FOUR]
+  Over 11:  1  •  6  1  1  •                +9 runs  (Total: 78)  [SIX]
+  Over 12:  4  1  W  •  •  1                +6 runs  (Total: 84)  [FOUR, WICKET]
+  Over 13:  •  W  •  1  W  Wd  •            +2 runs  (Total: 86)  [WICKET, WICKET]
+  Over 14:  1  1  4  2  •  1                +9 runs  (Total: 95)  [FOUR]
+  Over 15:  •  1  W  1  1  4                +7 runs  (Total: 102)  [WICKET,UDRS, over-break,TEAM_HUNDRED,FOUR]
+  Over 16:  2  •  •  •  1  4                +7 runs  (Total: 109)  [over-break,FOUR]
+  Over 17:  •  4  1  6  1  •                +12 runs  (Total: 121)  [FOUR, SIX]
+  Over 18:  1  1  •  W                      +2 runs  (Total: 123)  [WICKET]
+
+BATTERS
+------------------------------------------------------------
+  Virat Kohli                 21 runs   18 balls  4s:3  6s:0  SR:116.67
+  Karn Sharma                  1 runs    3 balls  4s:0  6s:0  SR:33.33
+  Akash Deep                  17 runs    8 balls  4s:2  6s:1  SR:212.5
+  Faf du Plessis              23 runs   12 balls  4s:2  6s:2  SR:191.67
+  Michael Bracewell           19 runs   18 balls  4s:1  6s:1  SR:105.56
+  Glenn Maxwell                5 runs    7 balls  4s:1  6s:0  SR:71.43
+  Harshal Patel                0 runs    2 balls  4s:0  6s:0  SR:0
+  Shahbaz Ahmed                1 runs    5 balls  4s:0  6s:0  SR:20
+  Dinesh Karthik               9 runs    8 balls  4s:1  6s:0  SR:112.5
+  Anuj Rawat                   1 runs    5 balls  4s:0  6s:0  SR:20
+  David Willey                20 runs   20 balls  4s:2  6s:0  SR:100
+
+BOWLERS
+------------------------------------------------------------
+  Umesh Yadav                2 ov   17 runs  0 wkts  Econ:8.5
+  Tim Southee                2 ov   25 runs  0 wkts  Econ:12.5
+  Sunil Narine               4 ov   16 runs  2 wkts  Econ:4
+  Varun Chakaravarthy        3.4 ov   15 runs  4 wkts  Econ:4.1
+  Suyash Sharma              4 ov   30 runs  3 wkts  Econ:7.5
+  Shardul Thakur             2 ov   15 runs  1 wkts  Econ:7.5
+
+  [Win probability not available for this match]

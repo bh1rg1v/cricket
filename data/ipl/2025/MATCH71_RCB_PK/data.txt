@@ -1,0 +1,141 @@
+SCORECARD
+============================================================
+
+============================================================
+  Punjab Kings  101/10 (14.1 ov)  RR: 7.13
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Priyansh Arya                7    5   1   0     140  c Krunal Pandya b Yash Dayal
+  Prabhsimran                 18   10   2   1     180  c Jitesh Sharma b Bhuvneshwar
+  Josh Inglis                  4    7   0   0   57.14  c Bhuvneshwar b Hazlewood
+  Shreyas Iyer                 2    3   0   0   66.67  c Jitesh Sharma b Hazlewood
+  Nehal Wadhera                8   10   1   0      80  b Yash Dayal
+  Stoinis                     26   17   2   2  152.94  b Suyash Sharma
+  Shashank Singh               3    5   0   0      60  b Suyash Sharma
+  Musheer Khan                 0    3   0   0       0  lbw b Suyash Sharma
+  Azmatullah                  18   12   1   1     150  c Jitesh Sharma b Hazlewood
+  Harpreet Brar                4   11   0   0   36.36  b Romario Shepherd
+  Jamieson                     0    3   0   0       0  not out
+  Extras: 11 (b 0, lb 5, w 5, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Bhuvneshwar                   2   0   17   1    8.5
+  Yash Dayal                    4   0   26   2    6.5
+  Hazlewood                   3.1   0   21   3    6.6
+  Suyash Sharma                 3   0   17   3    5.7
+  Krunal Pandya                 1   0   10   0     10
+  Romario Shepherd              1   0    5   1      5
+
+  Fall of Wickets: 9-1 (Priyansh Arya, 1.2 ov), 27-2 (Prabhsimran, 2.6 ov), 30-3 (Shreyas Iyer, 3.4 ov), 38-4 (Josh Inglis, 5.1 ov), 50-5 (Nehal Wadhera, 6.3 ov), 60-6 (Shashank Singh, 8.2 ov), 60-7 (Musheer Khan, 8.5 ov), 78-8 (Stoinis, 10.3 ov), 97-9 (Harpreet Brar, 13.3 ov), 101-10 (Azmatullah, 14.1 ov)
+
+============================================================
+  Royal Challengers Bengaluru  106/2 (10 ov)  RR: 10.6
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Philip Salt                 56   27   6   3  207.41  not out
+  Virat Kohli                 12   12   2   0     100  c Josh Inglis b Jamieson
+  Mayank Agarawal             19   13   2   1  146.15  c Shreyas Iyer b Musheer Khan
+  Rajat Patidar               15    8   1   1   187.5  not out
+  Extras: 4 (b 0, lb 4, w 0, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Arshdeep Singh                2   0   20   0     10
+  Kyle Jamieson                 3   1   27   1      9
+  Azmatullah Omarzai            1   0   10   0     10
+  Harpreet Brar                 2   0   18   0      9
+  Musheer Khan                  2   0   27   1   13.5
+
+  Fall of Wickets: 30-1 (Virat Kohli, 3.2 ov), 84-2 (Mayank Agarawal, 7.5 ov)
+
+============================================================
+  MATCH 118907 - INNINGS 1
+============================================================
+  Score: 101/10 in 14.1 overs  |  Run Rate: 7.13
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  2  •  4  1  •  1                +8 runs  (Total: 8)  [FOUR]
+  Over  2:  1  W  1  2  •  6                +10 runs  (Total: 18)  [WICKET, over-break,SIX]
+  Over  3:  •  1  4  4  •  W                +9 runs  (Total: 27)  [FOUR, FOUR, over-break,WICKET]
+  Over  4:  1  •  2  W  •  1                +4 runs  (Total: 31)  [WICKET]
+  Over  5:  4  N  •  •  1  •  1             +7 runs  (Total: 38)  [FOUR]
+  Over  6:  W  •  4  •  6  •                +10 runs  (Total: 48)  [WICKET, FOUR, SIX]
+  Over  7:  •  2  W  2  •  •                +4 runs  (Total: 52)  [TEAM_FIFTY, WICKET]
+  Over  8:  •  4  1  1  •  1                +7 runs  (Total: 59)  [FOUR]
+  Over  9:  1  W  •  •  W  1                +2 runs  (Total: 61)  [WICKET, WICKET,UDRS]
+  Over 10:  •  1  6  •  2  1                +10 runs  (Total: 71)  [SIX]
+  Over 11:  L1  Wd5  1  W  •  •  •          +7 runs  (Total: 78)  [WICKET, UDRS]
+  Over 12:  1  •  2  1  1  •                +5 runs  (Total: 83)
+  Over 13:  1  1  6  1  •  •                +9 runs  (Total: 92)  [SIX]
+  Over 14:  4  1  W  •  L4  •               +9 runs  (Total: 101)  [FOUR, WICKET, TEAM_HUNDRED,FOUR]
+  Over 15:  W                               +0 runs  (Total: 101)  [WICKET]
+
+BATTERS
+------------------------------------------------------------
+  Priyansh Arya                7 runs    5 balls  4s:0  6s:0  SR:140
+  Harpreet Brar                4 runs   11 balls  4s:0  6s:0  SR:36.36
+  Jamieson                     0 runs    3 balls  4s:0  6s:0  SR:0
+  Prabhsimran                 18 runs   10 balls  4s:0  6s:0  SR:180
+  Josh Inglis                  4 runs    7 balls  4s:0  6s:0  SR:57.14
+  Shreyas Iyer                 2 runs    3 balls  4s:0  6s:0  SR:66.67
+  Nehal Wadhera                8 runs   10 balls  4s:0  6s:0  SR:80
+  Stoinis                     26 runs   17 balls  4s:0  6s:0  SR:152.94
+  Shashank Singh               3 runs    5 balls  4s:0  6s:0  SR:60
+  Musheer Khan                 0 runs    3 balls  4s:0  6s:0  SR:0
+  Azmatullah                  18 runs   12 balls  4s:0  6s:0  SR:150
+
+BOWLERS
+------------------------------------------------------------
+  Bhuvneshwar                2 ov   17 runs  1 wkts  Econ:8.5
+  Yash Dayal                 4 ov   26 runs  2 wkts  Econ:6.5
+  Hazlewood                  3.1 ov   21 runs  3 wkts  Econ:6.6
+  Suyash Sharma              3 ov   17 runs  3 wkts  Econ:5.7
+  Krunal Pandya              1 ov   10 runs  0 wkts  Econ:10
+  Romario Shepherd           1 ov    5 runs  1 wkts  Econ:5
+
+============================================================
+  MATCH 118907 - INNINGS 2
+============================================================
+  Score: 106/2 in 10 overs  |  Run Rate: 10.6
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  1  4  L4  •  1  1               +11 runs  (Total: 11)  [FOUR, FOUR]
+  Over  2:  •  1  4  •  •  1                +6 runs  (Total: 17)  [FOUR]
+  Over  3:  1  1  1  4  •  6                +13 runs  (Total: 30)  [FOUR, over-break,SIX]
+  Over  4:  •  W  •  •  •  •                +0 runs  (Total: 30)  [WICKET, over-break,UDRS,MAIDEN_OVER]
+  Over  5:  •  •  4  •  2  4                +10 runs  (Total: 40)  [FOUR, over-break,FOUR]
+  Over  6:  4  1  2  4  4  6                +21 runs  (Total: 61)  [FOUR, TEAM_FIFTY,FOUR, FOUR, over-break,SIX,HIGHSCORING_OVER]
+  Over  7:  1  6  1  1  1  1                +11 runs  (Total: 72)  [SIX]
+  Over  8:  1  1  6  4  W  1                +13 runs  (Total: 85)  [SIX,PARTNERSHIP, FOUR, WICKET,UDRS]
+  Over  9:  1  1  •  1  4  •                +7 runs  (Total: 92)  [FIFTY, FOUR]
+  Over 10:  1  1  4  1  1  6                +14 runs  (Total: 106)  [FOUR, TEAM_HUNDRED, over-break,SIX,HIGHSCORING_OVER]
+
+BATTERS
+------------------------------------------------------------
+  Philip Salt                 56 runs   27 balls  4s:6  6s:3  SR:207.41
+  Virat Kohli                 12 runs   12 balls  4s:2  6s:0  SR:100
+  Mayank Agarawal             19 runs   13 balls  4s:2  6s:1  SR:146.15
+  Rajat Patidar               15 runs    8 balls  4s:1  6s:1  SR:187.5
+
+BOWLERS
+------------------------------------------------------------
+  Arshdeep Singh             2 ov   20 runs  0 wkts  Econ:10
+  Kyle Jamieson              3 ov   27 runs  1 wkts  Econ:9
+  Azmatullah Omarzai         1 ov   10 runs  0 wkts  Econ:10
+  Harpreet Brar              2 ov   18 runs  0 wkts  Econ:9
+  Musheer Khan               2 ov   27 runs  1 wkts  Econ:13.5
+
+  [Win probability not available for this match]

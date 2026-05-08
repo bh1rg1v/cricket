@@ -1,0 +1,71 @@
+SCORECARD
+============================================================
+
+============================================================
+  Kings XI Punjab  198/8 (20 ov)  RR: 9.9
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Virender Sehwag             30   24   5   0     125  c Kohli b Chahal
+  Lakshmipathy Balaji          1    1   0   0     100  not out
+  Mitchell Johnson            16   12   1   1  133.33  not out
+  George Bailey                1    7   0   0   14.29  c Parthiv Patel b A Morkel
+  Wriddhiman Saha             17   17   0   1     100  c de Villiers b Harshal Patel
+  Mandeep Singh               21   15   2   0     140  c A Morkel b Harshal Patel
+  David Miller                66   29   8   3  227.59  c Chahal b Aaron
+  Glenn Maxwell               25   11   2   2  227.27  c M Starc b Chahal
+  Axar Patel                   2    3   0   0   66.67  b M Starc
+  Shivam Sharma                4    2   1   0     200  b M Starc
+  Extras: 15 (b 0, lb 2, w 11, nb 2)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Mitchell Starc                4   0   43   2  10.75
+  Albie Morkel                  4   0   20   1      5
+  Varun Aaron                   4   0   35   1   8.75
+  Harshal Patel                 3   0   56   2  18.67
+  Yuzvendra Chahal              4   0   23   2   5.75
+  Yuvraj Singh                  1   0   19   0     19
+
+  Fall of Wickets: 60-1 (Mandeep, 5.5 ov), 68-2 (Sehwag, 6.5 ov), 93-3 (Glenn Maxwell, 8.5 ov), 116-4 (George Bailey, 11.4 ov), 170-5 (David Miller, 16.3 ov), 184-6 (W Saha, 17.5 ov), 189-7 (Axar Patel, 19.2 ov), 193-8 (Shivam Sharma, 19.4 ov)
+
+============================================================
+  Royal Challengers Bangalore  166/9 (20 ov)  RR: 8.3
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Yuvraj Singh                 3   11   0   0   27.27  c Sehwag b Shivam Sharma
+  Parthiv Patel               13   14   3   0   92.86  c Mandeep b Sandeep Sharma
+  Chris Gayle                  4    7   1   0   57.14  c W Saha b Sandeep Sharma
+  AB de Villiers              53   26   1   5  203.85  c A Patel b Balaji
+  Albie Morkel                16    8   0   2     200  c Bailey b Shivam Sharma
+  Virat Kohli                  0    1   0   0       0  c W Saha b Sandeep Sharma
+  Sachin Rana                 18   16   2   1   112.5  b A Patel
+  Varun Aaron                 17   11   1   1  154.55  not out
+  Mitchell Starc              29   23   4   0  126.09  c D Miller b Balaji
+  Yuzvendra Chahal             1    1   0   0     100  not out
+  Harshal Patel                6    3   1   0     200  c W Saha b Johnson
+  Extras: 6 (b 0, lb 1, w 4, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Sandeep Sharma                4   0   25   3   6.25
+  Mitchell Johnson              4   0   25   1   6.25
+  Lakshmipathy Balaji           3   0   43   2  14.33
+  Axar Patel                    4   0   22   1    5.5
+  Shivam Sharma                 4   0   26   2    6.5
+  Glenn Maxwell                 1   0   24   0     24
+
+  Fall of Wickets: 8-1 (Gayle, 2.1 ov), 8-2 (Virat Kohli, 2.2 ov), 26-3 (Parthiv Patel, 5.3 ov), 39-4 (Sachin Rana, 6.5 ov), 50-5 (Yuvraj, 9.3 ov), 76-6 (Albie Morkel, 11.1 ov), 125-7 (de Villiers, 15.4 ov), 133-8 (Harshal Patel, 16.3 ov), 153-9 (Mitchell Starc, 19.2 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

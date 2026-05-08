@@ -1,0 +1,152 @@
+SCORECARD
+============================================================
+
+============================================================
+  Rajasthan Royals  169/3 (20 ov)  RR: 8.45
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Jos Buttler                 70   47   0   6  148.94  not out
+  Jaiswal                      4    6   0   0   66.67  b Willey
+  Padikkal                    37   29   2   2  127.59  c Kohli b Harshal Patel
+  Samson                       8    8   0   1     100  c and b W Hasaranga
+  Hetmyer                     42   31   4   2  135.48  not out
+  Extras: 8 (b 0, lb 3, w 4, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Siraj                         4   0   43   0   10.8
+  Willey                        4   0   29   1    7.2
+  Akash Deep                    4   0   44   0     11
+  W Hasaranga                   4   0   32   1      8
+  Harshal Patel                 4   0   18   1    4.5
+
+  Fall of Wickets: 6-1 (Jaiswal, 1.5 ov), 76-2 (Padikkal, 9.6 ov), 86-3 (Samson, 11.4 ov)
+
+============================================================
+  Royal Challengers Bangalore  173/6 (19.1 ov)  RR: 9.03
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Faf du Plessis              29   20   5   0     145  c Boult b Chahal
+  Anuj Rawat                  26   25   4   0     104  c Samson b Navdeep Saini
+  Virat Kohli                  5    6   0   0   83.33  run out (Samson/Chahal)
+  David Willey                 0    2   0   0       0  b Chahal
+  Sherfane Rutherford          5   10   0   0      50  c Navdeep Saini b Boult
+  Shahbaz Ahmed               45   26   4   3  173.08  b Boult
+  Dinesh Karthik              44   23   7   1   191.3  not out
+  Harshal Patel                9    4   0   1     225  not out
+  Extras: 10 (b 0, lb 3, w 6, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Trent Boult                   4   0   34   2    8.5
+  Prasidh Krishna               4   0   40   0     10
+  Ravichandran Ashwin           4   0   39   0    9.8
+  Yuzvendra Chahal              4   0   15   2    3.8
+  Navdeep Saini                 3   0   36   1     12
+  Yashasvi Jaiswal            0.1   0    6   0     36
+
+  Fall of Wickets: 55-1 (Faf du Plessis, 6.6 ov), 61-2 (Anuj Rawat, 7.6 ov), 62-3 (Virat Kohli, 8.4 ov), 62-4 (David Willey, 8.5 ov), 87-5 (Sherfane Rutherford, 12.3 ov), 154-6 (Shahbaz Ahmed, 17.5 ov)
+
+============================================================
+  MATCH 45946 - INNINGS 1
+============================================================
+  Score: 169/3 in 20 overs  |  Run Rate: 8.45
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  •  1  •  1  •                +2 runs  (Total: 2)
+  Over  2:  1  1  2  •  W  •                +4 runs  (Total: 6)  [WICKET]
+  Over  3:  •  Wd  1  6  2  •  1            +11 runs  (Total: 17)  [SIX]
+  Over  4:  •  L1  •  2  1  4               +8 runs  (Total: 25)  [over-break,FOUR]
+  Over  5:  1  •  2  •  2  •                +5 runs  (Total: 30)
+  Over  6:  1  1  1  1  1  •                +5 runs  (Total: 35)
+  Over  7:  1  •  1  2  6  2                +12 runs  (Total: 47)  [DROPPED, DROPPED, SIX]
+  Over  8:  4  4  4  1  1  6                +14 runs  (Total: 61)  [TEAM_FIFTY,DROPPED,FOUR, over-break,SIX,PARTNERSHIP,HIGHSCORING_OVER]
+  Over  9:  1  2  2  1  •  6                +12 runs  (Total: 73)  [over-break,SIX]
+  Over 10:  •  •  1  •  1  W  Wd            +3 runs  (Total: 76)  [over-break,WICKET]
+  Over 11:  1  •  1  1  •  1                +4 runs  (Total: 80)
+  Over 12:  •  6  •  W  •  •                +6 runs  (Total: 86)  [SIX, UDRS, WICKET]
+  Over 13:  1  •  •  Wd  •  •  L1           +3 runs  (Total: 89)
+  Over 14:  4  4  4  •  1  1                +10 runs  (Total: 99)  [FOUR, FOUR]
+  Over 15:  1  1  •  •  1  1                +4 runs  (Total: 103)  [TEAM_HUNDRED, UDRS]
+  Over 16:  1  1  1  •  1  •                +4 runs  (Total: 107)
+  Over 17:  1  •  6  1  1  Wd  1            +11 runs  (Total: 118)  [SIX]
+  Over 18:  1  1  1  1  4  1                +9 runs  (Total: 127)  [FOUR]
+  Over 19:  •  4  2  1  6  6                +19 runs  (Total: 146)  [FOUR,DROPPED, SIX,PARTNERSHIP, over-break,FIFTY,SIX,HIGHSCORING_OVER]
+  Over 20:  1  6  N  6  2  1  6             +23 runs  (Total: 169)  [TEAM_HUNDRED,SIX, SIX, over-break,SIX,HIGHSCORING_OVER]
+
+BATTERS
+------------------------------------------------------------
+  Jos Buttler                 70 runs   47 balls  4s:0  6s:0  SR:148.94
+  Jaiswal                      4 runs    6 balls  4s:0  6s:0  SR:66.67
+  Padikkal                    37 runs   29 balls  4s:0  6s:0  SR:127.59
+  Samson                       8 runs    8 balls  4s:0  6s:0  SR:100
+  Hetmyer                     42 runs   31 balls  4s:0  6s:0  SR:135.48
+
+BOWLERS
+------------------------------------------------------------
+  Siraj                      4 ov   43 runs  0 wkts  Econ:10.8
+  Willey                     4 ov   29 runs  1 wkts  Econ:7.2
+  Akash Deep                 4 ov   44 runs  0 wkts  Econ:11
+  W Hasaranga                4 ov   32 runs  1 wkts  Econ:8
+  Harshal Patel              4 ov   18 runs  1 wkts  Econ:4.5
+
+============================================================
+  MATCH 45946 - INNINGS 2
+============================================================
+  Score: 173/6 in 19.1 overs  |  Run Rate: 9.03
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  1  •  1  •  1  •                +3 runs  (Total: 3)
+  Over  2:  •  •  1  •  4  4                +9 runs  (Total: 12)  [FOUR, over-break,FOUR]
+  Over  3:  4  2  4  1  4  1                +16 runs  (Total: 28)  [FOUR, FOUR, FOUR, over-break,HIGHSCORING_OVER]
+  Over  4:  •  •  •  •  1  4                +5 runs  (Total: 33)  [over-break,FOUR]
+  Over  5:  •  •  4  •  1  Wd  L1           +7 runs  (Total: 40)  [FOUR, over-break,UDRS]
+  Over  6:  •  4  1  1  1  1                +8 runs  (Total: 48)  [FOUR]
+  Over  7:  1  4  •  1  1  W                +7 runs  (Total: 55)  [TEAM_FIFTY,PARTNERSHIP,FOUR, over-break,WICKET]
+  Over  8:  1  2  1  1  1  W                +6 runs  (Total: 61)  [over-break,WICKET]
+  Over  9:  •  •  1  W  W  •                +1 runs  (Total: 62)  [WICKET, WICKET]
+  Over 10:  •  •  Wd  Wd  1  •  1  Wd  1    +6 runs  (Total: 68)
+  Over 11:  •  1  •  •  1  1                +3 runs  (Total: 71)
+  Over 12:  L1  4  Wd  1  1  6  1           +15 runs  (Total: 86)  [FOUR, SIX, over-break,HIGHSCORING_OVER]
+  Over 13:  •  1  W  •  •  1                +2 runs  (Total: 88)  [WICKET]
+  Over 14:  1  1  6  N4  4  •  4            +21 runs  (Total: 109)  [TEAM_HUNDRED,SIX, FOUR, FOUR, over-break,FOUR,HIGHSCORING_OVER]
+  Over 15:  1  4  4  2  1  4                +16 runs  (Total: 125)  [FOUR, FOUR, over-break,FOUR,HIGHSCORING_OVER]
+  Over 16:  1  4  1  1  •  6                +13 runs  (Total: 138)  [FOUR, over-break,SIX,PARTNERSHIP]
+  Over 17:  •  •  1  1  1  1                +4 runs  (Total: 142)
+  Over 18:  •  4  6  2  W  1                +13 runs  (Total: 155)  [FOUR, TEAM_HUNDRED,SIX, WICKET]
+  Over 19:  1  1  1  4  Wd  4  •            +12 runs  (Total: 167)  [FOUR, FOUR]
+  Over 20:  6                               +6 runs  (Total: 173)  [SIX]
+
+BATTERS
+------------------------------------------------------------
+  Faf du Plessis              29 runs   20 balls  4s:5  6s:0  SR:145
+  Anuj Rawat                  26 runs   25 balls  4s:4  6s:0  SR:104
+  Virat Kohli                  5 runs    6 balls  4s:0  6s:0  SR:83.33
+  David Willey                 0 runs    2 balls  4s:0  6s:0  SR:0
+  Sherfane Rutherford          5 runs   10 balls  4s:0  6s:0  SR:50
+  Shahbaz Ahmed               45 runs   26 balls  4s:4  6s:3  SR:173.08
+  Dinesh Karthik              44 runs   23 balls  4s:7  6s:1  SR:191.3
+  Harshal Patel                9 runs    4 balls  4s:0  6s:1  SR:225
+
+BOWLERS
+------------------------------------------------------------
+  Trent Boult                4 ov   34 runs  2 wkts  Econ:8.5
+  Prasidh Krishna            4 ov   40 runs  0 wkts  Econ:10
+  Ravichandran Ashwin        4 ov   39 runs  0 wkts  Econ:9.8
+  Yuzvendra Chahal           4 ov   15 runs  2 wkts  Econ:3.8
+  Navdeep Saini              3 ov   36 runs  1 wkts  Econ:12
+  Yashasvi Jaiswal           0.1 ov    6 runs  0 wkts  Econ:36
+
+  [Win probability not available for this match]

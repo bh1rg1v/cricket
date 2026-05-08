@@ -1,0 +1,67 @@
+SCORECARD
+============================================================
+
+============================================================
+  Deccan Chargers  148/9 (20 ov)  RR: 7.4
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Adam Gilchrist               8    5   2   0     160  c Karthik b Nannes
+  Herschelle Gibbs             0    4   0   0       0  c de Villiers b Nannes
+  Dwayne Smith                48   28   5   2  171.43  c Vettori b Nehra
+  Venugopal Rao               16   15   1   0  106.67  b Nehra
+  RP Singh                     2    4   0   0      50  not out
+  Rohit Sharma                17   20   2   0      85  c Manhas b Mishra
+  Pragyan Ojha                 1    1   0   0     100  run out (Vettori/Karthik)
+  Shoaib Ahmed                 0    3   0   0       0  run out (Karthik)
+  Tirumalsetti Suman          23   14   1   1  164.29  c de Villiers b Sangwan
+  Azhar Bilakhia              22   27   2   0   81.48  lbw b Vettori
+  Extras: 11 (b 0, lb 8, w 2, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Dirk Nannes                   4   0   16   2      4
+  Ashish Nehra                  4   0   30   2    7.5
+  Pradeep Sangwan               4   0   24   1      6
+  Amit Mishra                   4   0   32   1      8
+  Daniel Vettori                3   0   23   1   7.67
+  Tillakaratne Dilshan          1   0   15   0     15
+
+  Fall of Wickets: 8-1 (Adam Gilchrist, 0.5 ov), 19-2 (H Gibbs, 2.3 ov), 52-3 (Rohit Sharma, 8.6 ov), 53-4 (A Bilakhia, 9.2 ov), 118-5 (Suman, 14.5 ov), 139-6 (Dwayne Smith, 17.6 ov), 139-7 (S Ahmed, 18.3 ov), 147-8 (V Rao, 19.5 ov), 148-9 (Pragyan Ojha, 19.6 ov)
+
+============================================================
+  Delhi Daredevils  150/4 (18.4 ov)  RR: 8.03
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Virender Sehwag             20   11   4   0  181.82  c Gibbs b Singh
+  Tillakaratne Dilshan        52   46   4   3  113.04  not out
+  Dinesh Karthik              41   30   3   1  136.67  lbw b Ojha
+  Gautam Gambhir              17   15   3   0  113.33  lbw b Shoaib Ahmed
+  AB de Villiers               5    9   1   0   55.56  c Ojha b Shoaib Ahmed
+  Mithun Manhas                3    2   0   0     150  not out
+  Extras: 12 (b 0, lb 4, w 7, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Fidel Edwards               3.4   0   44   0  12.94
+  RP Singh                      3   0   20   1   6.67
+  Shoaib Ahmed                  4   0   20   2      5
+  Pragyan Ojha                  4   0   24   1      6
+  Rohit Sharma                  1   0   10   0     10
+  Dwayne Smith                  1   0    8   0      8
+  Venugopal Rao                 2   0   20   0     10
+
+  Fall of Wickets: 30-1 (Sehwag, 3.3 ov), 35-2 (de Villiers, 4.6 ov), 49-3 (Gambhir, 6.5 ov), 128-4 (Karthik, 17.1 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

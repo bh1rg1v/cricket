@@ -1,0 +1,160 @@
+SCORECARD
+============================================================
+
+============================================================
+  Punjab Kings  214/5 (20 ov)  RR: 10.7
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Atharva Taide               46   27   5   2  170.37  c Sanvir Singh b T Natarajan
+  Prabhsimran                 71   45   7   4  157.78  c Klaasen b V Viyaskanth
+  Rossouw                     49   24   3   4  204.17  c Abdul Samad b Cummins
+  Shashank Singh               2    4   0   0      50  run out (Nitish Reddy/Klaasen)
+  Jitesh Sharma               32   15   2   2  213.33  not out
+  Ashutosh Sharma              2    3   0   0   66.67  c Sanvir Singh b T Natarajan
+  Shivam Singh                 2    3   0   0   66.67  not out
+  Extras: 10 (b 0, lb 5, w 4, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Bhuvneshwar                   4   0   36   0      9
+  Cummins                       4   0   36   1      9
+  T Natarajan                   4   0   33   2    8.2
+  V Viyaskanth                  4   0   37   1    9.2
+  Shahbaz Ahmed                 1   0   13   0     13
+  Nitish Reddy                  3   0   54   0     18
+
+  Fall of Wickets: 97-1 (Atharva Taide, 9.1 ov), 151-2 (Prabhsimran, 14.2 ov), 174-3 (Shashank Singh, 16 ov), 181-4 (Rossouw, 17.2 ov), 187-5 (Ashutosh Sharma, 18.1 ov)
+
+============================================================
+  Sunrisers Hyderabad  215/6 (19.1 ov)  RR: 11.22
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Travis Head                  0    1   0   0       0  b Arshdeep Singh
+  Abhishek Sharma             66   28   5   6  235.71  c Shivam Singh b Shashank Singh
+  Rahul Tripathi              33   18   4   2  183.33  c Arshdeep Singh b Harshal Patel
+  Nitish Reddy                37   25   1   3     148  c Shivam Singh b Harshal Patel
+  Heinrich Klaasen            42   26   3   2  161.54  b Harpreet Brar
+  Shahbaz Ahmed                3    6   0   0      50  c Shashank Singh b Arshdeep Singh
+  Abdul Samad                 11    8   0   1   137.5  not out
+  Sanvir Singh                 6    4   1   0     150  not out
+  Extras: 17 (b 0, lb 6, w 10, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Arshdeep Singh                4   0   37   2    9.2
+  Rishi Dhawan                  3   0   35   0   11.7
+  Harshal Patel                 4   0   49   2   12.2
+  Rahul Chahar                  4   0   43   0   10.8
+  Harpreet Brar                 3   0   36   1     12
+  Shashank Singh                1   0    5   1      5
+  Atharva Taide               0.1   0    4   0     24
+
+  Fall of Wickets: 0-1 (Travis Head, 0.1 ov), 72-2 (Rahul Tripathi, 4.6 ov), 129-3 (Abhishek Sharma, 10.1 ov), 176-4 (Nitish Reddy, 13.6 ov), 197-5 (Shahbaz Ahmed, 16.5 ov), 208-6 (Heinrich Klaasen, 18.2 ov)
+
+============================================================
+  MATCH 91713 - INNINGS 1
+============================================================
+  Score: 214/5 in 20 overs  |  Run Rate: 10.7
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  1  •  •  •  4  •                +5 runs  (Total: 5)  [FOUR]
+  Over  2:  2  4  •  1  •  •                +7 runs  (Total: 12)  [FOUR]
+  Over  3:  2  •  1  4  4  1                +12 runs  (Total: 24)  [FOUR, FOUR]
+  Over  4:  1  1  •  1  4  4                +11 runs  (Total: 35)  [FOUR, over-break,FOUR]
+  Over  5:  1  •  •  1  4  6                +12 runs  (Total: 47)  [UDRS, FOUR, over-break,SIX]
+  Over  6:  •  L1  4  2  1  6               +14 runs  (Total: 61)  [TEAM_FIFTY,PARTNERSHIP,FOUR, over-break,SIX,HIGHSCORING_OVER]
+  Over  7:  L1  1  4  •  •  2               +8 runs  (Total: 69)  [FOUR]
+  Over  8:  4  6  1  1  •  1                +13 runs  (Total: 82)  [FOUR, SIX]
+  Over  9:  1  6  L2  1  4  1               +15 runs  (Total: 97)  [SIX, FOUR, over-break,HIGHSCORING_OVER]
+  Over 10:  W  1  •  •  1  •                +2 runs  (Total: 99)  [WICKET]
+  Over 11:  1  1  •  2  6  •                +10 runs  (Total: 109)  [TEAM_HUNDRED, FIFTY, SIX]
+  Over 12:  4  N  6  1  6  1  1             +20 runs  (Total: 129)  [FOUR, SIX, SIX, over-break,HIGHSCORING_OVER]
+  Over 13:  1  •  4  1  4  1                +11 runs  (Total: 140)  [FOUR, FOUR]
+  Over 14:  6  Wd  1  1  1  1  •            +11 runs  (Total: 151)  [SIX,PARTNERSHIP, TEAM_HUNDRED]
+  Over 15:  •  W  •  1  6  L1               +8 runs  (Total: 159)  [WICKET,UDRS, SIX]
+  Over 16:  2  6  4  Wd  1  •  W1           +15 runs  (Total: 174)  [SIX, FOUR, over-break,WICKET,HIGHSCORING_OVER]
+  Over 17:  1  1  1  2  •  1                +6 runs  (Total: 180)
+  Over 18:  1  W  1  1  1  2                +6 runs  (Total: 186)  [WICKET, RUNOUT_MISS]
+  Over 19:  W  Wd  1  4  2  •  1            +9 runs  (Total: 195)  [WICKET, FOUR, RUNOUT_MISS]
+  Over 20:  1  •  1  4  6  Wd  6            +19 runs  (Total: 214)  [TEAM_HUNDRED,FOUR, SIX, over-break,SIX,HIGHSCORING_OVER]
+
+BATTERS
+------------------------------------------------------------
+  Atharva Taide               46 runs   27 balls  4s:0  6s:0  SR:170.37
+  Prabhsimran                 71 runs   45 balls  4s:0  6s:0  SR:157.78
+  Rossouw                     49 runs   24 balls  4s:0  6s:0  SR:204.17
+  Shashank Singh               2 runs    4 balls  4s:0  6s:0  SR:50
+  Jitesh Sharma               32 runs   15 balls  4s:0  6s:0  SR:213.33
+  Ashutosh Sharma              2 runs    3 balls  4s:0  6s:0  SR:66.67
+  Shivam Singh                 2 runs    3 balls  4s:0  6s:0  SR:66.67
+
+BOWLERS
+------------------------------------------------------------
+  Bhuvneshwar                4 ov   36 runs  0 wkts  Econ:9
+  Cummins                    4 ov   36 runs  1 wkts  Econ:9
+  T Natarajan                4 ov   33 runs  2 wkts  Econ:8.2
+  V Viyaskanth               4 ov   37 runs  1 wkts  Econ:9.2
+  Shahbaz Ahmed              1 ov   13 runs  0 wkts  Econ:13
+  Nitish Reddy               3 ov   54 runs  0 wkts  Econ:18
+
+============================================================
+  MATCH 91713 - INNINGS 2
+============================================================
+  Score: 215/6 in 19.1 overs  |  Run Rate: 11.22
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  W  4  •  4  •  L1               +9 runs  (Total: 9)  [WICKET, FOUR, FOUR]
+  Over  2:  1  1  •  6  4  4                +16 runs  (Total: 25)  [SIX, FOUR, over-break,FOUR,HIGHSCORING_OVER]
+  Over  3:  4  •  •  4  •  6                +14 runs  (Total: 39)  [FOUR, FOUR, over-break,SIX,HIGHSCORING_OVER]
+  Over  4:  •  L4  •  1  •  6               +11 runs  (Total: 50)  [FOUR,UDRS, over-break,TEAM_FIFTY,PARTNERSHIP,SIX]
+  Over  5:  1  6  4  1  2  Wd  N6  W        +22 runs  (Total: 72)  [SIX, FOUR, SIX, over-break,WICKET,HIGHSCORING_OVER]
+  Over  6:  1  Wd  1  1  1  6  1            +12 runs  (Total: 84)  [SIX]
+  Over  7:  1  •  •  1  1  1                +4 runs  (Total: 88)
+  Over  8:  1  1  •  1  4  4                +11 runs  (Total: 99)  [FOUR, over-break,FIFTY,FOUR]
+  Over  9:  2  1  1  6  1  •                +11 runs  (Total: 110)  [TEAM_HUNDRED, SIX]
+  Over 10:  •  1  •  Wd5  6  6  1           +19 runs  (Total: 129)  [SIX,PARTNERSHIP, SIX, over-break,HIGHSCORING_OVER]
+  Over 11:  W  1  1  1  1  1                +5 runs  (Total: 134)  [WICKET]
+  Over 12:  1  6  •  4  1  Wd  6            +19 runs  (Total: 153)  [SIX, FOUR, over-break,TEAM_HUNDRED,SIX,HIGHSCORING_OVER]
+  Over 13:  L1  •  •  6  1  6               +14 runs  (Total: 167)  [SIX, over-break,SIX,HIGHSCORING_OVER]
+  Over 14:  2  4  1  1  1  W                +9 runs  (Total: 176)  [FOUR, over-break,WICKET]
+  Over 15:  1  •  1  2  1  1                +6 runs  (Total: 182)  [DROPPED]
+  Over 16:  1  •  •  4  Wd  1  •            +7 runs  (Total: 189)  [FOUR]
+  Over 17:  2  4  •  1  Wd  W  1            +9 runs  (Total: 198)  [FOUR, WICKET]
+  Over 18:  •  1  1  •  6  1                +9 runs  (Total: 207)  [TEAM_HUNDRED, SIX]
+  Over 19:  1  W  1  1  •  1                +4 runs  (Total: 211)  [WICKET]
+  Over 20:  4                               +4 runs  (Total: 215)  [FOUR]
+
+BATTERS
+------------------------------------------------------------
+  Travis Head                  0 runs    1 balls  4s:0  6s:0  SR:0
+  Abhishek Sharma             66 runs   28 balls  4s:5  6s:6  SR:235.71
+  Rahul Tripathi              33 runs   18 balls  4s:4  6s:2  SR:183.33
+  Nitish Reddy                37 runs   25 balls  4s:1  6s:3  SR:148
+  Heinrich Klaasen            42 runs   26 balls  4s:3  6s:2  SR:161.54
+  Shahbaz Ahmed                3 runs    6 balls  4s:0  6s:0  SR:50
+  Abdul Samad                 11 runs    8 balls  4s:0  6s:1  SR:137.5
+  Sanvir Singh                 6 runs    4 balls  4s:1  6s:0  SR:150
+
+BOWLERS
+------------------------------------------------------------
+  Arshdeep Singh             4 ov   37 runs  2 wkts  Econ:9.2
+  Rishi Dhawan               3 ov   35 runs  0 wkts  Econ:11.7
+  Harshal Patel              4 ov   49 runs  2 wkts  Econ:12.2
+  Rahul Chahar               4 ov   43 runs  0 wkts  Econ:10.8
+  Harpreet Brar              3 ov   36 runs  1 wkts  Econ:12
+  Shashank Singh             1 ov    5 runs  1 wkts  Econ:5
+  Atharva Taide              0.1 ov    4 runs  0 wkts  Econ:24
+
+  [Win probability not available for this match]

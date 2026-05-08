@@ -1,0 +1,143 @@
+SCORECARD
+============================================================
+
+============================================================
+  Rajasthan Royals  90/9 (20 ov)  RR: 4.5
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Lewis                       24   19   3   1  126.32  lbw b Bumrah
+  Jaiswal                     12    9   3   0  133.33  c Ishan Kishan b Coulter-Nile
+  Samson                       3    6   0   0      50  c Jayant Yadav b Neesham
+  Shivam Dube                  3    8   0   0    37.5  b Neesham
+  Glenn Phillips               4   13   0   0   30.77  b Coulter-Nile
+  Miller                      15   23   0   0   65.22  lbw b Coulter-Nile
+  Rahul Tewatia               12   20   0   0      60  c Ishan Kishan b Neesham
+  Shreyas Gopal                0    1   0   0       0  c Ishan Kishan b Bumrah
+  Chetan Sakariya              6   11   1   0   54.55  b Coulter-Nile
+  Kuldip Yadav                 0    4   0   0       0  not out
+  Mustafizur                   8    7   0   1  114.29  not out
+  Extras: 3 (b 0, lb 0, w 2, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Boult                         4   0   24   0      6
+  Jayant Yadav                  2   0   17   0    8.5
+  Bumrah                        4   0   14   2    3.5
+  Coulter-Nile                  4   0   14   4    3.5
+  Neesham                       4   0   12   3      3
+  Pollard                       2   0    9   0    4.5
+
+  Fall of Wickets: 27-1 (Jaiswal, 3.4 ov), 41-2 (Lewis, 5.3 ov), 41-3 (Samson, 6.1 ov), 48-4 (Shivam Dube, 8.3 ov), 50-5 (Glenn Phillips, 9.4 ov), 71-6 (Rahul Tewatia, 14.6 ov), 74-7 (Shreyas Gopal, 15.6 ov), 76-8 (Miller, 16.4 ov), 82-9 (Chetan Sakariya, 18.4 ov)
+
+============================================================
+  Mumbai Indians  94/2 (8.2 ov)  RR: 11.28
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Rohit Sharma                22   13   1   2  169.23  c Jaiswal b Chetan Sakariya
+  Ishan Kishan                50   25   5   3     200  not out
+  Suryakumar Yadav            13    8   3   0   162.5  c (sub)Lomror b Mustafizur
+  Hardik Pandya                5    6   0   0   83.33  not out
+  Extras: 4 (b 0, lb 1, w 1, nb 2)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Mustafizur Rahman           2.2   0   32   1   13.7
+  Chetan Sakariya               3   1   36   1     12
+  Shreyas Gopal                 1   0    9   0      9
+  Kuldip Yadav                  2   0   16   0      8
+
+  Fall of Wickets: 23-1 (Rohit Sharma, 3.2 ov), 56-2 (Suryakumar Yadav, 5.4 ov)
+
+============================================================
+  MATCH 37637 - INNINGS 1
+============================================================
+  Score: 90/9 in 20 overs  |  Run Rate: 4.5
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  •  •  1  Wd  4  •            +6 runs  (Total: 6)  [FOUR]
+  Over  2:  •  6  1  •  4  4                +15 runs  (Total: 21)  [SIX, FOUR, over-break,FOUR,HIGHSCORING_OVER]
+  Over  3:  4  •  •  1  •  •                +5 runs  (Total: 26)  [FOUR]
+  Over  4:  •  1  •  W  1  4                +6 runs  (Total: 32)  [WICKET, over-break,FOUR]
+  Over  5:  1  Wd  1  •  •  1  1            +5 runs  (Total: 37)
+  Over  6:  4  •  W  •  •  •                +4 runs  (Total: 41)  [FOUR, WICKET,UDRS]
+  Over  7:  W  •  •  1  1  •                +2 runs  (Total: 43)  [WICKET]
+  Over  8:  1  •  1  •  1  1                +4 runs  (Total: 47)
+  Over  9:  •  1  W  1  •  •                +2 runs  (Total: 49)  [WICKET]
+  Over 10:  •  1  •  W  •  •                +1 runs  (Total: 50)  [TEAM_FIFTY, WICKET]
+  Over 11:  •  1  1  1  •  1                +4 runs  (Total: 54)
+  Over 12:  •  1  •  1  •  •                +2 runs  (Total: 56)
+  Over 13:  1  1  1  1  1  1                +6 runs  (Total: 62)
+  Over 14:  1  •  1  1  1  1                +5 runs  (Total: 67)
+  Over 15:  •  1  1  2  •  W                +4 runs  (Total: 71)  [over-break,WICKET]
+  Over 16:  •  2  •  •  1  W                +3 runs  (Total: 74)  [over-break,WICKET]
+  Over 17:  •  1  1  W  •  •                +2 runs  (Total: 76)  [WICKET]
+  Over 18:  •  •  •  •  1  N  •             +2 runs  (Total: 78)
+  Over 19:  •  4  •  W  1  •                +5 runs  (Total: 83)  [FOUR, WICKET]
+  Over 20:  •  •  •  •  6  1                +7 runs  (Total: 90)  [SIX]
+
+BATTERS
+------------------------------------------------------------
+  Lewis                       24 runs   19 balls  4s:0  6s:0  SR:126.32
+  Kuldip Yadav                 0 runs    4 balls  4s:0  6s:0  SR:0
+  Mustafizur                   8 runs    7 balls  4s:0  6s:0  SR:114.29
+  Jaiswal                     12 runs    9 balls  4s:0  6s:0  SR:133.33
+  Samson                       3 runs    6 balls  4s:0  6s:0  SR:50
+  Shivam Dube                  3 runs    8 balls  4s:0  6s:0  SR:37.5
+  Glenn Phillips               4 runs   13 balls  4s:0  6s:0  SR:30.77
+  Miller                      15 runs   23 balls  4s:0  6s:0  SR:65.22
+  Rahul Tewatia               12 runs   20 balls  4s:0  6s:0  SR:60
+  Shreyas Gopal                0 runs    1 balls  4s:0  6s:0  SR:0
+  Chetan Sakariya              6 runs   11 balls  4s:0  6s:0  SR:54.55
+
+BOWLERS
+------------------------------------------------------------
+  Boult                      4 ov   24 runs  0 wkts  Econ:6
+  Jayant Yadav               2 ov   17 runs  0 wkts  Econ:8.5
+  Bumrah                     4 ov   14 runs  2 wkts  Econ:3.5
+  Coulter-Nile               4 ov   14 runs  4 wkts  Econ:3.5
+  Neesham                    4 ov   12 runs  3 wkts  Econ:3
+  Pollard                    2 ov    9 runs  0 wkts  Econ:4.5
+
+============================================================
+  MATCH 37637 - INNINGS 2
+============================================================
+  Score: 94/2 in 8.2 overs  |  Run Rate: 11.28
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  •  4  2  6  2                +14 runs  (Total: 14)  [FOUR, SIX, over-break,HIGHSCORING_OVER]
+  Over  2:  •  •  •  •  •  •                +0 runs  (Total: 14)  [over-break,MAIDEN_OVER]
+  Over  3:  •  6  •  1  1  1                +9 runs  (Total: 23)  [SIX]
+  Over  4:  •  W  4  1  4  3                +12 runs  (Total: 35)  [WICKET, FOUR, FOUR]
+  Over  5:  4  4  1  4  •  •                +13 runs  (Total: 48)  [FOUR, FOUR, FOUR]
+  Over  6:  3  •  4  Wd  W  •  •            +8 runs  (Total: 56)  [TEAM_FIFTY, FOUR, WICKET]
+  Over  7:  •  1  1  L1  •  1               +4 runs  (Total: 60)
+  Over  8:  3  •  4  6  N2  N  6  1         +24 runs  (Total: 84)  [FOUR, SIX, SIX, over-break,HIGHSCORING_OVER]
+  Over  9:  4  6                            +10 runs  (Total: 94)  [FOUR, FIFTY,SIX]
+
+BATTERS
+------------------------------------------------------------
+  Rohit Sharma                22 runs   13 balls  4s:1  6s:2  SR:169.23
+  Ishan Kishan                50 runs   25 balls  4s:5  6s:3  SR:200
+  Suryakumar Yadav            13 runs    8 balls  4s:3  6s:0  SR:162.5
+  Hardik Pandya                5 runs    6 balls  4s:0  6s:0  SR:83.33
+
+BOWLERS
+------------------------------------------------------------
+  Mustafizur Rahman          2.2 ov   32 runs  1 wkts  Econ:13.7
+  Chetan Sakariya            3 ov   36 runs  1 wkts  Econ:12
+  Shreyas Gopal              1 ov    9 runs  0 wkts  Econ:9
+  Kuldip Yadav               2 ov   16 runs  0 wkts  Econ:8
+
+  [Win probability not available for this match]

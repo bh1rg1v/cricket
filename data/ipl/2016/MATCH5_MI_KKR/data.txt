@@ -1,0 +1,62 @@
+SCORECARD
+============================================================
+
+============================================================
+  Kolkata Knight Riders  187/5 (20 ov)  RR: 9.35
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Gautam Gambhir              64   52   4   1  123.08  c Parthiv Patel b Pandya
+  Robin Uthappa                8   10   1   0      80  c K Pollard b McClenaghan
+  Yusuf Pathan                 9    6   1   0     150  not out
+  Manish Pandey               52   29   3   3  179.31  c & b Harbhajan
+  Andre Russell               36   17   1   4  211.76  b McClenaghan
+  Suryakumar Yadav             4    1   1   0     400  not out
+  Colin Munro                  4    5   0   0      80  run out (Southee/Parthiv Patel)
+  Extras: 10 (b 0, lb 3, w 7, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Tim Southee                   4   0   43   0  10.75
+  Jasprit Bumrah                4   0   32   0      8
+  Mitchell McClenaghan          4   0   25   2   6.25
+  Hardik Pandya                 2   0   22   1     11
+  Harbhajan Singh               4   0   31   1   7.75
+  Jagadeesha Suchith            2   0   31   0   15.5
+
+  Fall of Wickets: 21-1 (Uthappa, 3.4 ov), 121-2 (Manish Pandey, 13.4 ov), 164-3 (Russell, 17.2 ov), 170-4 (Gambhir, 18.1 ov), 183-5 (Munro, 19.5 ov)
+
+============================================================
+  Mumbai Indians  188/4 (19.1 ov)  RR: 9.84
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Parthiv Patel               23   20   4   0     115  run out (B Hogg/Uthappa)
+  Rohit Sharma                84   54  10   2  155.56  not out
+  Kieron Pollard               1    1   0   0     100  not out
+  Jos Buttler                 41   22   3   3  186.36  c Suryakumar Yadav b A Russell
+  Mitchell McClenaghan        20    8   0   3     250  c Munro b Kuldeep Yadav
+  Hardik Pandya                9   10   0   0      90  c M Pandey b Chawla
+  Extras: 10 (b 1, lb 1, w 8, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Andre Russell                 4   0   52   1     13
+  John Hastings                 4   0   31   0   7.75
+  Brad Hogg                     4   0   37   0   9.25
+  Piyush Chawla               3.1   0   29   1   9.35
+  Kuldeep Yadav                 4   0   37   1   9.25
+
+  Fall of Wickets: 53-1 (Parthiv Patel, 5.5 ov), 87-2 (Hardik Pandya, 10.1 ov), 109-3 (McClenaghan, 11.5 ov), 175-4 (Jos Buttler, 18.3 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

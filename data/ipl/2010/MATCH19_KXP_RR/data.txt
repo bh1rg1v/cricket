@@ -1,0 +1,67 @@
+SCORECARD
+============================================================
+
+============================================================
+  Rajasthan Royals  183/5 (20 ov)  RR: 9.15
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Adam Voges                  45   24   5   1   187.5  not out
+  Yusuf Pathan                28   19   1   1  147.37  c Yuvraj Singh b Srivastava
+  Faiz Fazal                  45   38   5   1  118.42  run out (Chawla)
+  Naman Ojha                  13   10   3   0     130  c Srivastava b Sreesanth
+  Paras Dogra                  1    1   0   0     100  run out (Chawla/Pathan)
+  Michael Lumb                41   30   7   0  136.67  st Sangakkara b Chawla
+  Extras: 10 (b 0, lb 3, w 5, nb 2)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Irfan Pathan                  4   0   45   0  11.25
+  S Sreesanth                   3   0   20   1   6.67
+  Shalabh Srivastava            4   0   49   1  12.25
+  Rusty Theron                  4   0   25   0   6.25
+  Piyush Chawla                 4   0   29   1   7.25
+  Yuvraj Singh                  1   0   12   0     12
+
+  Fall of Wickets: 35-1 (Naman Ojha, 3.4 ov), 60-2 (M Lumb, 7.2 ov), 111-3 (Yusuf Pathan, 12.6 ov), 171-4 (F Fazal, 19.1 ov), 179-5 (P Dogra, 19.5 ov)
+
+============================================================
+  Kings XI Punjab  152/10 (19.1 ov)  RR: 7.93
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Yuvraj Singh                15   13   0   1  115.38  c Fazal b Trivedi
+  Mohammad Kaif                8    8   1   0     100  lbw b Pathan
+  Irfan Pathan                 1    1   0   0     100  run out (Jhunjhunwala)
+  Mahela Jayawardene          23   22   0   1  104.55  c Jhunjhunwala b Trivedi
+  Kumar Sangakkara            29   13   6   0  223.08  c Fazal b Tait
+  S Sreesanth                  0    2   0   0       0  not out
+  Piyush Chawla                8    8   1   0     100  c Tait b Pathan
+  Ravi Bopara                 25   26   1   0   96.15  c Trivedi b Patel
+  Manvinder Bisla             35   18   4   2  194.44  c Lumb b Warne
+  Shalabh Srivastava           0    1   0   0       0  b Tait
+  Rusty Theron                 2    4   0   0      50  c Patel b Tait
+  Extras: 6 (b 0, lb 2, w 3, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Munaf Patel                   4   0   43   1  10.75
+  Shaun Tait                  3.1   0   22   3    7.1
+  Shane Warne                   4   0   39   1   9.75
+  Siddharth Trivedi             4   0   25   2   6.25
+  Adam Voges                    2   0   12   0      6
+  Yusuf Pathan                  2   0    9   2    4.5
+
+  Fall of Wickets: 41-1 (Sangakkara, 3.6 ov), 85-2 (Bisla, 7.5 ov), 107-3 (Yuvraj, 10.6 ov), 113-4 (Bopara, 12.3 ov), 115-5 (Irfan Pathan, 12.6 ov), 126-6 (M Kaif, 14.5 ov), 136-7 (Chawla, 16.3 ov), 140-8 (Theron, 17.4 ov), 152-9 (Mahela, 18.5 ov), 152-10 (S Srivastava, 19.1 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

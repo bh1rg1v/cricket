@@ -1,0 +1,61 @@
+SCORECARD
+============================================================
+
+============================================================
+  Mumbai Indians  129/4 (20 ov)  RR: 6.45
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Sachin Tendulkar            14   12   2   0  116.67  b I Sharma
+  Dinesh Karthik               0    2   0   0       0  c Karan Sharma b I Sharma
+  Dwayne Smith                38   40   3   2      95  lbw b A Mishra
+  Rohit Sharma                22   22   2   0     100  c I Sharma b A Mishra
+  Kieron Pollard              14   19   1   0   73.68  not out
+  Ambati Rayudu               34   27   4   0  125.93  not out
+  Extras: 7 (b 0, lb 1, w 4, nb 2)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Karn Sharma                   4   0   25   0   6.25
+  Dale Steyn                    4   0   27   0   6.75
+  Ishant Sharma                 4   1   15   2   3.75
+  Thisara Perera                4   0   37   0   9.25
+  Amit Mishra                   4   0   24   2      6
+
+  Fall of Wickets: 32-1 (Tendulkar, 4.3 ov), 32-2 (Karthik, 4.5 ov), 74-3 (Rohit Sharma, 12.1 ov), 79-4 (Dwayne Smith, 12.5 ov)
+
+============================================================
+  Sunrisers Hyderabad  130/3 (18 ov)  RR: 7.22
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Kumar Sangakkara            21   21   3   0     100  c & b H Singh
+  Daren Sammy                  1    1   0   0     100  not out
+  Shikhar Dhawan              73   55   9   1  132.73  not out
+  Akshath Reddy                7    9   1   0   77.78  c Dwayne Smith b M Johnson
+  Hanuma Vihari               25   23   2   0   108.7  c A Rayudu b D Kulkarni
+  Extras: 3 (b 0, lb 0, w 2, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Mitchell Johnson              3   0   21   1      7
+  Dhawal Kulkarni               2   0   13   1    6.5
+  Harbhajan Singh               4   0   35   1   8.75
+  Lasith Malinga                3   0   23   0   7.67
+  Pragyan Ojha                  4   0   18   0    4.5
+  Rohit Sharma                  1   0    5   0      5
+  Dwayne Smith                  1   0   15   0     15
+
+  Fall of Wickets: 16-1 (Akshath Reddy, 2.2 ov), 53-2 (Sangakkara, 7.6 ov), 127-3 (Hanuma Vihari, 17.2 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

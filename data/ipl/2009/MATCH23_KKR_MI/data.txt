@@ -1,0 +1,66 @@
+SCORECARD
+============================================================
+
+============================================================
+  Mumbai Indians  148/6 (20 ov)  RR: 7.4
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Sachin Tendulkar            34   30   3   2  113.33  c McCullum b Agarkar
+  Zaheer Khan                  2    2   0   0     100  not out
+  Harbhajan Singh              6    7   0   0   85.71  c Dinda b Kartik
+  Sanath Jayasuriya            6    8   1   0      75  c van Wyk b Dinda
+  Jean-Paul Duminy            52   37   1   4  140.54  not out
+  Ajinkya Rahane              10    8   1   0     125  c Gayle b Sharma
+  Abhishek Nayar              10   13   1   0   76.92  b Hodge
+  Graham Napier               15   16   1   0   93.75  c McCullum b Gayle
+  Extras: 13 (b 3, lb 3, w 6, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Ishant Sharma                 4   0   24   1      6
+  Ashok Dinda                   3   0   27   1      9
+  Laxmi Shukla                  3   0   25   0   8.33
+  Murali Kartik                 3   0   20   1   6.67
+  Ajit Agarkar                  1   0   12   1     12
+  Chris Gayle                   4   0   21   1   5.25
+  Brad Hodge                    2   0   13   1    6.5
+
+  Fall of Wickets: 19-1 (S Jayasuriya, 3.2 ov), 40-2 (Harbhajan, 5.5 ov), 54-3 (Tendulkar, 7.5 ov), 71-4 (Nayar, 11.4 ov), 96-5 (G Napier, 15.5 ov), 131-6 (Ajinkya Rahane, 18.5 ov)
+
+============================================================
+  Kolkata Knight Riders  139/6 (20 ov)  RR: 6.95
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Sourav Ganguly               0    1   0   0       0  b Khan
+  Brendon McCullum             5    7   0   0   71.43  c Malinga b Nayar
+  Chris Gayle                  7    7   1   0     100  b Khan
+  Brad Hodge                  73   60   5   3  121.67  run out (Duminy/Shah)
+  Morne van Wyk               32   35   3   0   91.43  c Duminy b Napier
+  Wriddhiman Saha              8    4   1   0     200  not out
+  Laxmi Shukla                 6    7   0   0   85.71  b Khan
+  Extras: 8 (b 0, lb 1, w 6, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Zaheer Khan                   4   0   31   3   7.75
+  Graham Napier                 4   0   27   1   6.75
+  Harbhajan Singh               4   0   24   0      6
+  Lasith Malinga                4   0   23   0   5.75
+  Sanath Jayasuriya             1   0   13   0     13
+  Abhishek Nayar                3   0   20   1   6.67
+
+  Fall of Wickets: 1-1 (S Ganguly, 0.4 ov), 8-2 (Gayle, 2.2 ov), 97-3 (van Wyk, 14.5 ov), 119-4 (L Shukla, 17.2 ov), 130-5 (Hodge, 18.6 ov), 132-6 (Brendon McCullum, 19.3 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

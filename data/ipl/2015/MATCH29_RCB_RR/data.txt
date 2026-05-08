@@ -1,0 +1,37 @@
+SCORECARD
+============================================================
+
+============================================================
+  Royal Challengers Bangalore  200/7 (20 ov)  RR: 10
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Dinesh Karthik              27   18   3   1     150  run out (Southee/Samson)
+  Chris Gayle                 10    4   1   1     250  c Deepak Hooda b Southee
+  AB de Villiers              57   45   9   1  126.67  run out (Deepak Hooda/Samson)
+  Virat Kohli                  1    4   0   0      25  c Samson b Southee
+  Mandeep Singh               27   20   4   0     135  lbw b Binny
+  Harshal Patel                6    2   0   1     300  run out (A Rahane/Samson)
+  David Wiese                 11    8   2   0   137.5  c Southee b D Kulkarni
+  Sarfaraz Khan               45   21   6   1  214.29  not out
+  Extras: 16 (b 5, lb 3, w 6, nb 2)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Tim Southee                   4   0   32   2      8
+  Dhawal Kulkarni               4   0   36   1      9
+  James Faulkner                2   0   26   0     13
+  Shane Watson                  3   0   27   0      9
+  Pravin Tambe                  3   0   39   0     13
+  Stuart Binny                  4   0   32   1      8
+
+  Fall of Wickets: 10-1 (Gayle, 0.4 ov), 19-2 (Virat Kohli, 2.2 ov), 93-3 (Mandeep, 11.1 ov), 124-4 (de Villiers, 13.5 ov), 152-5 (Karthik, 16.2 ov), 184-6 (Wiese, 18.5 ov), 200-7 (Harshal Patel, 20 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

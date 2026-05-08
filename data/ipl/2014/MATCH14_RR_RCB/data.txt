@@ -1,0 +1,63 @@
+SCORECARD
+============================================================
+
+============================================================
+  Royal Challengers Bangalore  70/10 (15 ov)  RR: 4.67
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Yuvraj Singh                 3    7   0   0   42.86  c S Smith b Kane Richardson
+  Parthiv Patel                1    1   0   0     100  run out (A Rahane/Samson)
+  AB de Villiers               0    1   0   0       0  b Kane Richardson
+  Albie Morkel                 7   13   1   0   53.85  c S Smith b Tambe
+  Virat Kohli                 21   25   3   0      84  c Southee b Tambe
+  Ashok Dinda                  0    3   0   0       0  lbw b Tambe
+  Yogesh Takawale              0    3   0   0       0  c Samson b Binny
+  Sachin Rana                  3    8   0   0    37.5  b Watson
+  Ravi Rampaul                13   13   0   1     100  c Southee b Tambe
+  Mitchell Starc              18   16   2   0   112.5  c Binny b R Bhatia
+  Extras: 4 (b 1, lb 2, w 1, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Stuart Binny                  1   0    1   1      1
+  Tim Southee                   3   0   16   0   5.33
+  Kane Richardson               4   0   18   2    4.5
+  Shane Watson                  2   1    5   1    2.5
+  Pravin Tambe                  4   0   20   4      5
+  Rajat Bhatia                  1   0    7   1      7
+
+  Fall of Wickets: 1-1 (Y Takawale, 0.4 ov), 1-2 (Parthiv Patel, 0.5 ov), 5-3 (Yuvraj, 2.1 ov), 5-4 (de Villiers, 2.2 ov), 17-5 (Sachin Rana, 5.2 ov), 28-6 (Albie Morkel, 8.4 ov), 46-7 (Virat Kohli, 10.3 ov), 62-8 (Mitchell Starc, 13.6 ov), 70-9 (Rampaul, 14.3 ov), 70-10 (Dinda, 14.6 ov)
+
+============================================================
+  Rajasthan Royals  71/4 (13 ov)  RR: 5.46
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Shane Watson                24   24   1   2     100  c de Villiers b Chahal
+  Ajinkya Rahane              23   19   4   0  121.05  c Parthiv Patel b M Starc
+  Abhishek Nayar              11   17   1   0   64.71  not out
+  Karun Nair                   8   12   0   0   66.67  c Parthiv Patel b M Starc
+  Sanju Samson                 2    6   0   0   33.33  run out (Y Takawale/Parthiv Patel)
+  Extras: 3 (b 0, lb 1, w 2, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Mitchell Starc                4   0   29   2   7.25
+  Ravi Rampaul                  4   0   16   0      4
+  Yuzvendra Chahal              3   1   17   1   5.67
+  Ashok Dinda                   2   0    8   0      4
+
+  Fall of Wickets: 31-1 (Ajinkya Rahane, 4.3 ov), 35-2 (Sanju Samson, 5.4 ov), 36-3 (Karun Nair, 6.3 ov), 68-4 (Shane Watson, 12.5 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

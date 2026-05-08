@@ -1,0 +1,143 @@
+SCORECARD
+============================================================
+
+============================================================
+  Kings XI Punjab  73/10 (15.5 ov)  RR: 4.61
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Guptill                      0    1   0   0       0  c Manoj Tiwary b Unadkat
+  Saha                        13   17   0   1   76.47  c Dhoni b Christian
+  Shaun Marsh                 10   13   2   0   76.92  c Steven Smith b SN Thakur
+  Morgan                       4    4   1   0     100  run out (Unadkat)
+  Rahul Tewatia                4    3   1   0  133.33  c Unadkat b SN Thakur
+  Maxwell                      0    3   0   0       0  c A Rahane b SN Thakur
+  Axar                        22   20   1   1     110  c Dhoni b Christian
+  Swapnil Singh               10   17   0   0   58.82  c Dhoni b Unadkat
+  Mohit Sharma                 6   12   0   0      50  c Christian b Zampa
+  Ishant                       1    5   0   0      20  c Steven Smith b Zampa
+  Extras: 3 (b 0, lb 0, w 3, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Unadkat                       3   1   12   2      4
+  SN Thakur                     4   0   19   3    4.8
+  Stokes                        3   0   10   0    3.3
+  Zampa                       3.5   0   22   2    5.7
+  Christian                     2   0   10   2      5
+
+  Fall of Wickets: 0-1 (Guptill, 0.1 ov), 19-2 (Shaun Marsh, 3.3 ov), 24-3 (Morgan, 4.3 ov), 31-4 (Rahul Tewatia, 5.2 ov), 32-5 (Maxwell, 5.5 ov), 51-6 (Saha, 9.2 ov), 62-7 (Axar, 11.3 ov), 69-8 (Swapnil Singh, 13.4 ov), 71-9 (Ishant, 15.1 ov), 73-10 (Mohit Sharma, 15.5 ov)
+
+============================================================
+  Rising Pune Supergiant  78/1 (12 ov)  RR: 6.5
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Ajinkya Rahane              34   34   1   1     100  not out
+  Rahul Tripathi              28   20   4   1     140  b Axar
+  Steven Smith                15   18   0   0   83.33  not out
+  Extras: 1 (b 0, lb 0, w 1, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Sandeep Sharma                2   0   12   0      6
+  Mohit Sharma                  1   0    6   0      6
+  Ishant Sharma                 1   0   12   0     12
+  Rahul Tewatia                 3   0   14   0    4.7
+  Axar Patel                    2   0   13   1    6.5
+  Swapnil Singh                 1   0    6   0      6
+  Glenn Maxwell                 2   0   15   0    7.5
+
+  Fall of Wickets: 41-1 (Rahul Tripathi, 5.3 ov)
+
+============================================================
+  MATCH 18175 - INNINGS 1
+============================================================
+  Score: 73/10 in 15.5 overs  |  Run Rate: 4.61
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  W  •  •  •  4  •                +4 runs  (Total: 4)  [WICKET, FOUR]
+  Over  2:  1  •  4  •  1  1                +7 runs  (Total: 11)  [FOUR]
+  Over  3:  1  1  6  •  •  •                +8 runs  (Total: 19)  [DROPPED, SIX]
+  Over  4:  •  •  W  •  4  •                +4 runs  (Total: 23)  [WICKET, FOUR]
+  Over  5:  •  1  W  1  •  4                +6 runs  (Total: 29)  [WICKET, over-break,FOUR]
+  Over  6:  1  Wd  W  •  Wd  •  W  •        +3 runs  (Total: 32)  [WICKET, WICKET]
+  Over  7:  •  •  •  •  •  Wd  1            +2 runs  (Total: 34)
+  Over  8:  4  •  •  1  •  •                +5 runs  (Total: 39)  [FOUR]
+  Over  9:  2  6  1  1  1  •                +11 runs  (Total: 50)  [SIX]
+  Over 10:  1  W  1  1  •  2                +5 runs  (Total: 55)  [WICKET]
+  Over 11:  1  1  1  •  •  1                +4 runs  (Total: 59)
+  Over 12:  1  2  W  1  1  •                +5 runs  (Total: 64)  [WICKET]
+  Over 13:  •  1  1  1  1  1                +5 runs  (Total: 69)
+  Over 14:  •  •  •  W  •  •                +0 runs  (Total: 69)  [WICKET, over-break,MAIDEN_OVER]
+  Over 15:  •  •  •  1  •  1                +2 runs  (Total: 71)
+  Over 16:  W  2  •  •  W                   +2 runs  (Total: 73)  [WICKET, WICKET]
+
+BATTERS
+------------------------------------------------------------
+  Guptill                      0 runs    1 balls  4s:0  6s:0  SR:0
+  Ishant                       1 runs    5 balls  4s:0  6s:0  SR:20
+  Sandeep Sharma               0 runs    0 balls  4s:0  6s:0  SR:0
+  Saha                        13 runs   17 balls  4s:0  6s:0  SR:76.47
+  Shaun Marsh                 10 runs   13 balls  4s:0  6s:0  SR:76.92
+  Morgan                       4 runs    4 balls  4s:0  6s:0  SR:100
+  Rahul Tewatia                4 runs    3 balls  4s:0  6s:0  SR:133.33
+  Maxwell                      0 runs    3 balls  4s:0  6s:0  SR:0
+  Axar                        22 runs   20 balls  4s:0  6s:0  SR:110
+  Swapnil Singh               10 runs   17 balls  4s:0  6s:0  SR:58.82
+  Mohit Sharma                 6 runs   12 balls  4s:0  6s:0  SR:50
+
+BOWLERS
+------------------------------------------------------------
+  Unadkat                    3 ov   12 runs  2 wkts  Econ:4
+  SN Thakur                  4 ov   19 runs  3 wkts  Econ:4.8
+  Stokes                     3 ov   10 runs  0 wkts  Econ:3.3
+  Zampa                      3.5 ov   22 runs  2 wkts  Econ:5.7
+  Christian                  2 ov   10 runs  2 wkts  Econ:5
+
+============================================================
+  MATCH 18175 - INNINGS 2
+============================================================
+  Score: 78/1 in 12 overs  |  Run Rate: 6.5
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  2  •  •  •  1                +3 runs  (Total: 3)
+  Over  2:  1  •  4  •  •  1                +6 runs  (Total: 9)  [FOUR]
+  Over  3:  1  Wd  1  4  1  •  1            +9 runs  (Total: 18)  [FOUR]
+  Over  4:  1  4  •  4  2  1                +12 runs  (Total: 30)  [FOUR, FOUR]
+  Over  5:  •  •  6  •  •  •                +6 runs  (Total: 36)  [SIX]
+  Over  6:  4  1  W  1  •  1                +7 runs  (Total: 43)  [FOUR, WICKET]
+  Over  7:  2  1  1  1  •  1                +6 runs  (Total: 49)
+  Over  8:  1  1  1  1  1  1                +6 runs  (Total: 55)
+  Over  9:  •  1  1  •  1  •                +3 runs  (Total: 58)  [DROPPED]
+  Over 10:  1  •  1  •  1  1                +4 runs  (Total: 62)
+  Over 11:  2  •  1  1  1  •                +5 runs  (Total: 67)
+  Over 12:  1  2  1  1  •  6                +11 runs  (Total: 78)  [over-break,SIX]
+
+BATTERS
+------------------------------------------------------------
+  Ajinkya Rahane              34 runs   34 balls  4s:1  6s:1  SR:100
+  Rahul Tripathi              28 runs   20 balls  4s:4  6s:1  SR:140
+  Steven Smith                15 runs   18 balls  4s:0  6s:0  SR:83.33
+
+BOWLERS
+------------------------------------------------------------
+  Sandeep Sharma             2 ov   12 runs  0 wkts  Econ:6
+  Mohit Sharma               1 ov    6 runs  0 wkts  Econ:6
+  Ishant Sharma              1 ov   12 runs  0 wkts  Econ:12
+  Rahul Tewatia              3 ov   14 runs  0 wkts  Econ:4.7
+  Axar Patel                 2 ov   13 runs  1 wkts  Econ:6.5
+  Swapnil Singh              1 ov    6 runs  0 wkts  Econ:6
+  Glenn Maxwell              2 ov   15 runs  0 wkts  Econ:7.5
+
+  [Win probability not available for this match]

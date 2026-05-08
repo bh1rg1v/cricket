@@ -1,0 +1,149 @@
+SCORECARD
+============================================================
+
+============================================================
+  Lucknow Super Giants  227/3 (20 ov)  RR: 11.35
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Mitchell Marsh              67   37   4   5  181.08  c Jitesh Sharma b Bhuvneshwar
+  Breetzke                    14   12   1   1  116.67  b N Thushara
+  Pant                       118   61  11   8  193.44  not out
+  Pooran                      13   10   1   0     130  c Yash Dayal b Romario Shepherd
+  Abdul Samad                  1    1   0   0     100  not out
+  Extras: 14 (b 0, lb 7, w 6, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  N Thushara                    4   0   26   1    6.5
+  Krunal Pandya                 2   0   14   0      7
+  Yash Dayal                    3   0   44   0   14.7
+  Bhuvneshwar                   4   0   46   1   11.5
+  Suyash Sharma                 3   0   39   0     13
+  Romario Shepherd              4   0   51   1   12.8
+
+  Fall of Wickets: 25-1 (Breetzke, 2.4 ov), 177-2 (Mitchell Marsh, 15.3 ov), 226-3 (Pooran, 19.5 ov)
+
+============================================================
+  Royal Challengers Bengaluru  230/4 (18.4 ov)  RR: 12.32
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Philip Salt                 30   19   6   0  157.89  c Digvesh Rathi b Akash Maharaj Singh
+  Virat Kohli                 54   30  10   0     180  c Ayush Badoni b Avesh Khan
+  Rajat Patidar               14    7   1   1     200  c Abdul Samad b William ORourke
+  Liam Livingstone             0    1   0   0       0  lbw b William ORourke
+  Mayank Agarawal             41   23   5   0  178.26  not out
+  Jitesh Sharma               85   33   8   6  257.58  not out
+  Extras: 6 (b 0, lb 0, w 5, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Akash Maharaj Singh           4   0   40   1     10
+  William ORourke               4   0   74   2   18.5
+  Digvesh Singh Rathi           4   0   36   0      9
+  Shahbaz Ahmed                 3   0   39   0     13
+  Avesh Khan                    3   0   32   1   10.7
+  Ayush Badoni                0.4   0    9   0   13.5
+
+  Fall of Wickets: 61-1 (Philip Salt, 5.4 ov), 90-2 (Rajat Patidar, 7.5 ov), 90-3 (Liam Livingstone, 7.6 ov), 123-4 (Virat Kohli, 11.2 ov)
+
+============================================================
+  MATCH 118898 - INNINGS 1
+============================================================
+  Score: 227/3 in 20 overs  |  Run Rate: 11.35
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  1  1  4  1  •  4                +11 runs  (Total: 11)  [FOUR, UDRS, over-break,FOUR]
+  Over  2:  1  •  6  2  •  1                +10 runs  (Total: 21)  [SIX]
+  Over  3:  •  •  L4  W  •  1               +5 runs  (Total: 26)  [FOUR, WICKET]
+  Over  4:  2  6  2  4  •  4                +18 runs  (Total: 44)  [SIX, FOUR, over-break,FOUR,HIGHSCORING_OVER]
+  Over  5:  1  •  L1  2  •  •               +4 runs  (Total: 48)
+  Over  6:  •  0  0  1  4  N  1             +7 runs  (Total: 55)  [FOUR, TEAM_FIFTY]
+  Over  7:  1  •  1  1  6  4                +13 runs  (Total: 68)  [SIX, over-break,FOUR]
+  Over  8:  1  1  L1  1  1  1               +6 runs  (Total: 74)
+  Over  9:  •  1  6  •  Wd  1  1            +10 runs  (Total: 84)  [PARTNERSHIP, SIX]
+  Over 10:  6  •  2  4  4  •                +16 runs  (Total: 100)  [SIX, FOUR, TEAM_HUNDRED,FIFTY,FOUR, over-break,HIGHSCORING_OVER]
+  Over 11:  4  2  Wd  L1  1  1  4           +14 runs  (Total: 114)  [FOUR, over-break,FOUR,HIGHSCORING_OVER]
+  Over 12:  1  •  1  4  6  1                +13 runs  (Total: 127)  [FOUR, SIX,PARTNERSHIP]
+  Over 13:  1  •  1  1  •  Wd  •            +4 runs  (Total: 131)
+  Over 14:  •  6  1  4  6  1                +18 runs  (Total: 149)  [FIFTY,SIX, FOUR, SIX, over-break,HIGHSCORING_OVER]
+  Over 15:  6  Wd  1  •  1  6  •            +15 runs  (Total: 164)  [SIX, TEAM_HUNDRED, SIX, over-break,HIGHSCORING_OVER]
+  Over 16:  6  6  W  Wd  1  2  4            +20 runs  (Total: 184)  [SIX, SIX,PARTNERSHIP, WICKET, over-break,FOUR,HIGHSCORING_OVER]
+  Over 17:  1  Wd  •  1  2  1  1            +7 runs  (Total: 191)
+  Over 18:  4  4  4  4  4  •                +10 runs  (Total: 201)  [UDRS, FOUR, TEAM_HUNDRED,HUNDRED,FOUR]
+  Over 19:  1  1  1  4  6  •                +13 runs  (Total: 214)  [FOUR, SIX]
+  Over 20:  4  1  6  1  W  1                +13 runs  (Total: 227)  [FOUR, SIX, WICKET]
+
+BATTERS
+------------------------------------------------------------
+  Mitchell Marsh              67 runs   37 balls  4s:0  6s:0  SR:181.08
+  Breetzke                    14 runs   12 balls  4s:0  6s:0  SR:116.67
+  Pant                       118 runs   61 balls  4s:0  6s:0  SR:193.44
+  Pooran                      13 runs   10 balls  4s:0  6s:0  SR:130
+  Abdul Samad                  1 runs    1 balls  4s:0  6s:0  SR:100
+
+BOWLERS
+------------------------------------------------------------
+  N Thushara                 4 ov   26 runs  1 wkts  Econ:6.5
+  Krunal Pandya              2 ov   14 runs  0 wkts  Econ:7
+  Yash Dayal                 3 ov   44 runs  0 wkts  Econ:14.7
+  Bhuvneshwar                4 ov   46 runs  1 wkts  Econ:11.5
+  Suyash Sharma              3 ov   39 runs  0 wkts  Econ:13
+  Romario Shepherd           4 ov   51 runs  1 wkts  Econ:12.8
+
+============================================================
+  MATCH 118898 - INNINGS 2
+============================================================
+  Score: 230/4 in 18.4 overs  |  Run Rate: 12.32
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  4  1  •  •  •  4                +9 runs  (Total: 9)  [FOUR, over-break,FOUR]
+  Over  2:  4  1  4  4  4  4  Wd            +22 runs  (Total: 31)  [FOUR, FOUR, FOUR, FOUR, over-break,FOUR,HIGHSCORING_OVER]
+  Over  3:  1  1  •  4  2  •                +8 runs  (Total: 39)  [FOUR]
+  Over  4:  1  4  •  1  1  4                +11 runs  (Total: 50)  [FOUR, over-break,TEAM_FIFTY,PARTNERSHIP,FOUR]
+  Over  5:  4  Wd  1  •  •  4  •            +10 runs  (Total: 60)  [FOUR, FOUR]
+  Over  6:  •  1  •  W  1  4                +6 runs  (Total: 66)  [WICKET, over-break,FOUR]
+  Over  7:  1  2  1  4  1  1                +10 runs  (Total: 76)  [FOUR]
+  Over  8:  1  6  1  4  W  Wd2  W           +14 runs  (Total: 90)  [SIX, FOUR, WICKET, over-break,WICKET,HIGHSCORING_OVER]
+  Over  9:  1  1  •  •  4  1                +7 runs  (Total: 97)  [FOUR]
+  Over 10:  4  1  4  4  4  1                +18 runs  (Total: 115)  [TEAM_HUNDRED,FIFTY,FOUR, FOUR, FOUR, FOUR, over-break,HIGHSCORING_OVER]
+  Over 11:  •  •  4  1  1  1                +7 runs  (Total: 122)  [FOUR]
+  Over 12:  1  W  4  1  2  2                +10 runs  (Total: 132)  [WICKET, FOUR]
+  Over 13:  1  1  2  1  1  1                +7 runs  (Total: 139)
+  Over 14:  1  3  6  4  1  2                +17 runs  (Total: 156)  [SIX, TEAM_HUNDRED,FOUR, over-break,HIGHSCORING_OVER]
+  Over 15:  4  2  6  4  1  4                +21 runs  (Total: 177)  [FOUR, SIX, FOUR, PARTNERSHIP, over-break,FOUR,HIGHSCORING_OVER]
+  Over 16:  1  1  4  Wd  4  •  1            +12 runs  (Total: 189)  [FOUR, UDRS, FOUR]
+  Over 17:  6  N  1  1  1  1  1             +11 runs  (Total: 200)  [FIFTY,SIX, UDRS, over-break,TEAM_HUNDRED]
+  Over 18:  1  4  0  4  6  6                +21 runs  (Total: 221)  [FOUR, FOUR, SIX, over-break,SIX,HIGHSCORING_OVER]
+  Over 19:  1  2  •  6                      +9 runs  (Total: 230)  [PARTNERSHIP, SIX]
+
+BATTERS
+------------------------------------------------------------
+  Philip Salt                 30 runs   19 balls  4s:6  6s:0  SR:157.89
+  Virat Kohli                 54 runs   30 balls  4s:10  6s:0  SR:180
+  Rajat Patidar               14 runs    7 balls  4s:1  6s:1  SR:200
+  Liam Livingstone             0 runs    1 balls  4s:0  6s:0  SR:0
+  Mayank Agarawal             41 runs   23 balls  4s:5  6s:0  SR:178.26
+  Jitesh Sharma               85 runs   33 balls  4s:8  6s:6  SR:257.58
+
+BOWLERS
+------------------------------------------------------------
+  Akash Maharaj Singh        4 ov   40 runs  1 wkts  Econ:10
+  William ORourke            4 ov   74 runs  2 wkts  Econ:18.5
+  Digvesh Singh Rathi        4 ov   36 runs  0 wkts  Econ:9
+  Shahbaz Ahmed              3 ov   39 runs  0 wkts  Econ:13
+  Avesh Khan                 3 ov   32 runs  1 wkts  Econ:10.7
+  Ayush Badoni               0.4 ov    9 runs  0 wkts  Econ:13.5
+
+  [Win probability not available for this match]

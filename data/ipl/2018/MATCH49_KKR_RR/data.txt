@@ -1,0 +1,157 @@
+SCORECARD
+============================================================
+
+============================================================
+  Rajasthan Royals  142/10 (19 ov)  RR: 7.47
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  R Tripathi                  27   15   4   1     180  c Karthik b A Russell
+  Jos Buttler                 39   22   5   2  177.27  c Searles b Kuldeep Yadav
+  A Rahane                    11   12   1   0   91.67  b Kuldeep Yadav
+  Samson                      12   10   2   0     120  lbw b Narine
+  Stokes                      11   13   0   0   84.62  c and b Kuldeep Yadav
+  Binny                        1    4   0   0      25  st Karthik b Kuldeep Yadav
+  Gowtham                      3    5   0   0      60  c Karthik b Shivam Mavi
+  Unadkat                     26   18   3   1  144.44  b Prasidh
+  Ish Sodhi                    1    6   0   0   16.67  c Karthik b Prasidh
+  Jofra Archer                 6    5   1   0     120  c Shubman Gill b A Russell
+  Anureet Singh                3    4   0   0      75  not out
+  Extras: 2 (b 0, lb 1, w 1, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Shivam Mavi                   4   0   44   1     11
+  Prasidh                       4   0   35   2    8.8
+  Narine                        4   0   29   1    7.2
+  A Russell                     3   0   13   2    4.3
+  Kuldeep Yadav                 4   0   20   4      5
+
+  Fall of Wickets: 63-1 (R Tripathi, 4.5 ov), 76-2 (A Rahane, 7.2 ov), 85-3 (Jos Buttler, 9.2 ov), 95-4 (Samson, 10.3 ov), 96-5 (Binny, 11.1 ov), 103-6 (Gowtham, 12.6 ov), 107-7 (Stokes, 13.5 ov), 128-8 (Ish Sodhi, 16.3 ov), 135-9 (Jofra Archer, 17.3 ov), 142-10 (Unadkat, 18.6 ov)
+
+============================================================
+  Kolkata Knight Riders  145/4 (18 ov)  RR: 8.06
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Sunil Narine                21    7   2   2     300  c Gowtham b Stokes
+  Chris Lynn                  45   42   5   1  107.14  c Anureet Singh b Stokes
+  Robin Uthappa                4    6   0   0   66.67  c R Tripathi b Stokes
+  Nitish Rana                 21   17   2   1  123.53  lbw b Ish Sodhi
+  Dinesh Karthik              41   31   5   1  132.26  not out
+  Andre Russell               11    5   2   0     220  not out
+  Extras: 2 (b 0, lb 1, w 1, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Krishnappa Gowtham            2   0   32   0     16
+  Ben Stokes                    4   1   15   3    3.8
+  Jofra Archer                  4   0   43   0   10.8
+  Ish Sodhi                     4   0   21   1    5.2
+  Jaydev Unadkat                3   0   23   0    7.7
+  Anureet Singh                 1   0   10   0     10
+
+  Fall of Wickets: 21-1 (Sunil Narine, 1.2 ov), 36-2 (Robin Uthappa, 3.5 ov), 69-3 (Nitish Rana, 8.2 ov), 117-4 (Chris Lynn, 15.2 ov)
+
+============================================================
+  MATCH 20109 - INNINGS 1
+============================================================
+  Score: 142/10 in 19 overs  |  Run Rate: 7.47
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  1  •  •  1  •  •                +2 runs  (Total: 2)  [DROPPED]
+  Over  2:  •  1  6  4  4  4                +19 runs  (Total: 21)  [SIX, FOUR, FOUR, over-break,FOUR,HIGHSCORING_OVER]
+  Over  3:  4  6  4  4  6  4                +28 runs  (Total: 49)  [FOUR, SIX, FOUR, FOUR, SIX, over-break,FOUR,HIGHSCORING_OVER]
+  Over  4:  •  4  •  1  •  Wd  4            +10 runs  (Total: 59)  [FOUR,PARTNERSHIP, over-break,FOUR]
+  Over  5:  •  2  1  1  W  •                +4 runs  (Total: 63)  [WICKET]
+  Over  6:  1  •  •  •  •  4                +5 runs  (Total: 68)  [over-break,FOUR]
+  Over  7:  1  2  •  2  1  •                +6 runs  (Total: 74)
+  Over  8:  2  W  •  1  1  1                +5 runs  (Total: 79)  [WICKET]
+  Over  9:  1  •  1  4  •  •                +6 runs  (Total: 85)  [FOUR]
+  Over 10:  •  W  1  1  1  4                +7 runs  (Total: 92)  [WICKET, over-break,FOUR]
+  Over 11:  2  1  W  •  •  1                +4 runs  (Total: 96)  [WICKET,UDRS]
+  Over 12:  W  1  1  •  1  1                +4 runs  (Total: 100)  [WICKET]
+  Over 13:  •  •  1  1  1  W                +3 runs  (Total: 103)  [over-break,WICKET]
+  Over 14:  1  1  1  1  W  •                +4 runs  (Total: 107)  [WICKET]
+  Over 15:  •  4  6  •  •  1                +11 runs  (Total: 118)  [FOUR, SIX]
+  Over 16:  •  4  1  •  1  4                +10 runs  (Total: 128)  [FOUR, over-break,FOUR]
+  Over 17:  •  •  W  4  •  2                +6 runs  (Total: 134)  [WICKET, FOUR]
+  Over 18:  1  •  W  •  1  1                +3 runs  (Total: 137)  [WICKET]
+  Over 19:  1  1  L1  1  1  W               +5 runs  (Total: 142)  [over-break,WICKET]
+
+BATTERS
+------------------------------------------------------------
+  R Tripathi                  27 runs   15 balls  4s:0  6s:0  SR:180
+  Jofra Archer                 6 runs    5 balls  4s:0  6s:0  SR:120
+  Anureet Singh                3 runs    4 balls  4s:0  6s:0  SR:75
+  Jos Buttler                 39 runs   22 balls  4s:0  6s:0  SR:177.27
+  A Rahane                    11 runs   12 balls  4s:0  6s:0  SR:91.67
+  Samson                      12 runs   10 balls  4s:0  6s:0  SR:120
+  Stokes                      11 runs   13 balls  4s:0  6s:0  SR:84.62
+  Binny                        1 runs    4 balls  4s:0  6s:0  SR:25
+  Gowtham                      3 runs    5 balls  4s:0  6s:0  SR:60
+  Unadkat                     26 runs   18 balls  4s:0  6s:0  SR:144.44
+  Ish Sodhi                    1 runs    6 balls  4s:0  6s:0  SR:16.67
+
+BOWLERS
+------------------------------------------------------------
+  Shivam Mavi                4 ov   44 runs  1 wkts  Econ:11
+  Prasidh                    4 ov   35 runs  2 wkts  Econ:8.8
+  Narine                     4 ov   29 runs  1 wkts  Econ:7.2
+  A Russell                  3 ov   13 runs  2 wkts  Econ:4.3
+  Kuldeep Yadav              4 ov   20 runs  4 wkts  Econ:5
+
+============================================================
+  MATCH 20109 - INNINGS 2
+============================================================
+  Score: 145/4 in 18 overs  |  Run Rate: 8.06
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  6  4  6  4  1  •                +21 runs  (Total: 21)  [SIX, FOUR, SIX, FOUR, over-break,HIGHSCORING_OVER]
+  Over  2:  •  W  •  •  •  •                +0 runs  (Total: 21)  [WICKET, over-break,MAIDEN_OVER]
+  Over  3:  •  •  1  6  4  •                +11 runs  (Total: 32)  [SIX, FOUR]
+  Over  4:  1  •  1  2  W  4                +8 runs  (Total: 40)  [WICKET, over-break,FOUR]
+  Over  5:  •  •  •  •  4  2                +6 runs  (Total: 46)  [FOUR]
+  Over  6:  •  1  1  1  •  Wd  1            +5 runs  (Total: 51)
+  Over  7:  1  •  1  4  •  •                +6 runs  (Total: 57)  [FOUR]
+  Over  8:  1  1  1  6  1  1                +11 runs  (Total: 68)  [SIX]
+  Over  9:  1  W  1  1  •  2                +5 runs  (Total: 73)  [WICKET,UDRS]
+  Over 10:  1  1  •  1  4  •                +7 runs  (Total: 80)  [FOUR]
+  Over 11:  •  1  •  •  1  1                +3 runs  (Total: 83)
+  Over 12:  •  •  4  1  1  •                +6 runs  (Total: 89)  [FOUR]
+  Over 13:  1  1  2  1  1  4                +10 runs  (Total: 99)  [over-break,FOUR]
+  Over 14:  4  •  1  •  1  4                +10 runs  (Total: 109)  [FOUR, over-break,FOUR]
+  Over 15:  •  4  1  •  2  •                +7 runs  (Total: 116)  [FOUR]
+  Over 16:  1  W  L1  1  •  •               +3 runs  (Total: 119)  [WICKET, UDRS]
+  Over 17:  4  1  4  •  •  1                +10 runs  (Total: 129)  [FOUR, FOUR]
+  Over 18:  1  4  1  •  4  6                +16 runs  (Total: 145)  [FOUR, FOUR, over-break,SIX,HIGHSCORING_OVER]
+
+BATTERS
+------------------------------------------------------------
+  Sunil Narine                21 runs    7 balls  4s:2  6s:2  SR:300
+  Chris Lynn                  45 runs   42 balls  4s:5  6s:1  SR:107.14
+  Robin Uthappa                4 runs    6 balls  4s:0  6s:0  SR:66.67
+  Nitish Rana                 21 runs   17 balls  4s:2  6s:1  SR:123.53
+  Dinesh Karthik              41 runs   31 balls  4s:5  6s:1  SR:132.26
+  Andre Russell               11 runs    5 balls  4s:2  6s:0  SR:220
+
+BOWLERS
+------------------------------------------------------------
+  Krishnappa Gowtham         2 ov   32 runs  0 wkts  Econ:16
+  Ben Stokes                 4 ov   15 runs  3 wkts  Econ:3.8
+  Jofra Archer               4 ov   43 runs  0 wkts  Econ:10.8
+  Ish Sodhi                  4 ov   21 runs  1 wkts  Econ:5.2
+  Jaydev Unadkat             3 ov   23 runs  0 wkts  Econ:7.7
+  Anureet Singh              1 ov   10 runs  0 wkts  Econ:10
+
+  [Win probability not available for this match]

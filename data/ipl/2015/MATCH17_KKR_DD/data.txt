@@ -1,0 +1,65 @@
+SCORECARD
+============================================================
+
+============================================================
+  Delhi Daredevils  146/8 (20 ov)  RR: 7.3
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Yuvraj Singh                21   19   2   1  110.53  st Uthappa b Chawla
+  Jean-Paul Duminy             5    8   1   0    62.5  b Narine
+  Manoj Tiwary                32   28   5   0  114.29  c Y Pathan b M Morkel
+  Amit Mishra                  1    1   0   0     100  not out
+  Angelo Mathews              28   21   1   2  133.33  c Uthappa b Umesh
+  Kedar Jadhav                12    9   1   1  133.33  c Gambhir b Umesh
+  Mayank Agarwal               1    8   0   0    12.5  c Umesh b M Morkel
+  Nathan Coulter-Nile          2    2   0   0     100  run out (M Pandey/Uthappa)
+  Shreyas Iyer                31   24   3   1  129.17  b Chawla
+  Extras: 13 (b 0, lb 3, w 10, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Umesh Yadav                   4   0   18   2    4.5
+  Morne Morkel                  4   0   30   2    7.5
+  Sunil Narine                  4   0   38   1    9.5
+  Andre Russell                 3   0   21   0      7
+  Piyush Chawla                 4   0   27   2   6.75
+  Yusuf Pathan                  1   0    9   0      9
+
+  Fall of Wickets: 3-1 (Mayank Agarwal, 1.2 ov), 22-2 (Duminy, 4.3 ov), 58-3 (Shreyas Iyer, 8.4 ov), 95-4 (Manoj Tiwary, 13.4 ov), 103-5 (Yuvraj, 14.6 ov), 123-6 (Kedar Jadhav, 17.6 ov), 145-7 (Coulter-Nile, 19.2 ov), 146-8 (Mathews, 19.6 ov)
+
+============================================================
+  Kolkata Knight Riders  147/4 (18.1 ov)  RR: 8.12
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Gautam Gambhir              60   49   8   0  122.45  b Tahir
+  Robin Uthappa               13   13   2   0     100  c Duminy b D Joseph
+  Ryan ten Doeschate           3    2   0   0     150  not out
+  Yusuf Pathan                40   26   6   1  153.85  not out
+  Manish Pandey                0    3   0   0       0  c Tahir b D Joseph
+  Suryakumar Yadav            24   16   2   1     150  c K Jadhav b Coulter-Nile
+  Extras: 7 (b 0, lb 4, w 3, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Domnic Muthuswami             3   0   18   2      6
+  Nathan Coulter-Nile           4   0   30   1    7.5
+  Angelo Mathews                3   0   33   0     11
+  Imran Tahir                   4   0   30   1    7.5
+  Jean-Paul Duminy              1   0   10   0     10
+  Amit Mishra                 3.1   0   22   0    7.1
+
+  Fall of Wickets: 31-1 (Uthappa, 4.1 ov), 31-2 (Manish Pandey, 4.4 ov), 79-3 (Suryakumar Yadav, 9.6 ov), 144-4 (Gambhir, 17.5 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

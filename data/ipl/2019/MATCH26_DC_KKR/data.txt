@@ -1,0 +1,155 @@
+SCORECARD
+============================================================
+
+============================================================
+  Kolkata Knight Riders  178/7 (20 ov)  RR: 8.9
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  J Denly                      0    1   0   0       0  b Ishant
+  Shubman Gill                65   39   7   2  166.67  c Axar b Keemo Paul
+  Uthappa                     28   30   4   1   93.33  c Pant b Rabada
+  Nitish Rana                 11   12   0   1   91.67  b Chris Morris
+  A Russell                   45   21   3   4  214.29  c Rabada b Chris Morris
+  Karthik                      2    3   0   0   66.67  c Dhawan b Rabada
+  C Brathwaite                 6    7   0   0   85.71  c Rahul Tewatia b Keemo Paul
+  Chawla                      14    6   2   0  233.33  not out
+  Kuldeep Yadav                2    2   0   0     100  not out
+  Extras: 5 (b 0, lb 1, w 3, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Ishant                        4   1   21   1    5.2
+  Chris Morris                  4   0   38   2    9.5
+  Rabada                        4   0   42   2   10.5
+  Axar                          4   0   30   0    7.5
+  Keemo Paul                    4   0   46   2   11.5
+
+  Fall of Wickets: 0-1 (J Denly, 0.1 ov), 63-2 (Uthappa, 8.4 ov), 93-3 (Nitish Rana, 12.4 ov), 115-4 (Shubman Gill, 14.2 ov), 122-5 (Karthik, 15.1 ov), 161-6 (A Russell, 18.2 ov), 171-7 (C Brathwaite, 19.2 ov)
+
+============================================================
+  Delhi Capitals  180/3 (18.5 ov)  RR: 9.56
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Prithvi Shaw                14    7   0   2     200  c Karthik b Prasidh
+  Shikhar Dhawan              97   63  11   2  153.97  not out
+  Shreyas Iyer                 6    6   1   0     100  c Karthik b A Russell
+  Rishabh Pant                46   31   4   2  148.39  c Kuldeep Yadav b Nitish Rana
+  Colin Ingram                14    6   1   1  233.33  not out
+  Extras: 3 (b 0, lb 1, w 2, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Prasidh Krishna               3   0   25   1    8.3
+  Lockie Ferguson               3   0   37   0   12.3
+  Andre Russell                 3   0   29   1    9.7
+  Kuldeep Yadav                 4   0   28   0      7
+  Piyush Chawla               2.5   0   35   0   12.4
+  Carlos Brathwaite             1   0   13   0     13
+  Nitish Rana                   2   0   12   1      6
+
+  Fall of Wickets: 32-1 (Prithvi Shaw, 2.6 ov), 57-2 (Shreyas Iyer, 5.4 ov), 162-3 (Rishabh Pant, 17.1 ov)
+
+============================================================
+  MATCH 22461 - INNINGS 1
+============================================================
+  Score: 178/7 in 20 overs  |  Run Rate: 8.9
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  W  •  •  •  •  •                +0 runs  (Total: 0)  [WICKET, over-break,MAIDEN_OVER]
+  Over  2:  4  1  4  •  1  1                +11 runs  (Total: 11)  [FOUR, FOUR]
+  Over  3:  •  •  1  •  L1  4               +6 runs  (Total: 17)  [RUNOUT_MISS, over-break,FOUR]
+  Over  4:  •  4  •  4  •  4                +12 runs  (Total: 29)  [FOUR, FOUR, over-break,FOUR]
+  Over  5:  4  •  4  1  1  1                +11 runs  (Total: 40)  [FOUR, FOUR]
+  Over  6:  •  •  1  •  •  •                +1 runs  (Total: 41)
+  Over  7:  2  6  N1  1  4  1  1            +17 runs  (Total: 58)  [SIX,PARTNERSHIP, FOUR, over-break,HIGHSCORING_OVER]
+  Over  8:  •  1  1  1  1  •                +4 runs  (Total: 62)
+  Over  9:  1  •  •  W  1  •                +2 runs  (Total: 64)  [WICKET]
+  Over 10:  1  2  1  1  2  1                +8 runs  (Total: 72)
+  Over 11:  •  1  Wd  1  1  •  •  Wd        +5 runs  (Total: 77)
+  Over 12:  1  1  6  1  •  •                +9 runs  (Total: 86)  [SIX]
+  Over 13:  1  •  6  W  •  Wd  1            +9 runs  (Total: 95)  [FIFTY, SIX, WICKET]
+  Over 14:  •  4  1  6  4  1                +16 runs  (Total: 111)  [FOUR, SIX, FOUR, over-break,HIGHSCORING_OVER]
+  Over 15:  4  W  1  4  1  1                +11 runs  (Total: 122)  [FOUR, WICKET, FOUR]
+  Over 16:  W  4  •  6  1  1                +12 runs  (Total: 134)  [WICKET, FOUR, SIX]
+  Over 17:  1  1  1  •  6  1                +10 runs  (Total: 144)  [SIX]
+  Over 18:  6  2  6  1  1  •                +16 runs  (Total: 160)  [SIX, SIX, over-break,HIGHSCORING_OVER]
+  Over 19:  1  W  4  1  1  1                +8 runs  (Total: 168)  [WICKET, FOUR]
+  Over 20:  3  W  4  1  •  2                +10 runs  (Total: 178)  [DROPPED, WICKET, FOUR]
+
+BATTERS
+------------------------------------------------------------
+  J Denly                      0 runs    1 balls  4s:0  6s:0  SR:0
+  Shubman Gill                65 runs   39 balls  4s:0  6s:0  SR:166.67
+  Uthappa                     28 runs   30 balls  4s:0  6s:0  SR:93.33
+  Nitish Rana                 11 runs   12 balls  4s:0  6s:0  SR:91.67
+  A Russell                   45 runs   21 balls  4s:0  6s:0  SR:214.29
+  Karthik                      2 runs    3 balls  4s:0  6s:0  SR:66.67
+  C Brathwaite                 6 runs    7 balls  4s:0  6s:0  SR:85.71
+  Chawla                      14 runs    6 balls  4s:0  6s:0  SR:233.33
+  Kuldeep Yadav                2 runs    2 balls  4s:0  6s:0  SR:100
+
+BOWLERS
+------------------------------------------------------------
+  Ishant                     4 ov   21 runs  1 wkts  Econ:5.2
+  Chris Morris               4 ov   38 runs  2 wkts  Econ:9.5
+  Rabada                     4 ov   42 runs  2 wkts  Econ:10.5
+  Axar                       4 ov   30 runs  0 wkts  Econ:7.5
+  Keemo Paul                 4 ov   46 runs  2 wkts  Econ:11.5
+
+============================================================
+  MATCH 22461 - INNINGS 2
+============================================================
+  Score: 180/3 in 18.5 overs  |  Run Rate: 9.56
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  1  •  •  •  •  •                +1 runs  (Total: 1)
+  Over  2:  1  1  •  6  •  6                +14 runs  (Total: 15)  [SIX, over-break,SIX,HIGHSCORING_OVER]
+  Over  3:  6  4  •  6  1  W                +17 runs  (Total: 32)  [SIX, FOUR, UDRS, SIX, over-break,WICKET,HIGHSCORING_OVER]
+  Over  4:  4  4  •  4  •  1                +13 runs  (Total: 45)  [FOUR, FOUR,DROPPED, FOUR]
+  Over  5:  1  •  •  4  1  4                +10 runs  (Total: 55)  [FOUR, over-break,FOUR]
+  Over  6:  1  •  1  W  •  •                +2 runs  (Total: 57)  [WICKET]
+  Over  7:  2  1  •  1  1  1                +6 runs  (Total: 63)
+  Over  8:  1  2  1  1  1  4                +10 runs  (Total: 73)  [over-break,FOUR]
+  Over  9:  1  •  •  •  1  1                +3 runs  (Total: 76)
+  Over 10:  1  1  2  4  4  1                +13 runs  (Total: 89)  [FIFTY, FOUR, FOUR]
+  Over 11:  1  6  Wd  1  •  •  1            +10 runs  (Total: 99)  [SIX]
+  Over 12:  1  1  2  1  1  1                +7 runs  (Total: 106)
+  Over 13:  4  2  •  4  Wd  1  1            +13 runs  (Total: 119)  [FOUR,PARTNERSHIP, FOUR]
+  Over 14:  4  2  •  1  1  4                +12 runs  (Total: 131)  [FOUR, over-break,FOUR]
+  Over 15:  •  4  1  L1  •  2               +8 runs  (Total: 139)  [FOUR]
+  Over 16:  1  1  1  4  1  2                +10 runs  (Total: 149)  [FOUR]
+  Over 17:  1  4  6  1  •  2                +14 runs  (Total: 163)  [FOUR, SIX,PARTNERSHIP, over-break,HIGHSCORING_OVER]
+  Over 18:  W  1  •  1  1  2                +5 runs  (Total: 168)  [WICKET]
+  Over 19:  1  4  1  1  6                   +13 runs  (Total: 181)  [FOUR, SIX]
+
+BATTERS
+------------------------------------------------------------
+  Prithvi Shaw                14 runs    7 balls  4s:0  6s:2  SR:200
+  Shikhar Dhawan              97 runs   63 balls  4s:11  6s:2  SR:153.97
+  Shreyas Iyer                 6 runs    6 balls  4s:1  6s:0  SR:100
+  Rishabh Pant                46 runs   31 balls  4s:4  6s:2  SR:148.39
+  Colin Ingram                14 runs    6 balls  4s:1  6s:1  SR:233.33
+
+BOWLERS
+------------------------------------------------------------
+  Prasidh Krishna            3 ov   25 runs  1 wkts  Econ:8.3
+  Lockie Ferguson            3 ov   37 runs  0 wkts  Econ:12.3
+  Andre Russell              3 ov   29 runs  1 wkts  Econ:9.7
+  Kuldeep Yadav              4 ov   28 runs  0 wkts  Econ:7
+  Piyush Chawla              2.5 ov   35 runs  0 wkts  Econ:12.4
+  Carlos Brathwaite          1 ov   13 runs  0 wkts  Econ:13
+  Nitish Rana                2 ov   12 runs  1 wkts  Econ:6
+
+  [Win probability not available for this match]

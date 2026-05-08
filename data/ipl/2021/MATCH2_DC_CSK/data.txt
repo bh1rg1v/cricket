@@ -1,0 +1,152 @@
+SCORECARD
+============================================================
+
+============================================================
+  Chennai Super Kings  188/7 (20 ov)  RR: 9.4
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Ruturaj Gaikwad              5    8   1   0    62.5  c Dhawan b Chris Woakes
+  du Plessis                   0    3   0   0       0  lbw b Avesh Khan
+  Moeen                       36   24   4   2     150  c Dhawan b Ashwin
+  Raina                       54   36   3   4     150  run out (Chris Woakes/Pant)
+  Rayudu                      23   16   1   2  143.75  c Dhawan b Tom Curran
+  Ravindra Jadeja             26   17   3   0  152.94  not out
+  Dhoni                        0    2   0   0       0  b Avesh Khan
+  Sam Curran                  34   15   4   2  226.67  b Chris Woakes
+  Extras: 10 (b 0, lb 7, w 2, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Chris Woakes                  3   0   18   2      6
+  Avesh Khan                    4   0   23   2    5.8
+  Ashwin                        4   0   47   1   11.8
+  Tom Curran                    4   0   40   1     10
+  A Mishra                      3   0   27   0      9
+  Stoinis                       2   0   26   0     13
+
+  Fall of Wickets: 7-1 (du Plessis, 1.4 ov), 7-2 (Ruturaj Gaikwad, 2.1 ov), 60-3 (Moeen, 8.3 ov), 123-4 (Rayudu, 13.5 ov), 137-5 (Raina, 15.1 ov), 137-6 (Dhoni, 15.3 ov), 188-7 (Sam Curran, 19.6 ov)
+
+============================================================
+  Delhi Capitals  190/3 (18.4 ov)  RR: 10.18
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Prithvi Shaw                72   38   9   3  189.47  c Moeen b DJ Bravo
+  Shikhar Dhawan              85   54  10   2  157.41  lbw b Thakur
+  Rishabh Pant                15   12   2   0     125  not out
+  Marcus Stoinis              14    9   3   0  155.56  c Sam Curran b Thakur
+  Extras: 4 (b 0, lb 0, w 3, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Deepak Chahar                 4   0   36   0      9
+  Sam Curran                    2   0   24   0     12
+  Shardul Thakur              3.4   0   53   2   14.5
+  Ravindra Jadeja               2   0   16   0      8
+  Moeen Ali                     3   0   33   0     11
+  Dwayne Bravo                  4   0   28   1      7
+
+  Fall of Wickets: 138-1 (Prithvi Shaw, 13.3 ov), 167-2 (Shikhar Dhawan, 16.3 ov), 186-3 (Marcus Stoinis, 18.3 ov)
+
+============================================================
+  MATCH 35617 - INNINGS 1
+============================================================
+  Score: 188/7 in 20 overs  |  Run Rate: 9.4
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  •  4  L1  •  •               +5 runs  (Total: 5)  [FOUR]
+  Over  2:  •  Wd  •  1  W  •  •            +2 runs  (Total: 7)  [WICKET]
+  Over  3:  W  •  •  •  •  4                +4 runs  (Total: 11)  [WICKET, over-break,FOUR]
+  Over  4:  •  •  •  4  4  1                +9 runs  (Total: 20)  [FOUR, FOUR]
+  Over  5:  1  •  4  4  L1  •               +10 runs  (Total: 30)  [FOUR, FOUR]
+  Over  6:  1  1  •  •  1  •                +3 runs  (Total: 33)
+  Over  7:  1  4  4  •  1  •                +10 runs  (Total: 43)  [FOUR, FOUR]
+  Over  8:  2  •  •  1  1  1                +5 runs  (Total: 48)
+  Over  9:  6  6  W  •  •  6                +18 runs  (Total: 66)  [TEAM_FIFTY,SIX, SIX,PARTNERSHIP, WICKET, over-break,SIX,HIGHSCORING_OVER]
+  Over 10:  1  1  •  1  •  2                +5 runs  (Total: 71)
+  Over 11:  6  1  1  •  1  1                +10 runs  (Total: 81)  [SIX]
+  Over 12:  6  2  6  1  1  1                +17 runs  (Total: 98)  [SIX, SIX, over-break,HIGHSCORING_OVER]
+  Over 13:  1  L4  N6  •  1  •  6           +19 runs  (Total: 117)  [FOUR,PARTNERSHIP, TEAM_HUNDRED,SIX, over-break,FIFTY,SIX,HIGHSCORING_OVER]
+  Over 14:  •  1  1  4  W  1                +7 runs  (Total: 124)  [FOUR, WICKET]
+  Over 15:  1  4  4  L1  1  1               +12 runs  (Total: 136)  [FOUR, FOUR]
+  Over 16:  W1  •  W  4  1  1               +7 runs  (Total: 143)  [WICKET, WICKET, FOUR]
+  Over 17:  1  1  •  1  •  4                +7 runs  (Total: 150)  [over-break,TEAM_HUNDRED,FOUR]
+  Over 18:  1  •  1  1  1  1                +5 runs  (Total: 155)
+  Over 19:  4  1  6  Wd  6  4  1            +23 runs  (Total: 178)  [FOUR, SIX, SIX, FOUR, over-break,HIGHSCORING_OVER]
+  Over 20:  4  1  2  2  1  W                +10 runs  (Total: 188)  [FOUR, PARTNERSHIP, over-break,WICKET]
+
+BATTERS
+------------------------------------------------------------
+  Ruturaj Gaikwad              5 runs    8 balls  4s:0  6s:0  SR:62.5
+  du Plessis                   0 runs    3 balls  4s:0  6s:0  SR:0
+  Moeen                       36 runs   24 balls  4s:0  6s:0  SR:150
+  Raina                       54 runs   36 balls  4s:0  6s:0  SR:150
+  Rayudu                      23 runs   16 balls  4s:0  6s:0  SR:143.75
+  Ravindra Jadeja             26 runs   17 balls  4s:0  6s:0  SR:152.94
+  Dhoni                        0 runs    2 balls  4s:0  6s:0  SR:0
+  Sam Curran                  34 runs   15 balls  4s:0  6s:0  SR:226.67
+
+BOWLERS
+------------------------------------------------------------
+  Chris Woakes               3 ov   18 runs  2 wkts  Econ:6
+  Avesh Khan                 4 ov   23 runs  2 wkts  Econ:5.8
+  Ashwin                     4 ov   47 runs  1 wkts  Econ:11.8
+  Tom Curran                 4 ov   40 runs  1 wkts  Econ:10
+  A Mishra                   3 ov   27 runs  0 wkts  Econ:9
+  Stoinis                    2 ov   26 runs  0 wkts  Econ:13
+
+============================================================
+  MATCH 35617 - INNINGS 2
+============================================================
+  Score: 190/3 in 18.4 overs  |  Run Rate: 10.18
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  4  1  4  •  •                +9 runs  (Total: 9)  [FOUR, FOUR]
+  Over  2:  1  •  •  4  1  1                +7 runs  (Total: 16)  [FOUR]
+  Over  3:  •  6  •  •  1  1                +8 runs  (Total: 24)  [SIX]
+  Over  4:  1  1  4  6  1  4                +17 runs  (Total: 41)  [FOUR, SIX, over-break,FOUR,HIGHSCORING_OVER]
+  Over  5:  •  4  1  4  4  4                +17 runs  (Total: 58)  [FOUR, TEAM_FIFTY,PARTNERSHIP,FOUR, FOUR, over-break,FOUR,HIGHSCORING_OVER]
+  Over  6:  1  4  •  1  •  1                +7 runs  (Total: 65)  [FOUR]
+  Over  7:  1  1  •  1  1  1                +5 runs  (Total: 70)
+  Over  8:  1  1  •  1  1  1                +5 runs  (Total: 75)  [DROPPED]
+  Over  9:  1  1  2  1  6  •                +11 runs  (Total: 86)  [SIX]
+  Over 10:  6  1  1  •  1  4                +13 runs  (Total: 99)  [SIX, DROPPED, over-break,FIFTY,FOUR]
+  Over 11:  2  1  4  1  2  4                +14 runs  (Total: 113)  [TEAM_HUNDRED,PARTNERSHIP, FIFTY, FOUR, over-break,FOUR,HIGHSCORING_OVER]
+  Over 12:  1  4  1  •  1  1                +8 runs  (Total: 121)  [FOUR]
+  Over 13:  1  N  1  1  6  4  1             +15 runs  (Total: 136)  [SIX, FOUR, over-break,HIGHSCORING_OVER]
+  Over 14:  1  1  W  1  •  •                +3 runs  (Total: 139)  [WICKET]
+  Over 15:  4  1  4  1  1  1                +12 runs  (Total: 151)  [FOUR, FOUR, TEAM_HUNDRED]
+  Over 16:  •  1  4  •  1  •  Wd            +7 runs  (Total: 158)  [FOUR]
+  Over 17:  4  4  W  Wd  •  4  •  Wd        +14 runs  (Total: 172)  [FOUR, FOUR, WICKET, FOUR, over-break,HIGHSCORING_OVER]
+  Over 18:  1  1  2  1  4  1                +10 runs  (Total: 182)  [FOUR]
+  Over 19:  4  •  W  4                      +8 runs  (Total: 190)  [FOUR, WICKET, FOUR]
+
+BATTERS
+------------------------------------------------------------
+  Prithvi Shaw                72 runs   38 balls  4s:9  6s:3  SR:189.47
+  Shikhar Dhawan              85 runs   54 balls  4s:10  6s:2  SR:157.41
+  Rishabh Pant                15 runs   12 balls  4s:2  6s:0  SR:125
+  Marcus Stoinis              14 runs    9 balls  4s:3  6s:0  SR:155.56
+  Shimron Hetmyer              0 runs    0 balls  4s:0  6s:0  SR:0
+
+BOWLERS
+------------------------------------------------------------
+  Deepak Chahar              4 ov   36 runs  0 wkts  Econ:9
+  Sam Curran                 2 ov   24 runs  0 wkts  Econ:12
+  Shardul Thakur             3.4 ov   53 runs  2 wkts  Econ:14.5
+  Ravindra Jadeja            2 ov   16 runs  0 wkts  Econ:8
+  Moeen Ali                  3 ov   33 runs  0 wkts  Econ:11
+  Dwayne Bravo               4 ov   28 runs  1 wkts  Econ:7
+
+  [Win probability not available for this match]

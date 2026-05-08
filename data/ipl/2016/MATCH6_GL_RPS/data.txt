@@ -1,0 +1,62 @@
+SCORECARD
+============================================================
+
+============================================================
+  Rising Pune Supergiants  163/5 (20 ov)  RR: 8.15
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  MS Dhoni                    22   10   2   1     220  not out
+  Kevin Pietersen             37   31   2   1  119.35  b DJ Bravo
+  Ajinkya Rahane              21   17   4   0  123.53  lbw b Tambe
+  Rajat Bhatia                 0    2   0   0       0  not out
+  Steven Smith                 5    6   0   0   83.33  c Faulkner b R Jadeja
+  Mitchell Marsh               7   11   0   0   63.64  b R Jadeja
+  Faf du Plessis              69   43   5   4  160.47  st D Karthik b Tambe
+  Extras: 2 (b 1, lb 1, w 0, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Praveen Kumar                 2   0   12   0      6
+  Shadab Jakati                 4   0   40   0     10
+  Pravin Tambe                  4   0   33   2   8.25
+  Dwayne Bravo                  4   0   43   1  10.75
+  Ravindra Jadeja               4   0   18   2    4.5
+  James Faulkner                2   0   15   0    7.5
+
+  Fall of Wickets: 27-1 (Ajinkya Rahane, 3.5 ov), 113-2 (Pietersen, 13.6 ov), 132-3 (du Plessis, 15.4 ov), 134-4 (Steven Smith, 16.2 ov), 143-5 (Mitchell Marsh, 18.4 ov)
+
+============================================================
+  Gujarat Lions  164/3 (18 ov)  RR: 9.11
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Brendon McCullum            49   31   3   3  158.06  c du Plessis b Ishant
+  Dwayne Bravo                22   10   3   1     220  not out
+  Suresh Raina                24   24   1   0     100  st Dhoni b M Ashwin
+  Ravindra Jadeja              4    8   0   0      50  not out
+  Aaron Finch                 50   36   7   2  138.89  c Ishant b M Ashwin
+  Extras: 15 (b 2, lb 5, w 7, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  RP Singh                      2   0   21   0   10.5
+  Ishant Sharma                 4   0   39   1   9.75
+  Ravichandran Ashwin           4   0   26   0    6.5
+  Murugan Ashwin                4   0   31   2   7.75
+  Rajat Bhatia                  3   0   30   0     10
+  Mitchell Marsh                1   0   10   0     10
+
+  Fall of Wickets: 85-1 (Aaron Finch, 8.3 ov), 120-2 (Brendon McCullum, 13.1 ov), 147-3 (Raina, 16.1 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

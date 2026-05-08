@@ -1,0 +1,162 @@
+SCORECARD
+============================================================
+
+============================================================
+  Mumbai Indians  170/5 (20 ov)  RR: 8.5
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  de Kock                      4    7   1   0   57.14  c Kedar Jadhav b D Chahar
+  Rohit                       13   18   1   0   72.22  c Dhoni b Ravindra Jadeja
+  Suryakumar Yadav            59   43   8   1  137.21  c Ravindra Jadeja b DJ Bravo
+  Yuvraj                       4    6   0   0   66.67  c Rayudu b Tahir
+  Krunal Pandya               42   32   5   1  131.25  c Ravindra Jadeja b Mohit Sharma
+  Hardik Pandya               25    8   1   3   312.5  not out
+  Pollard                     17    7   0   2  242.86  not out
+  Extras: 6 (b 0, lb 1, w 4, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  D Chahar                      3   0   21   1      7
+  SN Thakur                     4   0   37   0    9.2
+  Mohit Sharma                  3   0   27   1      9
+  Tahir                         4   0   25   1    6.2
+  Ravindra Jadeja               2   0   10   1      5
+  DJ Bravo                      4   0   49   1   12.2
+
+  Fall of Wickets: 8-1 (de Kock, 2.3 ov), 45-2 (Rohit, 7.1 ov), 50-3 (Yuvraj, 8.3 ov), 112-4 (Krunal Pandya, 16.4 ov), 125-5 (Suryakumar Yadav, 17.6 ov)
+
+============================================================
+  Chennai Super Kings  133/8 (20 ov)  RR: 6.65
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Shane Watson                 5    6   1   0   83.33  c Pollard b Malinga
+  Ambati Rayudu                0    1   0   0       0  c de Kock b Behrendorff
+  Suresh Raina                16   15   2   1  106.67  c Pollard b Behrendorff
+  Kedar Jadhav                58   54   8   1  107.41  c de Kock b Malinga
+  MS Dhoni                    12   21   0   0   57.14  c Suryakumar Yadav b Hardik Pandya
+  Ravindra Jadeja              1    2   0   0      50  c de Kock b Hardik Pandya
+  Dwayne Bravo                 8    9   0   1   88.89  c de Kock b Malinga
+  Deepak Chahar                7    7   1   0     100  c Bumrah b Hardik Pandya
+  Shardul Thakur              12    5   1   1     240  not out
+  Mohit Sharma                 0    2   0   0       0  not out
+  Extras: 14 (b 0, lb 7, w 5, nb 2)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Jason Behrendorff             4   0   22   2    5.5
+  Lasith Malinga                4   0   34   3    8.5
+  Hardik Pandya                 4   0   20   3      5
+  Jasprit  Bumrah               4   0   27   0    6.8
+  Rahul Chahar                  2   0   11   0    5.5
+  Krunal Pandya                 2   0   12   0      6
+
+  Fall of Wickets: 1-1 (Ambati Rayudu, 0.4 ov), 6-2 (Shane Watson, 1.2 ov), 33-3 (Suresh Raina, 4.6 ov), 87-4 (MS Dhoni, 14.1 ov), 89-5 (Ravindra Jadeja, 14.4 ov), 108-6 (Kedar Jadhav, 17.1 ov), 115-7 (Dwayne Bravo, 17.5 ov), 122-8 (Deepak Chahar, 19.1 ov)
+
+============================================================
+  MATCH 22410 - INNINGS 1
+============================================================
+  Score: 170/5 in 20 overs  |  Run Rate: 8.5
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  •  •  •  L1  1               +2 runs  (Total: 2)
+  Over  2:  •  •  •  •  •  1                +1 runs  (Total: 3)
+  Over  3:  1  4  W  •  •  1                +6 runs  (Total: 9)  [FOUR, WICKET]
+  Over  4:  4  4  1  4  1  Wd  1            +16 runs  (Total: 25)  [FOUR, FOUR, FOUR, over-break,HIGHSCORING_OVER]
+  Over  5:  •  4  4  4  1  1                +14 runs  (Total: 39)  [FOUR, FOUR, FOUR, over-break,HIGHSCORING_OVER]
+  Over  6:  •  •  1  •  •  •                +1 runs  (Total: 40)
+  Over  7:  1  1  1  1  1  •                +5 runs  (Total: 45)
+  Over  8:  W  1  •  1  •  1                +3 runs  (Total: 48)  [WICKET]
+  Over  9:  •  2  W  •  •  •                +2 runs  (Total: 50)  [WICKET]
+  Over 10:  1  •  •  •  4  2                +7 runs  (Total: 57)  [FOUR]
+  Over 11:  •  4  •  1  1  1                +7 runs  (Total: 64)  [FOUR]
+  Over 12:  1  •  •  4  4  1                +10 runs  (Total: 74)  [FOUR, FOUR]
+  Over 13:  1  •  1  •  1  1                +4 runs  (Total: 78)  [DROPPED]
+  Over 14:  1  •  1  1  •  1                +4 runs  (Total: 82)  [UDRS]
+  Over 15:  2  6  1  1  •  1                +11 runs  (Total: 93)  [SIX]
+  Over 16:  1  •  1  2  1  1                +10 runs  (Total: 103)  [FOUR, PARTNERSHIP]
+  Over 17:  1  4  4  W  6  1                +16 runs  (Total: 119)  [FOUR, FOUR, WICKET, MILESTONE,FIFTY,SIX, over-break,HIGHSCORING_OVER]
+  Over 18:  1  •  1  •  4  W                +6 runs  (Total: 125)  [FOUR, over-break,WICKET]
+  Over 19:  6  1  •  Wd  •  6  Wd  1        +16 runs  (Total: 141)  [SIX, RUNOUT_MISS, SIX, over-break,HIGHSCORING_OVER]
+  Over 20:  1  1  Wd  3  N6  6  4  6        +29 runs  (Total: 170)  [SIX, SIX, FOUR, over-break,SIX,HIGHSCORING_OVER]
+
+BATTERS
+------------------------------------------------------------
+  de Kock                      4 runs    7 balls  4s:0  6s:0  SR:57.14
+  Rohit                       13 runs   18 balls  4s:0  6s:0  SR:72.22
+  Suryakumar Yadav            59 runs   43 balls  4s:0  6s:0  SR:137.21
+  Yuvraj                       4 runs    6 balls  4s:0  6s:0  SR:66.67
+  Krunal Pandya               42 runs   32 balls  4s:0  6s:0  SR:131.25
+  Hardik Pandya               25 runs    8 balls  4s:0  6s:0  SR:312.5
+  Pollard                     17 runs    7 balls  4s:0  6s:0  SR:242.86
+
+BOWLERS
+------------------------------------------------------------
+  D Chahar                   3 ov   21 runs  1 wkts  Econ:7
+  SN Thakur                  4 ov   37 runs  0 wkts  Econ:9.2
+  Mohit Sharma               3 ov   27 runs  1 wkts  Econ:9
+  Tahir                      4 ov   25 runs  1 wkts  Econ:6.2
+  Ravindra Jadeja            2 ov   10 runs  1 wkts  Econ:5
+  DJ Bravo                   4 ov   49 runs  1 wkts  Econ:12.2
+
+============================================================
+  MATCH 22410 - INNINGS 2
+============================================================
+  Score: 133/8 in 20 overs  |  Run Rate: 6.65
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  •  1  W  •  •                +1 runs  (Total: 1)  [WICKET]
+  Over  2:  4  N  W  •  •  •  •             +5 runs  (Total: 6)  [FOUR, WICKET]
+  Over  3:  •  6  Wd  •  1  •  •            +8 runs  (Total: 14)  [SIX]
+  Over  4:  •  •  1  6  •  4                +11 runs  (Total: 25)  [SIX, over-break,FOUR]
+  Over  5:  •  •  4  4  •  W                +8 runs  (Total: 33)  [FOUR, FOUR, over-break,WICKET]
+  Over  6:  •  •  •  1  •  •                +1 runs  (Total: 34)
+  Over  7:  •  4  4  N2  4  •  •            +15 runs  (Total: 49)  [FOUR, FOUR, FOUR, over-break,HIGHSCORING_OVER]
+  Over  8:  •  1  •  Wd  1  1  4            +8 runs  (Total: 57)  [over-break,FOUR]
+  Over  9:  2  1  1  •  L1  1               +6 runs  (Total: 63)
+  Over 10:  •  1  1  •  1  •                +3 runs  (Total: 66)
+  Over 11:  2  1  •  •  1  1                +5 runs  (Total: 71)
+  Over 12:  •  •  L1  2  Wd  1  1           +6 runs  (Total: 77)
+  Over 13:  •  1  •  1  1  •                +3 runs  (Total: 80)
+  Over 14:  •  4  Wd  •  •  1  1            +7 runs  (Total: 87)  [FOUR,PARTNERSHIP]
+  Over 15:  W  1  1  W  •  L4  Wd           +7 runs  (Total: 94)  [WICKET, WICKET, over-break,FOUR]
+  Over 16:  4  4  1  1  1  •                +11 runs  (Total: 105)  [MILESTONE,FIFTY,FOUR, FOUR]
+  Over 17:  •  •  1  •  1  L1               +3 runs  (Total: 108)
+  Over 18:  W  1  •  6  W  •                +7 runs  (Total: 115)  [WICKET, SIX, WICKET]
+  Over 19:  1  1  4  •  •  1                +7 runs  (Total: 122)  [FOUR]
+  Over 20:  W  6  4  1  •  •                +11 runs  (Total: 133)  [WICKET, SIX, FOUR]
+
+BATTERS
+------------------------------------------------------------
+  Shane Watson                 5 runs    6 balls  4s:1  6s:0  SR:83.33
+  Mohit Sharma                 0 runs    2 balls  4s:0  6s:0  SR:0
+  Ambati Rayudu                0 runs    1 balls  4s:0  6s:0  SR:0
+  Suresh Raina                16 runs   15 balls  4s:2  6s:1  SR:106.67
+  Kedar Jadhav                58 runs   54 balls  4s:8  6s:1  SR:107.41
+  MS Dhoni                    12 runs   21 balls  4s:0  6s:0  SR:57.14
+  Ravindra Jadeja              1 runs    2 balls  4s:0  6s:0  SR:50
+  Dwayne Bravo                 8 runs    9 balls  4s:0  6s:1  SR:88.89
+  Deepak Chahar                7 runs    7 balls  4s:1  6s:0  SR:100
+  Shardul Thakur              12 runs    5 balls  4s:1  6s:1  SR:240
+
+BOWLERS
+------------------------------------------------------------
+  Jason Behrendorff          4 ov   22 runs  2 wkts  Econ:5.5
+  Lasith Malinga             4 ov   34 runs  3 wkts  Econ:8.5
+  Hardik Pandya              4 ov   20 runs  3 wkts  Econ:5
+  Jasprit  Bumrah            4 ov   27 runs  0 wkts  Econ:6.8
+  Rahul Chahar               2 ov   11 runs  0 wkts  Econ:5.5
+  Krunal Pandya              2 ov   12 runs  0 wkts  Econ:6
+
+  [Win probability not available for this match]

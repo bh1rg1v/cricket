@@ -1,0 +1,68 @@
+SCORECARD
+============================================================
+
+============================================================
+  Kolkata Knight Riders  119/9 (20 ov)  RR: 5.95
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Lakshmipathy Balaji          9    7   1   0  128.57  not out
+  Gautam Gambhir              25   19   5   0  131.58  c M Hussey b C Morris
+  Eoin Morgan                  2    7   0   0   28.57  c R Jadeja b DJ Bravo
+  Manoj Tiwary                13   18   0   0   72.22  c Mohit Sharma b R Ashwin
+  Yusuf Pathan                25   22   4   0  113.64  run out (DJ Bravo/M Dhoni)
+  Rajat Bhatia                 1   10   0   0      10  c & b R Jadeja
+  Laxmi Shukla                 1    3   0   0   33.33  lbw b R Jadeja
+  Debabrata Das               19   15   0   2  126.67  lbw b R Ashwin
+  Sunil Narine                13    6   0   2  216.67  c Mohit Sharma b R Jadeja
+  Sachithra Senanayake         7   13   0   0   53.85  not out
+  Extras: 4 (b 0, lb 3, w 1, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Albie Morkel                  4   0   36   0      9
+  Mohit Sharma                  3   0   13   0   4.33
+  Chris Morris                  3   0   12   1      4
+  Dwayne Bravo                  2   0   14   1      7
+  Ravichandran Ashwin           4   1   21   2   5.25
+  Ravindra Jadeja               4   0   20   3      5
+
+  Fall of Wickets: 46-1 (Gambhir, 5.5 ov), 47-2 (Kallis, 6.1 ov), 50-3 (Morgan, 7.4 ov), 55-4 (Yusuf Pathan, 8 ov), 82-5 (Deba Das, 12.4 ov), 89-6 (Manoj Tiwary, 14.1 ov), 90-7 (R Bhatia, 15.3 ov), 91-8 (L Shukla, 15.5 ov), 107-9 (Sunil Narine, 17.3 ov)
+
+============================================================
+  Chennai Super Kings  124/6 (19.1 ov)  RR: 6.49
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Dwayne Bravo                 7    4   1   0     175  not out
+  MS Dhoni                     9    7   0   0  128.57  run out (E Morgan)
+  Suresh Raina                 7    8   1   0    87.5  c S Narine b Y Pathan
+  S Badrinath                  6   13   0   0   46.15  b J Kallis
+  Ravindra Jadeja             36   14   3   3  257.14  not out
+  Ravichandran Ashwin         11   13   2   0   84.62  c S Senanayake b S Narine
+  Murali Vijay                 2    5   0   0      40  lbw b S Senanayake
+  Michael Hussey              40   51   2   1   78.43  c Y Pathan b L Balaji
+  Extras: 6 (b 1, lb 4, w 1, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Lakshmipathy Balaji           4   0   28   1      7
+  Sachithra Senanayake          4   0   18   1    4.5
+  Sunil Narine                  4   0   20   1      5
+  Yusuf Pathan                1.1   0    9   1   8.18
+  Rajat Bhatia                  2   0   12   0      6
+  Jacques Kallis                4   0   32   1      8
+
+  Fall of Wickets: 24-1 (Ashwin, 4.3 ov), 31-2 (Vijay, 7.2 ov), 40-3 (Raina, 8.6 ov), 54-4 (MS Dhoni, 11.3 ov), 71-5 (Badrinath, 15.3 ov), 89-6 (M Hussey, 16.5 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

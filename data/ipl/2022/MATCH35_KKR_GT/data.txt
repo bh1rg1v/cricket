@@ -1,0 +1,166 @@
+SCORECARD
+============================================================
+
+============================================================
+  Gujarat Titans  156/9 (20 ov)  RR: 7.8
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  W Saha                      25   25   2   1     100  c Venkatesh Iyer b Umesh
+  Shubman Gill                 7    5   1   0     140  c Billings b Southee
+  Hardik Pandya               67   49   4   2  136.73  c Rinku Singh b Southee
+  Miller                      27   20   1   2     135  c Umesh b Shivam Mavi
+  Rahul Tewatia               17   12   2   0  141.67  c Rinku Singh b Russell
+  Rashid Khan                  0    2   0   0       0  c Umesh b Southee
+  Abhinav Manohar              2    4   0   0      50  c Rinku Singh b Russell
+  Lockie Ferguson              0    1   0   0       0  c Rinku Singh b Russell
+  Alzarri Joseph               1    1   0   0     100  not out
+  Yash Dayal                   0    1   0   0       0  c and b Russell
+  Extras: 10 (b 0, lb 3, w 7, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Umesh                         4   0   31   1    7.8
+  Southee                       4   0   24   3      6
+  Shivam Mavi                   4   0   36   1      9
+  Narine                        4   0   31   0    7.8
+  Chakaravarthy                 3   0   26   0    8.7
+  Russell                       1   0    5   4      5
+
+  Fall of Wickets: 8-1 (Shubman Gill, 1.1 ov), 83-2 (W Saha, 10.3 ov), 133-3 (Miller, 16.2 ov), 138-4 (Hardik Pandya, 17.2 ov), 140-5 (Rashid Khan, 17.5 ov), 151-6 (Abhinav Manohar, 19.1 ov), 151-7 (Lockie Ferguson, 19.2 ov), 156-8 (Rahul Tewatia, 19.5 ov), 156-9 (Yash Dayal, 19.6 ov)
+
+============================================================
+  Kolkata Knight Riders  148/8 (20 ov)  RR: 7.4
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Sam Billings                 4    4   1   0     100  c W Saha b Shami
+  Sunil Narine                 5    5   1   0     100  c Lockie Ferguson b Shami
+  Shreyas Iyer                12   15   1   1      80  c W Saha b Yash Dayal
+  Nitish Rana                  2    7   0   0   28.57  c W Saha b Lockie Ferguson
+  Rinku Singh                 35   28   4   1     125  c W Saha b Yash Dayal
+  Venkatesh Iyer              17   17   2   0     100  c Abhinav Manohar b Rashid Khan
+  Andre Russell               48   25   1   6     192  c Lockie Ferguson b Alzarri Joseph
+  Shivam Mavi                  2    4   0   0      50  b Rashid Khan
+  Umesh Yadav                 15   15   1   1     100  not out
+  Tim Southee                  1    1   0   0     100  not out
+  Extras: 7 (b 0, lb 0, w 6, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Mohammed Shami                4   0   20   2      5
+  Yash Dayal                    4   0   42   2   10.5
+  Alzarri Joseph                4   0   31   1    7.8
+  Lockie Ferguson               4   0   33   1    8.2
+  Rashid Khan                   4   0   22   2    5.5
+
+  Fall of Wickets: 5-1 (Sam Billings, 0.4 ov), 10-2 (Sunil Narine, 2.2 ov), 16-3 (Nitish Rana, 4.2 ov), 34-4 (Shreyas Iyer, 6.1 ov), 79-5 (Rinku Singh, 12.1 ov), 98-6 (Venkatesh Iyer, 13.2 ov), 108-7 (Shivam Mavi, 15.2 ov), 145-8 (Andre Russell, 19.2 ov)
+
+============================================================
+  MATCH 46056 - INNINGS 1
+============================================================
+  Score: 156/9 in 20 overs  |  Run Rate: 7.8
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  L1  •  2  4  1  •               +8 runs  (Total: 8)  [FOUR]
+  Over  2:  W  •  2  4  4  Wd  •            +11 runs  (Total: 19)  [WICKET, FOUR, FOUR, over-break,RUNOUT_MISS]
+  Over  3:  1  1  •  •  6  4                +12 runs  (Total: 31)  [SIX, over-break,FOUR]
+  Over  4:  2  •  1  1  Wd  •  1            +6 runs  (Total: 37)
+  Over  5:  1  1  1  1  2  •                +6 runs  (Total: 43)
+  Over  6:  1  1  1  1  •  •                +4 runs  (Total: 47)
+  Over  7:  2  •  6  4  •  Wd  1            +14 runs  (Total: 61)  [TEAM_FIFTY,SIX, FOUR,PARTNERSHIP, over-break,HIGHSCORING_OVER]
+  Over  8:  6  •  •  1  1  •                +8 runs  (Total: 69)  [SIX]
+  Over  9:  •  1  2  1  •  •                +4 runs  (Total: 73)
+  Over 10:  1  •  1  1  2  •                +5 runs  (Total: 78)
+  Over 11:  1  4  W  1  •  2                +8 runs  (Total: 86)  [FOUR, WICKET]
+  Over 12:  •  6  1  1  1  1                +10 runs  (Total: 96)  [SIX,DROPPED, FIFTY]
+  Over 13:  1  •  2  2  1  1                +6 runs  (Total: 102)  [TEAM_HUNDRED]
+  Over 14:  4  2  •  •  6  •                +12 runs  (Total: 114)  [FOUR, SIX]
+  Over 15:  4  Wd  2  1  Wd  2  1  1        +13 runs  (Total: 127)  [FOUR]
+  Over 16:  1  •  1  1  1  1                +5 runs  (Total: 132)
+  Over 17:  1  W  •  2  •  Wd  1            +5 runs  (Total: 137)  [PARTNERSHIP, WICKET]
+  Over 18:  1  W  L1  1  W  •               +3 runs  (Total: 140)  [WICKET, WICKET]
+  Over 19:  2  4  1  1  1  1  Wd            +11 runs  (Total: 151)  [FOUR, TEAM_HUNDRED]
+  Over 20:  W  W  1  4  W  W                +5 runs  (Total: 156)  [WICKET, WICKET, FOUR, WICKET, over-break,WICKET]
+
+BATTERS
+------------------------------------------------------------
+  W Saha                      25 runs   25 balls  4s:0  6s:0  SR:100
+  Yash Dayal                   0 runs    1 balls  4s:0  6s:0  SR:0
+  Shubman Gill                 7 runs    5 balls  4s:0  6s:0  SR:140
+  Hardik Pandya               67 runs   49 balls  4s:0  6s:0  SR:136.73
+  Miller                      27 runs   20 balls  4s:0  6s:0  SR:135
+  Rahul Tewatia               17 runs   12 balls  4s:0  6s:0  SR:141.67
+  Rashid Khan                  0 runs    2 balls  4s:0  6s:0  SR:0
+  Abhinav Manohar              2 runs    4 balls  4s:0  6s:0  SR:50
+  Lockie Ferguson              0 runs    1 balls  4s:0  6s:0  SR:0
+  Alzarri Joseph               1 runs    1 balls  4s:0  6s:0  SR:100
+
+BOWLERS
+------------------------------------------------------------
+  Umesh                      4 ov   31 runs  1 wkts  Econ:7.8
+  Southee                    4 ov   24 runs  3 wkts  Econ:6
+  Shivam Mavi                4 ov   36 runs  1 wkts  Econ:9
+  Narine                     4 ov   31 runs  0 wkts  Econ:7.8
+  Chakaravarthy              3 ov   26 runs  0 wkts  Econ:8.7
+  Russell                    1 ov    5 runs  4 wkts  Econ:5
+
+============================================================
+  MATCH 46056 - INNINGS 2
+============================================================
+  Score: 148/8 in 20 overs  |  Run Rate: 7.4
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  4  Wd  •  W  •  •            +5 runs  (Total: 5)  [FOUR, WICKET]
+  Over  2:  4  •  1  •  •  •                +5 runs  (Total: 10)  [FOUR]
+  Over  3:  •  W  •  •  1  •                +1 runs  (Total: 11)  [WICKET]
+  Over  4:  •  1  •  •  4  •                +5 runs  (Total: 16)  [FOUR]
+  Over  5:  •  W  1  •  6  1                +8 runs  (Total: 24)  [WICKET,UDRS, SIX]
+  Over  6:  1  •  1  •  Wd2  6  •           +10 runs  (Total: 34)  [SIX]
+  Over  7:  W  1  4  •  1  •  Wd            +7 runs  (Total: 41)  [WICKET, FOUR]
+  Over  8:  •  •  4  •  •  Wd  4            +9 runs  (Total: 50)  [FOUR, over-break,TEAM_FIFTY,FOUR]
+  Over  9:  1  1  •  1  2  2                +7 runs  (Total: 57)
+  Over 10:  •  4  1  •  1  •                +6 runs  (Total: 63)  [FOUR]
+  Over 11:  1  4  1  1  2  •                +9 runs  (Total: 72)  [FOUR]
+  Over 12:  •  •  4  1  1  1                +7 runs  (Total: 79)  [FOUR]
+  Over 13:  W  •  4  1  Wd  N  6  6         +19 runs  (Total: 98)  [WICKET, FOUR, SIX, over-break,SIX,HIGHSCORING_OVER]
+  Over 14:  •  W  •  1  •  •                +1 runs  (Total: 99)  [WICKET]
+  Over 15:  1  6  •  •  •  1                +8 runs  (Total: 107)  [TEAM_HUNDRED, SIX]
+  Over 16:  1  W  •  •  4  •                +5 runs  (Total: 112)  [WICKET, FOUR, over-break,UDRS]
+  Over 17:  •  •  6  1  •  1                +8 runs  (Total: 120)  [SIX]
+  Over 18:  1  •  1  6  •  •                +8 runs  (Total: 128)  [SIX]
+  Over 19:  1  1  6  2  1  •                +11 runs  (Total: 139)  [SIX]
+  Over 20:  6  W  1  2  •  •                +9 runs  (Total: 148)  [SIX, WICKET]
+
+BATTERS
+------------------------------------------------------------
+  Sam Billings                 4 runs    4 balls  4s:1  6s:0  SR:100
+  Tim Southee                  1 runs    1 balls  4s:0  6s:0  SR:100
+  Sunil Narine                 5 runs    5 balls  4s:1  6s:0  SR:100
+  Shreyas Iyer                12 runs   15 balls  4s:1  6s:1  SR:80
+  Nitish Rana                  2 runs    7 balls  4s:0  6s:0  SR:28.57
+  Rinku Singh                 35 runs   28 balls  4s:4  6s:1  SR:125
+  Venkatesh Iyer              17 runs   17 balls  4s:2  6s:0  SR:100
+  Andre Russell               48 runs   25 balls  4s:1  6s:6  SR:192
+  Shivam Mavi                  2 runs    4 balls  4s:0  6s:0  SR:50
+  Umesh Yadav                 15 runs   15 balls  4s:1  6s:1  SR:100
+
+BOWLERS
+------------------------------------------------------------
+  Mohammed Shami             4 ov   20 runs  2 wkts  Econ:5
+  Yash Dayal                 4 ov   42 runs  2 wkts  Econ:10.5
+  Alzarri Joseph             4 ov   31 runs  1 wkts  Econ:7.8
+  Lockie Ferguson            4 ov   33 runs  1 wkts  Econ:8.2
+  Rashid Khan                4 ov   22 runs  2 wkts  Econ:5.5
+
+  [Win probability not available for this match]

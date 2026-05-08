@@ -1,0 +1,155 @@
+SCORECARD
+============================================================
+
+============================================================
+  Mumbai Indians  162/5 (20 ov)  RR: 8.1
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Rohit                       24   18   5   0  133.33  c Nabi b Khaleel Ahmed
+  de Kock                     69   58   6   2  118.97  not out
+  Suryakumar Yadav            23   17   3   1  135.29  c Rashid Khan b Khaleel Ahmed
+  Lewis                        1    6   0   0   16.67  c Vijay Shankar b Nabi
+  Hardik Pandya               18   10   1   1     180  c Nabi b Bhuvneshwar
+  Pollard                     10    9   0   1  111.11  c Abhishek Sharma b Khaleel Ahmed
+  Krunal Pandya                9    3   0   1     300  not out
+  Extras: 8 (b 0, lb 6, w 1, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Bhuvneshwar                   4   0   29   1    7.2
+  Khaleel Ahmed                 4   0   42   3   10.5
+  Nabi                          4   0   24   1      6
+  Rashid Khan                   4   0   21   0    5.2
+  Basil Thampi                  4   0   40   0     10
+
+  Fall of Wickets: 36-1 (Rohit, 5.2 ov), 90-2 (Suryakumar Yadav, 11.4 ov), 91-3 (Lewis, 12.4 ov), 119-4 (Hardik Pandya, 15.5 ov), 151-5 (Pollard, 19.1 ov)
+
+============================================================
+  Sunrisers Hyderabad  162/6 (20 ov)  RR: 8.1
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Wriddhiman Saha             25   15   5   0  166.67  c Lewis b Bumrah
+  Martin Guptill              15   11   1   1  136.36  lbw b Bumrah
+  Manish Pandey               71   47   8   2  151.06  not out
+  Kane Williamson              3    7   0   0   42.86  lbw b Krunal Pandya
+  Vijay Shankar               12   17   0   0   70.59  c Pollard b Krunal Pandya
+  Abhishek Sharma              2    3   0   0   66.67  c de Kock b Hardik Pandya
+  Mohammad Nabi               31   20   2   2     155  c Suryakumar Yadav b Hardik Pandya
+  Extras: 3 (b 0, lb 1, w 2, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Barinder Sran                 2   0   24   0     12
+  Lasith Malinga                4   0   43   0   10.8
+  Jasprit  Bumrah               4   0   31   2    7.8
+  Rahul Chahar                  4   0   21   0    5.2
+  Krunal Pandya                 4   0   22   2    5.5
+  Hardik Pandya                 2   0   20   2     10
+
+  Fall of Wickets: 40-1 (Wriddhiman Saha, 3.6 ov), 57-2 (Martin Guptill, 5.1 ov), 65-3 (Kane Williamson, 7.1 ov), 98-4 (Vijay Shankar, 13.2 ov), 105-5 (Abhishek Sharma, 14.3 ov), 154-6 (Mohammad Nabi, 19.4 ov)
+
+============================================================
+  MATCH 22486 - INNINGS 1
+============================================================
+  Score: 162/5 in 20 overs  |  Run Rate: 8.1
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  4  •  •  •  Wd  4            +9 runs  (Total: 9)  [FOUR, over-break,FOUR]
+  Over  2:  1  •  4  •  4  4                +13 runs  (Total: 22)  [FOUR, FOUR, over-break,FOUR]
+  Over  3:  •  1  1  1  •  1                +4 runs  (Total: 26)
+  Over  4:  1  4  4  •  •  •                +9 runs  (Total: 35)  [FOUR, FOUR]
+  Over  5:  1  •  •  •  •  •                +1 runs  (Total: 36)
+  Over  6:  •  W  4  •  •  4                +8 runs  (Total: 44)  [WICKET, FOUR, over-break,FOUR]
+  Over  7:  1  1  1  4  1  1                +9 runs  (Total: 53)  [FOUR]
+  Over  8:  1  •  •  1  4  L1               +7 runs  (Total: 60)  [FOUR]
+  Over  9:  •  1  6  1  1  •                +9 runs  (Total: 69)  [SIX]
+  Over 10:  1  1  L1  2  •  1               +7 runs  (Total: 76)
+  Over 11:  1  1  •  L2  1  •               +5 runs  (Total: 81)
+  Over 12:  6  2  1  W  •  1                +10 runs  (Total: 91)  [SIX,PARTNERSHIP, WICKET]
+  Over 13:  •  •  •  W  •  2                +2 runs  (Total: 93)  [WICKET]
+  Over 14:  •  6  1  4  1  4                +16 runs  (Total: 109)  [UDRS, SIX, FOUR, over-break,FOUR,HIGHSCORING_OVER]
+  Over 15:  1  1  1  1  •  •                +4 runs  (Total: 113)
+  Over 16:  1  1  2  2  W  1                +7 runs  (Total: 120)  [WICKET]
+  Over 17:  1  N  1  4  6  1  •             +14 runs  (Total: 134)  [FIFTY,FOUR, SIX, over-break,HIGHSCORING_OVER]
+  Over 18:  1  6  •  1  4  1                +13 runs  (Total: 147)  [SIX, FOUR]
+  Over 19:  1  1  •  1  •  1                +4 runs  (Total: 151)
+  Over 20:  W  1  1  1  6  2                +11 runs  (Total: 162)  [WICKET, SIX]
+
+BATTERS
+------------------------------------------------------------
+  Rohit                       24 runs   18 balls  4s:0  6s:0  SR:133.33
+  de Kock                     69 runs   58 balls  4s:0  6s:0  SR:118.97
+  Suryakumar Yadav            23 runs   17 balls  4s:0  6s:0  SR:135.29
+  Lewis                        1 runs    6 balls  4s:0  6s:0  SR:16.67
+  Hardik Pandya               18 runs   10 balls  4s:0  6s:0  SR:180
+  Pollard                     10 runs    9 balls  4s:0  6s:0  SR:111.11
+  Krunal Pandya                9 runs    3 balls  4s:0  6s:0  SR:300
+
+BOWLERS
+------------------------------------------------------------
+  Bhuvneshwar                4 ov   29 runs  1 wkts  Econ:7.2
+  Khaleel Ahmed              4 ov   42 runs  3 wkts  Econ:10.5
+  Nabi                       4 ov   24 runs  1 wkts  Econ:6
+  Rashid Khan                4 ov   21 runs  0 wkts  Econ:5.2
+  Basil Thampi               4 ov   40 runs  0 wkts  Econ:10
+
+============================================================
+  MATCH 22486 - INNINGS 2
+============================================================
+  Score: 162/6 in 20 overs  |  Run Rate: 8.1
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  4  1  •  •  1  1                +7 runs  (Total: 7)  [FOUR]
+  Over  2:  •  •  1  4  •  1                +6 runs  (Total: 13)  [FOUR]
+  Over  3:  1  •  4  4  Wd  1  6            +17 runs  (Total: 30)  [FOUR, FOUR, over-break,SIX,HIGHSCORING_OVER]
+  Over  4:  4  1  1  •  4  W                +10 runs  (Total: 40)  [FOUR, FOUR, over-break,WICKET]
+  Over  5:  1  4  •  6  4  2                +17 runs  (Total: 57)  [FOUR, SIX, FOUR, over-break,HIGHSCORING_OVER]
+  Over  6:  W  2  •  •  •  •                +2 runs  (Total: 59)  [WICKET,UDRS]
+  Over  7:  4  •  •  •  1  1                +6 runs  (Total: 65)  [FOUR]
+  Over  8:  W  1  1  1  1  1                +5 runs  (Total: 70)  [WICKET,UDRS]
+  Over  9:  •  1  •  1  1  2                +5 runs  (Total: 75)
+  Over 10:  1  •  1  1  Wd  1  •            +5 runs  (Total: 80)
+  Over 11:  1  •  1  •  •  4                +6 runs  (Total: 86)  [over-break,FOUR]
+  Over 12:  1  4  •  1  1  •                +7 runs  (Total: 93)  [FOUR]
+  Over 13:  •  1  •  1  1  1                +4 runs  (Total: 97)
+  Over 14:  1  W  1  1  1  1                +5 runs  (Total: 102)  [WICKET]
+  Over 15:  2  1  W  •  •  1                +4 runs  (Total: 106)  [WICKET]
+  Over 16:  2  1  L1  1  •  4               +9 runs  (Total: 115)  [over-break,FIFTY,FOUR]
+  Over 17:  1  1  •  •  4  1                +7 runs  (Total: 122)  [FOUR]
+  Over 18:  •  4  1  •  1  6                +12 runs  (Total: 134)  [FOUR, over-break,SIX]
+  Over 19:  1  1  1  1  4  4                +12 runs  (Total: 146)  [FOUR, over-break,FOUR]
+  Over 20:  1  1  6  W  2  6                +16 runs  (Total: 162)  [SIX, WICKET, over-break,SIX,HIGHSCORING_OVER]
+
+BATTERS
+------------------------------------------------------------
+  Wriddhiman Saha             25 runs   15 balls  4s:5  6s:0  SR:166.67
+  Martin Guptill              15 runs   11 balls  4s:1  6s:1  SR:136.36
+  Manish Pandey               71 runs   47 balls  4s:8  6s:2  SR:151.06
+  Kane Williamson              3 runs    7 balls  4s:0  6s:0  SR:42.86
+  Vijay Shankar               12 runs   17 balls  4s:0  6s:0  SR:70.59
+  Abhishek Sharma              2 runs    3 balls  4s:0  6s:0  SR:66.67
+  Mohammad Nabi               31 runs   20 balls  4s:2  6s:2  SR:155
+  Rashid Khan                  0 runs    0 balls  4s:0  6s:0  SR:0
+
+BOWLERS
+------------------------------------------------------------
+  Barinder Sran              2 ov   24 runs  0 wkts  Econ:12
+  Lasith Malinga             4 ov   43 runs  0 wkts  Econ:10.8
+  Jasprit  Bumrah            4 ov   31 runs  2 wkts  Econ:7.8
+  Rahul Chahar               4 ov   21 runs  0 wkts  Econ:5.2
+  Krunal Pandya              4 ov   22 runs  2 wkts  Econ:5.5
+  Hardik Pandya              2 ov   20 runs  2 wkts  Econ:10
+
+  [Win probability not available for this match]

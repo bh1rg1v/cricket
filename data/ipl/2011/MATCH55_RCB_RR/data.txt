@@ -1,0 +1,62 @@
+SCORECARD
+============================================================
+
+============================================================
+  Rajasthan Royals  146/6 (20 ov)  RR: 7.3
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Rahul Dravid                37   31   6   0  119.35  c & b S Aravind
+  Shane Watson                34   29   3   2  117.24  c de Villiers b S Aravind
+  Johan Botha                 19   20   1   0      95  c A Karthik b S Aravind
+  Ross Taylor                 13   13   0   0     100  c M Kaif b C Langeveldt
+  Ajinkya Rahane              17   10   1   1     170  run out (de Villiers/A Karthik)
+  Abhishek Raut                5    8   0   0    62.5  not out
+  Dishant Yagnik               2    5   0   0      40  not out
+  Ashok Menaria                8    6   1   0  133.33  c M Kaif b C Gayle
+  Extras: 11 (b 1, lb 1, w 7, nb 2)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Zaheer Khan                   4   0   23   0   5.75
+  Sreenath Aravind              4   0   34   3    8.5
+  Charl Langeveldt              4   0   26   1    6.5
+  Chris Gayle                   3   0   23   1   7.67
+  Virat Kohli                   3   0   17   0   5.67
+  Abrar Kazi                    2   0   21   0   10.5
+
+  Fall of Wickets: 73-1 (Shane Watson, 9.3 ov), 73-2 (Dravid, 9.5 ov), 102-3 (Ajinkya Rahane, 13.3 ov), 122-4 (Botha, 16.3 ov), 124-5 (Ross Taylor, 17.2 ov), 133-6 (Menaria, 18.3 ov)
+
+============================================================
+  Royal Challengers Bangalore  151/1 (17 ov)  RR: 8.88
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Tillakaratne Dilshan        38   24   8   0  158.33  c R Taylor b S Warne
+  Chris Gayle                 70   44   7   4  159.09  not out
+  Virat Kohli                 39   34   3   1  114.71  not out
+  Extras: 4 (b 1, lb 1, w 2, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Shane Watson                  2   0   19   0    9.5
+  Johan Botha                   4   0   42   0   10.5
+  Pankaj Singh                  2   0   23   0   11.5
+  Siddharth Trivedi             2   0   12   0      6
+  Shane Warne                   4   0   26   1    6.5
+  Ross Taylor                   1   0   11   0     11
+  Ashok Menaria                 2   0   16   0      8
+
+  Fall of Wickets: 68-1 (Dilshan, 6.4 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

@@ -1,0 +1,70 @@
+SCORECARD
+============================================================
+
+============================================================
+  Kings XI Punjab  134/7 (20 ov)  RR: 6.7
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Brett Lee                    0    5   0   0       0  not out
+  Yuvraj Singh                20   18   2   1  111.11  b Venugopal Rao
+  Irfan Pathan                17   11   2   0  154.55  c Gibbs b Singh
+  Kumar Sangakkara            56   43   4   1  130.23  c Harris b Singh
+  Simon Katich                11   10   2   0     110  c Ojha b Symonds
+  Piyush Chawla                1    1   0   0     100  not out
+  Luke Pomersbach              1    2   0   0      50  run out (Gibbs/Gilchrist)
+  Wilkin Mota                 12   19   0   0   63.16  c Harris b Suman
+  Sunny Sohal                  9   12   0   1      75  c Sharma b Singh
+  Extras: 7 (b 1, lb 0, w 5, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Ryan Harris                   4   0   31   0   7.75
+  RP Singh                      4   0   26   3    6.5
+  Andrew Symonds                2   0   10   1      5
+  Rohit Sharma                  2   0   23   0   11.5
+  Tirumalsetti Suman            4   0   23   1   5.75
+  Venugopal Rao                 2   0    8   1      4
+  Pragyan Ojha                  2   0   12   0      6
+
+  Fall of Wickets: 12-1 (Sohal, 1.6 ov), 15-2 (Luke Pomersbach, 2.5 ov), 26-3 (Simon Katich, 4.2 ov), 52-4 (Yuvraj, 8.5 ov), 105-5 (W Mota, 16.1 ov), 122-6 (Sangakkara, 17.6 ov), 131-7 (Irfan Pathan, 19.3 ov)
+
+============================================================
+  Deccan Chargers  133/8 (20 ov)  RR: 6.65
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Adam Gilchrist              23   13   4   1  176.92  st Sangakkara b Powar
+  Andrew Symonds              25   25   1   0     100  st Sangakkara b Yuvraj Singh
+  Herschelle Gibbs            26   37   3   0   70.27  c Chawla b Yuvraj Singh
+  Venugopal Rao                0    1   0   0       0  b Yuvraj Singh
+  RP Singh                     0    2   0   0       0  c &amp; b Pathan
+  Rohit Sharma                42   26   3   3  161.54  b Pathan
+  Ryan Harris                  2    2   0   0     100  not out
+  Dwaraka Ravi Teja           10   15   1   0   66.67  run out (Sangakkara/Lee)
+  Tirumalsetti Suman           0    1   0   0       0  b Powar
+  Extras: 5 (b 1, lb 0, w 2, nb 2)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Brett Lee                     4   0   31   0   7.75
+  Irfan Pathan                  3   0   29   2   9.67
+  S Sreesanth                   2   0   10   0      5
+  Ramesh Powar                  2   0   11   2    5.5
+  Piyush Chawla                 4   0   20   0      5
+  Yuvraj Singh                  4   0   13   3   3.25
+  Wilkin Mota                   1   0   18   0     18
+
+  Fall of Wickets: 34-1 (Adam Gilchrist, 4.2 ov), 34-2 (Suman, 4.3 ov), 73-3 (H Gibbs, 11.6 ov), 79-4 (Andrew Symonds, 13.1 ov), 79-5 (V Rao, 13.2 ov), 110-6 (Ravi Teja, 18.2 ov), 131-7 (Rohit Sharma, 19.3 ov), 131-8 (RP Singh, 19.5 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

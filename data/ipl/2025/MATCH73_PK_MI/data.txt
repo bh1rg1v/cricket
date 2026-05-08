@@ -1,0 +1,157 @@
+SCORECARD
+============================================================
+
+============================================================
+  Mumbai Indians  203/6 (20 ov)  RR: 10.15
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Rohit                        8    7   1   0  114.29  c Vijaykumar Vyshak b Stoinis
+  Bairstow                    38   24   3   2  158.33  c Josh Inglis b Vijaykumar Vyshak
+  Tilak Varma                 44   29   2   2  151.72  c Priyansh Arya b Jamieson
+  Suryakumar Yadav            44   26   4   3  169.23  c Nehal Wadhera b Chahal
+  Hardik Pandya               15   13   1   0  115.38  c Josh Inglis b Azmatullah
+  Naman Dhir                  37   18   7   0  205.56  c Stoinis b Azmatullah
+  Raj Bawa                     8    4   0   0     200  not out
+  Santner                      0    1   0   0       0  not out
+  Extras: 9 (b 0, lb 3, w 4, nb 2)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Arshdeep Singh                4   0   44   0     11
+  Jamieson                      4   0   30   1    7.5
+  Stoinis                       1   0   14   1     14
+  Azmatullah                    4   0   43   2   10.8
+  Vijaykumar Vyshak             3   0   30   1     10
+  Chahal                        4   0   39   1    9.8
+
+  Fall of Wickets: 19-1 (Rohit, 2.2 ov), 70-2 (Bairstow, 6.6 ov), 142-3 (Suryakumar Yadav, 13.5 ov), 142-4 (Tilak Varma, 14.1 ov), 180-5 (Hardik Pandya, 17.6 ov), 197-6 (Naman Dhir, 19.3 ov)
+
+============================================================
+  Punjab Kings  207/5 (19 ov)  RR: 10.89
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Priyansh Arya               20   10   2   1     200  c Hardik Pandya b Ashwani Kumar
+  Prabhsimran Singh            6    9   1   0   66.67  c R Topley b Boult
+  Josh Inglis                 38   21   5   2  180.95  c Bairstow b Hardik Pandya
+  Shreyas Iyer                87   41   5   8   212.2  not out
+  Nehal Wadhera               48   29   4   2  165.52  c Santner b Ashwani Kumar
+  Shashank Singh               2    3   0   0   66.67  run out (Hardik Pandya)
+  Marcus Stoinis               2    2   0   0     100  not out
+  Extras: 4 (b 0, lb 0, w 3, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Trent Boult                   4   0   38   1    9.5
+  Reece Topley                  3   0   40   0   13.3
+  Jasprit Bumrah                4   0   40   0     10
+  Ashwani Kumar                 4   0   55   2   13.8
+  Mitchell Santner              2   0   15   0    7.5
+  Hardik Pandya                 2   0   19   1    9.5
+
+  Fall of Wickets: 13-1 (Prabhsimran Singh, 2.1 ov), 55-2 (Priyansh Arya, 5.1 ov), 72-3 (Josh Inglis, 7.5 ov), 156-4 (Nehal Wadhera, 15.4 ov), 169-5 (Shashank Singh, 16.4 ov)
+
+============================================================
+  MATCH 118919 - INNINGS 1
+============================================================
+  Score: 203/6 in 20 overs  |  Run Rate: 10.15
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  1  •  •  1  Wd  1            +4 runs  (Total: 4)
+  Over  2:  1  2  6  1  1  •                +11 runs  (Total: 15)  [SIX, DROPPED]
+  Over  3:  4  W  2  1  N6  •  L1           +15 runs  (Total: 30)  [FOUR, WICKET, SIX, over-break,HIGHSCORING_OVER]
+  Over  4:  1  1  Wd  4  1  1  4            +13 runs  (Total: 43)  [FOUR, over-break,FOUR]
+  Over  5:  1  •  2  1  1  1  Wd            +7 runs  (Total: 50)  [over-break,TEAM_FIFTY]
+  Over  6:  4  1  L1  6  1  Wd  1           +15 runs  (Total: 65)  [FOUR, SIX, UDRS, over-break,HIGHSCORING_OVER]
+  Over  7:  •  2  1  2  •  W                +5 runs  (Total: 70)  [PARTNERSHIP, over-break,WICKET]
+  Over  8:  1  •  1  1  •  •                +3 runs  (Total: 73)
+  Over  9:  4  1  1  1  N1  6  •            +15 runs  (Total: 88)  [FOUR, SIX, over-break,HIGHSCORING_OVER]
+  Over 10:  6  1  1  •  2  4                +14 runs  (Total: 102)  [SIX, over-break,TEAM_HUNDRED,FOUR,HIGHSCORING_OVER]
+  Over 11:  2  4  •  1  1  2                +10 runs  (Total: 112)  [FOUR]
+  Over 12:  6  1  1  1  1  1                +11 runs  (Total: 123)  [SIX, PARTNERSHIP]
+  Over 13:  •  4  •  •  •  4                +8 runs  (Total: 131)  [FOUR, over-break,FOUR]
+  Over 14:  1  4  •  6  W  •                +11 runs  (Total: 142)  [FOUR, SIX, WICKET]
+  Over 15:  W  1  1  1  •  1                +4 runs  (Total: 146)  [WICKET]
+  Over 16:  1  2  1  •  •  6                +10 runs  (Total: 156)  [TEAM_HUNDRED]
+  Over 17:  4  4  1  1  •  4                +14 runs  (Total: 170)  [FOUR, FOUR, over-break,FOUR,HIGHSCORING_OVER]
+  Over 18:  4  •  1  4  1  W                +10 runs  (Total: 180)  [FOUR, FOUR, over-break,WICKET]
+  Over 19:  4  1  2  1  4  1                +13 runs  (Total: 193)  [FOUR, FOUR]
+  Over 20:  4  •  W  L1  2  3               +10 runs  (Total: 203)  [FOUR, WICKET, TEAM_HUNDRED]
+
+BATTERS
+------------------------------------------------------------
+  Rohit                        8 runs    7 balls  4s:0  6s:0  SR:114.29
+  Bairstow                    38 runs   24 balls  4s:0  6s:0  SR:158.33
+  Tilak Varma                 44 runs   29 balls  4s:0  6s:0  SR:151.72
+  Suryakumar Yadav            44 runs   26 balls  4s:0  6s:0  SR:169.23
+  Hardik Pandya               15 runs   13 balls  4s:0  6s:0  SR:115.38
+  Naman Dhir                  37 runs   18 balls  4s:0  6s:0  SR:205.56
+  Raj Bawa                     8 runs    4 balls  4s:0  6s:0  SR:200
+  Santner                      0 runs    1 balls  4s:0  6s:0  SR:0
+
+BOWLERS
+------------------------------------------------------------
+  Arshdeep Singh             4 ov   44 runs  0 wkts  Econ:11
+  Jamieson                   4 ov   30 runs  1 wkts  Econ:7.5
+  Stoinis                    1 ov   14 runs  1 wkts  Econ:14
+  Azmatullah                 4 ov   43 runs  2 wkts  Econ:10.8
+  Vijaykumar Vyshak          3 ov   30 runs  1 wkts  Econ:10
+  Chahal                     4 ov   39 runs  1 wkts  Econ:9.8
+
+============================================================
+  MATCH 118919 - INNINGS 2
+============================================================
+  Score: 207/5 in 19 overs  |  Run Rate: 10.89
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  1  4  •  •  •  1                +6 runs  (Total: 6)  [FOUR]
+  Over  2:  •  •  1  2  •  4                +7 runs  (Total: 13)  [over-break,FOUR]
+  Over  3:  W  •  4  4  •  •                +8 runs  (Total: 21)  [WICKET, FOUR, FOUR]
+  Over  4:  4  •  2  6  1  1                +14 runs  (Total: 35)  [FOUR, SIX, over-break,HIGHSCORING_OVER]
+  Over  5:  4  •  6  •  4  6                +20 runs  (Total: 55)  [FOUR, SIX, FOUR, over-break,TEAM_FIFTY,SIX,HIGHSCORING_OVER]
+  Over  6:  W  •  4  •  1  4                +9 runs  (Total: 64)  [WICKET, FOUR, over-break,FOUR]
+  Over  7:  1  1  1  2  •  1                +6 runs  (Total: 70)
+  Over  8:  •  •  1  1  W  •                +2 runs  (Total: 72)  [WICKET,UDRS]
+  Over  9:  1  1  1  1  1  4                +9 runs  (Total: 81)  [over-break,FOUR]
+  Over 10:  1  6  1  4  1  4                +17 runs  (Total: 98)  [SIX, FOUR, over-break,FOUR,DROPPED,HIGHSCORING_OVER]
+  Over 11:  1  •  2  •  •  1                +4 runs  (Total: 102)  [TEAM_HUNDRED]
+  Over 12:  2  •  2  1  1  1                +7 runs  (Total: 109)
+  Over 13:  1  6  6  6  •  •                +19 runs  (Total: 128)  [SIX, SIX,PARTNERSHIP, SIX, over-break,HIGHSCORING_OVER]
+  Over 14:  1  2  1  4  4  1  Wd            +14 runs  (Total: 142)  [FOUR, FOUR, over-break,HIGHSCORING_OVER]
+  Over 15:  2  •  1  •  1  1                +5 runs  (Total: 147)
+  Over 16:  6  1  Wd  1  W  1  6            +16 runs  (Total: 163)  [TEAM_HUNDRED,SIX, WICKET, over-break,SIX,HIGHSCORING_OVER]
+  Over 17:  1  4  1  W  •  4                +10 runs  (Total: 173)  [FIFTY,FOUR, WICKET, over-break,FOUR]
+  Over 18:  1  4  •  1  1  1                +8 runs  (Total: 181)  [FOUR]
+  Over 19:  6  6  N  •  6  •  6  Wd         +26 runs  (Total: 207)  [SIX, SIX, UDRS, TEAM_HUNDRED,SIX, UDRS, over-break,SIX,HIGHSCORING_OVER]
+
+BATTERS
+------------------------------------------------------------
+  Priyansh Arya               20 runs   10 balls  4s:2  6s:1  SR:200
+  Prabhsimran Singh            6 runs    9 balls  4s:1  6s:0  SR:66.67
+  Josh Inglis                 38 runs   21 balls  4s:5  6s:2  SR:180.95
+  Shreyas Iyer                87 runs   41 balls  4s:5  6s:8  SR:212.2
+  Nehal Wadhera               48 runs   29 balls  4s:4  6s:2  SR:165.52
+  Shashank Singh               2 runs    3 balls  4s:0  6s:0  SR:66.67
+  Marcus Stoinis               2 runs    2 balls  4s:0  6s:0  SR:100
+
+BOWLERS
+------------------------------------------------------------
+  Trent Boult                4 ov   38 runs  1 wkts  Econ:9.5
+  Reece Topley               3 ov   40 runs  0 wkts  Econ:13.3
+  Jasprit Bumrah             4 ov   40 runs  0 wkts  Econ:10
+  Ashwani Kumar              4 ov   55 runs  2 wkts  Econ:13.8
+  Mitchell Santner           2 ov   15 runs  0 wkts  Econ:7.5
+  Hardik Pandya              2 ov   19 runs  1 wkts  Econ:9.5
+
+  [Win probability not available for this match]

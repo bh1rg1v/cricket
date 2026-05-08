@@ -1,0 +1,152 @@
+SCORECARD
+============================================================
+
+============================================================
+  Kings XI Punjab  183/6 (20 ov)  RR: 9.15
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Gayle                       14   14   2   0     100  c Shubman Gill b Warrier
+  Rahul                        2    7   0   0   28.57  c Chris Lynn b Warrier
+  Mayank Agarwal              36   26   2   1  138.46  run out (Rinku Singh/Narine)
+  Pooran                      48   27   3   4  177.78  c Warrier b Nitish Rana
+  Mandeep                     25   17   1   1  147.06  c Uthappa b H Gurney
+  Sam Curran                  55   24   7   2  229.17  not out
+  Ashwin                       0    3   0   0       0  b A Russell
+  Andrew Tye                   0    2   0   0       0  not out
+  Extras: 3 (b 0, lb 2, w 1, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Warrier                       4   0   31   2    7.8
+  H Gurney                      4   0   41   1   10.2
+  Narine                        4   0   29   0    7.2
+  A Russell                     3   0   29   1    9.7
+  Chawla                        4   0   43   0   10.8
+  Nitish Rana                   1   0    8   1      8
+
+  Fall of Wickets: 13-1 (Rahul, 2.3 ov), 22-2 (Gayle, 4.1 ov), 91-3 (Pooran, 10.5 ov), 111-4 (Mayank Agarwal, 13.3 ov), 149-5 (Mandeep, 17.3 ov), 151-6 (Ashwin, 18.1 ov)
+
+============================================================
+  Kolkata Knight Riders  185/3 (18 ov)  RR: 10.28
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Shubman Gill                65   49   5   2  132.65  not out
+  Chris Lynn                  46   22   5   3  209.09  c and b Andrew Tye
+  Robin Uthappa               22   14   2   1  157.14  c Mayank Agarwal b Ashwin
+  Andre Russell               24   14   2   2  171.43  c Andrew Tye b Shami
+  Dinesh Karthik              21    9   2   1  233.33  not out
+  Extras: 7 (b 0, lb 2, w 5, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Mohammed Shami                3   0   15   1      5
+  Arshdeep Singh                2   0   24   0     12
+  Ravichandran Ashwin           4   0   38   1    9.5
+  Andrew Tye                    3   0   41   1   13.7
+  Murugan Ashwin                2   0   24   0     12
+  Sam Curran                    4   0   41   0   10.2
+
+  Fall of Wickets: 62-1 (Chris Lynn, 5.6 ov), 100-2 (Robin Uthappa, 10.3 ov), 150-3 (Andre Russell, 14.5 ov)
+
+============================================================
+  MATCH 22487 - INNINGS 1
+============================================================
+  Score: 183/6 in 20 overs  |  Run Rate: 9.15
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  1  •  1  4  4                +10 runs  (Total: 10)  [FOUR, over-break,FOUR]
+  Over  2:  •  1  •  2  •  •                +3 runs  (Total: 13)
+  Over  3:  •  •  W  4  1  1                +6 runs  (Total: 19)  [WICKET, FOUR]
+  Over  4:  1  •  1  •  •  1                +3 runs  (Total: 22)
+  Over  5:  W  •  •  •  4  2                +6 runs  (Total: 28)  [WICKET, FOUR]
+  Over  6:  2  1  2  2  6  •                +13 runs  (Total: 41)  [SIX]
+  Over  7:  1  6  •  4  •  Wd  1            +13 runs  (Total: 54)  [SIX, FOUR]
+  Over  8:  6  1  1  4  1  1                +14 runs  (Total: 68)  [SIX, FOUR, over-break,HIGHSCORING_OVER]
+  Over  9:  1  •  2  •  1  1                +5 runs  (Total: 73)  [PARTNERSHIP]
+  Over 10:  •  4  1  •  6  •                +11 runs  (Total: 84)  [FOUR, SIX]
+  Over 11:  •  6  1  •  W  1                +8 runs  (Total: 92)  [SIX, WICKET]
+  Over 12:  1  2  2  1  1  1                +8 runs  (Total: 100)
+  Over 13:  1  1  1  4  1  1                +9 runs  (Total: 109)  [FOUR]
+  Over 14:  •  1  W1  1  1  2               +6 runs  (Total: 115)  [WICKET]
+  Over 15:  1  1  •  1  6  1                +10 runs  (Total: 125)  [SIX]
+  Over 16:  1  2  •  4  •  •                +7 runs  (Total: 132)  [FOUR]
+  Over 17:  1  6  2  1  1  4                +15 runs  (Total: 147)  [SIX, DROPPED, over-break,FOUR,HIGHSCORING_OVER]
+  Over 18:  1  1  W  1  •  L1               +4 runs  (Total: 151)  [WICKET]
+  Over 19:  W  L1  4  4  1  •               +10 runs  (Total: 161)  [WICKET, FOUR, FOUR]
+  Over 20:  2  2  4  6  4  4                +22 runs  (Total: 183)  [FOUR, SIX, FIFTY,FOUR, over-break,FOUR,HIGHSCORING_OVER]
+
+BATTERS
+------------------------------------------------------------
+  Gayle                       14 runs   14 balls  4s:0  6s:0  SR:100
+  Rahul                        2 runs    7 balls  4s:0  6s:0  SR:28.57
+  Mayank Agarwal              36 runs   26 balls  4s:0  6s:0  SR:138.46
+  Pooran                      48 runs   27 balls  4s:0  6s:0  SR:177.78
+  Mandeep                     25 runs   17 balls  4s:0  6s:0  SR:147.06
+  Sam Curran                  55 runs   24 balls  4s:0  6s:0  SR:229.17
+  Ashwin                       0 runs    3 balls  4s:0  6s:0  SR:0
+  Andrew Tye                   0 runs    2 balls  4s:0  6s:0  SR:0
+
+BOWLERS
+------------------------------------------------------------
+  Warrier                    4 ov   31 runs  2 wkts  Econ:7.8
+  H Gurney                   4 ov   41 runs  1 wkts  Econ:10.2
+  Narine                     4 ov   29 runs  0 wkts  Econ:7.2
+  A Russell                  3 ov   29 runs  1 wkts  Econ:9.7
+  Chawla                     4 ov   43 runs  0 wkts  Econ:10.8
+  Nitish Rana                1 ov    8 runs  1 wkts  Econ:8
+
+============================================================
+  MATCH 22487 - INNINGS 2
+============================================================
+  Score: 185/3 in 18 overs  |  Run Rate: 10.28
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  1  1  1  •  •                +3 runs  (Total: 3)
+  Over  2:  •  •  1  2  6  1                +10 runs  (Total: 13)  [SIX]
+  Over  3:  1  •  4  1  1  •                +7 runs  (Total: 20)  [FOUR]
+  Over  4:  •  4  4  4  L1  2               +15 runs  (Total: 35)  [FOUR, FOUR, FOUR, over-break,HIGHSCORING_OVER]
+  Over  5:  4  •  6  •  •  2                +12 runs  (Total: 47)  [FOUR, SIX]
+  Over  6:  4  •  1  6  4  W                +15 runs  (Total: 62)  [FOUR,PARTNERSHIP, SIX, FOUR, over-break,WICKET,HIGHSCORING_OVER]
+  Over  7:  1  2  1  1  1  1                +7 runs  (Total: 69)
+  Over  8:  1  1  •  •  1  1                +4 runs  (Total: 73)
+  Over  9:  1  4  6  4  1  1                +17 runs  (Total: 90)  [FOUR, SIX, FOUR, over-break,HIGHSCORING_OVER]
+  Over 10:  1  1  4  •  •  2                +8 runs  (Total: 98)  [FOUR]
+  Over 11:  1  1  W  1  •  1                +4 runs  (Total: 102)  [WICKET]
+  Over 12:  1  1  Wd  1  4  •  •            +8 runs  (Total: 110)  [FOUR]
+  Over 13:  6  •  6  •  4  Wd  1            +18 runs  (Total: 128)  [SIX, SIX, FIFTY,FOUR, over-break,HIGHSCORING_OVER]
+  Over 14:  1  2  6  Wd  •  Wd  •  6        +17 runs  (Total: 145)  [SIX, over-break,SIX,DROPPED,HIGHSCORING_OVER]
+  Over 15:  1  •  4  •  W  L1               +6 runs  (Total: 151)  [FOUR,PARTNERSHIP, WICKET]
+  Over 16:  1  1  2  •  •  2                +6 runs  (Total: 157)
+  Over 17:  1  1  1  4  1  1                +9 runs  (Total: 166)  [FOUR]
+  Over 18:  1  1  4  2  Wd  6  4            +19 runs  (Total: 185)  [FOUR, SIX, over-break,FOUR,HIGHSCORING_OVER]
+
+BATTERS
+------------------------------------------------------------
+  Shubman Gill                65 runs   49 balls  4s:5  6s:2  SR:132.65
+  Chris Lynn                  46 runs   22 balls  4s:5  6s:3  SR:209.09
+  Robin Uthappa               22 runs   14 balls  4s:2  6s:1  SR:157.14
+  Andre Russell               24 runs   14 balls  4s:2  6s:2  SR:171.43
+  Dinesh Karthik              21 runs    9 balls  4s:2  6s:1  SR:233.33
+
+BOWLERS
+------------------------------------------------------------
+  Mohammed Shami             3 ov   15 runs  1 wkts  Econ:5
+  Arshdeep Singh             2 ov   24 runs  0 wkts  Econ:12
+  Ravichandran Ashwin        4 ov   38 runs  1 wkts  Econ:9.5
+  Andrew Tye                 3 ov   41 runs  1 wkts  Econ:13.7
+  Murugan Ashwin             2 ov   24 runs  0 wkts  Econ:12
+  Sam Curran                 4 ov   41 runs  0 wkts  Econ:10.2
+
+  [Win probability not available for this match]

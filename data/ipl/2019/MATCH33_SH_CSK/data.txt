@@ -1,0 +1,148 @@
+SCORECARD
+============================================================
+
+============================================================
+  Chennai Super Kings  132/5 (20 ov)  RR: 6.6
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Watson                      31   29   4   0   106.9  b Nadeem
+  du Plessis                  45   31   3   3  145.16  c Bairstow b Vijay Shankar
+  Raina                       13   13   2   0     100  lbw b Rashid Khan
+  Rayudu                      25   21   2   0  119.05  not out
+  Kedar Jadhav                 1    2   0   0      50  lbw b Rashid Khan
+  Billings                     0    4   0   0       0  c Vijay Shankar b Khaleel Ahmed
+  Ravindra Jadeja             10   20   0   0      50  not out
+  Extras: 7 (b 2, lb 2, w 3, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Bhuvneshwar                   4   0   21   0    5.2
+  Khaleel Ahmed                 4   0   22   1    5.5
+  Sandeep Sharma                4   0   33   0    8.2
+  Nadeem                        2   0   24   1     12
+  Rashid Khan                   4   0   17   2    4.2
+  Vijay Shankar                 2   0   11   1    5.5
+
+  Fall of Wickets: 79-1 (Watson, 9.5 ov), 81-2 (du Plessis, 10.2 ov), 97-3 (Raina, 13.1 ov), 99-4 (Kedar Jadhav, 13.4 ov), 101-5 (Billings, 14.4 ov)
+
+============================================================
+  Sunrisers Hyderabad  137/4 (16.5 ov)  RR: 8.14
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  David Warner                50   25  10   0     200  c du Plessis b D Chahar
+  Jonny Bairstow              61   44   3   3  138.64  not out
+  Kane Williamson              3    5   0   0      60  c and b Tahir
+  Vijay Shankar                7   11   0   0   63.64  c Billings b Tahir
+  Deepak Hooda                13   16   1   0   81.25  c du Plessis b Karn Sharma
+  Extras: 3 (b 0, lb 0, w 3, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Deepak Chahar                 3   0   31   1   10.3
+  Shardul Thakur                3   0   31   0   10.3
+  Imran Tahir                   4   0   20   2      5
+  Ravindra Jadeja               4   0   22   0    5.5
+  Karn Sharma                 2.5   0   33   1   11.6
+
+  Fall of Wickets: 66-1 (David Warner, 5.4 ov), 71-2 (Kane Williamson, 6.6 ov), 105-3 (Vijay Shankar, 12.2 ov), 131-4 (Deepak Hooda, 16.4 ov)
+
+============================================================
+  MATCH 22468 - INNINGS 1
+============================================================
+  Score: 132/5 in 20 overs  |  Run Rate: 6.6
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  •  •  1  •  •                +1 runs  (Total: 1)
+  Over  2:  1  1  •  L1  •  •               +3 runs  (Total: 4)
+  Over  3:  •  •  4  2  •  •                +6 runs  (Total: 10)  [FOUR]
+  Over  4:  •  4  •  •  •  1                +5 runs  (Total: 15)  [FOUR]
+  Over  5:  •  4  1  4  1  2                +12 runs  (Total: 27)  [FOUR, FOUR]
+  Over  6:  •  1  6  4  B2  1               +14 runs  (Total: 41)  [SIX, FOUR, over-break,HIGHSCORING_OVER]
+  Over  7:  1  1  6  1  4  1                +14 runs  (Total: 55)  [SIX, PARTNERSHIP, FOUR, over-break,HIGHSCORING_OVER]
+  Over  8:  4  1  1  1  1  •                +8 runs  (Total: 63)  [FOUR]
+  Over  9:  1  1  1  1  1  2                +7 runs  (Total: 70)
+  Over 10:  1  1  6  1  W  1                +10 runs  (Total: 80)  [SIX, WICKET]
+  Over 11:  1  W  1  •  1  •                +3 runs  (Total: 83)  [WICKET]
+  Over 12:  •  •  •  4  1  1                +6 runs  (Total: 89)  [FOUR]
+  Over 13:  1  4  •  1  2  •                +8 runs  (Total: 97)  [FOUR]
+  Over 14:  W  1  1  W  •  •                +2 runs  (Total: 99)  [WICKET,UDRS, WICKET,UDRS]
+  Over 15:  •  1  •  W  Wd  •  1            +3 runs  (Total: 102)  [WICKET]
+  Over 16:  •  Wd  •  •  •  1  4            +6 runs  (Total: 108)  [over-break,FOUR]
+  Over 17:  •  •  •  •  1  •                +1 runs  (Total: 109)  [over-break,UDRS]
+  Over 18:  1  4  1  2  L1  1               +10 runs  (Total: 119)  [FOUR]
+  Over 19:  2  2  1  1  Wd  •  1            +8 runs  (Total: 127)
+  Over 20:  1  1  1  •  •  2                +5 runs  (Total: 132)
+
+BATTERS
+------------------------------------------------------------
+  Watson                      31 runs   29 balls  4s:0  6s:0  SR:106.9
+  du Plessis                  45 runs   31 balls  4s:0  6s:0  SR:145.16
+  Raina                       13 runs   13 balls  4s:0  6s:0  SR:100
+  Rayudu                      25 runs   21 balls  4s:0  6s:0  SR:119.05
+  Kedar Jadhav                 1 runs    2 balls  4s:0  6s:0  SR:50
+  Billings                     0 runs    4 balls  4s:0  6s:0  SR:0
+  Ravindra Jadeja             10 runs   20 balls  4s:0  6s:0  SR:50
+
+BOWLERS
+------------------------------------------------------------
+  Bhuvneshwar                4 ov   21 runs  0 wkts  Econ:5.2
+  Khaleel Ahmed              4 ov   22 runs  1 wkts  Econ:5.5
+  Sandeep Sharma             4 ov   33 runs  0 wkts  Econ:8.2
+  Nadeem                     2 ov   24 runs  1 wkts  Econ:12
+  Rashid Khan                4 ov   17 runs  2 wkts  Econ:4.2
+  Vijay Shankar              2 ov   11 runs  1 wkts  Econ:5.5
+
+============================================================
+  MATCH 22468 - INNINGS 2
+============================================================
+  Score: 137/4 in 16.5 overs  |  Run Rate: 8.14
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  1  4  1  2  •  2                +10 runs  (Total: 10)  [FOUR]
+  Over  2:  4  1  4  •  •  1  Wd            +11 runs  (Total: 21)  [FOUR, FOUR]
+  Over  3:  1  1  4  4  1  •                +11 runs  (Total: 32)  [FOUR, FOUR]
+  Over  4:  •  1  3  •  4  4                +12 runs  (Total: 44)  [FOUR, over-break,FOUR]
+  Over  5:  1  4  4  4  1  •                +14 runs  (Total: 58)  [FOUR, FOUR,PARTNERSHIP, FOUR, over-break,HIGHSCORING_OVER]
+  Over  6:  •  4  4  W  2  •                +10 runs  (Total: 68)  [FOUR, FIFTY,FOUR, WICKET]
+  Over  7:  •  1  •  1  1  W                +3 runs  (Total: 71)  [over-break,WICKET]
+  Over  8:  1  1  •  •  1  1                +4 runs  (Total: 75)
+  Over  9:  1  •  •  •  1  •                +2 runs  (Total: 77)
+  Over 10:  •  2  4  2  •  •                +8 runs  (Total: 85)  [FOUR]
+  Over 11:  1  6  •  6  1  1                +15 runs  (Total: 100)  [SIX, SIX, over-break,HIGHSCORING_OVER]
+  Over 12:  •  1  1  1  1  •                +4 runs  (Total: 104)
+  Over 13:  1  W  •  •  •  •                +1 runs  (Total: 105)  [WICKET]
+  Over 14:  2  1  1  1  •  1                +6 runs  (Total: 111)
+  Over 15:  •  1  1  1  •  2                +5 runs  (Total: 116)  [over-break,FIFTY]
+  Over 16:  1  1  Wd  1  1  Wd  1  1        +8 runs  (Total: 124)
+  Over 17:  1  2  4  W  6                   +13 runs  (Total: 137)  [FOUR, WICKET, SIX]
+
+BATTERS
+------------------------------------------------------------
+  David Warner                50 runs   25 balls  4s:10  6s:0  SR:200
+  Jonny Bairstow              61 runs   44 balls  4s:3  6s:3  SR:138.64
+  Kane Williamson              3 runs    5 balls  4s:0  6s:0  SR:60
+  Vijay Shankar                7 runs   11 balls  4s:0  6s:0  SR:63.64
+  Deepak Hooda                13 runs   16 balls  4s:1  6s:0  SR:81.25
+  Yusuf Pathan                 0 runs    0 balls  4s:0  6s:0  SR:0
+
+BOWLERS
+------------------------------------------------------------
+  Deepak Chahar              3 ov   31 runs  1 wkts  Econ:10.3
+  Shardul Thakur             3 ov   31 runs  0 wkts  Econ:10.3
+  Imran Tahir                4 ov   20 runs  2 wkts  Econ:5
+  Ravindra Jadeja            4 ov   22 runs  0 wkts  Econ:5.5
+  Karn Sharma                2.5 ov   33 runs  1 wkts  Econ:11.6
+
+  [Win probability not available for this match]

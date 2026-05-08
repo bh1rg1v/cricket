@@ -1,0 +1,64 @@
+SCORECARD
+============================================================
+
+============================================================
+  Kolkata Knight Riders  97/9 (12 ov)  RR: 8.08
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Brett Lee                    9    5   0   1     180  run out (U Yadav)
+  Brendon McCullum             9    7   2   0  128.57  lbw b R van der Merwe
+  Jacques Kallis               4    4   1   0     100  b M Morkel
+  Gautam Gambhir              16   15   2   0  106.67  b M Morkel
+  Manoj Tiwary                 0    1   0   0       0  b M Morkel
+  Yusuf Pathan                 0    4   0   0       0  c N Ojha b U Yadav
+  Rajat Bhatia                 7    9   0   0   77.78  st N Ojha b R van der Merwe
+  Laxmi Shukla                26   17   1   2  152.94  c Y Nagar b U Yadav
+  Debabrata Das               18    9   0   2     200  run out (A Finch/N Ojha)
+  Iqbal Abdulla                1    1   0   0     100  not out
+  Extras: 7 (b 0, lb 5, w 2, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Irfan Pathan                  1   0    9   0      9
+  Roelof van der Merwe          3   0   28   2   9.33
+  Morne Morkel                  3   0   18   3      6
+  Umesh Yadav                   2   0    9   2    4.5
+  Glenn Maxwell                 1   0   12   0     12
+  Shahbaz Nadeem                2   0   16   0      8
+
+  Fall of Wickets: 14-1 (Brendon McCullum, 1.4 ov), 20-2 (Kallis, 2.4 ov), 20-3 (Manoj Tiwary, 2.5 ov), 31-4 (Yusuf Pathan, 3.6 ov), 54-5 (Gambhir, 6.4 ov), 55-6 (Deba Das, 6.5 ov), 86-7 (L Shukla, 10.4 ov), 89-8 (R Bhatia, 11.2 ov), 97-9 (Brett Lee, 12 ov)
+
+============================================================
+  Delhi Daredevils  100/2 (11.1 ov)  RR: 9.01
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Virender Sehwag             20   13   1   1  153.85  c I Abdulla b R Bhatia
+  Irfan Pathan                42   20   2   3     210  not out
+  Aaron Finch                 30   27   5   0  111.11  b J Kallis
+  Glenn Maxwell                3    7   0   0   42.86  not out
+  Extras: 5 (b 0, lb 4, w 1, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Brett Lee                     2   0   15   0    7.5
+  Marchant de Lange             3   0   36   0     12
+  Iqbal Abdulla                 1   0    8   0      8
+  Jacques Kallis                3   0   23   1   7.67
+  Rajat Bhatia                1.1   0    7   1   6.36
+  Yusuf Pathan                  1   0    7   0      7
+
+  Fall of Wickets: 49-1 (Aaron Finch, 6.2 ov), 57-2 (Sehwag, 7.2 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

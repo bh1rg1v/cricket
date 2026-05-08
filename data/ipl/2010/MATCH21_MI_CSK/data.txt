@@ -1,0 +1,60 @@
+SCORECARD
+============================================================
+
+============================================================
+  Chennai Super Kings  180/2 (20 ov)  RR: 9
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Parthiv Patel                8   12   1   0   66.67  b McLaren
+  Matthew Hayden              20   12   4   0  166.67  lbw b Harbhajan Singh
+  Suresh Raina                83   52   7   3  159.62  not out
+  S Badrinath                 55   45   6   0  122.22  not out
+  Extras: 14 (b 0, lb 4, w 9, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Ryan McLaren                  4   0   23   1   5.75
+  Zaheer Khan                   4   0   45   0  11.25
+  Harbhajan Singh               4   0   25   1   6.25
+  Dwayne Bravo                  4   0   42   0   10.5
+  Lasith Malinga                4   0   41   0  10.25
+
+  Fall of Wickets: 32-1 (Matthew Hayden, 3.2 ov), 38-2 (Parthiv Patel, 4.6 ov)
+
+============================================================
+  Mumbai Indians  181/5 (19 ov)  RR: 9.52
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Sachin Tendulkar            72   52   8   1  138.46  c Dhoni b Balaji
+  Dwayne Bravo                11    7   1   1  157.14  not out
+  Kieron Pollard              20    9   3   1  222.22  b Muralitharan
+  Shikhar Dhawan              56   34   5   3  164.71  c Raina b Jakati
+  Saurabh Tiwary               2    3   0   0   66.67  lbw b Muralitharan
+  Ryan McLaren                 1    1   0   0     100  not out
+  Rajagopal Sathish            5    9   0   0   55.56  b Joginder Sharma
+  Extras: 14 (b 0, lb 4, w 9, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Albie Morkel                  4   0   26   0    6.5
+  Lakshmipathy Balaji           4   0   47   1  11.75
+  Joginder Sharma               2   0   23   1   11.5
+  Shadab Jakati                 4   0   30   1    7.5
+  Muthiah Muralidaran           4   0   32   2      8
+  Thisara Perera                1   0   19   0     19
+
+  Fall of Wickets: 92-1 (Dhawan, 8.5 ov), 96-2 (Saurabh Tiwary, 9.3 ov), 120-3 (Sathish, 13.2 ov), 159-4 (Pollard, 16.4 ov), 172-5 (Tendulkar, 18.2 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

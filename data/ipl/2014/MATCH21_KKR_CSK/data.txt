@@ -1,0 +1,65 @@
+SCORECARD
+============================================================
+
+============================================================
+  Chennai Super Kings  148/3 (17 ov)  RR: 8.71
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Brendon McCullum            56   40   5   2     140  c Y Pathan b A Russell
+  Dwayne Smith                16   11   2   1  145.45  lbw b Shakib
+  MS Dhoni                    22   17   1   1  129.41  not out
+  Suresh Raina                31   25   4   1     124  c Suryakumar Yadav b Shakib
+  Ravindra Jadeja             17   10   1   1     170  not out
+  Extras: 6 (b 0, lb 5, w 0, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Shakib Al Hasan               4   0   25   2   6.25
+  Sunil Narine                  4   0   26   0    6.5
+  Piyush Chawla                 3   0   31   0  10.33
+  Vinay Kumar                   3   0   26   0   8.67
+  Jacques Kallis                1   0   10   0     10
+  Andre Russell                 2   0   25   1   12.5
+
+  Fall of Wickets: 20-1 (Dwayne Smith, 2.3 ov), 90-2 (Raina, 10.4 ov), 119-3 (Brendon McCullum, 14.3 ov)
+
+============================================================
+  Kolkata Knight Riders  114/9 (17 ov)  RR: 6.71
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Jacques Kallis               4    6   1   0   66.67  c Manhas b Ashwin
+  Gautam Gambhir               6    6   1   0     100  run out (Dhoni/Hilfenhaus)
+  Piyush Chawla                1    2   0   0      50  c du Plessis b Mohit Sharma
+  Robin Uthappa               47   38   5   1  123.68  c Dhoni b R Jadeja
+  Shakib Al Hasan              0    1   0   0       0  c Mohit Sharma b R Jadeja
+  Yusuf Pathan                41   29   1   4  141.38  lbw b Mohit Sharma
+  Manish Pandey                1    2   0   0      50  c B McCullum b R Jadeja
+  Sunil Narine                 1    1   0   0     100  not out
+  Andre Russell                1    5   0   0      20  b Mohit Sharma
+  Suryakumar Yadav             8   13   0   0   61.54  lbw b R Jadeja
+  Extras: 4 (b 0, lb 3, w 0, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Ben Hilfenhaus                3   0   26   0   8.67
+  Ishwar Pandey                 2   0   20   0     10
+  Mohit Sharma                  3   0   22   3   7.33
+  Ravichandran Ashwin           4   0   21   1   5.25
+  Ravindra Jadeja               4   0   12   4      3
+  Suresh Raina                  1   0   10   0     10
+
+  Fall of Wickets: 17-1 (Gambhir, 2.2 ov), 36-2 (Kallis, 4.4 ov), 38-3 (Manish Pandey, 5.1 ov), 38-4 (Shakib, 5.2 ov), 65-5 (Suryakumar Yadav, 9.3 ov), 88-6 (Uthappa, 13.4 ov), 91-7 (Russell, 14.6 ov), 113-8 (Chawla, 16.4 ov), 113-9 (Yusuf Pathan, 16.5 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

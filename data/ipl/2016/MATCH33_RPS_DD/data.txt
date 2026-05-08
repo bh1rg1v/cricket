@@ -1,0 +1,65 @@
+SCORECARD
+============================================================
+
+============================================================
+  Delhi Daredevils  162/7 (20 ov)  RR: 8.1
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Jean-Paul Duminy            34   32   1   0  106.25  run out (A Rahane/Dhoni)
+  Mohammed Shami               2    3   0   0   66.67  not out
+  Sam Billings                24   15   1   2     160  c A Rahane b R Bhatia
+  Carlos Brathwaite           20    8   0   3     250  c T Perera b Boland
+  Jayant Yadav                 1    3   0   0   33.33  run out (S Tiwary)
+  Karun Nair                  32   23   5   0  139.13  c T Perera b R Bhatia
+  Sanju Samson                20   17   3   0  117.65  c Ashwin b Boland
+  Pawan Negi                  19   12   1   1  158.33  not out
+  Rishabh Pant                 2    8   0   0      25  b Dinda
+  Extras: 8 (b 0, lb 1, w 6, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Ashok Dinda                   4   0   34   1    8.5
+  Thisara Perera                1   0    9   0      9
+  Scott Boland                  4   0   31   2   7.75
+  Ravichandran Ashwin           4   0   34   0    8.5
+  Rajat Bhatia                  4   0   22   2    5.5
+  Murugan Ashwin                3   0   31   0  10.33
+
+  Fall of Wickets: 13-1 (Rishabh Pant, 2.4 ov), 48-2 (Sanju Samson, 5.6 ov), 65-3 (Karun Nair, 9.4 ov), 110-4 (Sam Billings, 14.4 ov), 137-5 (C Brathwaite, 16.5 ov), 138-6 (Duminy, 17 ov), 143-7 (Jayant Yadav, 17.5 ov)
+
+============================================================
+  Rising Pune Supergiants  166/3 (19.1 ov)  RR: 8.69
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  MS Dhoni                    27   20   1   2     135  c Sam Billings b Tahir
+  Ajinkya Rahane              63   48   7   0  131.25  not out
+  Saurabh Tiwary              21   18   1   1  116.67  c Sam Billings b Tahir
+  Thisara Perera              14    5   0   2     280  not out
+  Usman Khawaja               30   27   2   1  111.11  st Samson b A Mishra
+  Extras: 11 (b 0, lb 1, w 7, nb 3)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Jayant Yadav                  4   0   25   0   6.25
+  Carlos Brathwaite             2   0   17   0    8.5
+  Mohammed Shami              3.1   0   50   0  16.13
+  Amit Mishra                   4   0   28   1      7
+  Jean-Paul Duminy              1   0    9   0      9
+  Imran Tahir                   4   0   26   2    6.5
+  Pawan Negi                    1   0   10   0     10
+
+  Fall of Wickets: 59-1 (Usman Khawaja, 8.2 ov), 104-2 (Saurabh Tiwary, 13.2 ov), 146-3 (MS Dhoni, 18.1 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

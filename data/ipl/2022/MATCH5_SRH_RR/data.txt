@@ -1,0 +1,160 @@
+SCORECARD
+============================================================
+
+============================================================
+  Rajasthan Royals  210/6 (20 ov)  RR: 10.5
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Jos Buttler                 35   28   3   3     125  c Pooran b Umran Malik
+  Jaiswal                     20   16   2   1     125  c Markram b Romario Shepherd
+  Samson                      55   27   3   5   203.7  c Abdul Samad b Bhuvneshwar
+  Padikkal                    41   29   4   2  141.38  b Umran Malik
+  Hetmyer                     32   13   2   3  246.15  b T Natarajan
+  Riyan Parag                 12    9   2   0  133.33  c Pooran b T Natarajan
+  Coulter-Nile                 1    2   0   0      50  not out
+  Extras: 14 (b 0, lb 4, w 6, nb 4)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Bhuvneshwar                   4   0   29   1    7.2
+  Romario Shepherd              4   0   33   1    8.2
+  Umran Malik                   4   0   39   2    9.8
+  Washington Sundar             3   0   47   0   15.7
+  T Natarajan                   4   0   43   2   10.8
+  Abhishek Sharma               1   0   15   0     15
+
+  Fall of Wickets: 58-1 (Jaiswal, 6.1 ov), 75-2 (Jos Buttler, 8.1 ov), 148-3 (Padikkal, 14.6 ov), 163-4 (Samson, 16.1 ov), 207-5 (Hetmyer, 19.2 ov), 210-6 (Riyan Parag, 19.6 ov)
+
+============================================================
+  Sunrisers Hyderabad  149/7 (20 ov)  RR: 7.45
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Kane Williamson              2    7   0   0   28.57  c Padikkal b Prasidh
+  Abhishek Sharma              9   19   1   0   47.37  c Hetmyer b Chahal
+  Rahul Tripathi               0    3   0   0       0  c Samson b Prasidh
+  Nicholas Pooran              0    9   0   0       0  lbw b Boult
+  Aiden Markram               57   41   5   2  139.02  not out
+  Abdul Samad                  4    6   0   0   66.67  c Riyan Parag b Chahal
+  Romario Shepherd            24   18   0   2  133.33  b Chahal
+  Washington Sundar           40   14   5   2  285.71  c Hetmyer b Boult
+  Bhuvneshwar Kumar            3    4   0   0      75  not out
+  Extras: 10 (b 0, lb 5, w 4, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Trent Boult                   4   1   23   2    5.8
+  Prasidh Krishna               4   1   16   2      4
+  Nathan Coulter-Nile           3   0   48   0     16
+  Ravichandran Ashwin           4   0   21   0    5.2
+  Yuzvendra Chahal              4   0   22   3    5.5
+  Riyan Parag                   1   0   14   0     14
+
+  Fall of Wickets: 3-1 (Kane Williamson, 1.4 ov), 7-2 (Rahul Tripathi, 3.1 ov), 9-3 (Nicholas Pooran, 4.5 ov), 29-4 (Abhishek Sharma, 8.2 ov), 37-5 (Abdul Samad, 10.2 ov), 78-6 (Romario Shepherd, 15.4 ov), 133-7 (Washington Sundar, 18.5 ov)
+
+============================================================
+  MATCH 45906 - INNINGS 1
+============================================================
+  Score: 210/6 in 20 overs  |  Run Rate: 10.5
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  •  •  •  •  N  •             +1 runs  (Total: 1)
+  Over  2:  •  1  •  •  4  •                +5 runs  (Total: 6)  [FOUR]
+  Over  3:  1  1  •  4  N  •  •             +7 runs  (Total: 13)  [FOUR]
+  Over  4:  4  6  •  N4  •  •  6            +21 runs  (Total: 34)  [FOUR, SIX, FOUR,DROPPED, over-break,SIX,HIGHSCORING_OVER]
+  Over  5:  1  N1  6  1  6  1  1            +18 runs  (Total: 52)  [SIX, TEAM_FIFTY,PARTNERSHIP,SIX, over-break,HIGHSCORING_OVER]
+  Over  6:  4  •  1  Wd  •  •  •            +6 runs  (Total: 58)  [FOUR]
+  Over  7:  W  1  1  •  •  •                +2 runs  (Total: 60)  [WICKET]
+  Over  8:  1  2  4  2  •  6                +15 runs  (Total: 75)  [FOUR, over-break,SIX,HIGHSCORING_OVER]
+  Over  9:  W  1  1  •  •  1                +3 runs  (Total: 78)  [WICKET,UDRS]
+  Over 10:  1  6  Wd  1  •  •  •            +9 runs  (Total: 87)  [SIX]
+  Over 11:  6  1  1  4  2  •                +14 runs  (Total: 101)  [SIX, FOUR, TEAM_HUNDRED, over-break,HIGHSCORING_OVER]
+  Over 12:  6  •  1  1  4  1                +13 runs  (Total: 114)  [SIX, FOUR]
+  Over 13:  2  •  1  •  Wd  •  L1  Wd       +7 runs  (Total: 121)
+  Over 14:  4  6  2  4  •  1                +17 runs  (Total: 138)  [FOUR,PARTNERSHIP, SIX, FOUR, over-break,HIGHSCORING_OVER]
+  Over 15:  4  1  4  1  •  W                +10 runs  (Total: 148)  [FOUR, FOUR, over-break,WICKET]
+  Over 16:  •  •  6  6  1  2                +15 runs  (Total: 163)  [TEAM_HUNDRED,SIX, FIFTY,SIX, over-break,HIGHSCORING_OVER]
+  Over 17:  W  4  1  1  Wd  •  •            +7 runs  (Total: 170)  [WICKET, FOUR, UDRS, UDRS]
+  Over 18:  1  4  1  6  4  Wd  1            +18 runs  (Total: 188)  [FOUR, SIX, FOUR, over-break,HIGHSCORING_OVER]
+  Over 19:  1  1  6  6  •  1                +15 runs  (Total: 203)  [SIX, TEAM_HUNDRED,SIX, over-break,HIGHSCORING_OVER]
+  Over 20:  4  W  L1  1  1  W               +7 runs  (Total: 210)  [FOUR, WICKET, over-break,WICKET]
+
+BATTERS
+------------------------------------------------------------
+  Jos Buttler                 35 runs   28 balls  4s:0  6s:0  SR:125
+  Jaiswal                     20 runs   16 balls  4s:0  6s:0  SR:125
+  Samson                      55 runs   27 balls  4s:0  6s:0  SR:203.7
+  Padikkal                    41 runs   29 balls  4s:0  6s:0  SR:141.38
+  Hetmyer                     32 runs   13 balls  4s:0  6s:0  SR:246.15
+  Riyan Parag                 12 runs    9 balls  4s:0  6s:0  SR:133.33
+  Coulter-Nile                 1 runs    2 balls  4s:0  6s:0  SR:50
+
+BOWLERS
+------------------------------------------------------------
+  Bhuvneshwar                4 ov   29 runs  1 wkts  Econ:7.2
+  Romario Shepherd           4 ov   33 runs  1 wkts  Econ:8.2
+  Umran Malik                4 ov   39 runs  2 wkts  Econ:9.8
+  Washington Sundar          3 ov   47 runs  0 wkts  Econ:15.7
+  T Natarajan                4 ov   43 runs  2 wkts  Econ:10.8
+  Abhishek Sharma            1 ov   15 runs  0 wkts  Econ:15
+
+============================================================
+  MATCH 45906 - INNINGS 2
+============================================================
+  Score: 149/7 in 20 overs  |  Run Rate: 7.45
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  •  2  •  •  •                +2 runs  (Total: 2)
+  Over  2:  •  •  1  W  •  •                +1 runs  (Total: 3)  [WICKET]
+  Over  3:  •  •  •  •  L4  •               +4 runs  (Total: 7)  [FOUR]
+  Over  4:  W  •  •  •  •  •                +0 runs  (Total: 7)  [WICKET, over-break,MAIDEN_OVER]
+  Over  5:  1  •  •  •  Wd  W  4            +6 runs  (Total: 13)  [WICKET, over-break,FOUR]
+  Over  6:  •  •  •  •  1  •                +1 runs  (Total: 14)
+  Over  7:  1  •  •  •  Wd  4  1            +7 runs  (Total: 21)  [FOUR]
+  Over  8:  1  1  •  •  1  4                +7 runs  (Total: 28)  [over-break,FOUR]
+  Over  9:  1  W  1  •  1  1                +4 runs  (Total: 32)  [WICKET]
+  Over 10:  •  1  •  1  1  1                +4 runs  (Total: 36)
+  Over 11:  1  W  1  •  1  •                +3 runs  (Total: 39)  [WICKET]
+  Over 12:  1  •  2  •  1  1                +5 runs  (Total: 44)
+  Over 13:  1  2  1  4  2  1                +11 runs  (Total: 55)  [DROPPED, TEAM_FIFTY,FOUR]
+  Over 14:  1  L1  1  2  6  6               +17 runs  (Total: 72)  [SIX, over-break,SIX,HIGHSCORING_OVER]
+  Over 15:  1  •  1  1  2  •                +5 runs  (Total: 77)
+  Over 16:  •  1  •  W  2  1                +4 runs  (Total: 81)  [WICKET, RUNOUT_MISS]
+  Over 17:  6  4  4  2  4  4                +24 runs  (Total: 105)  [SIX, FOUR, FOUR, TEAM_HUNDRED,FOUR, over-break,FOUR,DROPPED,HIGHSCORING_OVER]
+  Over 18:  1  1  1  1  6  4                +14 runs  (Total: 119)  [SIX, over-break,FOUR,HIGHSCORING_OVER]
+  Over 19:  1  1  4  6  Wd  W  Wd  1        +15 runs  (Total: 134)  [FOUR, SIX,PARTNERSHIP, WICKET, over-break,HIGHSCORING_OVER]
+  Over 20:  1  N  1  1  4  6  1             +15 runs  (Total: 149)  [FIFTY,FOUR, SIX, over-break,HIGHSCORING_OVER]
+
+BATTERS
+------------------------------------------------------------
+  Kane Williamson              2 runs    7 balls  4s:0  6s:0  SR:28.57
+  Abhishek Sharma              9 runs   19 balls  4s:1  6s:0  SR:47.37
+  Rahul Tripathi               0 runs    3 balls  4s:0  6s:0  SR:0
+  Nicholas Pooran              0 runs    9 balls  4s:0  6s:0  SR:0
+  Aiden Markram               57 runs   41 balls  4s:5  6s:2  SR:139.02
+  Abdul Samad                  4 runs    6 balls  4s:0  6s:0  SR:66.67
+  Romario Shepherd            24 runs   18 balls  4s:0  6s:2  SR:133.33
+  Washington Sundar           40 runs   14 balls  4s:5  6s:2  SR:285.71
+  Bhuvneshwar Kumar            3 runs    4 balls  4s:0  6s:0  SR:75
+
+BOWLERS
+------------------------------------------------------------
+  Trent Boult                4 ov   23 runs  2 wkts  Econ:5.8
+  Prasidh Krishna            4 ov   16 runs  2 wkts  Econ:4
+  Nathan Coulter-Nile        3 ov   48 runs  0 wkts  Econ:16
+  Ravichandran Ashwin        4 ov   21 runs  0 wkts  Econ:5.2
+  Yuzvendra Chahal           4 ov   22 runs  3 wkts  Econ:5.5
+  Riyan Parag                1 ov   14 runs  0 wkts  Econ:14
+
+  [Win probability not available for this match]

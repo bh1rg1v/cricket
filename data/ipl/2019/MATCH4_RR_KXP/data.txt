@@ -1,0 +1,160 @@
+SCORECARD
+============================================================
+
+============================================================
+  Kings XI Punjab  184/4 (20 ov)  RR: 9.2
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Rahul                        4    4   1   0     100  c Jos Buttler b D Kulkarni
+  Gayle                       79   47   8   4  168.09  c R Tripathi b Stokes
+  Mayank Agarwal              22   24   1   2   91.67  c D Kulkarni b Gowtham
+  Sarfaraz Khan               46   29   6   1  158.62  not out
+  Pooran                      12   14   1   0   85.71  c A Rahane b Stokes
+  Mandeep                      5    2   0   0     250  not out
+  Extras: 16 (b 4, lb 4, w 8, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  D Kulkarni                    4   0   30   1    7.5
+  Gowtham                       4   0   32   1      8
+  Jofra Archer                  4   0   17   0    4.2
+  Stokes                        4   0   48   2     12
+  Unadkat                       3   0   44   0   14.7
+  Shreyas Gopal                 1   0    5   0      5
+
+  Fall of Wickets: 4-1 (Rahul, 0.4 ov), 60-2 (Mayank Agarwal, 8.5 ov), 144-3 (Gayle, 15.5 ov), 167-4 (Pooran, 19.1 ov)
+
+============================================================
+  Rajasthan Royals  170/9 (20 ov)  RR: 8.5
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Ajinkya Rahane              27   20   4   0     135  b Ashwin
+  Jos Buttler                 69   43  10   2  160.47  run out (Ashwin)
+  Sanju Samson                30   25   0   1     120  c Ashwin b Sam Curran
+  Steven Smith                20   16   1   1     125  c Rahul b Sam Curran
+  Ben Stokes                   6    2   0   1     300  c (sub)Nair b Mujeeb
+  Rahul Tripathi               1    4   0   0      25  c Rahul b Mujeeb
+  Krishnappa Gowtham           3    4   0   0      75  c Shami b Rajpoot
+  Jofra Archer                 2    2   0   0     100  run out (Pooran/Shami)
+  Jaydev Unadkat               1    2   0   0      50  c and b Rajpoot
+  Shreyas Gopal                1    1   0   0     100  not out
+  Dhawal Kulkarni              5    3   1   0  166.67  not out
+  Extras: 5 (b 0, lb 1, w 2, nb 2)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Sam Curran                    4   0   52   2     13
+  Mujeeb Ur Rahman              4   0   31   2    7.8
+  Mohammed Shami                4   0   33   0    8.2
+  Ravichandran Ashwin           4   0   20   1      5
+  Ankit Rajpoot                 4   0   33   2    8.2
+
+  Fall of Wickets: 78-1 (Ajinkya Rahane, 8.1 ov), 108-2 (Jos Buttler, 12.5 ov), 148-3 (Steven Smith, 16.4 ov), 150-4 (Sanju Samson, 16.6 ov), 157-5 (Ben Stokes, 17.3 ov), 158-6 (Rahul Tripathi, 17.6 ov), 163-7 (Jofra Archer, 18.5 ov), 164-8 (Jaydev Unadkat, 19.1 ov), 164-9 (Krishnappa Gowtham, 19.2 ov)
+
+============================================================
+  MATCH 22399 - INNINGS 1
+============================================================
+  Score: 184/4 in 20 overs  |  Run Rate: 9.2
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  4  •  W  1  Wd  •            +6 runs  (Total: 6)  [FOUR, WICKET]
+  Over  2:  •  6  1  •  1  •                +8 runs  (Total: 14)  [SIX]
+  Over  3:  •  •  •  4  1  Wd  1            +7 runs  (Total: 21)  [FOUR]
+  Over  4:  •  •  •  •  •  1                +1 runs  (Total: 22)
+  Over  5:  4  •  1  2  •  Wd  1            +9 runs  (Total: 31)  [FOUR]
+  Over  6:  •  •  1  •  •  •                +1 runs  (Total: 32)
+  Over  7:  •  2  1  1  1  •                +5 runs  (Total: 37)
+  Over  8:  4  2  1  6  •  •                +13 runs  (Total: 50)  [FOUR, SIX]
+  Over  9:  6  •  L2  L1  Wd  W  1          +11 runs  (Total: 61)  [SIX,PARTNERSHIP, WICKET]
+  Over 10:  •  •  •  1  1  Wd  4            +7 runs  (Total: 68)  [over-break,FOUR]
+  Over 11:  1  •  1  4  1  •                +7 runs  (Total: 75)  [FOUR]
+  Over 12:  4  4  4  6  1  •                +19 runs  (Total: 94)  [FOUR, FOUR, FOUR, FIFTY,SIX, over-break,HIGHSCORING_OVER]
+  Over 13:  1  4  4  1  •  1                +11 runs  (Total: 105)  [FOUR, FOUR]
+  Over 14:  1  •  1  6  1  1                +10 runs  (Total: 115)  [SIX,PARTNERSHIP]
+  Over 15:  1  1  1  1  2  4                +10 runs  (Total: 125)  [over-break,FOUR]
+  Over 16:  6  B4  4  4  Wd  W  L1          +20 runs  (Total: 145)  [SIX, FOUR, FOUR, FOUR, WICKET, over-break,HIGHSCORING_OVER]
+  Over 17:  1  1  •  2  1  •                +5 runs  (Total: 150)
+  Over 18:  1  2  1  •  •  1                +5 runs  (Total: 155)
+  Over 19:  •  4  1  Wd  4  1  1            +12 runs  (Total: 167)  [FOUR, FOUR]
+  Over 20:  W  4  Wd  1  2  3  6            +17 runs  (Total: 184)  [WICKET, FOUR, over-break,SIX,HIGHSCORING_OVER]
+
+BATTERS
+------------------------------------------------------------
+  Rahul                        4 runs    4 balls  4s:0  6s:0  SR:100
+  Gayle                       79 runs   47 balls  4s:0  6s:0  SR:168.09
+  Mayank Agarwal              22 runs   24 balls  4s:0  6s:0  SR:91.67
+  Sarfaraz Khan               46 runs   29 balls  4s:0  6s:0  SR:158.62
+  Pooran                      12 runs   14 balls  4s:0  6s:0  SR:85.71
+  Mandeep                      5 runs    2 balls  4s:0  6s:0  SR:250
+
+BOWLERS
+------------------------------------------------------------
+  D Kulkarni                 4 ov   30 runs  1 wkts  Econ:7.5
+  Gowtham                    4 ov   32 runs  1 wkts  Econ:8
+  Jofra Archer               4 ov   17 runs  0 wkts  Econ:4.2
+  Stokes                     4 ov   48 runs  2 wkts  Econ:12
+  Unadkat                    3 ov   44 runs  0 wkts  Econ:14.7
+  Shreyas Gopal              1 ov    5 runs  0 wkts  Econ:5
+
+============================================================
+  MATCH 22399 - INNINGS 2
+============================================================
+  Score: 170/9 in 20 overs  |  Run Rate: 8.5
+============================================================
+
+BALL BY BALL
+------------------------------------------------------------
+  Over  1:  •  •  4  •  4  4                +12 runs  (Total: 12)  [FOUR, FOUR, over-break,FOUR]
+  Over  2:  4  1  •  1  •  •                +6 runs  (Total: 18)  [FOUR]
+  Over  3:  1  4  •  4  •  •                +9 runs  (Total: 27)  [FOUR, FOUR]
+  Over  4:  1  •  •  4  •  6                +11 runs  (Total: 38)  [FOUR, over-break,SIX]
+  Over  5:  •  4  1  •  2  •                +7 runs  (Total: 45)  [FOUR]
+  Over  6:  1  4  •  6  4  4                +19 runs  (Total: 64)  [FOUR,PARTNERSHIP, SIX, FOUR, over-break,FOUR,HIGHSCORING_OVER]
+  Over  7:  1  2  1  1  1  1                +7 runs  (Total: 71)
+  Over  8:  2  1  •  •  •  4                +7 runs  (Total: 78)  [over-break,FIFTY,FOUR]
+  Over  9:  W  1  1  1  1  1                +5 runs  (Total: 83)  [WICKET]
+  Over 10:  1  4  4  2  1  1                +13 runs  (Total: 96)  [FOUR, FOUR]
+  Over 11:  1  •  •  •  1  1                +3 runs  (Total: 99)
+  Over 12:  1  1  2  •  1  1                +6 runs  (Total: 105)
+  Over 13:  1  •  1  1  •  2                +5 runs  (Total: 110)
+  Over 14:  •  1  1  L1  N  N2  1  •        +8 runs  (Total: 118)
+  Over 15:  2  1  2  4  6  Wd  1            +17 runs  (Total: 135)  [FOUR, SIX, over-break,HIGHSCORING_OVER]
+  Over 16:  1  6  1  1  1  1                +11 runs  (Total: 146)  [SIX]
+  Over 17:  •  L1  1  W  2  W               +4 runs  (Total: 150)  [UDRS, WICKET, over-break,WICKET]
+  Over 18:  1  6  W  •  •  Wd  W            +8 runs  (Total: 158)  [SIX, WICKET, over-break,WICKET]
+  Over 19:  2  •  1  2  W  1                +6 runs  (Total: 164)  [WICKET]
+  Over 20:  W  W  1  •  4  1                +6 runs  (Total: 170)  [WICKET, WICKET, FOUR]
+
+BATTERS
+------------------------------------------------------------
+  Ajinkya Rahane              27 runs   20 balls  4s:4  6s:0  SR:135
+  Shreyas Gopal                1 runs    1 balls  4s:0  6s:0  SR:100
+  Dhawal Kulkarni              5 runs    3 balls  4s:1  6s:0  SR:166.67
+  Jos Buttler                 69 runs   43 balls  4s:10  6s:2  SR:160.47
+  Sanju Samson                30 runs   25 balls  4s:0  6s:1  SR:120
+  Steven Smith                20 runs   16 balls  4s:1  6s:1  SR:125
+  Ben Stokes                   6 runs    2 balls  4s:0  6s:1  SR:300
+  Rahul Tripathi               1 runs    4 balls  4s:0  6s:0  SR:25
+  Krishnappa Gowtham           3 runs    4 balls  4s:0  6s:0  SR:75
+  Jofra Archer                 2 runs    2 balls  4s:0  6s:0  SR:100
+  Jaydev Unadkat               1 runs    2 balls  4s:0  6s:0  SR:50
+
+BOWLERS
+------------------------------------------------------------
+  Sam Curran                 4 ov   52 runs  2 wkts  Econ:13
+  Mujeeb Ur Rahman           4 ov   31 runs  2 wkts  Econ:7.8
+  Mohammed Shami             4 ov   33 runs  0 wkts  Econ:8.2
+  Ravichandran Ashwin        4 ov   20 runs  1 wkts  Econ:5
+  Ankit Rajpoot              4 ov   33 runs  2 wkts  Econ:8.2
+
+  [Win probability not available for this match]

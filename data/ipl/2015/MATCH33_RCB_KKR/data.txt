@@ -1,0 +1,59 @@
+SCORECARD
+============================================================
+
+============================================================
+  Kolkata Knight Riders  111/4 (10 ov)  RR: 11.1
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Gautam Gambhir              12    8   2   0     150  c Mandeep b D Wiese
+  Robin Uthappa               23   21   3   0  109.52  c D Karthik b Chahal
+  Ryan ten Doeschate          12    7   1   1  171.43  c de Villiers b M Starc
+  Yusuf Pathan                11    6   0   1  183.33  not out
+  Andre Russell               45   17   5   3  264.71  run out (D Karthik)
+  Suryakumar Yadav             0    2   0   0       0  not out
+  Extras: 8 (b 0, lb 3, w 4, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Mitchell Starc                2   0   15   1    7.5
+  Varun Aaron                   2   0   29   0   14.5
+  Harshal Patel                 2   0   22   0     11
+  David Wiese                   2   0   20   1     10
+  Yuzvendra Chahal              2   0   22   1     11
+
+  Fall of Wickets: 33-1 (Gambhir, 3.5 ov), 71-2 (Uthappa, 6.5 ov), 96-3 (Russell, 8.4 ov), 102-4 (ten Doeschate, 9.1 ov)
+
+============================================================
+  Royal Challengers Bangalore  115/3 (9.4 ov)  RR: 12.23
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Chris Gayle                 21    9   0   3  233.33  c A Russell b B Hogg
+  AB de Villiers               2    4   0   0      50  b Chawla
+  Virat Kohli                 34   20   2   3     170  c Suryakumar Yadav b A Russell
+  Mandeep Singh               45   18   4   3     250  not out
+  David Wiese                  9    7   0   0  128.57  not out
+  Extras: 4 (b 0, lb 0, w 4, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Pat Cummins                   2   0   18   0      9
+  Umesh Yadav                   2   0   31   0   15.5
+  Brad Hogg                     2   0   23   1   11.5
+  Piyush Chawla                 2   0   21   1   10.5
+  Andre Russell               1.4   0   22   1  15.71
+
+  Fall of Wickets: 48-1 (Gayle, 3.5 ov), 51-2 (de Villiers, 4.4 ov), 81-3 (Virat Kohli, 7.2 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

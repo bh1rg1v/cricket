@@ -1,0 +1,63 @@
+SCORECARD
+============================================================
+
+============================================================
+  Royal Challengers Bangalore  149/7 (20 ov)  RR: 7.45
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Mark Boucher                36   28   2   2  128.57  c Mishra b Sangwan
+  Jacques Kallis               0    1   0   0       0  b Nannes
+  Kevin Pietersen             37   25   2   2     148  b Vettori
+  Ross Taylor                 31   34   3   0   91.18  lbw b Mishra
+  Robin Uthappa                3    4   0   0      75  c Sangwan b Nehra
+  Virat Kohli                 22   24   1   0   91.67  c Dilshan b Nehra
+  Balachandra Akhil            8    4   0   1     200  not out
+  Pankaj Singh                 1    1   0   0     100  not out
+  Extras: 11 (b 0, lb 5, w 5, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Dirk Nannes                   4   0   24   1      6
+  Ashish Nehra                  4   0   34   2    8.5
+  Pradeep Sangwan               4   0   32   1      8
+  Amit Mishra                   4   0   19   1   4.75
+  Daniel Vettori                4   0   35   1   8.75
+
+  Fall of Wickets: 0-1 (Kallis, 0.1 ov), 10-2 (Uthappa, 1.2 ov), 72-3 (Pietersen, 9.3 ov), 78-4 (Ross Taylor, 10.6 ov), 139-5 (M Boucher, 18.6 ov), 139-6 (Virat Kohli, 19.1 ov), 145-7 (Vinay Kumar, 19.3 ov)
+
+============================================================
+  Delhi Daredevils  150/4 (19.2 ov)  RR: 7.75
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Virender Sehwag              7    5   0   1     140  c Pietersen b Pankaj Singh
+  Tillakaratne Dilshan        67   47   5   2  142.55  not out
+  Dinesh Karthik              12    9   1   1  133.33  c Kallis b Akhil
+  Gautam Gambhir              16   19   1   0   84.21  c Boucher b Pankaj Singh
+  AB de Villiers              21   23   0   0    91.3  b Appanna
+  Mithun Manhas               23   13   3   0  176.92  not out
+  Extras: 4 (b 0, lb 0, w 4, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Vinay Kumar                 3.2   0   28   0   8.75
+  Pankaj Singh                  4   0   31   2   7.75
+  Jacques Kallis                3   0   37   0  12.33
+  Anil Kumble                   4   0   22   0    5.5
+  KP Appanna                    4   0   24   1      6
+  Balachandra Akhil             1   0    8   1      8
+
+  Fall of Wickets: 11-1 (Sehwag, 1.4 ov), 42-2 (Gambhir, 5.4 ov), 84-3 (de Villiers, 13.1 ov), 106-4 (Karthik, 15.4 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

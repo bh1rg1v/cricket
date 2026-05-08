@@ -1,0 +1,61 @@
+SCORECARD
+============================================================
+
+============================================================
+  Rajasthan Royals  145/5 (20 ov)  RR: 7.25
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Rahul Dravid                54   48   8   0   112.5  c Ross Taylor b Y Singh
+  Brad Hodge                  22   19   3   0  115.79  not out
+  Ajinkya Rahane              30   27   3   0  111.11  c A Mathews b R Sharma
+  Stuart Binny                 1    4   0   0      25  c M Marsh b Y Singh
+  James Faulkner              19   14   1   1  135.71  not out
+  Dishant Yagnik              12    8   2   0     150  c T Suman b R Sharma
+  Kusal Perera                 0    1   0   0       0  lbw b B Kumar
+  Extras: 7 (b 0, lb 3, w 3, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Bhuvneshwar Kumar             4   0   41   1  10.25
+  Ashok Dinda                   3   0   21   0      7
+  Angelo Mathews                4   0   27   0   6.75
+  Rahul Sharma                  4   0   16   2      4
+  Yuvraj Singh                  4   0   27   2   6.75
+  Mitchell Marsh                1   0   10   0     10
+
+  Fall of Wickets: 0-1 (Kusal Perera, 0.1 ov), 81-2 (Ajinkya Rahane, 11.2 ov), 85-3 (Binny, 12.2 ov), 93-4 (Dravid, 14.2 ov), 106-5 (Yagnik, 15.5 ov)
+
+============================================================
+  Pune Warriors  148/3 (18.4 ov)  RR: 8.04
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Yuvraj Singh                28   23   2   2  121.74  not out
+  Ross Taylor                 17   20   0   1      85  c B Hodge b Harmeet Singh
+  Robin Uthappa               32   16   3   2     200  c R Dravid b J Faulkner
+  Angelo Mathews               1    1   0   0     100  not out
+  Aaron Finch                 64   53   6   3  120.75  b J Faulkner
+  Extras: 6 (b 0, lb 2, w 3, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Harmeet Singh                 4   0   34   1    8.5
+  S Sreesanth                 2.4   0   38   0  15.83
+  James Faulkner                4   0   17   2   4.25
+  Kevon Cooper                  4   0   26   0    6.5
+  Siddharth Trivedi             4   0   31   0   7.75
+
+  Fall of Wickets: 58-1 (Uthappa, 4.5 ov), 104-2 (Ross Taylor, 11.6 ov), 131-3 (Aaron Finch, 16.6 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

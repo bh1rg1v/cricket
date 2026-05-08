@@ -1,0 +1,63 @@
+SCORECARD
+============================================================
+
+============================================================
+  Kings XI Punjab  168/5 (20 ov)  RR: 8.4
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Virender Sehwag              1    2   0   0      50  run out (Rohit)
+  Mitchell Johnson             0    1   0   0       0  not out
+  George Bailey               15   14   2   0  107.14  c CJ Anderson b Harbhajan
+  Cheteshwar Pujara           19   18   4   0  105.56  c C Gautam b CJ Anderson
+  Wriddhiman Saha             59   47   4   3  125.53  not out
+  David Miller                16   12   1   1  133.33  c Ben Dunk b Malinga
+  Glenn Maxwell               45   27   5   2  166.67  c Ben Dunk b Harbhajan
+  Extras: 13 (b 1, lb 6, w 5, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Zaheer Khan                 3.3   0   28   0   8.48
+  Jasprit Bumrah                4   0   25   0   6.25
+  Corey Anderson                2   0   17   1    8.5
+  Lasith Malinga                4   0   25   1   6.25
+  Harbhajan Singh               4   0   34   2    8.5
+  Kieron Pollard              2.3   0   32   0  13.91
+
+  Fall of Wickets: 13-1 (Sehwag, 2.1 ov), 24-2 (Pujara, 3.3 ov), 93-3 (Glenn Maxwell, 11.5 ov), 130-4 (George Bailey, 15.5 ov), 165-5 (David Miller, 19.3 ov)
+
+============================================================
+  Mumbai Indians  170/5 (19.1 ov)  RR: 8.9
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Rohit Sharma                39   34   4   2  114.71  c W Saha b Balaji
+  Kieron Pollard              28   12   2   2  233.33  not out
+  CM Gautam                   33   29   2   2  113.79  lbw b R Dhawan
+  Ambati Rayudu                8    5   2   0     160  lbw b Sandeep Sharma
+  Aditya Tare                 16    6   1   1  266.67  not out
+  Ben Dunk                     5    4   1   0     125  c W Saha b Sandeep Sharma
+  Corey Anderson              35   25   3   2     140  c D Miller b R Dhawan
+  Extras: 6 (b 0, lb 3, w 3, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Sandeep Sharma              3.1   0   29   2   9.35
+  Lakshmipathy Balaji           4   0   38   1    9.5
+  Mitchell Johnson              4   0   37   0   9.25
+  Axar Patel                    4   0   40   0     10
+  Rishi Dhawan                  4   0   23   2   5.75
+
+  Fall of Wickets: 6-1 (Ben Dunk, 0.5 ov), 23-2 (Rayudu, 2.5 ov), 70-3 (Gautam, 9.4 ov), 123-4 (Rohit Sharma, 15.3 ov), 126-5 (CJ Anderson, 16.4 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]
