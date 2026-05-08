@@ -1,0 +1,68 @@
+SCORECARD
+============================================================
+
+============================================================
+  Kolkata Knight Riders  133/6 (20 ov)  RR: 6.65
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Sourav Ganguly               7    4   0   1     175  b Mahesh
+  Salman Butt                 48   44   7   0  109.09  c McGrath b Mahesh
+  Tatenda Taibu                7    9   0   0   77.78  run out (Dilshan/de Villiers)
+  Aakash Chopra               13   17   2   0   76.47  c Maharoof b Sangwan
+  David Hussey                31   31   0   2     100  c Tiwary b Maharoof
+  Wriddhiman Saha              5    6   0   0   83.33  not out
+  Laxmi Shukla                10    8   1   0     125  c Gambhir b Maharoof
+  Iqbal Abdulla                1    2   0   0      50  not out
+  Extras: 11 (b 0, lb 3, w 7, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Virender Sehwag               1   0    7   0      7
+  Farveez Maharoof              4   0   25   2   6.25
+  Amit Mishra                   3   0   13   0   4.33
+  Pradeep Sangwan               4   0   29   1   7.25
+  Glenn McGrath                 4   0   22   0    5.5
+  Yo Mahesh                     4   0   34   2    8.5
+
+  Fall of Wickets: 35-1 (A Chopra, 5.6 ov), 47-2 (S Ganguly, 6.5 ov), 87-3 (S Butt, 13.1 ov), 99-4 (T Taibu, 15.4 ov), 119-5 (L Shukla, 17.6 ov), 129-6 (David Hussey, 19.1 ov)
+
+============================================================
+  Delhi Daredevils  110/10 (17.5 ov)  RR: 6.16
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Virender Sehwag              0    1   0   0       0  c Saha b Shoaib Akhtar
+  Tillakaratne Dilshan        25   19   5   0  131.58  run out (Shukla/Saha)
+  Farveez Maharoof            10   12   0   0   83.33  run out (Dinda)
+  Gautam Gambhir              10    7   2   0  142.86  c Hussey b Shoaib Akhtar
+  AB de Villiers               7   12   0   0   58.33  c Taibu b Shoaib Akhtar
+  Manoj Tiwary                 9    7   2   0  128.57  lbw b Shoaib Akhtar
+  Shikhar Dhawan               7   10   1   0      70  b Dinda
+  Amit Mishra                 31   32   3   0   96.88  c Sharma b Shukla
+  Pradeep Sangwan              0    1   0   0       0  c Hussey b Shukla
+  Yo Mahesh                    3    6   0   0      50  b Shukla
+  Extras: 8 (b 0, lb 1, w 7, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Iqbal Abdulla                 3   0   22   0   7.33
+  Laxmi Shukla                0.5   0    6   3     12
+  Sourav Ganguly                4   0   23   0   5.75
+  Ishant Sharma                 3   0   18   0      6
+  Shoaib Akhtar                 3   0   11   4   3.67
+  Ashok Dinda                   4   0   29   1   7.25
+
+  Fall of Wickets: 2-1 (Sehwag, 0.2 ov), 17-2 (Gambhir, 2.4 ov), 28-3 (de Villiers, 4.2 ov), 28-4 (Manoj Tiwary, 4.3 ov), 43-5 (Dhawan, 7.3 ov), 67-6 (Dilshan, 11.1 ov), 101-7 (Maharoof, 15.6 ov), 105-8 (Amit Mishra, 17.2 ov), 105-9 (Sangwan, 17.3 ov), 110-10 (Yo Mahesh, 17.5 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

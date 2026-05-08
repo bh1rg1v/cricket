@@ -1,12 +1,13 @@
 import re
 import os
 import requests
+import json
 from collections import defaultdict
 from playwright.sync_api import sync_playwright
 
 BASE_MATCH_ID = 149618
 MATCH_INCREMENT = 11  # unused, kept for reference
-NUM_MATCHES = 50
+NUM_MATCHES = 1
 MATCHES_FILE = "matches.txt"
 BASE_OUTPUT_DIR = "data/ipl/2026"
 
@@ -160,6 +161,7 @@ def main():
                 print(f"  Fetching innings {innings}...")
                 try:
                     data = fetch(f"https://www.cricbuzz.com/api/mcenter/balls-map/{match_id}/{innings}")
+                    # print(json.dumps(data, indent=4))
                     match_sections.append(build_innings(data, match_id, innings))
                 except Exception as e:
                     match_sections.append(f"  [Innings {innings} error: {e}]")
@@ -171,9 +173,9 @@ def main():
                  if d.startswith(match_num + "_") and os.path.exists(os.path.join(BASE_OUTPUT_DIR, d, "data.txt")))
                 if os.path.exists(BASE_OUTPUT_DIR) else None, None
             )
-            if existing:
-                print(f"  Skipping — {os.path.join(BASE_OUTPUT_DIR, existing, 'data.txt')} already exists")
-                continue
+            # if existing:
+            #     print(f"  Skipping — {os.path.join(BASE_OUTPUT_DIR, existing, 'data.txt')} already exists")
+            #     continue
 
             # Win probability via browser (also extracts team names from page title)
             win_prob = fetch_win_prob(page, match_id)

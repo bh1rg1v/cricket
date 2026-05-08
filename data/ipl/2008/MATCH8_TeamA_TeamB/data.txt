@@ -1,0 +1,67 @@
+SCORECARD
+============================================================
+
+============================================================
+  Chennai Super Kings  208/5 (20 ov)  RR: 10.4
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Jacob Oram                   5    2   1   0     250  not out
+  Parthiv Patel               14   11   3   0  127.27  c Ronchi b Nehra
+  Matthew Hayden              81   46  12   2  176.09  run out (Harbhajan Singh)
+  MS Dhoni                    30   16   4   1   187.5  c Bravo b Khote
+  Suresh Raina                53   37   3   3  143.24  c Bravo b Khote
+  S Badrinath                  2    1   0   0     200  not out
+  Michael Hussey               5    9   1   0   55.56  b Kulkarni
+  Extras: 18 (b 4, lb 3, w 9, nb 2)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Abhishek Nayar                1   0   14   0     14
+  Vikrant Yeligati              1   0   16   0     16
+  Dwayne Bravo                  3   0   36   0     12
+  Harbhajan Singh               2   0   14   0      7
+  Dhawal Kulkarni               3   0   25   1   8.33
+  Shaun Pollock                 3   0   32   0  10.67
+  Musavir Khote                 3   0   29   2   9.67
+  Ashish Nehra                  4   0   35   1   8.75
+
+  Fall of Wickets: 34-1 (Parthiv Patel, 3.1 ov), 39-2 (M Hussey, 4.4 ov), 143-3 (Raina, 14.6 ov), 194-4 (Matthew Hayden, 18.6 ov), 206-5 (MS Dhoni, 19.5 ov)
+
+============================================================
+  Mumbai Indians  202/7 (20 ov)  RR: 10.1
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Harbhajan Singh             28   14   1   3     200  c Badrinath b Muralitharan
+  Sanath Jayasuriya           20   11   4   0  181.82  c Joginder Sharma b Gony
+  Shaun Pollock               17   15   0   1  113.33  b Amarnath
+  Dwayne Bravo                24   16   2   1     150  c Oram b Joginder Sharma
+  Ashish Nehra                 1    2   0   0      50  not out
+  Robin Uthappa               43   36   6   1  119.44  b Joginder Sharma
+  Luke Ronchi                  2    3   0   0   66.67  run out (Badrinath)
+  Abhishek Nayar              45   20   6   1     225  not out
+  Musavir Khote                9    5   0   1     180  c Raina b Muralitharan
+  Extras: 13 (b 0, lb 5, w 6, nb 2)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Palani Amarnath               4   0   57   1  14.25
+  Joginder Sharma               4   0   29   2   7.25
+  Manpreet Gony                 4   1   18   1    4.5
+  Muthiah Muralidaran           4   0   40   2     10
+  Jacob Oram                    4   0   53   0  13.25
+
+  Fall of Wickets: 9-1 (Ronchi, 0.6 ov), 30-2 (S Jayasuriya, 3.4 ov), 81-3 (Uthappa, 9.4 ov), 97-4 (S Pollock, 11.4 ov), 130-5 (DJ Bravo, 14.2 ov), 141-6 (M Khote, 15.3 ov), 189-7 (Harbhajan, 18.5 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

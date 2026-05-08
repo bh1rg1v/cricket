@@ -1,0 +1,62 @@
+SCORECARD
+============================================================
+
+============================================================
+  Deccan Chargers  175/4 (20 ov)  RR: 8.75
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Adam Gilchrist              50   42   6   1  119.05  b Powar
+  Scott Styris                 1    2   0   0      50  not out
+  Herschelle Gibbs            44   34   3   3  129.41  b Gagandeep Singh
+  Venugopal Rao                2    5   0   0      40  c Chawla b Sreesanth
+  Rohit Sharma                50   27   3   4  185.19  b Singh
+  Chamara Silva               23   10   2   1     230  not out
+  Extras: 5 (b 0, lb 4, w 1, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Gagandeep Singh               3   0   33   1     11
+  Piyush Chawla                 4   0   31   0   7.75
+  Vikram Singh                  4   0   40   1     10
+  S Sreesanth                   4   0   29   1   7.25
+  Yuvraj Singh                  1   0   18   0     18
+  Ramesh Powar                  4   0   20   1      5
+
+  Fall of Wickets: 79-1 (H Gibbs, 11.1 ov), 111-2 (Adam Gilchrist, 14.5 ov), 149-3 (Rohit Sharma, 17.4 ov), 163-4 (V Rao, 18.5 ov)
+
+============================================================
+  Kings XI Punjab  178/4 (19.3 ov)  RR: 9.12
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Yuvraj Singh                17   15   2   0  113.33  c Singh b Ojha
+  Mahela Jayawardene          14   10   0   1     140  not out
+  Kumar Sangakkara            50   25   7   2     200  c Silva b Sharma
+  Piyush Chawla               16    9   1   1  177.78  not out
+  Shaun Marsh                 60   46   3   3  130.43  c Gibbs b Styris
+  Luke Pomersbach             13   12   0   1  108.33  c Sharma b Ojha
+  Extras: 8 (b 0, lb 3, w 5, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Rohit Sharma                  4   0   25   1   6.25
+  Scott Styris                  4   0   36   1      9
+  Pragyan Ojha                  4   0   30   2    7.5
+  Venugopal Rao                 2   0   23   0   11.5
+  Paidikalva Vijaykumar         2   0   24   0     12
+  RP Singh                    3.3   0   37   0  11.21
+
+  Fall of Wickets: 84-1 (Sangakkara, 7.4 ov), 117-2 (Yuvraj, 12.4 ov), 137-3 (Shaun Marsh, 15.4 ov), 149-4 (Luke Pomersbach, 16.6 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

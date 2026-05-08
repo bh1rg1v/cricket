@@ -1,0 +1,71 @@
+SCORECARD
+============================================================
+
+============================================================
+  Kings XI Punjab  182/10 (20 ov)  RR: 9.1
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Brett Lee                   16    8   2   1     200  not out
+  Yuvraj Singh                18    9   1   1     200  c Bravo b Pollock
+  Irfan Pathan                 6    3   0   0     200  c Kulkarni b Nehra
+  Mahela Jayawardene          12    7   0   1  171.43  c sub (AM Rahane) b Harbhajan Singh
+  Kumar Sangakkara            94   56  13   1  167.86  c Kulkarni b Harbhajan Singh
+  Ramnaresh Sarwan             7    9   0   0   77.78  c Harbhajan Singh b Nehra
+  Vikram Singh                 4    2   1   0     200  run out (Harbhajan Singh/Ronchi)
+  S Sreesanth                  0    1   0   0       0  c Ronchi b Kulkarni
+  Piyush Chawla                0    1   0   0       0  lbw b Harbhajan Singh
+  Karan Goel                  18   21   1   1   85.71  run out (Bravo/Ronchi)
+  Sunny Sohal                  0    4   0   0       0  c Nehra b Kulkarni
+  Extras: 7 (b 1, lb 1, w 4, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Musavir Khote                 2   0   22   0     11
+  Dwayne Bravo                  3   0   27   0      9
+  Dhawal Kulkarni               4   0   37   2   9.25
+  Harbhajan Singh               4   0   32   3      8
+  Ashish Nehra                  3   0   22   2   7.33
+  Shaun Pollock                 4   0   40   1     10
+
+  Fall of Wickets: 8-1 (Irfan Pathan, 1.4 ov), 81-2 (K Goel, 8.1 ov), 107-3 (Yuvraj, 10.6 ov), 121-4 (R Sarwan, 13.5 ov), 152-5 (Mahela, 16.4 ov), 155-6 (Sohal, 17.4 ov), 159-7 (Sangakkara, 18.2 ov), 169-8 (Chawla, 18.6 ov), 170-9 (S Sreesanth, 19.2 ov), 182-10 (Yuvraj, 19.6 ov)
+
+============================================================
+  Mumbai Indians  116/9 (20 ov)  RR: 5.8
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Harbhajan Singh              0    1   0   0       0  lbw b Pathan
+  Sanath Jayasuriya            1    7   0   0   14.29  c &amp; b Lee
+  Shaun Pollock               22   21   2   1  104.76  c Yuvraj Singh b Sreesanth
+  Dwayne Bravo                23   21   4   0  109.52  b Chawla
+  Ashish Nehra                 2   10   0   0      20  not out
+  Robin Uthappa               21   18   2   1  116.67  c Sarwan b Singh
+  Luke Ronchi                 11    8   1   1   137.5  run out (Lee)
+  Dhawal Kulkarni              2   16   0   0    12.5  not out
+  Abhishek Nayar               2    3   0   0   66.67  c Chawla b Pathan
+  Saurabh Tiwary              17   10   2   1     170  b Chawla
+  Musavir Khote                8    7   1   0  114.29  hit wicket b Sreesanth
+  Extras: 7 (b 0, lb 1, w 4, nb 2)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Piyush Chawla                 4   0   16   2      4
+  Brett Lee                     4   0    9   1   2.25
+  S Sreesanth                   4   0   31   2   7.75
+  Vikram Singh                  4   0   40   1     10
+  Irfan Pathan                  4   1   19   2   4.75
+
+  Fall of Wickets: 14-1 (S Jayasuriya, 2.3 ov), 14-2 (Ronchi, 2.4 ov), 61-3 (DJ Bravo, 8.4 ov), 65-4 (Uthappa, 9.1 ov), 91-5 (Saurabh Tiwary, 12.2 ov), 94-6 (Nayar, 13.1 ov), 94-7 (Harbhajan, 13.2 ov), 105-8 (S Pollock, 15.2 ov), 110-9 (M Khote, 17.2 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

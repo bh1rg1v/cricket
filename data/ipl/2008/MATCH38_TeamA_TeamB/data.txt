@@ -1,0 +1,61 @@
+SCORECARD
+============================================================
+
+============================================================
+  Kolkata Knight Riders  67/10 (15.2 ov)  RR: 4.36
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Sourav Ganguly              15   20   2   0      75  c Takawale b Thornely
+  Shoaib Akhtar                2    7   0   0   28.57  c Tendulkar b Raje
+  Salman Butt                 13   13   1   1     100  c Tendulkar b Pollock
+  Ajit Agarkar                15   14   2   0  107.14  c Tendulkar b Bravo
+  Aakash Chopra                1    4   0   0      25  run out (Uthappa/Pollock)
+  Mohammad Hafeez              5   11   1   0   45.45  c Uthappa b Pollock
+  David Hussey                 2    7   0   0   28.57  c Takawale b Pollock
+  Ishant Sharma                4    5   1   0      80  c &amp; b Thornely
+  Wriddhiman Saha              1    6   0   0   16.67  c Tendulkar b Bravo
+  Ashok Dinda                  1    1   0   0     100  not out
+  Laxmi Shukla                 0    4   0   0       0  b Raje
+  Extras: 8 (b 0, lb 2, w 6, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Dominic Thornely              3   0    7   2   2.33
+  Rohan Raje                  2.2   0   16   2   7.27
+  Dwayne Bravo                  3   1   13   2   4.33
+  Ashish Nehra                  3   0   17   0   5.67
+  Shaun Pollock                 4   0   12   3      3
+
+  Fall of Wickets: 16-1 (S Butt, 2.5 ov), 16-2 (A Chopra, 2.6 ov), 21-3 (David Hussey, 4.2 ov), 28-4 (Hafeez, 6.4 ov), 29-5 (W Saha, 7.5 ov), 35-6 (L Shukla, 9.1 ov), 55-7 (S Ganguly, 12.4 ov), 60-8 (Agarkar, 13.4 ov), 65-9 (Ishant Sharma, 14.3 ov), 67-10 (S Akhtar, 15.2 ov)
+
+============================================================
+  Mumbai Indians  68/2 (5.3 ov)  RR: 12.36
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Sachin Tendulkar             0    3   0   0       0  c Saha b Shoaib Akhtar
+  Sanath Jayasuriya           48   17   6   3  282.35  not out
+  Robin Uthappa                9    8   2   0   112.5  c Ganguly b Sharma
+  Dominic Thornely             1    6   0   0   16.67  not out
+  Extras: 10 (b 0, lb 5, w 4, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Ajit Agarkar                  1   0    5   0      5
+  Ishant Sharma               2.3   0   29   1  12.61
+  Shoaib Akhtar                 2   0   29   1   14.5
+
+  Fall of Wickets: 6-1 (Tendulkar, 0.5 ov), 48-2 (Uthappa, 3.4 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

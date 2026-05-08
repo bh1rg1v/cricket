@@ -1,0 +1,72 @@
+SCORECARD
+============================================================
+
+============================================================
+  Mumbai Indians  162/8 (20 ov)  RR: 8.1
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Sanath Jayasuriya           34   16   6   1   212.5  b Mahesh
+  Shaun Pollock               33   15   2   3     220  c de Villiers b Mahesh
+  Dwayne Bravo                 2    4   0   0      50  c Mahesh b Shoaib Malik
+  Robin Uthappa               22   21   0   2  104.76  c Shoaib Malik b Sangwan
+  Abhishek Nayar               2    6   0   0   33.33  b Sehwag
+  Yogesh Takawale             14   20   2   0      70  c Sangwan b Mahesh
+  Saurabh Tiwary               9   10   1   0      90  c Shoaib Malik b Mohammad Asif
+  Rohan Raje                   6    5   1   0     120  not out
+  Dominic Thornely            30   24   2   2     125  b Bhatia
+  Extras: 10 (b 4, lb 2, w 3, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Shoaib Malik                  1   0    6   1      6
+  Virender Sehwag               1   0    2   1      2
+  Rajat Bhatia                  2   0   22   1     11
+  Pradeep Sangwan               4   0   21   1   5.25
+  Mohammad Asif                 4   0   46   1   11.5
+  Yo Mahesh                     4   0   33   3   8.25
+  Glenn McGrath                 4   0   26   0    6.5
+
+  Fall of Wickets: 46-1 (Y Takawale, 5.4 ov), 50-2 (S Jayasuriya, 5.6 ov), 102-3 (Uthappa, 12.6 ov), 109-4 (Dominic Thornely, 13.3 ov), 112-5 (Nayar, 14.5 ov), 112-6 (DJ Bravo, 15.1 ov), 136-7 (Saurabh Tiwary, 18.3 ov), 157-8 (S Pollock, 19.2 ov)
+
+============================================================
+  Delhi Daredevils  133/10 (18.5 ov)  RR: 7.06
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Virender Sehwag             40   20   3   3     200  c Pollock b Thornely
+  Shoaib Malik                24   22   1   0  109.09  c Nayar b Pollock
+  Glenn McGrath                0    2   0   0       0  c Thornely b Kulkarni
+  Dinesh Karthik              28   23   3   0  121.74  lbw b Bravo
+  Gautam Gambhir               1    9   0   0   11.11  c Uthappa b Nehra
+  Mohammad Asif                0    1   0   0       0  c Nehra b Kulkarni
+  AB de Villiers              21   17   2   1  123.53  run out (Kulkarni)
+  Shikhar Dhawan               1    3   0   0   33.33  c Uthappa b Pollock
+  Rajat Bhatia                 9    8   0   1   112.5  c Uthappa b Nehra
+  Pradeep Sangwan              2    4   0   0      50  c Tiwary b Nehra
+  Yo Mahesh                    3    5   0   0      60  not out
+  Extras: 4 (b 0, lb 3, w 0, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Dominic Thornely              2   0   15   1    7.5
+  Sanath Jayasuriya             1   0   16   0     16
+  Dhawal Kulkarni             2.5   0   18   2    7.2
+  Dwayne Bravo                  3   0   27   1      9
+  Rohan Raje                    2   0   13   0    6.5
+  Ashish Nehra                  4   0   25   3   6.25
+  Shaun Pollock                 4   0   16   2      4
+
+  Fall of Wickets: 3-1 (Gambhir, 1.5 ov), 4-2 (Dhawan, 2.2 ov), 37-3 (de Villiers, 6.1 ov), 82-4 (Sehwag, 10.2 ov), 109-5 (Shoaib Malik, 14.1 ov), 119-6 (Karthik, 16.1 ov), 130-7 (Sangwan, 17.2 ov), 130-8 (R Bhatia, 17.3 ov), 132-9 (M Asif, 18.1 ov), 133-10 (Glenn McGrath, 18.5 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

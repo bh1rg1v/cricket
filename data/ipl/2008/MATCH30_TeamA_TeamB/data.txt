@@ -1,0 +1,65 @@
+SCORECARD
+============================================================
+
+============================================================
+  Deccan Chargers  140/8 (20 ov)  RR: 7
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Adam Gilchrist              61   49   9   1  124.49  c Rawat b Trivedi
+  Scott Styris                13   11   0   1  118.18  c Warne b Pathan
+  Shahid Afridi                1    3   0   0   33.33  c MM Patel b Warne
+  Herschelle Gibbs            19   20   2   0      95  c Rawat b MM Patel
+  Venugopal Rao               23   11   3   1  209.09  not out
+  RP Singh                     2    3   0   0   66.67  run out (Rawat/Sohail Tanvir)
+  Rohit Sharma                 5    8   0   0    62.5  run out (Warne)
+  Pragyan Ojha                 1    2   0   0      50  not out
+  Dwaraka Ravi Teja            6    8   1   0      75  lbw b Warne
+  Sanjay Bangar                3    6   0   0      50  c Rawat b Watson
+  Extras: 6 (b 0, lb 4, w 1, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Yusuf Pathan                  2   0   19   1    9.5
+  Shane Warne                   4   0   20   2      5
+  Munaf Patel                   4   0   28   1      7
+  Shane Watson                  3   0   22   1   7.33
+  Sohail Tanvir                 4   0   39   0   9.75
+  Siddharth Trivedi             3   0    8   1   2.67
+
+  Fall of Wickets: 61-1 (H Gibbs, 7.6 ov), 88-2 (S Styris, 12.2 ov), 97-3 (Adam Gilchrist, 13.3 ov), 100-4 (Afridi, 14.2 ov), 105-5 (Rohit Sharma, 15.4 ov), 105-6 (S Bangar, 16.2 ov), 126-7 (Ravi Teja, 18.3 ov), 130-8 (RP Singh, 19.1 ov)
+
+============================================================
+  Rajasthan Royals  141/2 (16 ov)  RR: 8.81
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Mohammad Kaif               17   14   2   0  121.43  not out
+  Shane Watson                 5    2   1   0     250  not out
+  Graeme Smith                40   43   4   0   93.02  c Ojha b Singh
+  Yusuf Pathan                68   37   9   2  183.78  c Gibbs b Ojha
+  Extras: 11 (b 1, lb 0, w 10, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Sanjay Bangar                 2   0   20   0     10
+  Shahid Afridi                 2   0   10   0      5
+  Venugopal Rao                 1   0   15   0     15
+  Scott Styris                  2   0   14   0      7
+  Pragyan Ojha                  4   0   47   1  11.75
+  RP Singh                      4   0   24   1      6
+  Paidikalva Vijaykumar         1   0   10   0     10
+
+  Fall of Wickets: 109-1 (Yusuf Pathan, 12.4 ov), 133-2 (Graeme Smith, 15.3 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

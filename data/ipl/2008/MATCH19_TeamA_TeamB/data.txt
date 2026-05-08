@@ -1,0 +1,64 @@
+SCORECARD
+============================================================
+
+============================================================
+  Deccan Chargers  164/8 (20 ov)  RR: 8.2
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  VVS Laxman                  48   34   8   0  141.18  c Yuvraj Singh b Chawla
+  Adam Gilchrist               6    6   0   0     100  b Pathan
+  Nuwan Zoysa                  1    2   0   0      50  b Sreesanth
+  Shahid Afridi               13    7   1   1  185.71  c Yuvraj Singh b Gagandeep Singh
+  Herschelle Gibbs             7    9   0   0   77.78  c Goel b Chawla
+  Venugopal Rao                1    2   0   0      50  run out (Yuvraj Singh/Sangakkara)
+  RP Singh                     2    2   0   0     100  not out
+  Rohit Sharma                76   42  10   2  180.95  not out
+  Sanjay Bangar                3    8   0   0    37.5  c Sreesanth b Chawla
+  Doddapaneni Kalyankrishna    3    8   0   0    37.5  c Marsh b Pathan
+  Extras: 4 (b 1, lb 1, w 2, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Gagandeep Singh               4   0   37   1   9.25
+  Piyush Chawla                 4   0   28   3      7
+  Vikram Singh                  4   0   34   0    8.5
+  Irfan Pathan                  4   0   30   2    7.5
+  S Sreesanth                   4   0   33   1   8.25
+
+  Fall of Wickets: 27-1 (Adam Gilchrist, 3.2 ov), 54-2 (H Gibbs, 6.6 ov), 67-3 (V Laxman, 8.6 ov), 90-4 (Afridi, 11.5 ov), 92-5 (V Rao, 12.3 ov), 98-6 (S Bangar, 14.1 ov), 119-7 (N Zoysa, 16.1 ov), 154-8 (D Kalyankrishna, 19.1 ov)
+
+============================================================
+  Kings XI Punjab  167/3 (18.5 ov)  RR: 8.86
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Yuvraj Singh                14    9   2   0  155.56  c &amp; b Zoysa
+  Mahela Jayawardene          45   23   6   1  195.65  not out
+  Kumar Sangakkara             3    4   0   0      75  c Sharma b Kalyankrishna
+  Ramnaresh Sarwan            15   15   2   0     100  run out (Bangar)
+  Shaun Marsh                 84   62  11   1  135.48  not out
+  Extras: 6 (b 0, lb 2, w 4, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Venugopal Rao                 1   0    9   0      9
+  Sanjay Bangar                 4   0   26   0    6.5
+  Shahid Afridi                 3   0   28   0   9.33
+  Nuwan Zoysa                   4   0   32   1      8
+  Doddapaneni Kalyankrishna     3   0   34   1  11.33
+  RP Singh                    3.5   0   36   0  10.29
+
+  Fall of Wickets: 41-1 (R Sarwan, 5.6 ov), 45-2 (Sangakkara, 6.5 ov), 86-3 (Yuvraj, 10.5 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

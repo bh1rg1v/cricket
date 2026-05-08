@@ -1,0 +1,65 @@
+SCORECARD
+============================================================
+
+============================================================
+  Royal Challengers Bangalore  156/8 (20 ov)  RR: 7.8
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Rahul Dravid                26   19   1   2  136.84  c Yadav b Styris
+  Mark Boucher                16   14   2   0  114.29  b Singh
+  Jacques Kallis               6    5   1   0     120  b Ojha
+  Misbah-ul-Haq                3    5   0   0      60  lbw b Shahid Afridi
+  Wasim Jaffer                44   37   6   0  118.92  c Gibbs b Ojha
+  Praveen Kumar                8    4   2   0     200  run out (Bangar/Styris)
+  Virat Kohli                 38   29   1   2  131.03  c Bangar b Singh
+  Bharath Chipli              10    7   2   0  142.86  b Singh
+  Extras: 5 (b 0, lb 3, w 2, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Pragyan Ojha                  4   0   28   2      7
+  Paidikalva Vijaykumar         3   0   18   0      6
+  Sanjay Bangar                 1   0   14   0     14
+  Shahid Afridi                 4   0   23   1   5.75
+  Scott Styris                  4   0   29   1   7.25
+  RP Singh                      4   0   41   3  10.25
+
+  Fall of Wickets: 13-1 (Chipli, 1.6 ov), 85-2 (W Jaffer, 10.6 ov), 102-3 (Kallis, 12.5 ov), 104-4 (Virat Kohli, 13.2 ov), 111-5 (Misbah, 14.2 ov), 135-6 (M Boucher, 18.3 ov), 150-7 (P Kumar, 19.4 ov), 156-8 (Dravid, 19.6 ov)
+
+============================================================
+  Deccan Chargers  153/6 (20 ov)  RR: 7.65
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  VVS Laxman                  52   44   7   0  118.18  lbw b Kumar
+  Adam Gilchrist              10   11   2   0   90.91  c Jaffer b Khan
+  Scott Styris                 2    3   0   0   66.67  lbw b Khan
+  Shahid Afridi                1    2   0   0      50  c Steyn b Kumar
+  Herschelle Gibbs             5    7   1   0   71.43  c Kumble b Kumar
+  Rohit Sharma                57   42   5   3  135.71  c Jaffer b Kallis
+  Arjun Yadav                  3    4   0   0      75  not out
+  Sanjay Bangar               17    7   0   2  242.86  not out
+  Extras: 6 (b 1, lb 3, w 2, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Zaheer Khan                   4   0   24   2      6
+  Jacques Kallis                4   0   35   1   8.75
+  Dale Steyn                    4   0   20   0      5
+  Anil Kumble                   4   0   47   0  11.75
+  Praveen Kumar                 4   0   23   3   5.75
+
+  Fall of Wickets: 22-1 (Adam Gilchrist, 3.5 ov), 31-2 (H Gibbs, 5.1 ov), 127-3 (Rohit Sharma, 16.5 ov), 128-4 (Afridi, 17.1 ov), 132-5 (V Laxman, 17.6 ov), 132-6 (S Styris, 18.1 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

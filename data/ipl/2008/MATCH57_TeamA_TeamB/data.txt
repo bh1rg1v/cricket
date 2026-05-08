@@ -1,0 +1,70 @@
+SCORECARD
+============================================================
+
+============================================================
+  Rajasthan Royals  192/9 (20 ov)  RR: 9.6
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Mohammad Kaif               12   11   0   1  109.09  b Mishra
+  Shane Warne                  0    1   0   0       0  c Sehwag b Mahesh
+  Shane Watson                52   29   4   3  179.31  st Karthik b Mishra
+  Graeme Smith                25   21   5   0  119.05  c Dhawan b Maharoof
+  Ravindra Jadeja              7    5   0   1     140  c Maharoof b Mahesh
+  Yusuf Pathan                45   21   3   4  214.29  run out (Dilshan/Karthik)
+  Sohail Tanvir                5    5   1   0     100  c Karthik b Maharoof
+  Swapnil Asnodkar            39   21   6   1  185.71  c Tiwary b Maharoof
+  Siddharth Trivedi            1    2   0   0      50  not out
+  Mahesh Rawat                 2    4   0   0      50  c &amp; b Mohammad Asif
+  Extras: 4 (b 0, lb 1, w 3, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Amit Mishra                   4   0   37   2   9.25
+  Farveez Maharoof              4   0   34   3    8.5
+  Mohammad Asif                 4   0   32   1      8
+  Glenn McGrath                 4   0   38   0    9.5
+  Yo Mahesh                     4   0   50   2   12.5
+
+  Fall of Wickets: 65-1 (Graeme Smith, 6.4 ov), 65-2 (S Asnodkar, 6.6 ov), 76-3 (Tanvir, 8.5 ov), 128-4 (M Kaif, 13.4 ov), 155-5 (Shane Watson, 15.6 ov), 171-6 (Ravindra Jadeja, 17.4 ov), 172-7 (S Warne, 17.6 ov), 190-8 (Mahesh Rawat, 19.3 ov), 191-9 (Yusuf Pathan, 19.4 ov)
+
+============================================================
+  Delhi Daredevils  87/10 (16.1 ov)  RR: 5.38
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Virender Sehwag              3    4   0   0      75  c Sohail Tanvir b Watson
+  Glenn McGrath                4    3   1   0  133.33  not out
+  Tillakaratne Dilshan        33   22   5   1     150  c Sohail Tanvir b Warne
+  Farveez Maharoof             6    6   1   0     100  c Pathan b Warne
+  Dinesh Karthik              10   12   1   0   83.33  c Kaif b Trivedi
+  Gautam Gambhir              11   15   1   0   73.33  c sub (T Kohli) b Watson
+  Mohammad Asif                3    5   0   0      60  run out (Pathan/Rawat)
+  Manoj Tiwary                 0    3   0   0       0  c Asnodkar b Patel
+  Shikhar Dhawan               5   12   0   0   41.67  c Jadeja b Watson
+  Amit Mishra                  2    5   0   0      40  b Patel
+  Yo Mahesh                    3   10   0   0      30  c Rawat b Patel
+  Extras: 7 (b 0, lb 3, w 4, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Siddharth Trivedi             3   0   20   1   6.67
+  Munaf Patel                   4   0   17   3   4.25
+  Shane Watson                  3   0   10   3   3.33
+  Shane Warne                   4   0   21   2   5.25
+  Sohail Tanvir                 2   0   16   0      8
+  Ravindra Jadeja             0.1   0    0   0      0
+
+  Fall of Wickets: 10-1 (Sehwag, 1.2 ov), 23-2 (Gambhir, 3.6 ov), 24-3 (Dhawan, 5.2 ov), 28-4 (Manoj Tiwary, 6.2 ov), 55-5 (Karthik, 9.5 ov), 75-6 (Maharoof, 12.1 ov), 76-7 (Dilshan, 12.5 ov), 77-8 (Amit Mishra, 13.1 ov), 82-9 (Yo Mahesh, 15.2 ov), 87-10 (M Asif, 16.1 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

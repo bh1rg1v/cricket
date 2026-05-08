@@ -1,0 +1,64 @@
+SCORECARD
+============================================================
+
+============================================================
+  Kolkata Knight Riders  129/7 (16 ov)  RR: 8.06
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Sourav Ganguly              20   22   2   0   90.91  run out (White)
+  Tatenda Taibu               15   12   2   0     125  c Boucher b Steyn
+  Aakash Chopra                2    5   0   0      40  lbw b Steyn
+  Brad Hodge                  10   11   2   0   90.91  c Vinay Kumar b Khan
+  Murali Kartik               17   13   2   0  130.77  c &amp; b Kumar
+  Umar Gul                     6    2   0   1     300  not out
+  David Hussey                26   12   1   3  216.67  run out (Steyn/Boucher)
+  Wriddhiman Saha             17   10   1   1     170  not out
+  Laxmi Shukla                11    9   2   0  122.22  b Steyn
+  Extras: 5 (b 0, lb 3, w 2, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Anil Kumble                   3   0   21   0      7
+  Vinay Kumar                   3   0   15   0      5
+  Praveen Kumar                 3   0   36   1     12
+  Zaheer Khan                   3   0   27   1      9
+  Dale Steyn                    4   0   27   3   6.75
+
+  Fall of Wickets: 9-1 (A Chopra, 2.1 ov), 20-2 (Hodge, 3.3 ov), 46-3 (S Ganguly, 7.3 ov), 64-4 (David Hussey, 8.6 ov), 80-5 (T Taibu, 11.2 ov), 88-6 (L Shukla, 11.5 ov), 122-7 (M Kartik, 15.4 ov)
+
+============================================================
+  Royal Challengers Bangalore  124/4 (16 ov)  RR: 7.75
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Rahul Dravid                 5   11   0   0   45.45  b Ganguly
+  Mark Boucher                50   40   5   1     125  not out
+  Shivnarine Chanderpaul       7   11   1   0   63.64  c Kartik b Sharma
+  Cameron White               30   16   3   1   187.5  run out (Kartik)
+  Praveen Kumar                4    2   1   0     200  not out
+  Jagadeesh Arunkumar         22   17   5   0  129.41  run out (Hodge)
+  Extras: 6 (b 0, lb 3, w 2, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Murali Kartik                 2   0   24   0     12
+  Sourav Ganguly                3   0    7   1   2.33
+  Laxmi Shukla                  1   0   15   0     15
+  Umar Gul                      3   0   30   0     10
+  Ishant Sharma                 4   0   25   1   6.25
+  Ashok Dinda                   3   0   20   0   6.67
+
+  Fall of Wickets: 17-1 (Chanderpaul, 3.3 ov), 32-2 (J Arunkumar, 4.5 ov), 51-3 (Dravid, 9.1 ov), 96-4 (Cameron White, 14.1 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

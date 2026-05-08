@@ -1,0 +1,65 @@
+SCORECARD
+============================================================
+
+============================================================
+  Mumbai Indians  165/6 (20 ov)  RR: 8.25
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Harbhajan Singh              2    2   0   0     100  not out
+  Sanath Jayasuriya           29   16   5   1  181.25  run out (Khan)
+  Shaun Pollock               28   12   3   2  233.33  b Khan
+  Robin Uthappa               48   38   5   1  126.32  st Boucher b Akhil
+  Luke Ronchi                  8   10   2   0      80  c Kohli b Khan
+  Abhishek Nayar              20   14   1   1  142.86  c Khan b Kumar
+  Pinal Shah                  19   23   2   0   82.61  c Kohli b Akhil
+  Dominic Thornely             0    5   0   0       0  retired hurt
+  Extras: 11 (b 2, lb 6, w 3, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Sunil Joshi                   2   0   10   0      5
+  Balachandra Akhil             3   0   17   2   5.67
+  Vinay Kumar                   4   0   41   0  10.25
+  Jacques Kallis                3   0   43   0  14.33
+  Praveen Kumar                 4   0   29   1   7.25
+  Zaheer Khan                   4   0   17   2   4.25
+
+  Fall of Wickets: 9-1 (Ronchi, 1.5 ov), 46-2 (S Jayasuriya, 5.4 ov), 97-3 (Pinal Shah, 13.3 ov), 125-4 (Uthappa, 16.5 ov), 152-5 (Nayar, 18.5 ov), 165-6 (S Pollock, 19.6 ov)
+
+============================================================
+  Royal Challengers Bangalore  166/5 (19.4 ov)  RR: 8.44
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Rahul Dravid                32   33   4   0   96.97  c &amp; b Harbhajan Singh
+  Mark Boucher                39   19   4   2  205.26  not out
+  Jacques Kallis              25   24   0   1  104.17  c Nayar b Harbhajan Singh
+  Shivnarine Chanderpaul      16   11   3   0  145.45  c Nayar b Kulkarni
+  Ross Taylor                 23   12   1   2  191.67  c Nayar b Jayasuriya
+  Virat Kohli                 23   14   3   1  164.29  c Ronchi b Nehra
+  Balachandra Akhil            3    5   0   0      60  not out
+  Extras: 5 (b 0, lb 0, w 5, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Abhishek Nayar                1   0   10   0     10
+  Harbhajan Singh               4   0   36   2      9
+  Sanath Jayasuriya             4   0   39   1   9.75
+  Ashish Nehra                  4   0   45   1  11.25
+  Dhawal Kulkarni             2.4   0   19   1   7.92
+  Shaun Pollock                 4   0   17   0   4.25
+
+  Fall of Wickets: 37-1 (Chanderpaul, 4.6 ov), 68-2 (Dravid, 8.5 ov), 76-3 (Ross Taylor, 9.6 ov), 106-4 (Virat Kohli, 13.3 ov), 161-5 (Kallis, 18.4 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

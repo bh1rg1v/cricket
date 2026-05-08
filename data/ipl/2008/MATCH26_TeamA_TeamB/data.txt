@@ -1,0 +1,63 @@
+SCORECARD
+============================================================
+
+============================================================
+  Chennai Super Kings  144/7 (20 ov)  RR: 7.2
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Stephen Fleming             14   16   2   0    87.5  c Sharma b Styris
+  Parthiv Patel                4    6   1   0   66.67  c Singh b Vijaykumar
+  MS Dhoni                    23   31   2   0   74.19  c Shahid Afridi b Ojha
+  Joginder Sharma             16   10   1   1     160  b Singh
+  Suresh Raina                32   21   5   0  152.38  c Sharma b Bangar
+  Albie Morkel                29   19   1   2  152.63  not out
+  S Badrinath                  0    4   0   0       0  c Gibbs b Shahid Afridi
+  Manpreet Gony               15    6   0   2     250  not out
+  Srikkanth Anirudha           1    7   0   0   14.29  c Shahid Afridi b Singh
+  Extras: 10 (b 0, lb 6, w 4, nb 0)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Scott Styris                  3   0   24   1      8
+  RP Singh                      3   0   12   2      4
+  Paidikalva Vijaykumar         3   0   17   1   5.67
+  Pragyan Ojha                  4   0   22   1    5.5
+  Sanjay Bangar                 4   0   36   1      9
+  Shahid Afridi                 3   0   27   1      9
+
+  Fall of Wickets: 4-1 (Parthiv Patel, 0.6 ov), 15-2 (Anirudha, 3.3 ov), 33-3 (S Fleming, 5.4 ov), 43-4 (Badrinath, 6.5 ov), 82-5 (Raina, 13.3 ov), 86-6 (MS Dhoni, 14.5 ov), 124-7 (Joginder Sharma, 18.4 ov)
+
+============================================================
+  Deccan Chargers  148/3 (18 ov)  RR: 8.22
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Adam Gilchrist              54   36   7   2     150  c Badrinath b Morkel
+  Scott Styris                36   41   3   1    87.8  not out
+  Shahid Afridi               20    6   2   2  333.33  not out
+  Herschelle Gibbs            10   10   1   1     100  c &amp; b Gony
+  Rohit Sharma                23   17   2   1  135.29  c Badrinath b Muralitharan
+  Extras: 5 (b 0, lb 1, w 2, nb 2)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Joginder Sharma               3   0   45   0     15
+  Makhaya Ntini                 4   0   37   0   9.25
+  Muthiah Muralidaran           4   0   24   1      6
+  Albie Morkel                  4   0   26   1    6.5
+  Manpreet Gony                 3   0   15   1      5
+
+  Fall of Wickets: 24-1 (H Gibbs, 4.1 ov), 78-2 (Adam Gilchrist, 9.5 ov), 125-3 (Rohit Sharma, 16.1 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]

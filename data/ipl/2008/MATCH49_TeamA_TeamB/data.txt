@@ -1,0 +1,64 @@
+SCORECARD
+============================================================
+
+============================================================
+  Rajasthan Royals  211/5 (20 ov)  RR: 10.55
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Mohammad Kaif               10    7   1   0  142.86  c Mukund b Morkel
+  Kamran Akmal                53   28   4   3  189.29  not out
+  Graeme Smith                91   51   9   4  178.43  c Dhoni b Raina
+  Yusuf Pathan                 6    5   1   0     120  c Muralitharan b Morkel
+  Swapnil Asnodkar            41   27   5   2  151.85  run out (Dhoni/Patel)
+  Taruwar Kohli                3    3   0   0     100  run out (Badrinath/Patel)
+  Extras: 7 (b 0, lb 5, w 1, nb 1)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Suresh Raina                  2   0   20   1     10
+  Lakshmipathy Balaji           3   0   45   0     15
+  Albie Morkel                  4   0   35   2   8.75
+  Manpreet Gony                 3   0   32   0  10.67
+  Makhaya Ntini                 4   0   43   0  10.75
+  Muthiah Muralidaran           4   0   31   0   7.75
+
+  Fall of Wickets: 127-1 (S Asnodkar, 11.1 ov), 150-2 (Graeme Smith, 13.6 ov), 178-3 (Yusuf Pathan, 16.2 ov), 199-4 (M Kaif, 18.2 ov), 211-5 (T Kohli, 19.6 ov)
+
+============================================================
+  Chennai Super Kings  201/7 (20 ov)  RR: 10.05
+============================================================
+
+BATTING
+  Batter                       R    B  4s  6s      SR  Dismissal
+  ---------------------------------------------------------------------------
+  Stephen Fleming              7    4   0   1     175  run out (Sohail Tanvir/Kamran Akmal)
+  Parthiv Patel               54   40   5   2     135  st Kamran Akmal b Warne
+  MS Dhoni                    12    8   2   0     150  c Kaif b Sohail Tanvir
+  Suresh Raina                45   24   6   2   187.5  c Kaif b Warne
+  Albie Morkel                71   40   6   4   177.5  c sub (RA Jadeja) b Sohail Tanvir
+  S Badrinath                  1    2   0   0      50  c Kohli b Patel
+  Manpreet Gony                2    4   0   0      50  not out
+  Abhinav Mukund               0    1   0   0       0  b Sohail Tanvir
+  Extras: 9 (b 1, lb 2, w 3, nb 3)
+
+BOWLING
+  Bowler                        O   M    R   W   Econ
+  --------------------------------------------------
+  Pankaj Singh                  4   0   30   0    7.5
+  Munaf Patel                   4   0   55   1  13.75
+  Yusuf Pathan                  3   0   31   0  10.33
+  Dinesh Salunkhe               1   0   14   0     14
+  Shane Warne                   4   0   35   2   8.75
+  Sohail Tanvir                 4   0   33   3   8.25
+
+  Fall of Wickets: 14-1 (S Fleming, 1.4 ov), 84-2 (Raina, 8.3 ov), 157-3 (Parthiv Patel, 14.6 ov), 182-4 (MS Dhoni, 17.4 ov), 188-5 (Badrinath, 18.4 ov), 201-6 (Albie Morkel, 19.5 ov), 201-7 (Mukund, 19.6 ov)
+
+  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
+
+  [Win probability not available for this match]
