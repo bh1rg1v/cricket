@@ -1,9 +1,0 @@
-SCORECARD
-============================================================
-
-
-  [Innings 1 unavailable: Expecting value: line 1 column 1 (char 0)]
-
-  [Innings 2 unavailable: Expecting value: line 1 column 1 (char 0)]
-
-  [Win probability not available for this match]

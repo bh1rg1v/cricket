@@ -6,7 +6,7 @@ import requests
 from collections import defaultdict
 from playwright.async_api import async_playwright
 
-YEARS = range(2021, 2026)
+YEARS = range(2026, 2027)
 
 LIMIT = 600
 MAX_RETRIES = 1
